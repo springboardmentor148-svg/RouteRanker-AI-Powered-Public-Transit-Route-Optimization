@@ -1,0 +1,8 @@
+# raw data is large + third-party licensed: re-create with python download_data.py
+data/raw/*/*.zip
+data/raw/*/*.txt
+data/raw/sample_city/
+__pycache__/
+.venv/
+*.pyc
+.ipynb_checkpoints/

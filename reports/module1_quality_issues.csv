@@ -1,0 +1,210 @@
+city,file,check,count,total,pct,note
+ahmedabad,routes.txt,duplicate key ['route_id'],0,978,0.0,
+ahmedabad,trips.txt,duplicate key ['trip_id'],0,14323,0.0,
+ahmedabad,stop_times.txt,"duplicate key ['trip_id', 'stop_sequence']",0,646854,0.0,
+ahmedabad,stops.txt,duplicate key ['stop_id'],0,3235,0.0,
+ahmedabad,calendar.txt,duplicate key ['service_id'],0,1,0.0,
+ahmedabad,routes.txt,route has neither short nor long name,0,978,0.0,
+ahmedabad,routes.txt,route_short_name shared by >1 route_id (directions/variants),782,978,79.96,Not an error: one bus line is often split into several route_ids
+ahmedabad,routes.txt,route_type is not a bus code (3 / 700-799 / 200-299 / 11),0,978,0.0,Metro/rail/ferry rows mixed in with buses
+ahmedabad,trips.txt,route_id not found in routes.txt,0,14323,0.0,
+ahmedabad,routes.txt,route with no trips,6,978,0.61,
+ahmedabad,trips.txt,service_id not defined in calendar/calendar_dates,0,14323,0.0,
+ahmedabad,stop_times.txt,trip_id not found in trips.txt,0,646854,0.0,
+ahmedabad,trips.txt,trip with no stop_times,0,14323,0.0,
+ahmedabad,stop_times.txt,stop_id not found in stops.txt,0,646854,0.0,
+ahmedabad,stops.txt,stop never used in stop_times,0,3235,0.0,
+ahmedabad,stops.txt,stop_lat/stop_lon not numeric (non-empty),0,3235,0.0,
+ahmedabad,stops.txt,"coordinates are 0,0",0,3235,0.0,
+ahmedabad,stops.txt,"coordinates outside India (lat 6-37, lon 68-98)",0,3235,0.0,
+ahmedabad,stop_times.txt,stop_sequence not numeric,0,646854,0.0,
+ahmedabad,stop_times.txt,arrival_time unparseable (non-empty),0,646854,0.0,
+ahmedabad,stop_times.txt,departure_time unparseable (non-empty),0,646854,0.0,
+ahmedabad,stop_times.txt,time >= 24:00:00 (valid GTFS: trip runs past midnight),1994,646854,0.31,Valid in GTFS; must be handled when extracting hour-of-day
+ahmedabad,stop_times.txt,arrival later than departure at same stop,0,646854,0.0,
+ahmedabad,stop_times.txt,time goes backwards within a trip,0,646854,0.0,
+ahmedabad,stop_times.txt,identical arrival time at consecutive stops,35178,646854,5.44,High values suggest times were interpolated/estimated by the publisher
+ahmedabad,calendar.txt,invalid start/end date,0,1,0.0,
+ahmedabad,calendar.txt,start_date after end_date,0,1,0.0,
+ahmedabad,calendar.txt,service already expired (end_date < 2026-10-18),0,1,0.0,calendar covers 2026-09-30 to 2027-03-29
+ahmedabad,calendar.txt,service runs on no day of the week,0,1,0.0,
+ahmedabad,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
+bengaluru,routes.txt,duplicate key ['route_id'],0,4434,0.0,
+bengaluru,trips.txt,duplicate key ['trip_id'],0,57836,0.0,
+bengaluru,stop_times.txt,"duplicate key ['trip_id', 'stop_sequence']",0,1540686,0.0,
+bengaluru,stops.txt,duplicate key ['stop_id'],0,9960,0.0,
+bengaluru,calendar.txt,duplicate key ['service_id'],0,1,0.0,
+bengaluru,routes.txt,route has neither short nor long name,0,4434,0.0,
+bengaluru,routes.txt,route_short_name shared by >1 route_id (directions/variants),0,4434,0.0,Not an error: one bus line is often split into several route_ids
+bengaluru,routes.txt,route_type is not a bus code (3 / 700-799 / 200-299 / 11),0,4434,0.0,Metro/rail/ferry rows mixed in with buses
+bengaluru,trips.txt,route_id not found in routes.txt,0,57836,0.0,
+bengaluru,routes.txt,route with no trips,18,4434,0.41,
+bengaluru,trips.txt,service_id not defined in calendar/calendar_dates,0,57836,0.0,
+bengaluru,stop_times.txt,trip_id not found in trips.txt,0,1540686,0.0,
+bengaluru,trips.txt,trip with no stop_times,0,57836,0.0,
+bengaluru,stop_times.txt,stop_id not found in stops.txt,0,1540686,0.0,
+bengaluru,stops.txt,stop never used in stop_times,12,9960,0.12,
+bengaluru,stops.txt,stop_lat/stop_lon not numeric (non-empty),0,9960,0.0,
+bengaluru,stops.txt,"coordinates are 0,0",0,9960,0.0,
+bengaluru,stops.txt,"coordinates outside India (lat 6-37, lon 68-98)",0,9960,0.0,
+bengaluru,stop_times.txt,stop_sequence not numeric,0,1540686,0.0,
+bengaluru,stop_times.txt,arrival_time unparseable (non-empty),0,1540686,0.0,
+bengaluru,stop_times.txt,departure_time unparseable (non-empty),0,1540686,0.0,
+bengaluru,stop_times.txt,time >= 24:00:00 (valid GTFS: trip runs past midnight),0,1540686,0.0,Valid in GTFS; must be handled when extracting hour-of-day
+bengaluru,stop_times.txt,arrival later than departure at same stop,0,1540686,0.0,
+bengaluru,stop_times.txt,time goes backwards within a trip,0,1540686,0.0,
+bengaluru,stop_times.txt,identical arrival time at consecutive stops,25,1540686,0.0,High values suggest times were interpolated/estimated by the publisher
+bengaluru,calendar.txt,invalid start/end date,0,1,0.0,
+bengaluru,calendar.txt,start_date after end_date,0,1,0.0,
+bengaluru,calendar.txt,service already expired (end_date < 2026-10-18),0,1,0.0,calendar covers 2026-09-07 to 2027-09-07
+bengaluru,calendar.txt,service runs on no day of the week,0,1,0.0,
+bengaluru,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
+chennai,routes.txt,duplicate key ['route_id'],0,5402,0.0,
+chennai,trips.txt,duplicate key ['trip_id'],0,48435,0.0,
+chennai,stop_times.txt,"duplicate key ['trip_id', 'stop_sequence']",0,1389081,0.0,
+chennai,stops.txt,duplicate key ['stop_id'],0,6542,0.0,
+chennai,calendar.txt,duplicate key ['service_id'],0,12,0.0,
+chennai,routes.txt,route has neither short nor long name,0,5402,0.0,
+chennai,routes.txt,route_short_name shared by >1 route_id (directions/variants),3338,5402,61.79,Not an error: one bus line is often split into several route_ids
+chennai,routes.txt,route_type is not a bus code (3 / 700-799 / 200-299 / 11),791,5402,14.64,Metro/rail/ferry rows mixed in with buses
+chennai,trips.txt,route_id not found in routes.txt,0,48435,0.0,
+chennai,routes.txt,route with no trips,677,5402,12.53,
+chennai,trips.txt,service_id not defined in calendar/calendar_dates,0,48435,0.0,
+chennai,stop_times.txt,trip_id not found in trips.txt,0,1389081,0.0,
+chennai,trips.txt,trip with no stop_times,0,48435,0.0,
+chennai,stop_times.txt,stop_id not found in stops.txt,0,1389081,0.0,
+chennai,stops.txt,stop never used in stop_times,840,6542,12.84,
+chennai,stops.txt,stop_lat/stop_lon not numeric (non-empty),0,6542,0.0,
+chennai,stops.txt,"coordinates are 0,0",0,6542,0.0,
+chennai,stops.txt,"coordinates outside India (lat 6-37, lon 68-98)",0,6542,0.0,
+chennai,stop_times.txt,stop_sequence not numeric,0,1389081,0.0,
+chennai,stop_times.txt,arrival_time unparseable (non-empty),0,1389081,0.0,
+chennai,stop_times.txt,departure_time unparseable (non-empty),0,1389081,0.0,
+chennai,stop_times.txt,time >= 24:00:00 (valid GTFS: trip runs past midnight),1904,1389081,0.14,Valid in GTFS; must be handled when extracting hour-of-day
+chennai,stop_times.txt,arrival later than departure at same stop,4,1389081,0.0,
+chennai,stop_times.txt,time goes backwards within a trip,19,1389081,0.0,
+chennai,stop_times.txt,identical arrival time at consecutive stops,0,1389081,0.0,High values suggest times were interpolated/estimated by the publisher
+chennai,calendar.txt,invalid start/end date,0,12,0.0,
+chennai,calendar.txt,start_date after end_date,0,12,0.0,
+chennai,calendar.txt,service already expired (end_date < 2026-10-18),1,12,8.33,calendar covers 2021-04-20 to 2170-08-20
+chennai,calendar.txt,service runs on no day of the week,0,12,0.0,
+chennai,calendar.txt,service runs all 7 days (no weekday/weekend distinction),2,12,16.67,12 service_id(s) in calendar.txt
+delhi,routes.txt,duplicate key ['route_id'],0,2964,0.0,
+delhi,trips.txt,duplicate key ['trip_id'],8,78515,0.01,
+delhi,stop_times.txt,"duplicate key ['trip_id', 'stop_sequence']",0,3276092,0.0,
+delhi,stops.txt,duplicate key ['stop_id'],0,6342,0.0,
+delhi,calendar.txt,duplicate key ['service_id'],0,1,0.0,
+delhi,routes.txt,route has neither short nor long name,0,2964,0.0,
+delhi,routes.txt,route_short_name shared by >1 route_id (directions/variants),0,2964,0.0,Not an error: one bus line is often split into several route_ids
+delhi,routes.txt,route_type is not a bus code (3 / 700-799 / 200-299 / 11),0,2964,0.0,Metro/rail/ferry rows mixed in with buses
+delhi,trips.txt,route_id not found in routes.txt,0,78515,0.0,
+delhi,routes.txt,route with no trips,0,2964,0.0,
+delhi,trips.txt,service_id not defined in calendar/calendar_dates,0,78515,0.0,
+delhi,stop_times.txt,trip_id not found in trips.txt,0,3276092,0.0,
+delhi,trips.txt,trip with no stop_times,0,78515,0.0,
+delhi,stop_times.txt,stop_id not found in stops.txt,0,3276092,0.0,
+delhi,stops.txt,stop never used in stop_times,75,6342,1.18,
+delhi,stops.txt,stop_lat/stop_lon not numeric (non-empty),0,6342,0.0,
+delhi,stops.txt,"coordinates are 0,0",0,6342,0.0,
+delhi,stops.txt,"coordinates outside India (lat 6-37, lon 68-98)",0,6342,0.0,
+delhi,stop_times.txt,stop_sequence not numeric,0,3276092,0.0,
+delhi,stop_times.txt,arrival_time unparseable (non-empty),0,3276092,0.0,
+delhi,stop_times.txt,departure_time unparseable (non-empty),0,3276092,0.0,
+delhi,stop_times.txt,time >= 24:00:00 (valid GTFS: trip runs past midnight),20505,3276092,0.63,Valid in GTFS; must be handled when extracting hour-of-day
+delhi,stop_times.txt,arrival later than departure at same stop,0,3276092,0.0,
+delhi,stop_times.txt,time goes backwards within a trip,0,3276092,0.0,
+delhi,stop_times.txt,identical arrival time at consecutive stops,30025,3276092,0.92,High values suggest times were interpolated/estimated by the publisher
+delhi,calendar.txt,invalid start/end date,0,1,0.0,
+delhi,calendar.txt,start_date after end_date,0,1,0.0,
+delhi,calendar.txt,service already expired (end_date < 2026-10-18),1,1,100.0,calendar covers 2022-01-01 to 2024-01-01
+delhi,calendar.txt,service runs on no day of the week,0,1,0.0,
+delhi,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
+hyderabad,routes.txt,duplicate key ['route_id'],0,1031,0.0,
+hyderabad,trips.txt,duplicate key ['trip_id'],0,44892,0.0,
+hyderabad,stop_times.txt,"duplicate key ['trip_id', 'stop_sequence']",0,1132807,0.0,
+hyderabad,stops.txt,duplicate key ['stop_id'],0,5028,0.0,
+hyderabad,calendar.txt,duplicate key ['service_id'],0,1,0.0,
+hyderabad,routes.txt,route has neither short nor long name,0,1031,0.0,
+hyderabad,routes.txt,route_type is not a bus code (3 / 700-799 / 200-299 / 11),0,1031,0.0,Metro/rail/ferry rows mixed in with buses
+hyderabad,trips.txt,route_id not found in routes.txt,0,44892,0.0,
+hyderabad,routes.txt,route with no trips,0,1031,0.0,
+hyderabad,trips.txt,service_id not defined in calendar/calendar_dates,0,44892,0.0,
+hyderabad,stop_times.txt,trip_id not found in trips.txt,0,1132807,0.0,
+hyderabad,trips.txt,trip with no stop_times,0,44892,0.0,
+hyderabad,stop_times.txt,stop_id not found in stops.txt,0,1132807,0.0,
+hyderabad,stops.txt,stop never used in stop_times,0,5028,0.0,
+hyderabad,stops.txt,stop_lat/stop_lon not numeric (non-empty),0,5028,0.0,
+hyderabad,stops.txt,"coordinates are 0,0",0,5028,0.0,
+hyderabad,stops.txt,"coordinates outside India (lat 6-37, lon 68-98)",0,5028,0.0,
+hyderabad,stop_times.txt,stop_sequence not numeric,0,1132807,0.0,
+hyderabad,stop_times.txt,arrival_time unparseable (non-empty),0,1132807,0.0,
+hyderabad,stop_times.txt,departure_time unparseable (non-empty),0,1132807,0.0,
+hyderabad,stop_times.txt,time >= 24:00:00 (valid GTFS: trip runs past midnight),327387,1132807,28.9,Valid in GTFS; must be handled when extracting hour-of-day
+hyderabad,stop_times.txt,arrival later than departure at same stop,0,1132807,0.0,
+hyderabad,stop_times.txt,time goes backwards within a trip,0,1132807,0.0,
+hyderabad,stop_times.txt,identical arrival time at consecutive stops,0,1132807,0.0,High values suggest times were interpolated/estimated by the publisher
+hyderabad,calendar.txt,invalid start/end date,0,1,0.0,
+hyderabad,calendar.txt,start_date after end_date,0,1,0.0,
+hyderabad,calendar.txt,service already expired (end_date < 2026-10-18),0,1,0.0,calendar covers 2026-02-01 to 2031-02-01
+hyderabad,calendar.txt,service runs on no day of the week,0,1,0.0,
+hyderabad,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
+kochi,routes.txt,duplicate key ['route_id'],0,473,0.0,
+kochi,trips.txt,duplicate key ['trip_id'],0,933,0.0,
+kochi,stop_times.txt,"duplicate key ['trip_id', 'stop_sequence']",0,46648,0.0,
+kochi,stops.txt,duplicate key ['stop_id'],0,3258,0.0,
+kochi,calendar.txt,duplicate key ['service_id'],0,1,0.0,
+kochi,routes.txt,route has neither short nor long name,0,473,0.0,
+kochi,routes.txt,route_short_name shared by >1 route_id (directions/variants),0,473,0.0,Not an error: one bus line is often split into several route_ids
+kochi,routes.txt,route_type is not a bus code (3 / 700-799 / 200-299 / 11),8,473,1.69,Metro/rail/ferry rows mixed in with buses
+kochi,trips.txt,route_id not found in routes.txt,0,933,0.0,
+kochi,routes.txt,route with no trips,0,473,0.0,
+kochi,trips.txt,service_id not defined in calendar/calendar_dates,0,933,0.0,
+kochi,stop_times.txt,trip_id not found in trips.txt,0,46648,0.0,
+kochi,trips.txt,trip with no stop_times,0,933,0.0,May be frequency-based templates
+kochi,stop_times.txt,stop_id not found in stops.txt,0,46648,0.0,
+kochi,stops.txt,stop never used in stop_times,0,3258,0.0,
+kochi,stops.txt,stop_lat/stop_lon not numeric (non-empty),0,3258,0.0,
+kochi,stops.txt,"coordinates are 0,0",0,3258,0.0,
+kochi,stops.txt,"coordinates outside India (lat 6-37, lon 68-98)",0,3258,0.0,
+kochi,stop_times.txt,stop_sequence not numeric,0,46648,0.0,
+kochi,stop_times.txt,arrival_time unparseable (non-empty),0,46648,0.0,
+kochi,stop_times.txt,departure_time unparseable (non-empty),0,46648,0.0,
+kochi,stop_times.txt,time >= 24:00:00 (valid GTFS: trip runs past midnight),0,46648,0.0,Valid in GTFS; must be handled when extracting hour-of-day
+kochi,stop_times.txt,arrival later than departure at same stop,0,46648,0.0,
+kochi,stop_times.txt,time goes backwards within a trip,0,46648,0.0,
+kochi,stop_times.txt,identical arrival time at consecutive stops,0,46648,0.0,High values suggest times were interpolated/estimated by the publisher
+kochi,calendar.txt,invalid start/end date,0,1,0.0,
+kochi,calendar.txt,start_date after end_date,0,1,0.0,
+kochi,calendar.txt,service already expired (end_date < 2026-10-18),1,1,100.0,calendar covers 2022-09-26 to 2023-03-25
+kochi,calendar.txt,service runs on no day of the week,0,1,0.0,
+kochi,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
+pune,routes.txt,duplicate key ['route_id'],0,315,0.0,
+pune,trips.txt,duplicate key ['trip_id'],0,10128,0.0,
+pune,stop_times.txt,"duplicate key ['trip_id', 'stop_sequence']",0,429302,0.0,
+pune,stops.txt,duplicate key ['stop_id'],0,6745,0.0,
+pune,calendar.txt,duplicate key ['service_id'],0,1,0.0,
+pune,routes.txt,route has neither short nor long name,0,315,0.0,
+pune,routes.txt,route_short_name shared by >1 route_id (directions/variants),0,315,0.0,Not an error: one bus line is often split into several route_ids
+pune,routes.txt,route_type is not a bus code (3 / 700-799 / 200-299 / 11),0,315,0.0,Metro/rail/ferry rows mixed in with buses
+pune,trips.txt,route_id not found in routes.txt,0,10128,0.0,
+pune,routes.txt,route with no trips,0,315,0.0,
+pune,trips.txt,service_id not defined in calendar/calendar_dates,0,10128,0.0,
+pune,stop_times.txt,trip_id not found in trips.txt,0,429302,0.0,
+pune,trips.txt,trip with no stop_times,0,10128,0.0,
+pune,stop_times.txt,stop_id not found in stops.txt,0,429302,0.0,
+pune,stops.txt,stop never used in stop_times,0,6745,0.0,
+pune,stops.txt,stop_lat/stop_lon not numeric (non-empty),0,6745,0.0,
+pune,stops.txt,"coordinates are 0,0",0,6745,0.0,
+pune,stops.txt,"coordinates outside India (lat 6-37, lon 68-98)",0,6745,0.0,
+pune,stop_times.txt,stop_sequence not numeric,0,429302,0.0,
+pune,stop_times.txt,arrival_time unparseable (non-empty),0,429302,0.0,
+pune,stop_times.txt,departure_time unparseable (non-empty),0,429302,0.0,
+pune,stop_times.txt,time >= 24:00:00 (valid GTFS: trip runs past midnight),179,429302,0.04,Valid in GTFS; must be handled when extracting hour-of-day
+pune,stop_times.txt,arrival later than departure at same stop,0,429302,0.0,
+pune,stop_times.txt,time goes backwards within a trip,0,429302,0.0,
+pune,stop_times.txt,identical arrival time at consecutive stops,0,429302,0.0,High values suggest times were interpolated/estimated by the publisher
+pune,calendar.txt,invalid start/end date,0,1,0.0,
+pune,calendar.txt,start_date after end_date,0,1,0.0,
+pune,calendar.txt,service already expired (end_date < 2026-10-18),0,1,0.0,calendar covers 2026-10-07 to 2027-04-05
+pune,calendar.txt,service runs on no day of the week,0,1,0.0,
+pune,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
