@@ -65,14 +65,14 @@ This grant project page describes open GTFS feeds for Indian cities, including M
 
 | City folder | Source used | Download date |
 |---|---|---|
-| GTFS AHEMDABAD | _confirm_ | _fill in_ |
-| GTFS BENGALURU | _confirm (for example the BMTC GTFS above)_ | _fill in_ |
-| GTFS DAVANGARE | _confirm_ | _fill in_ |
-| GTFS DELHI | _confirm (for example Delhi OTD portal)_ | _fill in_ |
-| GTFS HDBRT | _confirm_ | _fill in_ |
-| GTFS MUMBAI | _confirm_ | _fill in_ |
-| GTFS PUNE | _confirm_ | _fill in_ |
-| GTFS RAJKOT | _confirm_ | _fill in_ |
+| GTFS AHEMDABAD | FOSS UNITED | 16 oct |
+| GTFS BENGALURU | BMTC | 16 oct |
+| GTFS DAVANGARE | FOSS UNITED | 16 oct |
+| GTFS DELHI | DELHI TRANSIT FEED | 16 oct |
+| GTFS HDBRT | FOSS UNITED | 16 oct |
+| GTFS MUMBAI | FOSS UNITED | 16 oct |
+| GTFS PUNE | FOSS UNITED | 16 oct |
+| GTFS RAJKOT | FOSS UNITED | 16 oct |
 
 Process: for each city, the GTFS feed was located on one of the sources above, downloaded (as a zip or as individual files), unzipped into its own `GTFS <CITY>` folder, and left unmodified.
 
@@ -207,19 +207,13 @@ trips.service_id ──►  calendar.service_id
 - [x] Collect GTFS data for the available cities
 - [x] Organise files into one folder per city
 - [x] Load the five required files with Pandas for all 8 cities
-- [ ] Inspect structure in detail (columns, data types, sample values)
-- [ ] Data-quality inspection (missing values, duplicates, invalid IDs, unusual times and dates), documented only, with no data deleted or altered
-- [ ] Relationship checks between files
-- [ ] Dataset inventory report (`reports/module1_dataset_inventory.md`)
-
----
-
-## 8. Next steps (later modules)
-
-After Module 1 is reviewed: feature engineering, EDA, preprocessing, clustering and classification, route suggestions and a Streamlit dashboard, as described in the project document.
+- [x] Inspect structure in detail (columns, data types, sample values)
+- [x] Data-quality inspection (missing values, duplicates, invalid IDs, unusual times and dates), documented only, with no data deleted or altered
+- [x] Relationship checks between files
+- [x] Dataset inventory report (`reports/module1_dataset_inventory.md`)
 
 ---
 
 ## Team
 
-_Add team member names and mentor here._
+AYUSH SINGH
