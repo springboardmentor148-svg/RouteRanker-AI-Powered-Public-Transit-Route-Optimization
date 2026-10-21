@@ -8,4 +8,5 @@ venv/
 .ipynb_checkpoints/
 
 # Large raw GTFS files
+data/raw/
 data/raw/*/stop_times.txt
