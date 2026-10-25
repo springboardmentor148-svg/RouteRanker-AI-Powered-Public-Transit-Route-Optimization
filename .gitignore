@@ -2,7 +2,9 @@
 data/raw/*/*.zip
 data/raw/*/*.txt
 data/raw/sample_city/
+# large derived file (one row per trip) - regenerate with python run_module2.py
+data/processed/*/trip_features.csv
 __pycache__/
-.venv/
 *.pyc
+.venv/
 .ipynb_checkpoints/

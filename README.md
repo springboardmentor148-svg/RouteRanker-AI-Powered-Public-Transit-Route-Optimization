@@ -1,41 +1,45 @@
 # RouteRanker – AI-Powered Public Transit Route Optimization
 
-Branch `Satyam` – **Module 1: Data Collection and Dataset Understanding** (no cleaning, no models yet).
+Branch `Satyam` – **Modules 1–3: data collection, feature engineering, exploratory data analysis** (no preprocessing or models yet).
 
 ## Status and honest limitations
-* The dataset named in the project document (Lepton Software on Datarade) is a **paid listing**: no download link, pricing only on request, masked sample. It could **not** be obtained.
-* Open GTFS bus feeds for **7 cities** were collected instead: Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kochi, Pune. Mumbai, Rajkot and Hubli-Dharwad: no open feed found.
-* GTFS contains **no passenger counts or occupancy**. None are created or assumed in this module.
-* Raw files are **not committed** (large, third-party licences). Re-create them with `download_data.py`.
+* The dataset named in the project document (Lepton Software on Datarade) is a **paid listing** (no download link, price on request, masked sample) and could **not** be obtained.
+* Open GTFS bus feeds for **7 cities** were used instead: Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kochi, Pune. No open feed was found for Mumbai, Rajkot or Hubli-Dharwad.
+* GTFS describes **planned** service. It has **no passenger counts or occupancy**. Every feature is a *scheduled* quantity (trips, stops, headway); nothing is estimated as demand, and no route is called overcrowded or underutilised.
+* Raw GTFS files are **not committed** (large, third-party licences): recreate them with `download_data.py`.
 
 ## How to run
 ```bash
 pip install -r requirements.txt
-python download_data.py                 # 1. raw feeds -> data/raw/<city>/<city>_gtfs.zip (originals stay untouched)
-python run_module1.py                   # 2. extract .txt, inspect every city read-only, write reports/
-# 3. open notebooks/module1_data_collection.ipynb (set CITY in the second cell) and Run All
+python download_data.py          # raw feeds -> data/raw/<city>/<city>_gtfs.zip (originals stay untouched)
+python run_module1.py            # Module 1: extract + inspect + reports/module1_*
+python run_module2.py            # Module 2: clean + features -> data/processed/<city>/ + reports/module2_*
+python run_module3.py            # Module 3: EDA -> reports/figures, maps, tables, module3_*
 ```
-`download_data.py <city>` downloads a single city. If a URL fails, download the ZIP manually from the link in `reports/module1_data_sources.md` into `data/raw/<city>/`.
+Notebooks (one per module, executed with outputs): `notebooks/module1_data_collection.ipynb`, `module2_feature_engineering.ipynb`, `module3_eda.ipynb` – set `CITY` in the second cell.
 
 ## Deliverables
-| Deliverable | File |
-|---|---|
-| Dataset source documentation (incl. Lepton access finding) | `reports/module1_data_sources.md` |
-| Dataset inventory + data-quality observations | `reports/module1_dataset_inventory.md`, `reports/module1_file_inventory.csv`, `reports/module1_quality_issues.csv` |
-| Relationship documentation | `reports/module1_relationships.md` |
-| Notebook (load + inspect with pandas) | `notebooks/module1_data_collection.ipynb` |
-| Code | `src/inspect_gtfs.py` (read-only inspection), `run_module1.py`, `download_data.py` |
+| Module | Deliverable | File |
+|---|---|---|
+| 1 | Sources (incl. Lepton access finding), inventory, quality observations, relationships | `reports/module1_*.md/csv` |
+| 2 | Feature-engineered dataset (route profiles) | `data/processed/<city>/route_features.csv`, `all_cities_route_features.csv`; route×hour: `route_hour_features.csv`; stops: `stop_usage.csv` |
+| 2 | Feature dictionary / data-quality report / assumptions and limitations / route profile summary | `reports/module2_feature_dictionary.md`, `module2_data_quality_report.md`, `module2_assumptions_limitations.md`, `module2_route_profile_summary.md`, `module2_cleaning_log.csv` |
+| 3 | Exploratory analysis report, route comparison summary, data quality summary, findings & limitations | `reports/module3_exploratory_analysis_report.md`, `module3_route_comparison_summary.md`, `module3_data_quality_summary.md`, `module3_findings_and_limitations.md`, `module3_cross_city_summary.csv` |
+| 3 | Visualisations, maps, tables | `reports/figures/<city>/`, `reports/maps/*.html`, `reports/tables/` |
 
-## Folder layout
+## Code layout
 ```
-data/raw/<city>/      original ZIP + extracted GTFS .txt files (git-ignored)
-data/processed/       reserved for Module 2
-notebooks/            module1_data_collection.ipynb
-reports/              module1_*.md / *.csv
-src/                  inspect_gtfs.py
+src/inspect_gtfs.py       Module 1  read-only inspection
+src/cleaning.py           Module 2  documented cleaning (every action logged with a reason)
+src/module2_features.py   Module 2  time, aggregation, headway, route length (shapes.txt first), overlap
+src/feature_dictionary.py Module 2  single source of the feature dictionary
+src/gtfs_utils.py         shared GTFS helpers (time parsing, frequency expansion, distances, overlap)
+src/eda.py                Module 3  tables, charts, maps, data-driven observations
+data/raw/<city>/          original ZIP + extracted .txt  (git-ignored)
+data/processed/<city>/    engineered CSVs
 ```
 
-## Key observations (details in `reports/module1_dataset_inventory.md`)
-* Weekday and weekend service cannot be separated in 6 of the 7 feeds (every service runs all 7 days).
-* Delhi and Kochi schedules are expired (2022–24); most other feeds are community-compiled, not operator-published.
-* Some feeds contain many times beyond 24:00:00 (valid GTFS; must be handled later) and a few duplicate trip IDs.
+## Key observations (details in the reports)
+* Weekday and weekend schedules are identical in most feeds (every service runs every day).
+* Delhi and Kochi calendars are expired (2022-24). Delhi, Kochi and Pune show near-constant scheduled speeds (possibly generated timetables); Hyderabad's "trips" look like whole vehicle duties; Chennai's `shapes.txt` only covers the metro. These feeds are **not directly comparable** with each other.
+* Scheduled service per route is very uneven (e.g. Bengaluru: median 3 trips, maximum 398). Route pairs that share stops or corridors are listed as *candidates for investigation*, not as confirmed redundancy.

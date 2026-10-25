@@ -1,0 +1,115 @@
+route_name,overlap_partner_name,max_stop_overlap,n_trips,partner_trips,length_km
+Fort Kochi ↔ Kakkanad (via Menaka),Fort Kochi ↔ Kakkanad,1.0,34,34,25.96329655080208
+Chittoor Temple ↔ Chottanikara,Chittoor Temple ↔ Chottanikkara,1.0,34,34,27.759625311239965
+Aluva ↔ Thrippoonithura (via Palikkara),Aluva ↔ Thrippoonithura,1.0,34,34,29.1556058602557
+Kakkanad ↔ Thrippoonithura,Thrippoonithura ↔ Kakkanad,1.0,34,34,10.202082406139528
+Thrippoonithura ↔ Infopark,Kinfra ↔ Thrippoonithura,1.0,34,34,13.557302436408223
+Eloor ↔ Poothotta (via Bypass),Poothotta ↔ Eloor,1.0,34,34,37.392809886099435
+Eroor ↔ Eroor,Kozhivettumveli ↔ Kozhivettumveli,1.0,17,17,29.34221229464142
+Ernakulam South ↔ Pukkattupady,Pukkattupady ↔ Ernakulam South,1.0,34,34,21.32758392683656
+Kakkanad ↔ Thrippoonithura,Thrippoonithura ↔ Kakkanad,1.0,34,34,10.202082406139528
+Kaloor ↔ Poothotta (via Padma),Kaloor ↔ Poothotta,1.0,34,34,26.58376930799245
+Kakkanad ↔ Kalamassery,Kakkanad ↔ HMT Junction,1.0,34,34,6.083428460047449
+Thrippoonithura ↔ Thrippoonithura,Eroor ↔ Eroor,1.0,17,17,29.342212294641413
+Thrippoonithura ↔ Kalamassery,Thrippoonithura ↔ HMT Junction,1.0,34,34,16.285510866186975
+High Court ↔ Poothotta,High court ↔ Poothotta,0.9910714285714286,34,34,25.937491175079465
+Aluva ↔ Fort Kochi via Menaka,Aluva ↔ Fort Kochi,0.9659863945578231,34,34,36.986315675438604
+Munambam ↔ High Court (via Vypin),Munambam ↔ High Court,0.9568345323741008,34,34,31.27661051785976
+Kakkanad CEPZ ↔ Fortkochi,Fort Kochi ↔ Kakkanad (via Menaka),0.9548872180451128,34,34,27.58259006862803
+Aluva ↔ Ernakulam South,Aluva ↔ Thevara (via NAD and Padma),0.9538461538461539,34,34,26.165785779067868
+Chittethukara ↔ Edakochi,Kakkanad CEPZ ↔ Edakochi,0.9538461538461539,34,34,28.352799459575827
+Chottanikkara ↔ Puthukkalavattom,Chottanikkara ↔ Elamakkara,0.952755905511811,34,34,27.27713124669758
+North Paravur ↔ Ernakulam Boat Jetty,High Court ↔ North Paravur,0.9523809523809523,34,34,28.77317192219787
+Thrippoonithura ↔ Puthencruz,Kavumthazham ↔ Thrippoonithura,0.9516129032258065,34,34,13.72685724638396
+HMT Colony Junction ↔ Thrippoonithura,Thrippoonithura ↔ Medical College,0.9506172839506173,34,34,17.096738781688515
+Kakkanad ↔ Perumpadappu (via Menaka),Kakkanad CEPZ ↔ Perumpadappu,0.9473684210526315,34,34,23.038132741475145
+Thevara ↔ Thuthiyoor,Thuthiyoor ↔ Ernakulam South,0.946236559139785,34,34,19.540145804488525
+Edachira ↔ Ernakulam South,Thevara Junction ↔ Edachira,0.9456521739130435,34,34,17.64130704907803
+Edakochi ↔ Kakkanad,Kakkanad CEPZ ↔ Edakochi,0.944,34,34,25.447366362826937
+Chittethukara ↔ Fort Kochi,Kakkanad CEPZ ↔ Fortkochi,0.9432624113475178,34,34,28.747415393644413
+Chittethukara ↔ Poothotta (via Menaka),Poothotta ↔ Kakkanad CEPZ,0.9418604651162791,34,34,39.12832070018469
+Thevara Ferry ↔ Kakkanad CEPZ,Chittethukara ↔ Thevara Ferry,0.941747572815534,34,34,20.398084552157222
+Aluva ↔ Thrippoonithura,Aluva ↔ Thrippoonithura (via Kakkanad),0.9411764705882353,34,34,25.978936194661863
+Ponekkara ↔ Ernakulam South,Ernakulam South ↔ Ponekkara,0.9393939393939394,34,34,12.474552052358582
+High Court ↔ Kakkanad,High Court ↔ Kakkanad CEPZ,0.9357798165137615,34,34,24.61077969469095
+Munambam ↔ Vypin,Munambam ↔ High Court (via Vypin),0.935251798561151,34,34,25.550952758304227
+Chittethukara ↔ Thevara,Chittethukara ↔ Ernakulam South,0.9310344827586207,34,34,18.674590463747187
+North Paravur ↔ High Court (via Vypin),North Paravur ↔ High Court,0.9310344827586207,34,34,30.558570701633737
+High Court ↔ Njarakkal (via Vypin and Light House),High Court ↔ Njarakkal (via Light House),0.9285714285714286,34,34,16.908225553434885
+High Court ↔ Nedungad (via Vypin),High Court ↔ Nedungad,0.925,34,34,20.817351715679422
+Chittethukara ↔ Kumbalangi,Kakkanad ↔ Kumbalangi,0.922077922077922,34,34,31.991779021501237
+Aluva ↔ Perumpadappu,Aluva ↔ Palluruthy,0.9212598425196851,34,34,34.23340070311128
+Edachira ↔ Thevara Ferry,Infopark ↔ Thevara Ferry,0.9196428571428571,34,34,21.697216593392547
+Kakkanad ↔ Medical College,Infopark ↔ Medical College,0.919047619047619,34,34,47.78965186601631
+Chittoor Temple ↔ Thevara,Ernakulam South ↔ Chittoor Temple,0.9180327868852459,34,34,12.126794866331643
+Chittethukara ↔ Perumpadappu,Kakkanad CEPZ ↔ Perumpadappu,0.9180327868852459,34,34,25.98598994288389
+Puthukkalavattom ↔ Thevara,Ernakulam South ↔ Puthukkalavattam,0.9166666666666666,34,34,11.773259109768807
+Ponekkara ↔ Thevara,Ernakulam South ↔ Ponekkara,0.9154929577464789,34,34,13.642142183246687
+Kakkanad ↔ Thevara,Kakkanad ↔ Ernakulam South,0.9102564102564102,34,34,15.7691573669983
+Thevara ↔ Pukkattupady,Ernakulam South ↔ Pukkattupady,0.91,34,34,22.495174057724665
+Chellanam ↔ Kaloor,Chellanam ↔ Palarivattom,0.9084507042253521,34,34,30.748062063544204
+North Paravur ↔ Vypin,North Paravur ↔ High Court (via Vypin),0.9043478260869565,34,34,24.929527072083708
+Infopark ↔ Ernakulam Boat Jetty,Edachira ↔ Ernakulam Boat Jetty,0.9036144578313253,34,34,16.161195363961095
+Kakkanad ↔ Mundamveli,Chittethukara ↔ Mundamveli,0.9,34,34,22.555535172014558
+Elamakkara ↔ Ernakulam South,Elamakkara ↔ Thevara,0.9,34,34,10.009648432399235
+Edakochi ↔ Thuthiyoor,Thuthiyoor ↔ Pambayimoola,0.8978102189781022,34,34,29.21835480031716
+Edachira ↔ Edakochi,Edachira ↔ Pambayimoola,0.8970588235294118,34,34,28.48710617579477
+Thevara Ferry ↔ Kakkanad,Thevara Ferry ↔ Kakkanad CEPZ,0.8969072164948454,34,34,18.657476780424712
+Thrippoonithura ↔ Edachira,Thrippoonithura ↔ Infopark,0.8961038961038961,34,34,13.166371556706276
+Eloor ↔ Fort Kochi,Fort Kochi ↔ Methanam (Eloor North),0.8914285714285715,34,34,35.35250586923599
+Kakkanad CEPZ ↔ Thevara Junction,Chittethukara ↔ Thevara,0.8888888888888888,34,34,17.551050255000185
+Aluva ↔ Thevara,Aluva ↔ Konthuruthy,0.8842975206611571,34,34,26.97822498205634
+Perumbavoor ↔ Thevara,Perumbavoor ↔ Thevara Ferry,0.8830409356725146,34,34,35.62999716879743
+Kakkanad ↔ Pambayimoola,Edakochi ↔ Kakkanad,0.8823529411764706,34,34,23.556726520893378
+Fort Kochi ↔ Thuthiyoor,Fort Kochi ↔ Kakkanad (via Menaka),0.8819444444444444,34,34,29.612970734385748
+Aluva ↔ Thoppumpady via Padma,Aluva ↔ Illichuvadu Junction,0.8814814814814815,34,34,29.888459676328747
+Fort Kochi ↔ Edachira,Fort Kochi ↔ Kakkanad (via Menaka),0.8758620689655172,34,34,28.905263302171697
+Chittethukara ↔ Poothotta (via Padma),Kakkanad ↔ Poothotta,0.8757763975155279,34,34,37.630592159978335
+Manjanakad ↔ High Court,Manjanakad ↔ High Court (via Vypin),0.875,34,34,13.616978906430914
+Chittoor ↔ Eroor,Eroor ↔ Kothad Ferry,0.875,34,34,25.93944902418889
+Fort Kochi ↔ Nilampathijamukal,Fort Kochi ↔ Edachira,0.875,34,34,28.51784176279328
+Kaloor ↔ Poothotta (via Menaka),High Court ↔ Poothotta,0.873015873015873,34,34,28.317613666219653
+Thrippoonithura ↔ Kakkanad CEPZ,Kakkanad ↔ Thrippoonithura,0.8703703703703703,34,34,8.679648995617846
+Aluva ↔ Kothad Ferry,Aluva ↔ Chittoorferry,0.8682170542635659,34,34,27.04299835822058
+Chittoor Ferry ↔ Thevara,Chittoor Ferry ↔ Ernakulam South,0.8666666666666667,34,34,13.404316158084374
+Chellanam ↔ Thoppumpady,Pallithode ↔ Thoppumpady,0.8666666666666667,34,34,18.8680040513227
+Aluva ↔ Elavoor,Aluva ↔ Vattapparambu,0.864406779661017,34,34,18.14557322471843
+Chittoor Temple ↔ Perumpadappu,Perumpadappu ↔ Chittoor Ferry,0.8623853211009175,34,34,19.438194345468343
+Kakkanad ↔ Mattancherry,Mattancherry ↔ Nilampathijamukal,0.8604651162790697,34,34,23.918669444362585
+"Vyttila Mobility Hub ↔ Vyttila Mobility Hub (clockwise, via Kadavanthra and Palarivattam bypass)","Vyttila Mobility Hub ↔ Vyttila Mobility Hub (clockwise, via Kadavanthara and Thamannam)",0.8604651162790697,17,17,18.707706201930442
+Chottanikkara ↔ Ponekkara,Chottanikkara ↔ Elamakkara,0.8571428571428571,34,34,29.34174999160225
+Chellanam ↔ Vyttila,Vyttila ↔ Gonduparambu,0.8518518518518519,34,34,24.300241299639048
+Thevakkal ↔ Kumbalam Railway Station,Kakkanad ↔ Kumbalam Railway Station,0.8503401360544217,34,34,37.09338196564737
+Eloor ↔ Ernakulam Jetty,Eloor ferry ↔ Gandhinagar,0.8484848484848485,34,34,26.635005710574912
+Thuthiyoor ↔ Mundamveli,Kakkanad ↔ Mundamveli,0.848,34,34,26.326523609504783
+Padathikkara ↔ Thrippoonithura,Karimugal ↔ Thrippoonithura,0.8461538461538461,34,34,10.98568096529764
+Chittortemple ↔ Mattancherry,Chittoor Ferry ↔ Mattancherry,0.8434782608695652,34,34,19.96855071536178
+Aluva ↔ Edayar,Aluva ↔ Muppathadam,0.8431372549019608,34,34,12.598938745081568
+Kaloor ↔ Gonduparambu,Chellanam ↔ Kaloor,0.8411214953271028,34,34,26.37025037495427
+Cheranellore ↔ Thevara,Cheranelloor ↔ Thevara Ferry (via Chittor and Menaka),0.8411214953271028,34,34,17.936613454092612
+Kinfra ↔ Kundannoor,Kinfra ↔ Thoppumpady,0.8392857142857143,34,34,18.954020283865496
+Aluva ↔ Chellanam (via Menaka),Aluva ↔ Chellanam (via Padma),0.8379629629629629,34,34,50.05908988531898
+Thuthiyoor ↔ Thevara Ferry,Thevara Ferry ↔ Kakkanad CEPZ,0.8378378378378378,34,34,22.42846521791494
+Thevakkal ↔ Edakochi,Edakochi ↔ Kakkanad,0.8368794326241135,34,34,31.408265678028656
+High Court ↔ Appangad,High Court ↔ Njarakkal,0.8367346938775511,34,34,13.096577866199803
+Poothotta ↔ Puthukkalavattom,Kaloor ↔ Poothotta (via Menaka),0.8356164383561644,34,34,32.04962725626139
+Chittethukara ↔ Poothotta (via Bypass),Kakkanad ↔ Poothotta (via Bypass),0.8333333333333334,34,34,30.220044465553805
+Aluva ↔ Pathalam,Aluva ↔ Edayar,0.8333333333333334,34,34,11.842167890997025
+Mannamthurth ↔ Munambam,Munambam ↔ Cheranellore,0.8303571428571429,34,34,24.29787292051143
+HMT Junction ↔ Thoppumpady,HMT Junction ↔ Kundannoor,0.8301886792452831,34,34,28.677679490131176
+Kakkanad ↔ Palarivattom,High Court ↔ Kakkanad,0.8257575757575758,34,34,28.930703584434383
+Nilampathijamukal ↔ Mundamveli,Kakkanad ↔ Mundamveli,0.8225806451612904,34,34,25.20785344560398
+Kaloor ↔ Poothotta,Kaloor ↔ Poothotta (via Padma),0.8189655172413793,34,34,26.58376930799245
+Ernakulam South ↔ Piravom (via Maneed),Piravom ↔ Vyttila (via Maneed),0.8188976377952756,34,34,34.79635498498534
+Aluva ↔ Wellington Island (via NAD and Padma),Aluva ↔ Thevara (via NAD and Padma),0.8164556962025317,34,34,34.302102345238055
+Aluva ↔ Cochinshipyard,High Court ↔ Aluva (via Eloor),0.8163265306122449,34,34,29.625492947366755
+Kakkanad ↔ Konthuruthy,Konthuruthy ↔ Nilampathijamukal,0.8155339805825242,34,34,17.48040224670708
+Kothad Ferry ↔ Thevara,Kothad Church ↔ Kundannoor,0.8080808080808081,34,34,15.226954830990039
+Chottanikkara ↔ Kothad Ferry,Chittoor Temple ↔ Chottanikara,0.8079470198675497,34,34,30.859785275898357
+Chittoor Ferry ↔ Fort Kochi,Chittoor Temple ↔ Fort Kochi,0.8076923076923077,34,34,23.523913044559094
+Nilampathijamukal ↔ Thevara Ferry,Edachira ↔ Thevara Ferry,0.8070175438596491,34,34,21.30979505401414
+Cheranellore ↔ Fort Kochi (via Padma),Cheranellore ↔ Fort Kochi,0.8066666666666666,34,34,27.062256403438685
+Fort Kochi ↔ Perumpadappu,Fort Kochi ↔ Palluruthy,0.8064516129032258,34,34,10.525402736623086
+Chittortemple ↔ Panangad,Cheranellore ↔ Panangad,0.8041958041958042,34,34,24.776072471861127
+Ponekkara ↔ Thevara Ferry,Ponekkara ↔ Thevara,0.8023255813953488,34,34,16.5304615966731
+Aluva ↔ Fort Kochi via Padma,Aluva ↔ Fort Kochi via Menaka,0.8012820512820513,34,34,35.60321069542076

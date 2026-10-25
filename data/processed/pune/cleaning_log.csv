@@ -1,0 +1,17 @@
+city,table,step,rows_before,rows_after,rows_changed,action,reason
+pune,routes,drop duplicate route_id,315,315,0,removed,route_id must be unique; first occurrence kept
+pune,routes,"derive route_name (short name, else long name, else route_id)",0,0,0,derived,Display label only; no source value is overwritten. Count = routes that have neither name
+pune,trips,drop duplicate trip_id,10128,10128,0,removed,trip_id must be unique; first occurrence kept
+pune,trips,drop trips whose route is not in the cleaned routes,10128,10128,0,removed,"Orphan trips, or trips of excluded non-bus routes, cannot be analysed"
+pune,stops,drop duplicate stop_id,6745,6745,0,removed,stop_id must be unique; first occurrence kept
+pune,stops,"drop stops with missing / non-numeric / out-of-India / (0,0) coordinates",6745,6745,0,removed,A stop that cannot be located cannot be used for distances or maps
+pune,stop_times,drop rows with non-numeric stop_sequence,429302,429302,0,removed,Order of stops within the trip is unknown
+pune,stop_times,fill a missing arrival (or departure) with the other time of the same stop visit,0,0,0,filled,Dwell time 0 assumed only for that stop visit; no interpolation between stops
+pune,stop_times,drop rows where both times are missing or unparseable,429302,429302,0,removed,No timing information to use
+pune,stop_times,drop rows whose trip is not in the cleaned trips,429302,429302,0,removed,Orphan rows or rows of excluded routes
+pune,stop_times,drop rows whose stop is not in the cleaned stops,429302,429302,0,removed,Stop unknown or without valid coordinates
+pune,stop_times,"drop duplicate (trip_id, stop_sequence)",429302,429302,0,removed,Same stop position listed twice; first kept
+pune,trips,drop trips with no stop_times,10128,10128,0,removed,"Hour, duration and length cannot be derived without stop times"
+pune,trips,FLAG trips whose arrival times go backwards,0,0,0,flagged,Kept; marked in trip_features.time_backwards for review instead of being silently altered
+pune,routes,FLAG routes with no scheduled trip after cleaning,0,0,0,flagged,Kept in routes table; they simply have no scheduled service in this feed
+pune,calendar,parse start_date / end_date (invalid -> NaT),0,0,0,parsed,YYYYMMDD converted to dates; nothing removed
