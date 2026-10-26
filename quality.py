@@ -102,10 +102,23 @@ def run_city(city_folder):
     city = city_folder.name
     print(f"\nTesting: {city}")
 
+ 
     routes = load_table(city_folder, "routes.txt", city)
-    trips = load_table(city_folder, "trips.txt", city)
+
+    # Use the cleaned Delhi trips file for quality testing if available.
+    cleaned_trips_path = REPORT_DIR / f"{city}_trips_cleaned.txt"
+
+    if city == "DEHLI" and cleaned_trips_path.exists():
+        trips = pd.read_csv(
+            cleaned_trips_path, dtype=str, low_memory=False
+        ).fillna("")
+        print("Using cleaned Delhi trips file for testing.")
+    else:
+        trips = load_table(city_folder, "trips.txt", city)
+
     stops = load_table(city_folder, "stops.txt", city)
     times = load_table(city_folder, "stop_times.txt", city)
+
 
     check_table(
         routes, city, "routes.txt", "route_id",
