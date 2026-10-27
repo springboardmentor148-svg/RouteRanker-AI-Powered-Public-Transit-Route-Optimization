@@ -1,0 +1,15 @@
+city,service_id,active_weekdays,start_date,end_date,exception_records,quality_status
+BANGALORE,"1,2,3,4,5,6,7","monday, tuesday, wednesday, thursday, friday, saturday, sunday",2026-08-19,2027-02-15,0,Review passed
+CHENNAI,MTC-Regular,"monday, tuesday, wednesday, thursday, friday, saturday, sunday",2024-05-01,2030-05-01,0,Review passed
+CHENNAI,MTC-HSC,"monday, tuesday, wednesday, thursday, friday, saturday",2024-05-01,2030-05-01,0,Review passed
+CHENNAI,CMRL-WD,"monday, tuesday, wednesday, thursday, friday, saturday",2021-04-20,2021-12-31,0,Historical calendar end date
+CHENNAI,SRR-service_1111111,"monday, tuesday, wednesday, thursday, friday, saturday, sunday",2025-08-06,2170-08-20,0,Unusually distant end date
+CHENNAI,SRR-service_1111110,"monday, tuesday, wednesday, thursday, friday, saturday",2025-09-08,2170-08-20,2,Unusually distant end date
+CHENNAI,SRR-service_0000001,sunday,2025-09-08,2170-08-20,2,Unusually distant end date
+DEHLI,1,"monday, tuesday, wednesday, thursday, friday, saturday, sunday",2022-01-01,2024-01-01,0,Historical calendar end date
+GUJARATI,daily,"monday, tuesday, wednesday, thursday, friday, saturday, sunday",2026-01-01,2027-12-31,0,Review passed
+KOCHI,Mo-Su,"monday, tuesday, wednesday, thursday, friday, saturday, sunday",2022-09-26,2023-03-25,0,Historical calendar end date
+MUMBAI,"1,2,3,4,5,6,7","monday, tuesday, wednesday, thursday, friday, saturday, sunday",2026-08-24,2027-02-20,0,Review passed
+MUMBAI,"1,2,3,4,5,6,0","monday, tuesday, wednesday, thursday, friday, saturday",2026-08-24,2027-02-20,0,Review passed
+PUNE,WEEKDAY,"monday, tuesday, wednesday, thursday, friday, saturday, sunday",2026-10-07,2027-04-05,0,Review passed
+TELANGANA,MTWTFSS,"monday, tuesday, wednesday, thursday, friday, saturday, sunday",2026-02-01,2031-02-01,0,Review passed

@@ -1,0 +1,9 @@
+city,total_routes,total_scheduled_trips,routes_with_distance,routes_flagged_for_duration,routes_with_extreme_schedules,distance_coverage_percent
+BANGALORE,612,99080,0,0,0,0.0
+CHENNAI,4725,48435,28,0,0,0.59
+DEHLI,2964,78507,0,0,0,0.0
+GUJARATI,22,461,22,0,0,100.0
+KOCHI,473,933,473,0,0,100.0
+MUMBAI,372,8669,0,0,0,0.0
+PUNE,315,10128,315,0,0,100.0
+TELANGANA,1031,44892,0,0,346,0.0

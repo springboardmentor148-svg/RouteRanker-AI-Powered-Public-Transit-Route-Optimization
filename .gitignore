@@ -18,3 +18,10 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+# Generated intermediate feature and audit reports
+reports/*_trip_features.csv
+reports/*_route_features.csv
+reports/TELANGANA_schedule_audit.csv
+reports/TELANGANA_sequence_audit.csv
+reports/route_distance_features.csv
+reports/shape_distances.csv
