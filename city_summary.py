@@ -29,7 +29,16 @@ summary["distance_coverage_percent"] = (
     summary["routes_with_distance"]
     / summary["total_routes"] * 100
 ).round(2)
-
+summary["distance_data_status"] = summary.apply(
+    lambda row: (
+        "No distance data available"
+        if row["routes_with_distance"] == 0
+        else "Complete distance coverage"
+        if row["routes_with_distance"] == row["total_routes"]
+        else "Partial distance coverage"
+    ),
+    axis=1
+)
 summary.to_csv(output_path, index=False)
 
 print("City summary created.")
