@@ -58,8 +58,9 @@ def check_required_columns(df, city, filename, columns):
     return True
 
 
-def check_table(df, city, filename, id_column=None,
-                required_columns=None):
+def check_table(
+    df, city, filename, id_column=None, required_columns=None
+):
     if df is None:
         return
 
@@ -73,7 +74,9 @@ def check_table(df, city, filename, id_column=None,
     if required_columns:
         for col in required_columns:
             if col in df.columns:
-                missing = df[col].astype(str).str.strip().eq("").sum()
+                missing = (
+                    df[col].astype(str).str.strip().eq("").sum()
+                )
                 if missing:
                     add_issue(
                         city, filename, f"Missing {col}",
@@ -102,10 +105,9 @@ def run_city(city_folder):
     city = city_folder.name
     print(f"\nTesting: {city}")
 
- 
     routes = load_table(city_folder, "routes.txt", city)
 
-    # Use the cleaned Delhi trips file for quality testing if available.
+    # Use the cleaned Delhi trips file if available.
     cleaned_trips_path = REPORT_DIR / f"{city}_trips_cleaned.txt"
 
     if city == "DEHLI" and cleaned_trips_path.exists():
@@ -118,7 +120,6 @@ def run_city(city_folder):
 
     stops = load_table(city_folder, "stops.txt", city)
     times = load_table(city_folder, "stop_times.txt", city)
-
 
     check_table(
         routes, city, "routes.txt", "route_id",
@@ -134,11 +135,13 @@ def run_city(city_folder):
     )
     check_table(
         times, city, "stop_times.txt", None,
-        ["trip_id", "arrival_time", "departure_time",
-         "stop_id", "stop_sequence"]
+        [
+            "trip_id", "arrival_time", "departure_time",
+            "stop_id", "stop_sequence"
+        ]
     )
 
-    # Check stop coordinates
+    # Check stop coordinates.
     if stops is not None and check_required_columns(
         stops, city, "stops.txt", ["stop_lat", "stop_lon"]
     ):
@@ -158,7 +161,7 @@ def run_city(city_folder):
                 "Missing, non-numeric or out-of-range coordinates"
             )
 
-    # Check stop sequence values
+    # Check stop sequence values.
     if times is not None and "stop_sequence" in times.columns:
         seq = pd.to_numeric(times["stop_sequence"], errors="coerce")
         invalid = seq.isna() | (seq < 0)
@@ -184,7 +187,7 @@ def run_city(city_folder):
                     "Repeated trip_id and stop_sequence pairs"
                 )
 
-    # Check time format, allowing GTFS times beyond 24:00
+    # Check time format, allowing GTFS times beyond 24:00.
     if times is not None:
         for col in ["arrival_time", "departure_time"]:
             if col in times.columns:
@@ -194,7 +197,6 @@ def run_city(city_folder):
                 )
                 valid = pattern.notna().all(axis=1)
                 blank = values.eq("")
-
                 invalid = ~(valid | blank)
 
                 if invalid.sum():
@@ -202,10 +204,11 @@ def run_city(city_folder):
                         city, "stop_times.txt",
                         f"Invalid {col} format",
                         invalid.sum(), "WARNING",
-                        "Expected H:MM:SS or HH:MM:SS; hours may exceed 23"
+                        "Expected H:MM:SS or HH:MM:SS; "
+                        "hours may exceed 23"
                     )
 
-    # Check service calendar availability
+    # Check service calendar availability.
     if not (
         (city_folder / "calendar.txt").exists()
         or (city_folder / "calendar_dates.txt").exists()
@@ -230,7 +233,13 @@ else:
         for folder in city_folders:
             run_city(folder)
 
-        report = pd.DataFrame(issues)
+        # Always include column headers, even if no issues are found.
+        columns = [
+            "city", "file", "test",
+            "issue_count", "severity", "details"
+        ]
+        report = pd.DataFrame(issues, columns=columns)
+
         output = REPORT_DIR / "data_quality_report.csv"
         report.to_csv(output, index=False)
 
