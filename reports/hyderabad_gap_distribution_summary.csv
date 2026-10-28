@@ -1,0 +1,5 @@
+threshold_minutes,gap_count,city,interpretation
+60,196511,Hyderabad,Flag for source verification; not automatically an error
+120,6319,Hyderabad,Flag for source verification; not automatically an error
+240,102,Hyderabad,Flag for source verification; not automatically an error
+360,52,Hyderabad,Flag for source verification; not automatically an error

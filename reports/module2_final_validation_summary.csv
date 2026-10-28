@@ -1,0 +1,6 @@
+city,total_records,unique_trip_ids,duplicate_trip_ids,missing_values_total,missing_headways,zero_headways,negative_headways,invalid_clock_hours,invalid_minutes,missing_required_columns
+ahmedabad,14323,14323,0,633,633,933,0,0,0,0
+chennai,48435,48435,0,4732,4732,1005,0,0,0,0
+hyderabad,44892,44892,0,1031,1031,13462,0,0,0,0
+mumbai,99080,99080,0,612,612,9257,0,0,0,0
+pune,10128,10128,0,315,315,1507,0,0,0,0

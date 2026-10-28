@@ -1,0 +1,5 @@
+city,calendar_records,columns
+ahmedabad,1,"service_id, monday, tuesday, wednesday, thursday, friday, saturday, sunday, start_date, end_date"
+chennai,12,"service_id, monday, tuesday, wednesday, thursday, friday, saturday, sunday, start_date, end_date"
+mumbai,1,"service_id, monday, tuesday, wednesday, thursday, friday, saturday, sunday, start_date, end_date"
+pune,1,"service_id, monday, tuesday, wednesday, thursday, friday, saturday, sunday, start_date, end_date"

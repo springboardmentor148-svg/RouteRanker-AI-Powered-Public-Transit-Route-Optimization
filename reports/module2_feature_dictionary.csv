@@ -1,0 +1,20 @@
+feature,description,source_or_method,data_type
+city,City containing the route,Folder name,Categorical
+route_id,GTFS route identifier,routes.txt,Identifier
+route_short_name,Short public route name when provided,routes.txt,Categorical
+route_long_name,Long route name when provided,routes.txt,Categorical
+route_type,GTFS transport mode code,routes.txt,Categorical/code
+scheduled_trip_count,Number of distinct scheduled trips,trips.txt,Integer
+stop_count,Number of distinct stops referenced by route trips,stop_times.txt + trips.txt,Integer
+scheduled_departures,Distinct scheduled trip departures in a service hour,First stop per trip,Integer
+headway_minutes,Minutes between consecutive scheduled first-stop departures for the same route and service_id; first trip in each group is blank.,"Difference between consecutive departure_time_seconds values, divided by 60, grouped by route_id and service_id.",Numeric minutes
+service_hour,GTFS service-time hour; may exceed 23,departure_time,Integer
+clock_hour,Hour on a 0-23 clock,service_hour modulo 24,Integer
+minute,Minute component of first-stop departure time,departure_time,Integer
+time_period,"Morning, afternoon, evening or night",clock_hour,Categorical
+start_service_hour,Earliest valid first-stop departure hour,stop_times.txt,Integer
+end_service_hour,Latest valid final-stop time hour,stop_times.txt,Integer
+operates_monday to operates_sunday,Whether any matched calendar service operates on that day,calendar.txt,Binary
+operating_day_count,Number of weekdays with any matched active service,calendar.txt,Integer
+estimated_straight_line_route_km,Median estimated trip distance from consecutive stop coordinates,stops.txt + stop_times.txt,Approximate numeric
+trips_with_distance,Number of trips with at least one valid distance segment,Stop coordinates,Integer

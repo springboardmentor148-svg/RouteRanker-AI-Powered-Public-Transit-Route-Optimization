@@ -1,0 +1,6 @@
+city,total_routes,routes_with_zero_trips,routes_with_1_to_10_trips,routes_with_11_to_50_trips,routes_with_more_than_50_trips,minimum_trips,median_trips,maximum_trips
+ahmedabad,639,6,321,236,76,0,10.0,217
+chennai,5402,677,3823,671,231,0,2.0,210
+hyderabad,1031,0,583,254,194,1,8.0,2087
+mumbai,935,323,44,102,466,0,50.0,930
+pune,315,0,107,134,74,3,22.0,175

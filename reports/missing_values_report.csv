@@ -1,0 +1,15 @@
+city,file,column,missing_values,total_rows,missing_percent
+ahmedabad,trips,shape_id,14323,14323,100.0
+chennai,routes,agency_id,28,5402,0.52
+chennai,routes,route_desc,4639,5402,85.88
+chennai,routes,route_color,5380,5402,99.59
+chennai,routes,route_text_color,5374,5402,99.48
+chennai,trips,direction_id,1388,48435,2.87
+chennai,trips,trip_headsign,47047,48435,97.13
+chennai,trips,shape_id,47810,48435,98.71
+chennai,stops,stop_desc,6330,6542,96.76
+chennai,stops,zone_id,6288,6542,96.12
+chennai,stops,location_type,5580,6542,85.3
+chennai,stops,parent_station,5725,6542,87.51
+chennai,stops,platform_code,5904,6542,90.25
+chennai,stops,stop_code,5834,6542,89.18

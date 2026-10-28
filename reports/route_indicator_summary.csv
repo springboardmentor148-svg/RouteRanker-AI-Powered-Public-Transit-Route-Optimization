@@ -1,0 +1,6 @@
+city,routes_analyzed,total_scheduled_trips,total_scheduled_stop_events,routes_without_trips
+ahmedabad,639,14323,646471,6
+chennai,5402,48435,1389081,677
+mumbai,935,99080,2655026,323
+pune,315,10128,429302,0
+hyderabad,1031,44892,1132807,0

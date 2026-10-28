@@ -1,0 +1,106 @@
+﻿city,file,check,issue_count,details
+ahmedabad,routes.csv,file_exists,0,Found
+ahmedabad,trips.csv,file_exists,0,Found
+ahmedabad,stops.csv,file_exists,0,Found
+ahmedabad,stop_times.csv,file_exists,0,Found
+ahmedabad,routes.csv,route_id_blank_values,0,
+ahmedabad,routes.csv,route_id_duplicate_values,0,
+ahmedabad,trips.csv,trip_id_blank_values,0,
+ahmedabad,trips.csv,trip_id_duplicate_values,0,
+ahmedabad,trips.csv,route_id_blank_values,0,
+ahmedabad,stops.csv,stop_id_blank_values,0,
+ahmedabad,stops.csv,stop_id_duplicate_values,0,
+ahmedabad,stop_times.csv,trip_id_blank_values,0,
+ahmedabad,stop_times.csv,stop_id_blank_values,0,
+ahmedabad,stops.csv,stop_lat_invalid_values,0,
+ahmedabad,stops.csv,stop_lon_invalid_values,0,
+ahmedabad,stop_times.csv,arrival_time_invalid_format,0,
+ahmedabad,stop_times.csv,departure_time_invalid_format,0,
+ahmedabad,stop_times.csv,stop_sequence_invalid_values,0,
+ahmedabad,trips.csv,route_id_unmatched_values,0,Expected matching IDs in routes.csv.route_id
+ahmedabad,stop_times.csv,trip_id_unmatched_values,0,Expected matching IDs in trips.csv.trip_id
+ahmedabad,stop_times.csv,stop_id_unmatched_values,0,Expected matching IDs in stops.csv.stop_id
+chennai,routes.csv,file_exists,0,Found
+chennai,trips.csv,file_exists,0,Found
+chennai,stops.csv,file_exists,0,Found
+chennai,stop_times.csv,file_exists,0,Found
+chennai,routes.csv,route_id_blank_values,0,
+chennai,routes.csv,route_id_duplicate_values,0,
+chennai,trips.csv,trip_id_blank_values,0,
+chennai,trips.csv,trip_id_duplicate_values,0,
+chennai,trips.csv,route_id_blank_values,0,
+chennai,stops.csv,stop_id_blank_values,0,
+chennai,stops.csv,stop_id_duplicate_values,0,
+chennai,stop_times.csv,trip_id_blank_values,0,
+chennai,stop_times.csv,stop_id_blank_values,0,
+chennai,stops.csv,stop_lat_invalid_values,0,
+chennai,stops.csv,stop_lon_invalid_values,0,
+chennai,stop_times.csv,arrival_time_invalid_format,0,
+chennai,stop_times.csv,departure_time_invalid_format,0,
+chennai,stop_times.csv,stop_sequence_invalid_values,0,
+chennai,trips.csv,route_id_unmatched_values,0,Expected matching IDs in routes.csv.route_id
+chennai,stop_times.csv,trip_id_unmatched_values,0,Expected matching IDs in trips.csv.trip_id
+chennai,stop_times.csv,stop_id_unmatched_values,0,Expected matching IDs in stops.csv.stop_id
+mumbai,routes.csv,file_exists,0,Found
+mumbai,trips.csv,file_exists,0,Found
+mumbai,stops.csv,file_exists,0,Found
+mumbai,stop_times.csv,file_exists,0,Found
+mumbai,routes.csv,route_id_blank_values,0,
+mumbai,routes.csv,route_id_duplicate_values,0,
+mumbai,trips.csv,trip_id_blank_values,0,
+mumbai,trips.csv,trip_id_duplicate_values,0,
+mumbai,trips.csv,route_id_blank_values,0,
+mumbai,stops.csv,stop_id_blank_values,0,
+mumbai,stops.csv,stop_id_duplicate_values,0,
+mumbai,stop_times.csv,trip_id_blank_values,0,
+mumbai,stop_times.csv,stop_id_blank_values,0,
+mumbai,stops.csv,stop_lat_invalid_values,0,
+mumbai,stops.csv,stop_lon_invalid_values,0,
+mumbai,stop_times.csv,arrival_time_invalid_format,0,
+mumbai,stop_times.csv,departure_time_invalid_format,0,
+mumbai,stop_times.csv,stop_sequence_invalid_values,0,
+mumbai,trips.csv,route_id_unmatched_values,0,Expected matching IDs in routes.csv.route_id
+mumbai,stop_times.csv,trip_id_unmatched_values,0,Expected matching IDs in trips.csv.trip_id
+mumbai,stop_times.csv,stop_id_unmatched_values,0,Expected matching IDs in stops.csv.stop_id
+pune,routes.csv,file_exists,0,Found
+pune,trips.csv,file_exists,0,Found
+pune,stops.csv,file_exists,0,Found
+pune,stop_times.csv,file_exists,0,Found
+pune,routes.csv,route_id_blank_values,0,
+pune,routes.csv,route_id_duplicate_values,0,
+pune,trips.csv,trip_id_blank_values,0,
+pune,trips.csv,trip_id_duplicate_values,0,
+pune,trips.csv,route_id_blank_values,0,
+pune,stops.csv,stop_id_blank_values,0,
+pune,stops.csv,stop_id_duplicate_values,0,
+pune,stop_times.csv,trip_id_blank_values,0,
+pune,stop_times.csv,stop_id_blank_values,0,
+pune,stops.csv,stop_lat_invalid_values,0,
+pune,stops.csv,stop_lon_invalid_values,0,
+pune,stop_times.csv,arrival_time_invalid_format,0,
+pune,stop_times.csv,departure_time_invalid_format,0,
+pune,stop_times.csv,stop_sequence_invalid_values,0,
+pune,trips.csv,route_id_unmatched_values,0,Expected matching IDs in routes.csv.route_id
+pune,stop_times.csv,trip_id_unmatched_values,0,Expected matching IDs in trips.csv.trip_id
+pune,stop_times.csv,stop_id_unmatched_values,0,Expected matching IDs in stops.csv.stop_id
+hyderabad,routes.csv,file_exists,0,Found
+hyderabad,trips.csv,file_exists,0,Found
+hyderabad,stops.csv,file_exists,0,Found
+hyderabad,stop_times.csv,file_exists,0,Found
+hyderabad,routes.csv,route_id_blank_values,0,
+hyderabad,routes.csv,route_id_duplicate_values,0,
+hyderabad,trips.csv,trip_id_blank_values,0,
+hyderabad,trips.csv,trip_id_duplicate_values,0,
+hyderabad,trips.csv,route_id_blank_values,0,
+hyderabad,stops.csv,stop_id_blank_values,0,
+hyderabad,stops.csv,stop_id_duplicate_values,0,
+hyderabad,stop_times.csv,trip_id_blank_values,0,
+hyderabad,stop_times.csv,stop_id_blank_values,0,
+hyderabad,stops.csv,stop_lat_invalid_values,0,
+hyderabad,stops.csv,stop_lon_invalid_values,0,
+hyderabad,stop_times.csv,arrival_time_invalid_format,0,
+hyderabad,stop_times.csv,departure_time_invalid_format,0,
+hyderabad,stop_times.csv,stop_sequence_invalid_values,0,
+hyderabad,trips.csv,route_id_unmatched_values,0,Expected matching IDs in routes.csv.route_id
+hyderabad,stop_times.csv,trip_id_unmatched_values,0,Expected matching IDs in trips.csv.trip_id
+hyderabad,stop_times.csv,stop_id_unmatched_values,0,Expected matching IDs in stops.csv.stop_id

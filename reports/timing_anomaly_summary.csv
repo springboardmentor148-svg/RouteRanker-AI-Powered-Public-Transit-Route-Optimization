@@ -1,0 +1,3 @@
+city,issue,affected_records,affected_trips,status,action
+chennai,arrival_before_previous_departure,15,15,Needs source verification,Retain original times; do not auto-correct
+chennai,departure_before_arrival,4,4,Needs source verification,Retain original times; do not auto-correct

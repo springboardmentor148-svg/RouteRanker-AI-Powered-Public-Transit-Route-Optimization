@@ -1,0 +1,6 @@
+city,total_rows,missing_trip_id,missing_or_non_numeric_sequence,duplicate_sequence_rows,non_increasing_sequence_steps
+ahmedabad,646471,0,0,0,0
+chennai,1389081,0,0,0,0
+mumbai,2655026,0,0,0,0
+pune,429302,0,0,0,0
+hyderabad,1132807,0,0,0,0

@@ -1,0 +1,16 @@
+city,child_table,child_column,parent_table,parent_column,checked_references,unmatched_references
+ahmedabad,trips,route_id,routes,route_id,14323,0
+ahmedabad,stop_times,trip_id,trips,trip_id,646471,0
+ahmedabad,stop_times,stop_id,stops,stop_id,646471,0
+chennai,trips,route_id,routes,route_id,48435,0
+chennai,stop_times,trip_id,trips,trip_id,1389081,0
+chennai,stop_times,stop_id,stops,stop_id,1389081,0
+mumbai,trips,route_id,routes,route_id,99080,0
+mumbai,stop_times,trip_id,trips,trip_id,2655026,0
+mumbai,stop_times,stop_id,stops,stop_id,2655026,0
+pune,trips,route_id,routes,route_id,10128,0
+pune,stop_times,trip_id,trips,trip_id,429302,0
+pune,stop_times,stop_id,stops,stop_id,429302,0
+hyderabad,trips,route_id,routes,route_id,44892,0
+hyderabad,stop_times,trip_id,trips,trip_id,1132807,0
+hyderabad,stop_times,stop_id,stops,stop_id,1132807,0

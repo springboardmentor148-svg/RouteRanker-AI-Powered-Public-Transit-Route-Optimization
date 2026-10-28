@@ -1,0 +1,13 @@
+city,relationship,nonblank_values,unmatched_values,blank_values
+ahmedabad,trips.route_id -> routes.route_id,14323,0,0
+ahmedabad,stop_times.trip_id -> trips.trip_id,646471,0,0
+ahmedabad,stop_times.stop_id -> stops.stop_id,646471,0,0
+chennai,trips.route_id -> routes.route_id,48435,0,0
+chennai,stop_times.trip_id -> trips.trip_id,1389081,0,0
+chennai,stop_times.stop_id -> stops.stop_id,1389081,0,0
+mumbai,trips.route_id -> routes.route_id,99080,0,0
+mumbai,stop_times.trip_id -> trips.trip_id,2655026,0,0
+mumbai,stop_times.stop_id -> stops.stop_id,2655026,0,0
+pune,trips.route_id -> routes.route_id,10128,0,0
+pune,stop_times.trip_id -> trips.trip_id,429302,0,0
+pune,stop_times.stop_id -> stops.stop_id,429302,0,0

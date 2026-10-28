@@ -1,0 +1,6 @@
+city,routes_analyzed,routes_with_trips,routes_without_trips,total_scheduled_trips,average_trips_per_route,median_trips_per_route,maximum_trips_on_one_route
+ahmedabad,639,633,6,14323,22.41,10.0,217
+chennai,5402,4725,677,48435,8.97,2.0,210
+mumbai,935,612,323,99080,105.97,50.0,930
+pune,315,315,0,10128,32.15,22.0,175
+hyderabad,1031,1031,0,44892,43.54,8.0,2087
