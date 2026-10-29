@@ -1,0 +1,151 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+R83,RRL,R83,Pandit dindayaal Civil Hospital ⇆ AIIMS Hospital,3
+B1,RRL,B1,Madhapar Chowk ⇆ Gondal Chowk (BRTS),3
+B2,RRL,B2,Gondal Chowkdi ⇆ Madhapar Chowk,3
+R36A,RRL,R36A,Trikon baug ⇆ badhinu patiyu,3
+R38A,RRL,R38A,AjiDam ⇆ Madhapar Gaam Gate,3
+R100,RRL,R100,Atal Sarovar ⇆ Trikon baug,3
+R11,RRL,R11,Shapar Veraval ⇆ Trikon baug,3
+R13A,RRL,R13A,Trikon baug ⇆ Kothariya Chowk,3
+R13,RRL,R13,LalBahadur Shastri Township ⇆ Kothariya Chowk,3
+R14,RRL,R14,Anandpar Gam ⇆ Swati Park,3
+R15A,RRL,R15A,ITI (Khirasara) ⇆ Trikon baug,3
+R15B,RRL,R15B,Kothariya Gam ⇆ Trikon baug,3
+R15,RRL,R15,ITI (Khirasara) ⇆ Kothariya Gam,3
+R16A,RRL,R16A,B.T.Savani (Kidney) Hospital ⇆ Trikon baug,3
+R16B,RRL,R16B,Kothariya Gam ⇆ Trikon baug,3
+R16,RRL,R16,Saurashtra University ⇆ Kothariya Gam,3
+R17,RRL,R17,Tramba Village ⇆ Saurashtra University,3
+R18A,RRL,R18A,shree ram hospital(metoda) ⇆ Trikon baug,3
+R18,RRL,R18,shree ram hospital(metoda) ⇆ AjiDam,3
+R19A,RRL,R19A,131 slum quater. ⇆ Trikon baug,3
+R19,RRL,R19,131 slum quater. ⇆ Vraj Villa Apartment,3
+R1A,RRL,R1A,B.T.Savani (Kidney) Hospital ⇆ Trikon baug,3
+R1,RRL,R1,Saurashtra University ⇆ Trikon baug,3
+R20A,RRL,R20A,Shapar Veraval ⇆ Trikon baug,3
+R20,RRL,R20,Shapar Veraval ⇆ Ghanteshvar S.R.P. Camp,3
+R21,RRL,R21,Shapar Veraval ⇆ Santiniketan Avenue(Raiya Gaam),3
+R22A,RRL,R22A,Shapar Veraval ⇆ Trikon baug,3
+R22,RRL,R22,Shapar Veraval ⇆ Santiniketan Avenue(Raiya Gaam),3
+R23A,RRL,R23A,Trikon baug ⇆ Shri Mansukhbhai Chhapia Township,3
+R23B,RRL,R23B,H.N.Shukla College ⇆ Trikon baug,3
+R23,RRL,R23,H.N.Shukla College ⇆ Shri Mansukhbhai Chhapia Township,3
+R24A,RRL,R24A,K.K.V hall ⇆ Metoda Gam,3
+R24,RRL,R24,Metoda Gam ⇆ Trikon baug,3
+R25A,RRL,R25A,Jivraj Park ⇆ Trikon baug,3
+R25,RRL,R25,Jivraj Park ⇆ 131 slum quater.,3
+R26,RRL,R26,Shyamji Krushna Varma Township ⇆ Aangan residency,3
+R27,RRL,R27,Raiyadhar Slum Quarter ⇆ Trikon baug,3
+R28,RRL,R28,Jivraj Park ⇆ Gujarat Housing Board Quarter/ Sagar Chok,3
+R2,RRL,R2,H.N.Shukla College ⇆ Atal Sarovar,3
+R30CIRCULAR,RRL,R30CIRCULAR,Trikon baug ⇆ Trikon Baug 2,3
+R31CIRCULAR,RRL,R31CIRCULAR,Trikon baug ⇆ Trikon baug,3
+R32A,RRL,R32A,Trikon baug ⇆ Tramba Village,3
+R32B,RRL,R32B,Parsananagar ⇆ Trikon baug,3
+R32,RRL,R32,Parsananagar ⇆ Tramba Village,3
+R34A,RRL,R34A,Trikon baug ⇆ kamdar nurshing collage,3
+R9A,RRL,R9A,Ratanpar (ramji mandir) ⇆ Saurashtra University,3
+R34B,RRL,R34B,H.N.Shukla College ⇆ Trikon baug,3
+R34,RRL,R34,H.N.Shukla College ⇆ kamdar nurshing collage,3
+R35,RRL,R35,Shapar Veraval ⇆ Trikon baug,3
+R36,RRL,R36,badhinu patiyu ⇆ Bhaktinagar Circle,3
+R37,RRL,R37,Bhagini Nivedita Township ⇆ Ridhhi Sidhhi Park Crossing,3
+R38,RRL,R38,AjiDam ⇆ Regional Science centre,3
+R3,RRL,R3,Parsana Chowk ⇆ Madhapar Chowk,3
+R40A,RRL,R40A,Shivalay Chowk ⇆ Jamtower Chowk,3
+R40,RRL,R40,Shivalay Chowk ⇆ Saurashtra University,3
+R41,RRL,R41,Nandbhumi Tower ⇆ Vinod Nagar,3
+R42A,RRL,R42A,Trikon baug ⇆ Greenland Chowk,3
+R42B,RRL,R42B,Vasant Vatika ⇆ Trikon baug,3
+R42,RRL,R42,Vasant Vatika ⇆ Greenland Chowk,3
+R43A,RRL,R43A,Akshar Vatika(Mavadi) ⇆ Trikon baug,3
+R43,RRL,R43,Akshar Vatika(Mavadi) ⇆ Om Residency (Morbi road Crosing),3
+R44A,RRL,R44A,AjiDam ⇆ Trikon baug,3
+R44,RRL,R44,Shree Mohandasbapa Ashram ⇆ Trikon baug,3
+R45A,RRL,R45A,Marwadi College ⇆ Saurashtra University,3
+R45B,RRL,R45B,Marwadi College ⇆ Trikon baug,3
+R45C,RRL,R45C,Trikon baug ⇆ Arpit eng. Collage,3
+R45,RRL,R45,Arpit eng. Collage ⇆ Saurashtra University,3
+R46,RRL,R46,shree sardar patel homeopathic collage ⇆ Trikon baug,3
+R47A,RRL,R47A,Kothariya Gam ⇆ Saurashtra University,3
+R47,RRL,R47,Saurashtra University ⇆ Kothariya Gam,3
+R4,RRL,R4,G.I.D.C. Gate 3 ⇆ AjiDam,3
+R51A,RRL,R51A,Punit Nagar (jetco 66 k.v.a.) ⇆ Trikon baug,3
+R51,RRL,R51,Punit Nagar (jetco 66 k.v.a.) ⇆ Ghanteshvar S.R.P. Camp (G company),3
+R53,RRL,R53,District and Sessions court ⇆ Bhaktinagar Station,3
+R54A,RRL,R54A,Radha Park (Kotharia Gam) ⇆ Trikon baug,3
+R54,RRL,R54,Radha Park (Kotharia Gam) ⇆ Ghanteshvar S.R.P. Camp,3
+R55A,RRL,R55A,Arpit eng. Collage ⇆ Trikon baug,3
+R55,RRL,R55,Arpit eng. Collage ⇆ Gondal Chowkdi,3
+R56A,RRL,R56A,Pandit Deendayal Nagar ⇆ Trikon baug,3
+R56,RRL,R56,Government Engineering College ⇆ Trikon baug,3
+R57A,RRL,R57A,Mota Mauva ⇆ Trikon baug,3
+R57,RRL,R57,Government Engineering College ⇆ Trikon baug,3
+R58,RRL,R58,AIIMS Hospital ⇆ Madhapar Chowk,3
+R5A,RRL,R5A,Trikon baug ⇆ Tramba Village,3
+R5,RRL,R5,Tramba Village ⇆ RAIYA GAM(Shilpan Onex),3
+R60,RRL,R60,Trikon baug ⇆ Golden Green Industrial Park,3
+R61,RRL,R61,Naranka Gram ⇆ Trikon baug,3
+R62,RRL,R62,Shapar Veraval ⇆ Trikon baug,3
+R63,RRL,R63,Rajpath Siesta ⇆ Trikon baug,3
+R64A,RRL,R64A,Bhaktinagar Circle ⇆ Arpit eng. Collage,3
+R64B,RRL,R64B,150 feet road crossing - kalawad road ⇆ Bhaktinagar Circle,3
+R64,RRL,R64,150 feet road crossing - kalawad road ⇆ Arpit eng. Collage,3
+R65A,RRL,R65A,Mahika Gam ⇆ Trikon baug,3
+R65B,RRL,R65B,Trikon baug ⇆ Prajapati Chowk,3
+R65,RRL,R65,Prajapati Chowk ⇆ Mahika Gam,3
+R66,RRL,R66,Aadarsh - Shri Housing Co-operative Service Society ⇆ Trikon baug,3
+R67,RRL,R67,KANKOT GAM ⇆ Trikon baug,3
+R68,RRL,R68,Kothariya Solvant fatak ⇆ Trikon baug,3
+R69,RRL,R69,Trikon baug ⇆ Light House (Raiya),3
+R6A,RRL,R6A,Shivalay Chowk ⇆ Ajidam,3
+R6,RRL,R6,Shivalay Chowk ⇆ Tramba Village,3
+R70A,RRL,R70A,Trikon baug ⇆ Parapipaliya patiya,3
+R70B,RRL,R70B,Parapipaliya patiya ⇆ Trikon baug,3
+R70,RRL,R70,Ramvan ⇆ Parapipaliya patiya,3
+R71,RRL,R71,Government Engineering College ⇆ Kothariya Gam,3
+R72A,RRL,R72A,Madhapar Chowk ⇆ Government Engineering College,3
+R72B,RRL,R72B,Greenland Chowk ⇆ Madhapar Chowk,3
+R72,RRL,R72,Government Engineering College ⇆ Greenland Chowk,3
+R73,RRL,R73,Shreenathji Industries Plot No.155 ⇆ Trikon baug,3
+R74,RRL,R74,Kothariya Solvant fatak ⇆ Trikon baug,3
+R75A,RRL,R75A,Parevadi Chowk ⇆ matru darshan School,3
+R75B,RRL,R75B,P.G.V.C.L SUB DIVISON MORBI ROAD ⇆ Trikon baug,3
+R75,RRL,R75,P.G.V.C.L SUB DIVISON MORBI ROAD ⇆ matru darshan School,3
+R76A,RRL,R76A,Field Marshal Chowk ⇆ Kothariya Gam,3
+R76B,RRL,R76B,Marwadi College ⇆ Field Marshal Chowk,3
+R76,RRL,R76,Marwadi College ⇆ Kothariya Gam,3
+R77,RRL,R77,Ribda Railway Station ⇆ Gondal Chowkdi,3
+R78A,RRL,R78A,Trikon baug ⇆ Greenland Chowk,3
+R78,RRL,R78,Greenland Chowk ⇆ Dreemland Partyplot,3
+R79,RRL,R79,AjiDam ⇆ Vardhman Nagar (Maharana pratap Circle),3
+R7,RRL,R7,BajrangWadi circle ⇆ Bhaktinagar Circle,3
+R80,RRL,R80,Shapar Veraval ⇆ Gondal Chowkdi,3
+R81A,RRL,R81A,Madhapar Chowk ⇆ Swaminarayan vidhyalay,3
+R81B,RRL,R81B,Trikon baug ⇆ Swaminarayan vidhyalay,3
+R81C,RRL,R81C,AIIMS Hospital ⇆ Madhapar Chowk,3
+R81,RRL,R81,AIIMS Hospital ⇆ Swaminarayan vidhyalay,3
+R82A,RRL,R82A,Madhapar Chowk ⇆ Bhaktinagar Circle,3
+R82B,RRL,R82B,AIIMS Hospital ⇆ Madhapar Chowk,3
+R82,RRL,R82,AIIMS Hospital ⇆ Bhaktinagar Circle,3
+R85A,RRL,R85A,Raiya Chowk (RMTS) ⇆ Pradhyuman Park,3
+R85B,RRL,R85B,Pradhyuman Park ⇆ Raiya Chowk (RMTS),3
+R85,RRL,R85,Saurashtra University ⇆ Pradhyuman Park,3
+R86A,RRL,R86A,Marwadi College ⇆ Trikon baug,3
+R86,RRL,R86,Marwadi College ⇆ Gondal Chowkdi,3
+R88A,RRL,R88A,Arpit eng. Collage ⇆ Raiya Chowk (RMTS),3
+R88B,RRL,R88B,Arpit eng. Collage ⇆ Gondal Chowkdi,3
+R88,RRL,R88,Arpit eng. Collage ⇆ Gondal Chowkdi,3
+R89,RRL,R89,Shree Vitthalbhai Radadiya Chowk ⇆ Trikon baug,3
+R8A,RRL,R8A,Trikon baug ⇆ Labhubhai eng. Collage,3
+R8B,RRL,R8B,Greenland Chowk ⇆ Trikon baug,3
+R8,RRL,R8,Greenland Chowk ⇆ Labhubhai eng. Collage,3
+R91A,RRL,R91A,Tramba Village ⇆ Bhaktinagar Circle,3
+R91B,RRL,R91B,Tramba Village ⇆ AjiDam,3
+R91,RRL,R91,Tramba Village ⇆ Vagal Chowkdi,3
+R92,RRL,R92,150 feet Jamnagar road crossing ⇆ Trikon baug,3
+R96,RRL,R96,Atal Sarovar Entrance Gate ⇆ Kothariya Gam,3
+R97,RRL,R97,Atal Sarovar ⇆ AjiDam,3
+R98,RRL,R98,Atal Sarovar Entrance Gate ⇆ Gondal Chowkdi,3
+R99,RRL,R99,Atal Sarovar Entrance Gate ⇆ Greenland Chowk,3
+R9,RRL,R9,Arpit eng. Collage ⇆ Saurashtra University,3

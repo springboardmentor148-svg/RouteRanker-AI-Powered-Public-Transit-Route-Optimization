@@ -1,0 +1,20 @@
+item,status,details
+module2_feature_engineered_dataset.csv,PASS,"2,120,775 bytes"
+module2_route_profiles_final_all_cities.csv,PASS,"2,120,775 bytes"
+module2_feature_dictionary.csv,PASS,"11,693 bytes"
+module2_final_data_quality_checks.csv,PASS,"7,693 bytes"
+module2_data_quality_report.csv,PASS,"1,160 bytes"
+module2_missing_values.csv,PASS,638 bytes
+module2_route_profiles_basic_all_cities.csv,PASS,"575,474 bytes"
+module2_hourly_trip_counts_all_cities.csv,PASS,"1,093,361 bytes"
+module2_route_service_days_all_cities.csv,PASS,"311,071 bytes"
+module2_route_distance_estimates.csv,PASS,"553,770 bytes"
+module2_assumptions_and_limitations.md,PASS,"4,167 bytes"
+Ahmedabad time-feature file,PASS,"56,097,714 bytes"
+Chennai time-feature file,PASS,"115,552,830 bytes"
+Hyderabad time-feature file,PASS,"94,660,090 bytes"
+Mumbai time-feature file,PASS,"253,767,455 bytes"
+Pune time-feature file,PASS,"34,898,710 bytes"
+Rajkot time-feature file,PASS,"7,617,480 bytes"
+Feature dictionary covers dataset columns,PASS,Undocumented: 0; extra entries: 0
+Unique city-route pairs,PASS,0 duplicate pairs
