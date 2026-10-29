@@ -1,0 +1,3193 @@
+route_id,service_id,trip_id,trip_headsign,direction_id
+R83,WEEKDAY,trip_272_0,Aiims Hospital,1
+R83,WEEKDAY,trip_272_1,Aiims Hospital,1
+R83,WEEKDAY,trip_272_2,Aiims Hospital,1
+R83,WEEKDAY,trip_272_3,Aiims Hospital,1
+R83,WEEKDAY,trip_272_4,Aiims Hospital,1
+R83,WEEKDAY,trip_272_5,Aiims Hospital,1
+R83,WEEKDAY,trip_272_6,Aiims Hospital,1
+R83,WEEKDAY,trip_272_7,Aiims Hospital,1
+R83,WEEKDAY,trip_272_8,Aiims Hospital,1
+R83,WEEKDAY,trip_272_9,Aiims Hospital,1
+R83,WEEKDAY,trip_272_10,Aiims Hospital,1
+R83,WEEKDAY,trip_272_11,Aiims Hospital,1
+R83,WEEKDAY,trip_272_12,Aiims Hospital,1
+R83,WEEKDAY,trip_272_13,Aiims Hospital,1
+R83,WEEKDAY,trip_272_14,Aiims Hospital,1
+R83,WEEKDAY,trip_272_15,Aiims Hospital,1
+R83,WEEKDAY,trip_274_0,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_1,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_2,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_3,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_4,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_5,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_6,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_7,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_8,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_9,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_10,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_11,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_12,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_13,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_14,Pandit Dindayaal Civil Hospital,0
+R83,WEEKDAY,trip_274_15,Pandit Dindayaal Civil Hospital,0
+B1,WEEKDAY,trip_1_0,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_1,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_2,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_3,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_4,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_5,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_6,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_7,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_8,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_9,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_10,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_11,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_12,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_13,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_14,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_15,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_16,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_17,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_18,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_19,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_20,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_21,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_22,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_23,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_24,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_25,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_26,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_27,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_28,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_29,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_30,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_31,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_32,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_33,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_34,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_35,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_36,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_37,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_38,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_39,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_40,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_41,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_42,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_43,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_44,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_45,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_46,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_47,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_48,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_49,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_50,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_51,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_52,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_53,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_54,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_55,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_56,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_57,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_58,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_59,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_60,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_61,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_62,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_63,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_64,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_65,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_66,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_67,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_68,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_69,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_70,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_71,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_72,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_73,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_74,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_75,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_76,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_77,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_78,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_79,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_80,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_81,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_82,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_83,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_84,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_85,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_86,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_87,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_88,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_89,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_90,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_91,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_92,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_93,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_94,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_95,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_96,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_97,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_98,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_99,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_100,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_101,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_102,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_103,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_104,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_105,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_106,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_107,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_108,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_109,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_110,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_111,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_112,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_113,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_114,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_115,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_116,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_117,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_118,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_119,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_120,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_121,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_122,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_123,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_124,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_125,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_126,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_127,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_128,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_129,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_130,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_131,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_132,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_133,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_134,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_135,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_136,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_137,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_138,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_139,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_140,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_141,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_142,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_143,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_144,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_145,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_146,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_147,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_148,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_149,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_150,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_151,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_152,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_153,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_154,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_155,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_156,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_157,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_158,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_159,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_160,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_161,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_162,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_163,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_164,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_165,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_166,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_167,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_168,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_169,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_170,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_171,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_172,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_173,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_174,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_175,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_176,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_177,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_178,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_179,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_180,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_181,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_182,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_183,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_184,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_185,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_186,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_187,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_188,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_189,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_190,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_191,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_192,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_193,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_194,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_195,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_196,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_197,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_198,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_199,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_200,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_201,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_202,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_203,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_204,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_205,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_206,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_207,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_208,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_209,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_210,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_211,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_212,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_213,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_214,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_215,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_216,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_217,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_218,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_219,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_220,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_221,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_222,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_223,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_224,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_225,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_226,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_227,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_228,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_229,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_230,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_231,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_232,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_233,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_234,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_235,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_236,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_237,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_238,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_239,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_240,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_241,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_242,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_243,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_244,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_245,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_246,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_247,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_248,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_249,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_250,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_251,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_252,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_253,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_254,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_255,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_256,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_257,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_258,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_259,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_260,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_261,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_262,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_263,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_264,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_1_265,Gondal Chowk (Brts),0
+B1,WEEKDAY,trip_2_0,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_1,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_2,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_3,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_4,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_5,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_6,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_7,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_8,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_9,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_10,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_11,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_12,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_13,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_14,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_15,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_16,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_17,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_18,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_19,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_20,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_21,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_22,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_23,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_24,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_25,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_26,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_27,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_28,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_29,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_30,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_31,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_32,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_33,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_34,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_35,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_36,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_37,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_38,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_39,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_40,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_41,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_42,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_43,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_44,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_45,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_46,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_47,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_48,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_49,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_50,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_51,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_52,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_53,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_54,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_55,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_56,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_57,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_58,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_59,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_60,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_61,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_62,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_63,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_64,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_65,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_66,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_67,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_68,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_69,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_70,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_71,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_72,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_73,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_74,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_75,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_76,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_77,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_78,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_79,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_80,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_81,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_82,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_83,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_84,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_85,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_86,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_87,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_88,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_89,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_90,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_91,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_92,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_93,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_94,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_95,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_96,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_97,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_98,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_99,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_100,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_101,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_102,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_103,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_104,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_105,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_106,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_107,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_108,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_109,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_110,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_111,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_112,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_113,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_114,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_115,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_116,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_117,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_118,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_119,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_120,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_121,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_122,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_123,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_124,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_125,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_126,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_127,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_128,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_129,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_130,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_131,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_132,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_133,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_134,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_135,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_136,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_137,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_138,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_139,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_140,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_141,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_142,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_143,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_144,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_145,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_146,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_147,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_148,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_149,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_150,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_151,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_152,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_153,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_154,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_155,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_156,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_157,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_158,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_159,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_160,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_161,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_162,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_163,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_164,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_165,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_166,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_167,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_168,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_169,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_170,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_171,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_172,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_173,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_174,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_175,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_176,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_177,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_178,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_179,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_180,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_181,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_182,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_183,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_184,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_185,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_186,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_187,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_188,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_189,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_190,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_191,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_192,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_193,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_194,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_195,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_196,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_197,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_198,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_199,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_200,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_201,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_202,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_203,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_204,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_205,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_206,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_207,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_208,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_209,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_210,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_211,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_212,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_213,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_214,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_215,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_216,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_217,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_218,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_219,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_220,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_221,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_222,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_223,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_224,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_225,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_226,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_227,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_228,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_229,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_230,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_231,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_232,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_233,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_234,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_235,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_236,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_237,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_238,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_239,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_240,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_241,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_242,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_243,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_244,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_245,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_246,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_247,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_248,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_249,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_250,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_251,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_252,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_253,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_254,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_255,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_256,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_257,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_258,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_259,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_260,Madhapar Chowk,1
+B1,WEEKDAY,trip_2_261,Madhapar Chowk,1
+B2,WEEKDAY,trip_3_0,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_1,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_2,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_3,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_4,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_5,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_6,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_7,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_8,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_9,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_10,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_11,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_12,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_13,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_14,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_15,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_16,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_17,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_18,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_19,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_20,Madhapar Chowk,0
+B2,WEEKDAY,trip_3_21,Madhapar Chowk,0
+R36A,WEEKDAY,trip_268_0,Badhinu Patiyu,1
+R36A,WEEKDAY,trip_268_1,Badhinu Patiyu,1
+R38A,WEEKDAY,trip_271_0,Madhapar Gaam Gate,0
+R38A,WEEKDAY,trip_271_1,Madhapar Gaam Gate,0
+R38A,WEEKDAY,trip_271_2,Madhapar Gaam Gate,0
+B2,WEEKDAY,trip_4_0,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_1,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_2,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_3,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_4,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_5,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_6,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_7,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_8,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_9,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_10,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_11,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_12,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_13,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_14,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_15,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_16,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_17,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_18,Gondal Chowkdi,1
+B2,WEEKDAY,trip_4_19,Gondal Chowkdi,1
+R100,WEEKDAY,trip_5_0,Trikon Baug,0
+R100,WEEKDAY,trip_5_1,Trikon Baug,0
+R100,WEEKDAY,trip_5_2,Trikon Baug,0
+R100,WEEKDAY,trip_5_3,Trikon Baug,0
+R100,WEEKDAY,trip_5_4,Trikon Baug,0
+R100,WEEKDAY,trip_5_5,Trikon Baug,0
+R36A,WEEKDAY,trip_269_0,Trikon Baug,0
+R36A,WEEKDAY,trip_269_1,Trikon Baug,0
+R38A,WEEKDAY,trip_270_0,Ajidam,1
+R38A,WEEKDAY,trip_270_1,Ajidam,1
+R38A,WEEKDAY,trip_270_2,Ajidam,1
+R38A,WEEKDAY,trip_270_3,Ajidam,1
+R100,WEEKDAY,trip_6_0,Atal Sarovar,1
+R100,WEEKDAY,trip_6_1,Atal Sarovar,1
+R100,WEEKDAY,trip_6_2,Atal Sarovar,1
+R100,WEEKDAY,trip_6_3,Atal Sarovar,1
+R100,WEEKDAY,trip_6_4,Atal Sarovar,1
+R100,WEEKDAY,trip_6_5,Atal Sarovar,1
+R100,WEEKDAY,trip_6_6,Atal Sarovar,1
+R100,WEEKDAY,trip_6_7,Atal Sarovar,1
+R100,WEEKDAY,trip_6_8,Atal Sarovar,1
+R100,WEEKDAY,trip_6_9,Atal Sarovar,1
+R100,WEEKDAY,trip_6_10,Atal Sarovar,1
+R100,WEEKDAY,trip_6_11,Atal Sarovar,1
+R100,WEEKDAY,trip_6_12,Atal Sarovar,1
+R11,WEEKDAY,trip_7_0,Trikon Baug,0
+R11,WEEKDAY,trip_7_1,Trikon Baug,0
+R11,WEEKDAY,trip_7_2,Trikon Baug,0
+R11,WEEKDAY,trip_7_3,Trikon Baug,0
+R11,WEEKDAY,trip_7_4,Trikon Baug,0
+R11,WEEKDAY,trip_7_5,Trikon Baug,0
+R11,WEEKDAY,trip_7_6,Trikon Baug,0
+R11,WEEKDAY,trip_7_7,Trikon Baug,0
+R11,WEEKDAY,trip_7_8,Trikon Baug,0
+R11,WEEKDAY,trip_7_9,Trikon Baug,0
+R11,WEEKDAY,trip_7_10,Trikon Baug,0
+R11,WEEKDAY,trip_7_11,Trikon Baug,0
+R11,WEEKDAY,trip_7_12,Trikon Baug,0
+R11,WEEKDAY,trip_8_0,Shapar Veraval,1
+R11,WEEKDAY,trip_8_1,Shapar Veraval,1
+R11,WEEKDAY,trip_8_2,Shapar Veraval,1
+R11,WEEKDAY,trip_8_3,Shapar Veraval,1
+R11,WEEKDAY,trip_8_4,Shapar Veraval,1
+R11,WEEKDAY,trip_8_5,Shapar Veraval,1
+R11,WEEKDAY,trip_8_6,Shapar Veraval,1
+R11,WEEKDAY,trip_8_7,Shapar Veraval,1
+R11,WEEKDAY,trip_8_8,Shapar Veraval,1
+R11,WEEKDAY,trip_8_9,Shapar Veraval,1
+R11,WEEKDAY,trip_8_10,Shapar Veraval,1
+R13A,WEEKDAY,trip_169_0,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_0,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_1,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_2,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_3,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_4,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_5,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_6,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_7,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_8,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_9,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_10,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_11,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_12,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_13,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_14,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_15,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_16,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_17,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_18,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_19,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_20,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_21,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_22,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_23,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_24,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_25,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_26,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_27,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_28,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_29,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_30,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_31,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_32,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_33,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_34,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_35,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_36,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_37,Kothariya Chowk,0
+R13,WEEKDAY,trip_9_38,Kothariya Chowk,0
+R13,WEEKDAY,trip_10_0,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_1,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_2,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_3,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_4,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_5,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_6,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_7,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_8,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_9,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_10,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_11,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_12,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_13,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_14,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_15,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_16,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_17,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_18,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_19,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_20,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_21,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_22,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_23,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_24,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_25,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_26,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_27,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_28,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_29,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_30,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_31,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_32,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_33,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_34,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_35,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_36,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_37,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_38,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_39,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_40,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_41,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_42,Lalbahadur Shastri Township,1
+R13,WEEKDAY,trip_10_43,Lalbahadur Shastri Township,1
+R14,WEEKDAY,trip_11_0,Swati Park,0
+R14,WEEKDAY,trip_11_1,Swati Park,0
+R14,WEEKDAY,trip_11_2,Swati Park,0
+R14,WEEKDAY,trip_11_3,Swati Park,0
+R14,WEEKDAY,trip_11_4,Swati Park,0
+R14,WEEKDAY,trip_11_5,Swati Park,0
+R14,WEEKDAY,trip_11_6,Swati Park,0
+R14,WEEKDAY,trip_11_7,Swati Park,0
+R14,WEEKDAY,trip_11_8,Swati Park,0
+R14,WEEKDAY,trip_11_9,Swati Park,0
+R14,WEEKDAY,trip_11_10,Swati Park,0
+R14,WEEKDAY,trip_11_11,Swati Park,0
+R14,WEEKDAY,trip_11_12,Swati Park,0
+R14,WEEKDAY,trip_12_0,Anandpar Gam,1
+R14,WEEKDAY,trip_12_1,Anandpar Gam,1
+R14,WEEKDAY,trip_12_2,Anandpar Gam,1
+R14,WEEKDAY,trip_12_3,Anandpar Gam,1
+R14,WEEKDAY,trip_12_4,Anandpar Gam,1
+R14,WEEKDAY,trip_12_5,Anandpar Gam,1
+R14,WEEKDAY,trip_12_6,Anandpar Gam,1
+R14,WEEKDAY,trip_12_7,Anandpar Gam,1
+R14,WEEKDAY,trip_12_8,Anandpar Gam,1
+R14,WEEKDAY,trip_12_9,Anandpar Gam,1
+R14,WEEKDAY,trip_12_10,Anandpar Gam,1
+R14,WEEKDAY,trip_12_11,Anandpar Gam,1
+R14,WEEKDAY,trip_12_12,Anandpar Gam,1
+R14,WEEKDAY,trip_12_13,Anandpar Gam,1
+R15A,WEEKDAY,trip_170_0,Trikon Baug,0
+R15A,WEEKDAY,trip_171_0,Iti (Khirasara),1
+R15B,WEEKDAY,trip_172_0,Trikon Baug,1
+R15,WEEKDAY,trip_13_0,Kothariya Gam,0
+R15,WEEKDAY,trip_13_1,Kothariya Gam,0
+R15,WEEKDAY,trip_13_2,Kothariya Gam,0
+R15,WEEKDAY,trip_13_3,Kothariya Gam,0
+R15,WEEKDAY,trip_13_4,Kothariya Gam,0
+R15,WEEKDAY,trip_13_5,Kothariya Gam,0
+R15,WEEKDAY,trip_13_6,Kothariya Gam,0
+R15,WEEKDAY,trip_13_7,Kothariya Gam,0
+R15,WEEKDAY,trip_13_8,Kothariya Gam,0
+R15,WEEKDAY,trip_13_9,Kothariya Gam,0
+R15,WEEKDAY,trip_13_10,Kothariya Gam,0
+R15,WEEKDAY,trip_13_11,Kothariya Gam,0
+R15,WEEKDAY,trip_13_12,Kothariya Gam,0
+R15,WEEKDAY,trip_13_13,Kothariya Gam,0
+R15,WEEKDAY,trip_13_14,Kothariya Gam,0
+R15,WEEKDAY,trip_13_15,Kothariya Gam,0
+R15,WEEKDAY,trip_13_16,Kothariya Gam,0
+R15,WEEKDAY,trip_13_17,Kothariya Gam,0
+R15,WEEKDAY,trip_13_18,Kothariya Gam,0
+R15,WEEKDAY,trip_13_19,Kothariya Gam,0
+R15,WEEKDAY,trip_13_20,Kothariya Gam,0
+R15,WEEKDAY,trip_13_21,Kothariya Gam,0
+R15,WEEKDAY,trip_13_22,Kothariya Gam,0
+R15,WEEKDAY,trip_13_23,Kothariya Gam,0
+R15,WEEKDAY,trip_13_24,Kothariya Gam,0
+R15,WEEKDAY,trip_14_0,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_1,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_2,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_3,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_4,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_5,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_6,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_7,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_8,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_9,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_10,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_11,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_12,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_13,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_14,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_15,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_16,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_17,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_18,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_19,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_20,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_21,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_22,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_23,Iti (Khirasara),1
+R15,WEEKDAY,trip_14_24,Iti (Khirasara),1
+R16A,WEEKDAY,trip_173_0,Trikon Baug,0
+R16A,WEEKDAY,trip_174_0,B.T.Savani (Kidney) Hospital,1
+R16B,WEEKDAY,trip_175_0,Trikon Baug,1
+R16,WEEKDAY,trip_15_0,Kothariya Gam,0
+R16,WEEKDAY,trip_15_1,Kothariya Gam,0
+R16,WEEKDAY,trip_15_2,Kothariya Gam,0
+R16,WEEKDAY,trip_15_3,Kothariya Gam,0
+R16,WEEKDAY,trip_15_4,Kothariya Gam,0
+R16,WEEKDAY,trip_15_5,Kothariya Gam,0
+R16,WEEKDAY,trip_15_6,Kothariya Gam,0
+R16,WEEKDAY,trip_15_7,Kothariya Gam,0
+R16,WEEKDAY,trip_15_8,Kothariya Gam,0
+R16,WEEKDAY,trip_15_9,Kothariya Gam,0
+R16,WEEKDAY,trip_16_0,Saurashtra University,1
+R16,WEEKDAY,trip_16_1,Saurashtra University,1
+R16,WEEKDAY,trip_16_2,Saurashtra University,1
+R16,WEEKDAY,trip_16_3,Saurashtra University,1
+R16,WEEKDAY,trip_16_4,Saurashtra University,1
+R16,WEEKDAY,trip_16_5,Saurashtra University,1
+R16,WEEKDAY,trip_16_6,Saurashtra University,1
+R16,WEEKDAY,trip_16_7,Saurashtra University,1
+R16,WEEKDAY,trip_16_8,Saurashtra University,1
+R16,WEEKDAY,trip_16_9,Saurashtra University,1
+R16,WEEKDAY,trip_16_10,Saurashtra University,1
+R16,WEEKDAY,trip_16_11,Saurashtra University,1
+R16,WEEKDAY,trip_16_12,Saurashtra University,1
+R16,WEEKDAY,trip_16_13,Saurashtra University,1
+R16,WEEKDAY,trip_16_14,Saurashtra University,1
+R16,WEEKDAY,trip_16_15,Saurashtra University,1
+R16,WEEKDAY,trip_16_16,Saurashtra University,1
+R16,WEEKDAY,trip_16_17,Saurashtra University,1
+R16,WEEKDAY,trip_16_18,Saurashtra University,1
+R16,WEEKDAY,trip_16_19,Saurashtra University,1
+R16,WEEKDAY,trip_16_20,Saurashtra University,1
+R17,WEEKDAY,trip_17_0,Saurashtra University,0
+R17,WEEKDAY,trip_17_1,Saurashtra University,0
+R17,WEEKDAY,trip_17_2,Saurashtra University,0
+R17,WEEKDAY,trip_17_3,Saurashtra University,0
+R17,WEEKDAY,trip_17_4,Saurashtra University,0
+R17,WEEKDAY,trip_17_5,Saurashtra University,0
+R17,WEEKDAY,trip_17_6,Saurashtra University,0
+R17,WEEKDAY,trip_17_7,Saurashtra University,0
+R17,WEEKDAY,trip_17_8,Saurashtra University,0
+R17,WEEKDAY,trip_17_9,Saurashtra University,0
+R17,WEEKDAY,trip_17_10,Saurashtra University,0
+R17,WEEKDAY,trip_17_11,Saurashtra University,0
+R17,WEEKDAY,trip_17_12,Saurashtra University,0
+R17,WEEKDAY,trip_17_13,Saurashtra University,0
+R17,WEEKDAY,trip_17_14,Saurashtra University,0
+R17,WEEKDAY,trip_17_15,Saurashtra University,0
+R17,WEEKDAY,trip_17_16,Saurashtra University,0
+R17,WEEKDAY,trip_17_17,Saurashtra University,0
+R17,WEEKDAY,trip_17_18,Saurashtra University,0
+R17,WEEKDAY,trip_17_19,Saurashtra University,0
+R17,WEEKDAY,trip_17_20,Saurashtra University,0
+R17,WEEKDAY,trip_17_21,Saurashtra University,0
+R17,WEEKDAY,trip_17_22,Saurashtra University,0
+R17,WEEKDAY,trip_17_23,Saurashtra University,0
+R17,WEEKDAY,trip_17_24,Saurashtra University,0
+R17,WEEKDAY,trip_17_25,Saurashtra University,0
+R17,WEEKDAY,trip_18_0,Tramba Village,1
+R17,WEEKDAY,trip_18_1,Tramba Village,1
+R17,WEEKDAY,trip_18_2,Tramba Village,1
+R17,WEEKDAY,trip_18_3,Tramba Village,1
+R17,WEEKDAY,trip_18_4,Tramba Village,1
+R17,WEEKDAY,trip_18_5,Tramba Village,1
+R17,WEEKDAY,trip_18_6,Tramba Village,1
+R17,WEEKDAY,trip_18_7,Tramba Village,1
+R17,WEEKDAY,trip_18_8,Tramba Village,1
+R17,WEEKDAY,trip_18_9,Tramba Village,1
+R17,WEEKDAY,trip_18_10,Tramba Village,1
+R17,WEEKDAY,trip_18_11,Tramba Village,1
+R17,WEEKDAY,trip_18_12,Tramba Village,1
+R17,WEEKDAY,trip_18_13,Tramba Village,1
+R17,WEEKDAY,trip_18_14,Tramba Village,1
+R17,WEEKDAY,trip_18_15,Tramba Village,1
+R17,WEEKDAY,trip_18_16,Tramba Village,1
+R17,WEEKDAY,trip_18_17,Tramba Village,1
+R17,WEEKDAY,trip_18_18,Tramba Village,1
+R17,WEEKDAY,trip_18_19,Tramba Village,1
+R17,WEEKDAY,trip_18_20,Tramba Village,1
+R17,WEEKDAY,trip_18_21,Tramba Village,1
+R17,WEEKDAY,trip_18_22,Tramba Village,1
+R17,WEEKDAY,trip_18_23,Tramba Village,1
+R18A,WEEKDAY,trip_176_0,Trikon Baug,0
+R18A,WEEKDAY,trip_177_0,Trikon Baug,1
+R18,WEEKDAY,trip_19_0,Ajidam,0
+R18,WEEKDAY,trip_19_1,Ajidam,0
+R18,WEEKDAY,trip_19_2,Ajidam,0
+R18,WEEKDAY,trip_19_3,Ajidam,0
+R18,WEEKDAY,trip_19_4,Ajidam,0
+R18,WEEKDAY,trip_19_5,Ajidam,0
+R18,WEEKDAY,trip_19_6,Ajidam,0
+R18,WEEKDAY,trip_19_7,Ajidam,0
+R18,WEEKDAY,trip_19_8,Ajidam,0
+R18,WEEKDAY,trip_19_9,Ajidam,0
+R18,WEEKDAY,trip_19_10,Ajidam,0
+R18,WEEKDAY,trip_20_0,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_1,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_2,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_3,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_4,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_5,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_6,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_7,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_8,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_9,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_10,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_11,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_12,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_13,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_14,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_15,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_16,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_17,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_18,Shree Ram Hospital(Metoda),1
+R18,WEEKDAY,trip_20_19,Shree Ram Hospital(Metoda),1
+R19A,WEEKDAY,trip_178_0,Trikon Baug,0
+R19A,WEEKDAY,trip_179_0,Trikon Baug,1
+R19,WEEKDAY,trip_21_0,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_1,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_2,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_3,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_4,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_5,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_6,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_7,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_8,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_9,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_10,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_11,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_12,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_13,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_14,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_15,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_16,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_17,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_18,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_19,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_21_20,Vraj Villa Apartment,0
+R19,WEEKDAY,trip_22_0,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_1,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_2,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_3,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_4,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_5,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_6,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_7,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_8,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_9,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_10,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_11,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_12,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_13,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_14,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_15,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_16,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_17,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_18,131 Slum Quater.,1
+R19,WEEKDAY,trip_22_19,131 Slum Quater.,1
+R1A,WEEKDAY,trip_180_0,Trikon Baug,0
+R1A,WEEKDAY,trip_181_0,B.T.Savani (Kidney) Hospital,1
+R1,WEEKDAY,trip_23_0,Trikon Baug,0
+R1,WEEKDAY,trip_23_1,Trikon Baug,0
+R1,WEEKDAY,trip_23_2,Trikon Baug,0
+R1,WEEKDAY,trip_23_3,Trikon Baug,0
+R1,WEEKDAY,trip_23_4,Trikon Baug,0
+R1,WEEKDAY,trip_23_5,Trikon Baug,0
+R1,WEEKDAY,trip_23_6,Trikon Baug,0
+R1,WEEKDAY,trip_23_7,Trikon Baug,0
+R1,WEEKDAY,trip_23_8,Trikon Baug,0
+R1,WEEKDAY,trip_23_9,Trikon Baug,0
+R1,WEEKDAY,trip_23_10,Trikon Baug,0
+R1,WEEKDAY,trip_23_11,Trikon Baug,0
+R1,WEEKDAY,trip_23_12,Trikon Baug,0
+R1,WEEKDAY,trip_23_13,Trikon Baug,0
+R1,WEEKDAY,trip_23_14,Trikon Baug,0
+R1,WEEKDAY,trip_23_15,Trikon Baug,0
+R1,WEEKDAY,trip_23_16,Trikon Baug,0
+R1,WEEKDAY,trip_23_17,Trikon Baug,0
+R1,WEEKDAY,trip_23_18,Trikon Baug,0
+R1,WEEKDAY,trip_23_19,Trikon Baug,0
+R1,WEEKDAY,trip_23_20,Trikon Baug,0
+R1,WEEKDAY,trip_23_21,Trikon Baug,0
+R1,WEEKDAY,trip_23_22,Trikon Baug,0
+R1,WEEKDAY,trip_23_23,Trikon Baug,0
+R1,WEEKDAY,trip_23_24,Trikon Baug,0
+R1,WEEKDAY,trip_23_25,Trikon Baug,0
+R1,WEEKDAY,trip_23_26,Trikon Baug,0
+R1,WEEKDAY,trip_23_27,Trikon Baug,0
+R1,WEEKDAY,trip_23_28,Trikon Baug,0
+R1,WEEKDAY,trip_23_29,Trikon Baug,0
+R1,WEEKDAY,trip_23_30,Trikon Baug,0
+R1,WEEKDAY,trip_23_31,Trikon Baug,0
+R1,WEEKDAY,trip_23_32,Trikon Baug,0
+R1,WEEKDAY,trip_23_33,Trikon Baug,0
+R1,WEEKDAY,trip_23_34,Trikon Baug,0
+R1,WEEKDAY,trip_23_35,Trikon Baug,0
+R1,WEEKDAY,trip_23_36,Trikon Baug,0
+R1,WEEKDAY,trip_23_37,Trikon Baug,0
+R1,WEEKDAY,trip_23_38,Trikon Baug,0
+R1,WEEKDAY,trip_23_39,Trikon Baug,0
+R1,WEEKDAY,trip_23_40,Trikon Baug,0
+R1,WEEKDAY,trip_23_41,Trikon Baug,0
+R1,WEEKDAY,trip_23_42,Trikon Baug,0
+R1,WEEKDAY,trip_23_43,Trikon Baug,0
+R1,WEEKDAY,trip_23_44,Trikon Baug,0
+R1,WEEKDAY,trip_23_45,Trikon Baug,0
+R1,WEEKDAY,trip_23_46,Trikon Baug,0
+R1,WEEKDAY,trip_23_47,Trikon Baug,0
+R1,WEEKDAY,trip_23_48,Trikon Baug,0
+R1,WEEKDAY,trip_23_49,Trikon Baug,0
+R1,WEEKDAY,trip_24_0,Saurashtra University,1
+R1,WEEKDAY,trip_24_1,Saurashtra University,1
+R1,WEEKDAY,trip_24_2,Saurashtra University,1
+R1,WEEKDAY,trip_24_3,Saurashtra University,1
+R1,WEEKDAY,trip_24_4,Saurashtra University,1
+R1,WEEKDAY,trip_24_5,Saurashtra University,1
+R1,WEEKDAY,trip_24_6,Saurashtra University,1
+R1,WEEKDAY,trip_24_7,Saurashtra University,1
+R1,WEEKDAY,trip_24_8,Saurashtra University,1
+R1,WEEKDAY,trip_24_9,Saurashtra University,1
+R1,WEEKDAY,trip_24_10,Saurashtra University,1
+R1,WEEKDAY,trip_24_11,Saurashtra University,1
+R1,WEEKDAY,trip_24_12,Saurashtra University,1
+R1,WEEKDAY,trip_24_13,Saurashtra University,1
+R1,WEEKDAY,trip_24_14,Saurashtra University,1
+R1,WEEKDAY,trip_24_15,Saurashtra University,1
+R1,WEEKDAY,trip_24_16,Saurashtra University,1
+R1,WEEKDAY,trip_24_17,Saurashtra University,1
+R1,WEEKDAY,trip_24_18,Saurashtra University,1
+R1,WEEKDAY,trip_24_19,Saurashtra University,1
+R1,WEEKDAY,trip_24_20,Saurashtra University,1
+R1,WEEKDAY,trip_24_21,Saurashtra University,1
+R1,WEEKDAY,trip_24_22,Saurashtra University,1
+R1,WEEKDAY,trip_24_23,Saurashtra University,1
+R1,WEEKDAY,trip_24_24,Saurashtra University,1
+R1,WEEKDAY,trip_24_25,Saurashtra University,1
+R1,WEEKDAY,trip_24_26,Saurashtra University,1
+R1,WEEKDAY,trip_24_27,Saurashtra University,1
+R1,WEEKDAY,trip_24_28,Saurashtra University,1
+R1,WEEKDAY,trip_24_29,Saurashtra University,1
+R1,WEEKDAY,trip_24_30,Saurashtra University,1
+R1,WEEKDAY,trip_24_31,Saurashtra University,1
+R1,WEEKDAY,trip_24_32,Saurashtra University,1
+R1,WEEKDAY,trip_24_33,Saurashtra University,1
+R1,WEEKDAY,trip_24_34,Saurashtra University,1
+R1,WEEKDAY,trip_24_35,Saurashtra University,1
+R1,WEEKDAY,trip_24_36,Saurashtra University,1
+R1,WEEKDAY,trip_24_37,Saurashtra University,1
+R1,WEEKDAY,trip_24_38,Saurashtra University,1
+R1,WEEKDAY,trip_24_39,Saurashtra University,1
+R1,WEEKDAY,trip_24_40,Saurashtra University,1
+R1,WEEKDAY,trip_24_41,Saurashtra University,1
+R1,WEEKDAY,trip_24_42,Saurashtra University,1
+R1,WEEKDAY,trip_24_43,Saurashtra University,1
+R1,WEEKDAY,trip_24_44,Saurashtra University,1
+R1,WEEKDAY,trip_24_45,Saurashtra University,1
+R1,WEEKDAY,trip_24_46,Saurashtra University,1
+R1,WEEKDAY,trip_24_47,Saurashtra University,1
+R1,WEEKDAY,trip_24_48,Saurashtra University,1
+R1,WEEKDAY,trip_24_49,Saurashtra University,1
+R20A,WEEKDAY,trip_182_0,Trikon Baug,0
+R20,WEEKDAY,trip_25_0,Ghanteshvar S.R.P. Camp,0
+R20,WEEKDAY,trip_25_1,Ghanteshvar S.R.P. Camp,0
+R20,WEEKDAY,trip_25_2,Ghanteshvar S.R.P. Camp,0
+R20,WEEKDAY,trip_25_3,Ghanteshvar S.R.P. Camp,0
+R20,WEEKDAY,trip_25_4,Ghanteshvar S.R.P. Camp,0
+R20,WEEKDAY,trip_25_5,Ghanteshvar S.R.P. Camp,0
+R20,WEEKDAY,trip_25_6,Ghanteshvar S.R.P. Camp,0
+R20,WEEKDAY,trip_26_0,Shapar Veraval,1
+R20,WEEKDAY,trip_26_1,Shapar Veraval,1
+R20,WEEKDAY,trip_26_2,Shapar Veraval,1
+R20,WEEKDAY,trip_26_3,Shapar Veraval,1
+R20,WEEKDAY,trip_26_4,Shapar Veraval,1
+R20,WEEKDAY,trip_26_5,Shapar Veraval,1
+R20,WEEKDAY,trip_26_6,Shapar Veraval,1
+R20,WEEKDAY,trip_26_7,Shapar Veraval,1
+R21,WEEKDAY,trip_27_0,Santiniketan Avenue(Raiya Gaam),0
+R21,WEEKDAY,trip_27_1,Santiniketan Avenue(Raiya Gaam),0
+R21,WEEKDAY,trip_27_2,Santiniketan Avenue(Raiya Gaam),0
+R21,WEEKDAY,trip_27_3,Santiniketan Avenue(Raiya Gaam),0
+R21,WEEKDAY,trip_28_0,Shapar Veraval,1
+R21,WEEKDAY,trip_28_1,Shapar Veraval,1
+R21,WEEKDAY,trip_28_2,Shapar Veraval,1
+R21,WEEKDAY,trip_28_3,Shapar Veraval,1
+R22A,WEEKDAY,trip_184_0,Trikon Baug,0
+R22,WEEKDAY,trip_29_0,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_29_1,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_29_2,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_29_3,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_29_4,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_29_5,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_29_6,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_29_7,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_29_8,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_29_9,Santiniketan Avenue(Raiya Gaam),0
+R22,WEEKDAY,trip_30_0,Shapar Veraval,1
+R22,WEEKDAY,trip_30_1,Shapar Veraval,1
+R22,WEEKDAY,trip_30_2,Shapar Veraval,1
+R22,WEEKDAY,trip_30_3,Shapar Veraval,1
+R22,WEEKDAY,trip_30_4,Shapar Veraval,1
+R22,WEEKDAY,trip_30_5,Shapar Veraval,1
+R22,WEEKDAY,trip_30_6,Shapar Veraval,1
+R22,WEEKDAY,trip_30_7,Shapar Veraval,1
+R22,WEEKDAY,trip_30_8,Shapar Veraval,1
+R22,WEEKDAY,trip_30_9,Shapar Veraval,1
+R23A,WEEKDAY,trip_185_0,Shri Mansukhbhai Chhapia Township,0
+R23A,WEEKDAY,trip_185_1,Shri Mansukhbhai Chhapia Township,0
+R23A,WEEKDAY,trip_185_2,Shri Mansukhbhai Chhapia Township,0
+R23A,WEEKDAY,trip_186_0,Trikon Baug,1
+R23A,WEEKDAY,trip_186_1,Trikon Baug,1
+R23A,WEEKDAY,trip_186_2,Trikon Baug,1
+R23B,WEEKDAY,trip_187_0,Trikon Baug,0
+R23B,WEEKDAY,trip_187_1,Trikon Baug,0
+R23B,WEEKDAY,trip_187_2,Trikon Baug,0
+R23,WEEKDAY,trip_31_0,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_1,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_2,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_3,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_4,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_5,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_6,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_7,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_8,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_9,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_10,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_11,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_12,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_13,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_14,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_15,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_31_16,Shri Mansukhbhai Chhapia Township,0
+R23,WEEKDAY,trip_32_0,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_1,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_2,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_3,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_4,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_5,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_6,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_7,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_8,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_9,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_10,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_11,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_12,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_13,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_14,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_15,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_16,H.N.Shukla College,1
+R23,WEEKDAY,trip_32_17,H.N.Shukla College,1
+R24A,WEEKDAY,trip_188_0,Metoda Gam,1
+R24,WEEKDAY,trip_33_0,Trikon Baug,0
+R24,WEEKDAY,trip_33_1,Trikon Baug,0
+R24,WEEKDAY,trip_33_2,Trikon Baug,0
+R24,WEEKDAY,trip_33_3,Trikon Baug,0
+R24,WEEKDAY,trip_33_4,Trikon Baug,0
+R24,WEEKDAY,trip_33_5,Trikon Baug,0
+R24,WEEKDAY,trip_33_6,Trikon Baug,0
+R24,WEEKDAY,trip_33_7,Trikon Baug,0
+R24,WEEKDAY,trip_33_8,Trikon Baug,0
+R24,WEEKDAY,trip_33_9,Trikon Baug,0
+R24,WEEKDAY,trip_33_10,Trikon Baug,0
+R24,WEEKDAY,trip_33_11,Trikon Baug,0
+R24,WEEKDAY,trip_33_12,Trikon Baug,0
+R24,WEEKDAY,trip_33_13,Trikon Baug,0
+R24,WEEKDAY,trip_34_0,Metoda Gam,1
+R24,WEEKDAY,trip_34_1,Metoda Gam,1
+R24,WEEKDAY,trip_34_2,Metoda Gam,1
+R24,WEEKDAY,trip_34_3,Metoda Gam,1
+R24,WEEKDAY,trip_34_4,Metoda Gam,1
+R24,WEEKDAY,trip_34_5,Metoda Gam,1
+R24,WEEKDAY,trip_34_6,Metoda Gam,1
+R24,WEEKDAY,trip_34_7,Metoda Gam,1
+R24,WEEKDAY,trip_34_8,Metoda Gam,1
+R24,WEEKDAY,trip_34_9,Metoda Gam,1
+R24,WEEKDAY,trip_34_10,Metoda Gam,1
+R24,WEEKDAY,trip_34_11,Metoda Gam,1
+R24,WEEKDAY,trip_34_12,Metoda Gam,1
+R24,WEEKDAY,trip_34_13,Metoda Gam,1
+R24,WEEKDAY,trip_34_14,Metoda Gam,1
+R24,WEEKDAY,trip_34_15,Metoda Gam,1
+R24,WEEKDAY,trip_34_16,Metoda Gam,1
+R24,WEEKDAY,trip_34_17,Metoda Gam,1
+R24,WEEKDAY,trip_34_18,Metoda Gam,1
+R24,WEEKDAY,trip_34_19,Metoda Gam,1
+R24,WEEKDAY,trip_34_20,Metoda Gam,1
+R24,WEEKDAY,trip_34_21,Metoda Gam,1
+R24,WEEKDAY,trip_34_22,Metoda Gam,1
+R24,WEEKDAY,trip_34_23,Metoda Gam,1
+R24,WEEKDAY,trip_34_24,Metoda Gam,1
+R24,WEEKDAY,trip_34_25,Metoda Gam,1
+R24,WEEKDAY,trip_34_26,Metoda Gam,1
+R24,WEEKDAY,trip_34_27,Metoda Gam,1
+R24,WEEKDAY,trip_34_28,Metoda Gam,1
+R24,WEEKDAY,trip_34_29,Metoda Gam,1
+R24,WEEKDAY,trip_34_30,Metoda Gam,1
+R24,WEEKDAY,trip_34_31,Metoda Gam,1
+R25A,WEEKDAY,trip_189_0,Trikon Baug,0
+R25,WEEKDAY,trip_35_0,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_1,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_2,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_3,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_4,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_5,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_6,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_7,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_8,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_9,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_10,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_11,131 Slum Quater.,0
+R25,WEEKDAY,trip_35_12,131 Slum Quater.,0
+R25,WEEKDAY,trip_36_0,Jivraj Park,1
+R25,WEEKDAY,trip_36_1,Jivraj Park,1
+R25,WEEKDAY,trip_36_2,Jivraj Park,1
+R25,WEEKDAY,trip_36_3,Jivraj Park,1
+R25,WEEKDAY,trip_36_4,Jivraj Park,1
+R25,WEEKDAY,trip_36_5,Jivraj Park,1
+R25,WEEKDAY,trip_36_6,Jivraj Park,1
+R25,WEEKDAY,trip_36_7,Jivraj Park,1
+R25,WEEKDAY,trip_36_8,Jivraj Park,1
+R25,WEEKDAY,trip_36_9,Jivraj Park,1
+R25,WEEKDAY,trip_36_10,Jivraj Park,1
+R25,WEEKDAY,trip_36_11,Jivraj Park,1
+R25,WEEKDAY,trip_36_12,Jivraj Park,1
+R26,WEEKDAY,trip_37_0,Aangan Residency,0
+R26,WEEKDAY,trip_37_1,Aangan Residency,0
+R26,WEEKDAY,trip_37_2,Aangan Residency,0
+R26,WEEKDAY,trip_37_3,Aangan Residency,0
+R26,WEEKDAY,trip_37_4,Aangan Residency,0
+R26,WEEKDAY,trip_37_5,Aangan Residency,0
+R26,WEEKDAY,trip_37_6,Aangan Residency,0
+R26,WEEKDAY,trip_37_7,Aangan Residency,0
+R26,WEEKDAY,trip_37_8,Aangan Residency,0
+R26,WEEKDAY,trip_37_9,Aangan Residency,0
+R26,WEEKDAY,trip_37_10,Aangan Residency,0
+R26,WEEKDAY,trip_37_11,Aangan Residency,0
+R26,WEEKDAY,trip_37_12,Aangan Residency,0
+R26,WEEKDAY,trip_38_0,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_1,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_2,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_3,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_4,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_5,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_6,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_7,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_8,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_9,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_10,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_11,Shyamji Krushna Varma Township,1
+R26,WEEKDAY,trip_38_12,Shyamji Krushna Varma Township,1
+R27,WEEKDAY,trip_39_0,Trikon Baug,0
+R27,WEEKDAY,trip_39_1,Trikon Baug,0
+R27,WEEKDAY,trip_39_2,Trikon Baug,0
+R27,WEEKDAY,trip_39_3,Trikon Baug,0
+R27,WEEKDAY,trip_39_4,Trikon Baug,0
+R27,WEEKDAY,trip_39_5,Trikon Baug,0
+R27,WEEKDAY,trip_39_6,Trikon Baug,0
+R27,WEEKDAY,trip_39_7,Trikon Baug,0
+R27,WEEKDAY,trip_39_8,Trikon Baug,0
+R27,WEEKDAY,trip_39_9,Trikon Baug,0
+R27,WEEKDAY,trip_39_10,Trikon Baug,0
+R27,WEEKDAY,trip_39_11,Trikon Baug,0
+R27,WEEKDAY,trip_39_12,Trikon Baug,0
+R27,WEEKDAY,trip_39_13,Trikon Baug,0
+R27,WEEKDAY,trip_39_14,Trikon Baug,0
+R27,WEEKDAY,trip_39_15,Trikon Baug,0
+R27,WEEKDAY,trip_39_16,Trikon Baug,0
+R27,WEEKDAY,trip_39_17,Trikon Baug,0
+R27,WEEKDAY,trip_39_18,Trikon Baug,0
+R27,WEEKDAY,trip_39_19,Trikon Baug,0
+R27,WEEKDAY,trip_40_0,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_1,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_2,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_3,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_4,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_5,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_6,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_7,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_8,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_9,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_10,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_11,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_12,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_13,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_14,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_15,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_16,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_17,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_18,Raiyadhar Slum Quarter,1
+R27,WEEKDAY,trip_40_19,Raiyadhar Slum Quarter,1
+R28,WEEKDAY,trip_41_0,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_1,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_2,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_3,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_4,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_5,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_6,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_7,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_8,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_9,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_10,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_11,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_12,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_13,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_14,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_41_15,Gujarat Housing Board Quarter/ Sagar Chok,0
+R28,WEEKDAY,trip_42_0,Jivraj Park,1
+R28,WEEKDAY,trip_42_1,Jivraj Park,1
+R28,WEEKDAY,trip_42_2,Jivraj Park,1
+R28,WEEKDAY,trip_42_3,Jivraj Park,1
+R28,WEEKDAY,trip_42_4,Jivraj Park,1
+R28,WEEKDAY,trip_42_5,Jivraj Park,1
+R28,WEEKDAY,trip_42_6,Jivraj Park,1
+R28,WEEKDAY,trip_42_7,Jivraj Park,1
+R28,WEEKDAY,trip_42_8,Jivraj Park,1
+R28,WEEKDAY,trip_42_9,Jivraj Park,1
+R28,WEEKDAY,trip_42_10,Jivraj Park,1
+R28,WEEKDAY,trip_42_11,Jivraj Park,1
+R28,WEEKDAY,trip_42_12,Jivraj Park,1
+R28,WEEKDAY,trip_42_13,Jivraj Park,1
+R28,WEEKDAY,trip_42_14,Jivraj Park,1
+R2,WEEKDAY,trip_43_0,Atal Sarovar,0
+R2,WEEKDAY,trip_43_1,Atal Sarovar,0
+R2,WEEKDAY,trip_43_2,Atal Sarovar,0
+R2,WEEKDAY,trip_43_3,Atal Sarovar,0
+R2,WEEKDAY,trip_43_4,Atal Sarovar,0
+R2,WEEKDAY,trip_43_5,Atal Sarovar,0
+R2,WEEKDAY,trip_43_6,Atal Sarovar,0
+R2,WEEKDAY,trip_43_7,Atal Sarovar,0
+R2,WEEKDAY,trip_43_8,Atal Sarovar,0
+R2,WEEKDAY,trip_43_9,Atal Sarovar,0
+R2,WEEKDAY,trip_43_10,Atal Sarovar,0
+R2,WEEKDAY,trip_43_11,Atal Sarovar,0
+R2,WEEKDAY,trip_44_0,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_1,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_2,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_3,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_4,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_5,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_6,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_7,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_8,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_9,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_10,H.N.Shukla College,1
+R2,WEEKDAY,trip_44_11,H.N.Shukla College,1
+R30CIRCULAR,WEEKDAY,trip_45_0,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_1,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_2,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_3,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_4,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_5,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_6,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_7,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_8,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_9,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_10,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_11,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_12,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_13,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_14,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_15,Trikon Baug 2,0
+R30CIRCULAR,WEEKDAY,trip_45_16,Trikon Baug 2,0
+R31CIRCULAR,WEEKDAY,trip_46_0,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_1,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_2,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_3,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_4,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_5,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_6,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_7,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_8,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_9,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_10,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_11,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_12,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_13,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_14,Trikon Baug,0
+R31CIRCULAR,WEEKDAY,trip_46_15,Trikon Baug,0
+R32A,WEEKDAY,trip_190_0,Tramba Village,0
+R32A,WEEKDAY,trip_191_0,Trikon Baug,1
+R32A,WEEKDAY,trip_191_1,Trikon Baug,1
+R32B,WEEKDAY,trip_192_0,Trikon Baug,0
+R32B,WEEKDAY,trip_192_1,Trikon Baug,0
+R32,WEEKDAY,trip_47_0,Tramba Village,0
+R32,WEEKDAY,trip_47_1,Tramba Village,0
+R32,WEEKDAY,trip_47_2,Tramba Village,0
+R32,WEEKDAY,trip_47_3,Tramba Village,0
+R32,WEEKDAY,trip_47_4,Tramba Village,0
+R32,WEEKDAY,trip_47_5,Tramba Village,0
+R32,WEEKDAY,trip_48_0,Parsananagar,1
+R32,WEEKDAY,trip_48_1,Parsananagar,1
+R32,WEEKDAY,trip_48_2,Parsananagar,1
+R32,WEEKDAY,trip_48_3,Parsananagar,1
+R32,WEEKDAY,trip_48_4,Parsananagar,1
+R32,WEEKDAY,trip_48_5,Parsananagar,1
+R34A,WEEKDAY,trip_193_0,Kamdar Nurshing Collage,0
+R34A,WEEKDAY,trip_194_0,H.N.Shukla College,1
+R9A,WEEKDAY,trip_275_0,Saurashtra University,0
+R9A,WEEKDAY,trip_276_0,Ratanpar (Ramji Mandir),1
+R34B,WEEKDAY,trip_195_0,Trikon Baug,0
+R34,WEEKDAY,trip_49_0,Kamdar Nurshing Collage,0
+R34,WEEKDAY,trip_49_1,Kamdar Nurshing Collage,0
+R34,WEEKDAY,trip_50_0,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_1,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_2,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_3,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_4,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_5,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_6,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_7,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_8,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_9,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_10,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_11,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_12,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_13,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_14,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_15,H.N.Shukla College,1
+R34,WEEKDAY,trip_50_16,H.N.Shukla College,1
+R35,WEEKDAY,trip_51_0,Trikon Baug,0
+R35,WEEKDAY,trip_51_1,Trikon Baug,0
+R35,WEEKDAY,trip_51_2,Trikon Baug,0
+R35,WEEKDAY,trip_51_3,Trikon Baug,0
+R35,WEEKDAY,trip_51_4,Trikon Baug,0
+R35,WEEKDAY,trip_51_5,Trikon Baug,0
+R35,WEEKDAY,trip_51_6,Trikon Baug,0
+R35,WEEKDAY,trip_51_7,Trikon Baug,0
+R35,WEEKDAY,trip_51_8,Trikon Baug,0
+R35,WEEKDAY,trip_51_9,Trikon Baug,0
+R35,WEEKDAY,trip_51_10,Trikon Baug,0
+R35,WEEKDAY,trip_51_11,Trikon Baug,0
+R35,WEEKDAY,trip_52_0,Shapar Veraval,1
+R35,WEEKDAY,trip_52_1,Shapar Veraval,1
+R35,WEEKDAY,trip_52_2,Shapar Veraval,1
+R35,WEEKDAY,trip_52_3,Shapar Veraval,1
+R35,WEEKDAY,trip_52_4,Shapar Veraval,1
+R35,WEEKDAY,trip_52_5,Shapar Veraval,1
+R35,WEEKDAY,trip_52_6,Shapar Veraval,1
+R35,WEEKDAY,trip_52_7,Shapar Veraval,1
+R35,WEEKDAY,trip_52_8,Shapar Veraval,1
+R35,WEEKDAY,trip_52_9,Shapar Veraval,1
+R35,WEEKDAY,trip_52_10,Shapar Veraval,1
+R36,WEEKDAY,trip_53_0,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_1,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_2,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_3,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_4,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_5,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_6,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_7,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_8,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_9,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_10,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_11,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_12,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_13,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_14,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_15,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_16,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_53_17,Bhaktinagar Circle,0
+R36,WEEKDAY,trip_54_0,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_1,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_2,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_3,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_4,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_5,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_6,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_7,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_8,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_9,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_10,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_11,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_12,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_13,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_14,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_15,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_16,Badhinu Patiyu,1
+R36,WEEKDAY,trip_54_17,Badhinu Patiyu,1
+R37,WEEKDAY,trip_55_0,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_1,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_2,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_3,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_4,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_5,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_6,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_7,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_8,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_9,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_10,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_11,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_12,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_13,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_55_14,Ridhhi Sidhhi Park Crossing,0
+R37,WEEKDAY,trip_56_0,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_1,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_2,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_3,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_4,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_5,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_6,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_7,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_8,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_9,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_10,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_11,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_12,Bhagini Nivedita Township,1
+R37,WEEKDAY,trip_56_13,Bhagini Nivedita Township,1
+R38,WEEKDAY,trip_57_0,Regional Science Centre,0
+R38,WEEKDAY,trip_57_1,Regional Science Centre,0
+R38,WEEKDAY,trip_57_2,Regional Science Centre,0
+R38,WEEKDAY,trip_57_3,Regional Science Centre,0
+R38,WEEKDAY,trip_57_4,Regional Science Centre,0
+R38,WEEKDAY,trip_57_5,Regional Science Centre,0
+R38,WEEKDAY,trip_57_6,Regional Science Centre,0
+R38,WEEKDAY,trip_57_7,Regional Science Centre,0
+R38,WEEKDAY,trip_57_8,Regional Science Centre,0
+R38,WEEKDAY,trip_57_9,Regional Science Centre,0
+R38,WEEKDAY,trip_57_10,Regional Science Centre,0
+R38,WEEKDAY,trip_57_11,Regional Science Centre,0
+R38,WEEKDAY,trip_57_12,Regional Science Centre,0
+R38,WEEKDAY,trip_57_13,Regional Science Centre,0
+R38,WEEKDAY,trip_57_14,Regional Science Centre,0
+R38,WEEKDAY,trip_58_0,Ajidam,1
+R38,WEEKDAY,trip_58_1,Ajidam,1
+R38,WEEKDAY,trip_58_2,Ajidam,1
+R38,WEEKDAY,trip_58_3,Ajidam,1
+R38,WEEKDAY,trip_58_4,Ajidam,1
+R38,WEEKDAY,trip_58_5,Ajidam,1
+R38,WEEKDAY,trip_58_6,Ajidam,1
+R38,WEEKDAY,trip_58_7,Ajidam,1
+R38,WEEKDAY,trip_58_8,Ajidam,1
+R38,WEEKDAY,trip_58_9,Ajidam,1
+R38,WEEKDAY,trip_58_10,Ajidam,1
+R38,WEEKDAY,trip_58_11,Ajidam,1
+R38,WEEKDAY,trip_58_12,Ajidam,1
+R38,WEEKDAY,trip_58_13,Ajidam,1
+R3,WEEKDAY,trip_59_0,Madhapar Chowk,0
+R3,WEEKDAY,trip_59_1,Madhapar Chowk,0
+R3,WEEKDAY,trip_59_2,Madhapar Chowk,0
+R3,WEEKDAY,trip_59_3,Madhapar Chowk,0
+R3,WEEKDAY,trip_59_4,Madhapar Chowk,0
+R3,WEEKDAY,trip_59_5,Madhapar Chowk,0
+R3,WEEKDAY,trip_59_6,Madhapar Chowk,0
+R3,WEEKDAY,trip_59_7,Madhapar Chowk,0
+R3,WEEKDAY,trip_59_8,Madhapar Chowk,0
+R3,WEEKDAY,trip_60_0,Parsana Chowk,1
+R3,WEEKDAY,trip_60_1,Parsana Chowk,1
+R3,WEEKDAY,trip_60_2,Parsana Chowk,1
+R3,WEEKDAY,trip_60_3,Parsana Chowk,1
+R3,WEEKDAY,trip_60_4,Parsana Chowk,1
+R3,WEEKDAY,trip_60_5,Parsana Chowk,1
+R3,WEEKDAY,trip_60_6,Parsana Chowk,1
+R3,WEEKDAY,trip_60_7,Parsana Chowk,1
+R3,WEEKDAY,trip_60_8,Parsana Chowk,1
+R40A,WEEKDAY,trip_197_0,Jamtower Chowk,0
+R40,WEEKDAY,trip_61_0,Saurashtra University,0
+R40,WEEKDAY,trip_61_1,Saurashtra University,0
+R40,WEEKDAY,trip_61_2,Saurashtra University,0
+R40,WEEKDAY,trip_61_3,Saurashtra University,0
+R40,WEEKDAY,trip_61_4,Saurashtra University,0
+R40,WEEKDAY,trip_61_5,Saurashtra University,0
+R40,WEEKDAY,trip_61_6,Saurashtra University,0
+R40,WEEKDAY,trip_61_7,Saurashtra University,0
+R40,WEEKDAY,trip_61_8,Saurashtra University,0
+R40,WEEKDAY,trip_61_9,Saurashtra University,0
+R40,WEEKDAY,trip_61_10,Saurashtra University,0
+R40,WEEKDAY,trip_61_11,Saurashtra University,0
+R40,WEEKDAY,trip_61_12,Saurashtra University,0
+R40,WEEKDAY,trip_61_13,Saurashtra University,0
+R40,WEEKDAY,trip_62_0,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_1,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_2,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_3,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_4,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_5,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_6,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_7,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_8,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_9,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_10,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_11,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_12,Shivalay Chowk,1
+R40,WEEKDAY,trip_62_13,Shivalay Chowk,1
+R41,WEEKDAY,trip_63_0,Vinod Nagar,0
+R41,WEEKDAY,trip_63_1,Vinod Nagar,0
+R41,WEEKDAY,trip_63_2,Vinod Nagar,0
+R41,WEEKDAY,trip_63_3,Vinod Nagar,0
+R41,WEEKDAY,trip_63_4,Vinod Nagar,0
+R41,WEEKDAY,trip_63_5,Vinod Nagar,0
+R41,WEEKDAY,trip_63_6,Vinod Nagar,0
+R41,WEEKDAY,trip_63_7,Vinod Nagar,0
+R41,WEEKDAY,trip_63_8,Vinod Nagar,0
+R41,WEEKDAY,trip_63_9,Vinod Nagar,0
+R41,WEEKDAY,trip_63_10,Vinod Nagar,0
+R41,WEEKDAY,trip_63_11,Vinod Nagar,0
+R41,WEEKDAY,trip_63_12,Vinod Nagar,0
+R41,WEEKDAY,trip_63_13,Vinod Nagar,0
+R41,WEEKDAY,trip_64_0,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_1,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_2,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_3,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_4,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_5,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_6,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_7,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_8,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_9,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_10,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_11,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_12,Nandbhumi Tower,1
+R41,WEEKDAY,trip_64_13,Nandbhumi Tower,1
+R42A,WEEKDAY,trip_198_0,Greenland Chowk,0
+R42A,WEEKDAY,trip_198_1,Greenland Chowk,0
+R42A,WEEKDAY,trip_199_0,Vasant Vatika,1
+R42B,WEEKDAY,trip_200_0,Trikon Baug,0
+R42B,WEEKDAY,trip_201_0,Trikon Baug,1
+R42,WEEKDAY,trip_65_0,Greenland Chowk,0
+R42,WEEKDAY,trip_65_1,Greenland Chowk,0
+R42,WEEKDAY,trip_65_2,Greenland Chowk,0
+R42,WEEKDAY,trip_65_3,Greenland Chowk,0
+R42,WEEKDAY,trip_65_4,Greenland Chowk,0
+R42,WEEKDAY,trip_65_5,Greenland Chowk,0
+R42,WEEKDAY,trip_65_6,Greenland Chowk,0
+R42,WEEKDAY,trip_65_7,Greenland Chowk,0
+R42,WEEKDAY,trip_65_8,Greenland Chowk,0
+R42,WEEKDAY,trip_65_9,Greenland Chowk,0
+R42,WEEKDAY,trip_65_10,Greenland Chowk,0
+R42,WEEKDAY,trip_65_11,Greenland Chowk,0
+R42,WEEKDAY,trip_66_0,Vasant Vatika,1
+R42,WEEKDAY,trip_66_1,Vasant Vatika,1
+R42,WEEKDAY,trip_66_2,Vasant Vatika,1
+R42,WEEKDAY,trip_66_3,Vasant Vatika,1
+R42,WEEKDAY,trip_66_4,Vasant Vatika,1
+R42,WEEKDAY,trip_66_5,Vasant Vatika,1
+R42,WEEKDAY,trip_66_6,Vasant Vatika,1
+R42,WEEKDAY,trip_66_7,Vasant Vatika,1
+R42,WEEKDAY,trip_66_8,Vasant Vatika,1
+R42,WEEKDAY,trip_66_9,Vasant Vatika,1
+R42,WEEKDAY,trip_66_10,Vasant Vatika,1
+R42,WEEKDAY,trip_66_11,Vasant Vatika,1
+R42,WEEKDAY,trip_66_12,Vasant Vatika,1
+R43A,WEEKDAY,trip_202_0,Trikon Baug,0
+R43A,WEEKDAY,trip_203_0,Trikon Baug,1
+R43,WEEKDAY,trip_67_0,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_1,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_2,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_3,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_4,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_5,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_6,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_7,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_8,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_9,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_10,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_11,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_12,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_13,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_14,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_15,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_16,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_17,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_18,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_19,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_20,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_21,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_22,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_23,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_24,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_25,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_26,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_27,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_28,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_29,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_30,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_31,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_32,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_33,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_34,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_35,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_36,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_37,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_38,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_39,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_67_40,Om Residency (Morbi Road Crosing),0
+R43,WEEKDAY,trip_68_0,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_1,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_2,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_3,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_4,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_5,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_6,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_7,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_8,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_9,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_10,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_11,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_12,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_13,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_14,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_15,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_16,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_17,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_18,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_19,Akshar Vatika(Mavadi),1
+R43,WEEKDAY,trip_68_20,Akshar Vatika(Mavadi),1
+R44A,WEEKDAY,trip_204_0,Trikon Baug,0
+R44A,WEEKDAY,trip_205_0,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_69_0,Trikon Baug,0
+R44,WEEKDAY,trip_69_1,Trikon Baug,0
+R44,WEEKDAY,trip_69_2,Trikon Baug,0
+R44,WEEKDAY,trip_69_3,Trikon Baug,0
+R44,WEEKDAY,trip_69_4,Trikon Baug,0
+R44,WEEKDAY,trip_69_5,Trikon Baug,0
+R44,WEEKDAY,trip_69_6,Trikon Baug,0
+R44,WEEKDAY,trip_69_7,Trikon Baug,0
+R44,WEEKDAY,trip_69_8,Trikon Baug,0
+R44,WEEKDAY,trip_69_9,Trikon Baug,0
+R44,WEEKDAY,trip_69_10,Trikon Baug,0
+R44,WEEKDAY,trip_69_11,Trikon Baug,0
+R44,WEEKDAY,trip_70_0,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_1,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_2,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_3,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_4,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_5,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_6,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_7,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_8,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_9,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_10,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_11,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_12,Shree Mohandasbapa Ashram,1
+R44,WEEKDAY,trip_70_13,Shree Mohandasbapa Ashram,1
+R45A,WEEKDAY,trip_206_0,Saurashtra University,0
+R45A,WEEKDAY,trip_207_0,Marwadi College,1
+R45B,WEEKDAY,trip_208_0,Trikon Baug,0
+R45B,WEEKDAY,trip_209_0,Marwadi College,1
+R45C,WEEKDAY,trip_210_0,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_71_0,Saurashtra University,0
+R45,WEEKDAY,trip_71_1,Saurashtra University,0
+R45,WEEKDAY,trip_71_2,Saurashtra University,0
+R45,WEEKDAY,trip_71_3,Saurashtra University,0
+R45,WEEKDAY,trip_71_4,Saurashtra University,0
+R45,WEEKDAY,trip_71_5,Saurashtra University,0
+R45,WEEKDAY,trip_71_6,Saurashtra University,0
+R45,WEEKDAY,trip_71_7,Saurashtra University,0
+R45,WEEKDAY,trip_71_8,Saurashtra University,0
+R45,WEEKDAY,trip_71_9,Saurashtra University,0
+R45,WEEKDAY,trip_71_10,Saurashtra University,0
+R45,WEEKDAY,trip_71_11,Saurashtra University,0
+R45,WEEKDAY,trip_72_0,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_1,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_2,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_3,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_4,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_5,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_6,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_7,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_8,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_9,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_10,Arpit Eng. Collage,1
+R45,WEEKDAY,trip_72_11,Arpit Eng. Collage,1
+R46,WEEKDAY,trip_73_0,Trikon Baug,0
+R46,WEEKDAY,trip_73_1,Trikon Baug,0
+R46,WEEKDAY,trip_73_2,Trikon Baug,0
+R46,WEEKDAY,trip_73_3,Trikon Baug,0
+R46,WEEKDAY,trip_73_4,Trikon Baug,0
+R46,WEEKDAY,trip_73_5,Trikon Baug,0
+R46,WEEKDAY,trip_73_6,Trikon Baug,0
+R46,WEEKDAY,trip_73_7,Trikon Baug,0
+R46,WEEKDAY,trip_73_8,Trikon Baug,0
+R46,WEEKDAY,trip_73_9,Trikon Baug,0
+R46,WEEKDAY,trip_74_0,Shree Sardar Patel Homeopathic Collage,1
+R46,WEEKDAY,trip_74_1,Shree Sardar Patel Homeopathic Collage,1
+R46,WEEKDAY,trip_74_2,Shree Sardar Patel Homeopathic Collage,1
+R46,WEEKDAY,trip_74_3,Shree Sardar Patel Homeopathic Collage,1
+R46,WEEKDAY,trip_74_4,Shree Sardar Patel Homeopathic Collage,1
+R46,WEEKDAY,trip_74_5,Shree Sardar Patel Homeopathic Collage,1
+R46,WEEKDAY,trip_74_6,Shree Sardar Patel Homeopathic Collage,1
+R46,WEEKDAY,trip_74_7,Shree Sardar Patel Homeopathic Collage,1
+R46,WEEKDAY,trip_74_8,Shree Sardar Patel Homeopathic Collage,1
+R46,WEEKDAY,trip_74_9,Shree Sardar Patel Homeopathic Collage,1
+R47A,WEEKDAY,trip_211_0,Saurashtra University,1
+R47,WEEKDAY,trip_75_0,Kothariya Gam,0
+R47,WEEKDAY,trip_75_1,Kothariya Gam,0
+R47,WEEKDAY,trip_75_2,Kothariya Gam,0
+R47,WEEKDAY,trip_75_3,Kothariya Gam,0
+R47,WEEKDAY,trip_75_4,Kothariya Gam,0
+R47,WEEKDAY,trip_75_5,Kothariya Gam,0
+R47,WEEKDAY,trip_75_6,Kothariya Gam,0
+R47,WEEKDAY,trip_75_7,Kothariya Gam,0
+R47,WEEKDAY,trip_75_8,Kothariya Gam,0
+R47,WEEKDAY,trip_75_9,Kothariya Gam,0
+R47,WEEKDAY,trip_75_10,Kothariya Gam,0
+R47,WEEKDAY,trip_75_11,Kothariya Gam,0
+R47,WEEKDAY,trip_75_12,Kothariya Gam,0
+R47,WEEKDAY,trip_75_13,Kothariya Gam,0
+R47,WEEKDAY,trip_75_14,Kothariya Gam,0
+R47,WEEKDAY,trip_75_15,Kothariya Gam,0
+R47,WEEKDAY,trip_75_16,Kothariya Gam,0
+R47,WEEKDAY,trip_75_17,Kothariya Gam,0
+R47,WEEKDAY,trip_75_18,Kothariya Gam,0
+R47,WEEKDAY,trip_75_19,Kothariya Gam,0
+R47,WEEKDAY,trip_75_20,Kothariya Gam,0
+R47,WEEKDAY,trip_75_21,Kothariya Gam,0
+R47,WEEKDAY,trip_75_22,Kothariya Gam,0
+R47,WEEKDAY,trip_75_23,Kothariya Gam,0
+R47,WEEKDAY,trip_75_24,Kothariya Gam,0
+R47,WEEKDAY,trip_75_25,Kothariya Gam,0
+R47,WEEKDAY,trip_75_26,Kothariya Gam,0
+R47,WEEKDAY,trip_75_27,Kothariya Gam,0
+R47,WEEKDAY,trip_75_28,Kothariya Gam,0
+R47,WEEKDAY,trip_75_29,Kothariya Gam,0
+R47,WEEKDAY,trip_75_30,Kothariya Gam,0
+R47,WEEKDAY,trip_75_31,Kothariya Gam,0
+R47,WEEKDAY,trip_75_32,Kothariya Gam,0
+R47,WEEKDAY,trip_75_33,Kothariya Gam,0
+R47,WEEKDAY,trip_75_34,Kothariya Gam,0
+R47,WEEKDAY,trip_75_35,Kothariya Gam,0
+R47,WEEKDAY,trip_75_36,Kothariya Gam,0
+R47,WEEKDAY,trip_76_0,Saurashtra University,1
+R47,WEEKDAY,trip_76_1,Saurashtra University,1
+R47,WEEKDAY,trip_76_2,Saurashtra University,1
+R47,WEEKDAY,trip_76_3,Saurashtra University,1
+R47,WEEKDAY,trip_76_4,Saurashtra University,1
+R47,WEEKDAY,trip_76_5,Saurashtra University,1
+R47,WEEKDAY,trip_76_6,Saurashtra University,1
+R47,WEEKDAY,trip_76_7,Saurashtra University,1
+R47,WEEKDAY,trip_76_8,Saurashtra University,1
+R47,WEEKDAY,trip_76_9,Saurashtra University,1
+R47,WEEKDAY,trip_76_10,Saurashtra University,1
+R47,WEEKDAY,trip_76_11,Saurashtra University,1
+R47,WEEKDAY,trip_76_12,Saurashtra University,1
+R47,WEEKDAY,trip_76_13,Saurashtra University,1
+R47,WEEKDAY,trip_76_14,Saurashtra University,1
+R47,WEEKDAY,trip_76_15,Saurashtra University,1
+R47,WEEKDAY,trip_76_16,Saurashtra University,1
+R4,WEEKDAY,trip_77_0,Ajidam,0
+R4,WEEKDAY,trip_77_1,Ajidam,0
+R4,WEEKDAY,trip_77_2,Ajidam,0
+R4,WEEKDAY,trip_77_3,Ajidam,0
+R4,WEEKDAY,trip_77_4,Ajidam,0
+R4,WEEKDAY,trip_77_5,Ajidam,0
+R4,WEEKDAY,trip_77_6,Ajidam,0
+R4,WEEKDAY,trip_77_7,Ajidam,0
+R4,WEEKDAY,trip_78_0,G.I.D.C. Gate 3,1
+R4,WEEKDAY,trip_78_1,G.I.D.C. Gate 3,1
+R4,WEEKDAY,trip_78_2,G.I.D.C. Gate 3,1
+R4,WEEKDAY,trip_78_3,G.I.D.C. Gate 3,1
+R4,WEEKDAY,trip_78_4,G.I.D.C. Gate 3,1
+R4,WEEKDAY,trip_78_5,G.I.D.C. Gate 3,1
+R4,WEEKDAY,trip_78_6,G.I.D.C. Gate 3,1
+R4,WEEKDAY,trip_78_7,G.I.D.C. Gate 3,1
+R51A,WEEKDAY,trip_212_0,Trikon Baug,0
+R51,WEEKDAY,trip_79_0,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_1,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_2,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_3,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_4,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_5,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_6,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_7,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_8,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_9,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_79_10,Ghanteshvar S.R.P. Camp (G Company),0
+R51,WEEKDAY,trip_80_0,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_1,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_2,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_3,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_4,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_5,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_6,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_7,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_8,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_9,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_10,Punit Nagar (Jetco 66 K.V.A.),1
+R51,WEEKDAY,trip_80_11,Punit Nagar (Jetco 66 K.V.A.),1
+R53,WEEKDAY,trip_81_0,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_1,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_2,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_3,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_4,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_5,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_6,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_7,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_8,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_9,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_10,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_11,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_12,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_13,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_14,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_15,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_16,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_17,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_18,Bhaktinagar Station,0
+R53,WEEKDAY,trip_81_19,Bhaktinagar Station,0
+R53,WEEKDAY,trip_82_0,District And Sessions Court,1
+R53,WEEKDAY,trip_82_1,District And Sessions Court,1
+R53,WEEKDAY,trip_82_2,District And Sessions Court,1
+R53,WEEKDAY,trip_82_3,District And Sessions Court,1
+R53,WEEKDAY,trip_82_4,District And Sessions Court,1
+R53,WEEKDAY,trip_82_5,District And Sessions Court,1
+R53,WEEKDAY,trip_82_6,District And Sessions Court,1
+R53,WEEKDAY,trip_82_7,District And Sessions Court,1
+R53,WEEKDAY,trip_82_8,District And Sessions Court,1
+R53,WEEKDAY,trip_82_9,District And Sessions Court,1
+R53,WEEKDAY,trip_82_10,District And Sessions Court,1
+R53,WEEKDAY,trip_82_11,District And Sessions Court,1
+R53,WEEKDAY,trip_82_12,District And Sessions Court,1
+R53,WEEKDAY,trip_82_13,District And Sessions Court,1
+R53,WEEKDAY,trip_82_14,District And Sessions Court,1
+R53,WEEKDAY,trip_82_15,District And Sessions Court,1
+R53,WEEKDAY,trip_82_16,District And Sessions Court,1
+R53,WEEKDAY,trip_82_17,District And Sessions Court,1
+R53,WEEKDAY,trip_82_18,District And Sessions Court,1
+R53,WEEKDAY,trip_82_19,District And Sessions Court,1
+R54A,WEEKDAY,trip_213_0,Trikon Baug,0
+R54,WEEKDAY,trip_83_0,Ghanteshvar S.R.P. Camp,0
+R54,WEEKDAY,trip_83_1,Ghanteshvar S.R.P. Camp,0
+R54,WEEKDAY,trip_83_2,Ghanteshvar S.R.P. Camp,0
+R54,WEEKDAY,trip_83_3,Ghanteshvar S.R.P. Camp,0
+R54,WEEKDAY,trip_83_4,Ghanteshvar S.R.P. Camp,0
+R54,WEEKDAY,trip_83_5,Ghanteshvar S.R.P. Camp,0
+R54,WEEKDAY,trip_83_6,Ghanteshvar S.R.P. Camp,0
+R54,WEEKDAY,trip_84_0,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_1,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_2,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_3,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_4,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_5,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_6,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_7,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_8,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_9,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_10,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_11,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_12,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_13,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_14,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_15,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_16,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_17,Radha Park (Kotharia Gam),1
+R54,WEEKDAY,trip_84_18,Radha Park (Kotharia Gam),1
+R55A,WEEKDAY,trip_214_0,Trikon Baug,0
+R55A,WEEKDAY,trip_215_0,Arpit Eng. Collage,1
+R55,WEEKDAY,trip_85_0,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_1,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_2,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_3,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_4,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_5,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_6,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_7,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_8,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_9,Gondal Chowkdi,0
+R55,WEEKDAY,trip_85_10,Gondal Chowkdi,0
+R55,WEEKDAY,trip_86_0,Arpit Eng. Collage,1
+R55,WEEKDAY,trip_86_1,Arpit Eng. Collage,1
+R55,WEEKDAY,trip_86_2,Arpit Eng. Collage,1
+R55,WEEKDAY,trip_86_3,Arpit Eng. Collage,1
+R55,WEEKDAY,trip_86_4,Arpit Eng. Collage,1
+R55,WEEKDAY,trip_86_5,Arpit Eng. Collage,1
+R55,WEEKDAY,trip_86_6,Arpit Eng. Collage,1
+R56A,WEEKDAY,trip_216_0,Trikon Baug,0
+R56A,WEEKDAY,trip_217_0,Pandit Deendayal Nagar,1
+R56,WEEKDAY,trip_87_0,Trikon Baug,0
+R56,WEEKDAY,trip_87_1,Trikon Baug,0
+R56,WEEKDAY,trip_87_2,Trikon Baug,0
+R56,WEEKDAY,trip_87_3,Trikon Baug,0
+R56,WEEKDAY,trip_87_4,Trikon Baug,0
+R56,WEEKDAY,trip_87_5,Trikon Baug,0
+R56,WEEKDAY,trip_87_6,Trikon Baug,0
+R56,WEEKDAY,trip_87_7,Trikon Baug,0
+R56,WEEKDAY,trip_88_0,Government Engineering College,1
+R56,WEEKDAY,trip_88_1,Government Engineering College,1
+R56,WEEKDAY,trip_88_2,Government Engineering College,1
+R56,WEEKDAY,trip_88_3,Government Engineering College,1
+R56,WEEKDAY,trip_88_4,Government Engineering College,1
+R56,WEEKDAY,trip_88_5,Government Engineering College,1
+R56,WEEKDAY,trip_88_6,Government Engineering College,1
+R57A,WEEKDAY,trip_218_0,Trikon Baug,0
+R57A,WEEKDAY,trip_219_0,Everest Park,1
+R57,WEEKDAY,trip_89_0,Trikon Baug,0
+R57,WEEKDAY,trip_89_1,Trikon Baug,0
+R57,WEEKDAY,trip_89_2,Trikon Baug,0
+R57,WEEKDAY,trip_89_3,Trikon Baug,0
+R57,WEEKDAY,trip_89_4,Trikon Baug,0
+R57,WEEKDAY,trip_89_5,Trikon Baug,0
+R57,WEEKDAY,trip_89_6,Trikon Baug,0
+R57,WEEKDAY,trip_89_7,Trikon Baug,0
+R57,WEEKDAY,trip_89_8,Trikon Baug,0
+R57,WEEKDAY,trip_89_9,Trikon Baug,0
+R57,WEEKDAY,trip_89_10,Trikon Baug,0
+R57,WEEKDAY,trip_89_11,Trikon Baug,0
+R57,WEEKDAY,trip_89_12,Trikon Baug,0
+R57,WEEKDAY,trip_89_13,Trikon Baug,0
+R57,WEEKDAY,trip_89_14,Trikon Baug,0
+R57,WEEKDAY,trip_89_15,Trikon Baug,0
+R57,WEEKDAY,trip_89_16,Trikon Baug,0
+R57,WEEKDAY,trip_89_17,Trikon Baug,0
+R57,WEEKDAY,trip_89_18,Trikon Baug,0
+R57,WEEKDAY,trip_89_19,Trikon Baug,0
+R57,WEEKDAY,trip_89_20,Trikon Baug,0
+R57,WEEKDAY,trip_89_21,Trikon Baug,0
+R57,WEEKDAY,trip_90_0,Government Engineering College,1
+R57,WEEKDAY,trip_90_1,Government Engineering College,1
+R57,WEEKDAY,trip_90_2,Government Engineering College,1
+R57,WEEKDAY,trip_90_3,Government Engineering College,1
+R57,WEEKDAY,trip_90_4,Government Engineering College,1
+R57,WEEKDAY,trip_90_5,Government Engineering College,1
+R57,WEEKDAY,trip_90_6,Government Engineering College,1
+R57,WEEKDAY,trip_90_7,Government Engineering College,1
+R57,WEEKDAY,trip_90_8,Government Engineering College,1
+R57,WEEKDAY,trip_90_9,Government Engineering College,1
+R57,WEEKDAY,trip_90_10,Government Engineering College,1
+R57,WEEKDAY,trip_90_11,Government Engineering College,1
+R57,WEEKDAY,trip_90_12,Government Engineering College,1
+R57,WEEKDAY,trip_90_13,Government Engineering College,1
+R57,WEEKDAY,trip_90_14,Government Engineering College,1
+R57,WEEKDAY,trip_90_15,Government Engineering College,1
+R57,WEEKDAY,trip_90_16,Government Engineering College,1
+R57,WEEKDAY,trip_90_17,Government Engineering College,1
+R57,WEEKDAY,trip_90_18,Government Engineering College,1
+R57,WEEKDAY,trip_90_19,Government Engineering College,1
+R57,WEEKDAY,trip_90_20,Government Engineering College,1
+R58,WEEKDAY,trip_91_0,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_1,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_2,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_3,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_4,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_5,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_6,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_7,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_8,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_9,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_10,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_11,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_12,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_13,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_14,Madhapar Chowk,0
+R58,WEEKDAY,trip_91_15,Madhapar Chowk,0
+R58,WEEKDAY,trip_92_0,Aiims Hospital,1
+R58,WEEKDAY,trip_92_1,Aiims Hospital,1
+R58,WEEKDAY,trip_92_2,Aiims Hospital,1
+R58,WEEKDAY,trip_92_3,Aiims Hospital,1
+R58,WEEKDAY,trip_92_4,Aiims Hospital,1
+R58,WEEKDAY,trip_92_5,Aiims Hospital,1
+R58,WEEKDAY,trip_92_6,Aiims Hospital,1
+R58,WEEKDAY,trip_92_7,Aiims Hospital,1
+R58,WEEKDAY,trip_92_8,Aiims Hospital,1
+R58,WEEKDAY,trip_92_9,Aiims Hospital,1
+R58,WEEKDAY,trip_92_10,Aiims Hospital,1
+R58,WEEKDAY,trip_92_11,Aiims Hospital,1
+R58,WEEKDAY,trip_92_12,Aiims Hospital,1
+R58,WEEKDAY,trip_92_13,Aiims Hospital,1
+R58,WEEKDAY,trip_92_14,Aiims Hospital,1
+R58,WEEKDAY,trip_92_15,Aiims Hospital,1
+R5A,WEEKDAY,trip_220_0,Tramba Village,1
+R5,WEEKDAY,trip_93_0,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_93_1,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_93_2,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_93_3,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_93_4,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_93_5,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_93_6,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_93_7,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_93_8,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_93_9,Raiya Gam(Shilpan Onex),0
+R5,WEEKDAY,trip_94_0,Tramba Village,1
+R5,WEEKDAY,trip_94_1,Tramba Village,1
+R5,WEEKDAY,trip_94_2,Tramba Village,1
+R5,WEEKDAY,trip_94_3,Tramba Village,1
+R5,WEEKDAY,trip_94_4,Tramba Village,1
+R5,WEEKDAY,trip_94_5,Tramba Village,1
+R5,WEEKDAY,trip_94_6,Tramba Village,1
+R5,WEEKDAY,trip_94_7,Tramba Village,1
+R5,WEEKDAY,trip_94_8,Tramba Village,1
+R5,WEEKDAY,trip_94_9,Tramba Village,1
+R5,WEEKDAY,trip_94_10,Tramba Village,1
+R5,WEEKDAY,trip_94_11,Tramba Village,1
+R5,WEEKDAY,trip_94_12,Tramba Village,1
+R5,WEEKDAY,trip_94_13,Tramba Village,1
+R5,WEEKDAY,trip_94_14,Tramba Village,1
+R5,WEEKDAY,trip_94_15,Tramba Village,1
+R60,WEEKDAY,trip_95_0,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_1,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_2,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_3,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_4,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_5,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_6,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_7,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_8,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_9,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_10,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_11,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_12,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_13,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_14,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_15,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_16,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_17,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_18,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_19,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_20,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_21,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_22,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_23,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_95_24,Golden Green Industrial Park,0
+R60,WEEKDAY,trip_96_0,Trikon Baug,1
+R60,WEEKDAY,trip_96_1,Trikon Baug,1
+R60,WEEKDAY,trip_96_2,Trikon Baug,1
+R60,WEEKDAY,trip_96_3,Trikon Baug,1
+R60,WEEKDAY,trip_96_4,Trikon Baug,1
+R60,WEEKDAY,trip_96_5,Trikon Baug,1
+R60,WEEKDAY,trip_96_6,Trikon Baug,1
+R60,WEEKDAY,trip_96_7,Trikon Baug,1
+R60,WEEKDAY,trip_96_8,Trikon Baug,1
+R60,WEEKDAY,trip_96_9,Trikon Baug,1
+R60,WEEKDAY,trip_96_10,Trikon Baug,1
+R60,WEEKDAY,trip_96_11,Trikon Baug,1
+R60,WEEKDAY,trip_96_12,Trikon Baug,1
+R60,WEEKDAY,trip_96_13,Trikon Baug,1
+R60,WEEKDAY,trip_96_14,Trikon Baug,1
+R60,WEEKDAY,trip_96_15,Trikon Baug,1
+R61,WEEKDAY,trip_97_0,Trikon Baug,0
+R61,WEEKDAY,trip_97_1,Trikon Baug,0
+R61,WEEKDAY,trip_97_2,Trikon Baug,0
+R61,WEEKDAY,trip_97_3,Trikon Baug,0
+R61,WEEKDAY,trip_97_4,Trikon Baug,0
+R61,WEEKDAY,trip_97_5,Trikon Baug,0
+R61,WEEKDAY,trip_97_6,Trikon Baug,0
+R61,WEEKDAY,trip_97_7,Trikon Baug,0
+R61,WEEKDAY,trip_98_0,Naranka Gram,1
+R61,WEEKDAY,trip_98_1,Naranka Gram,1
+R61,WEEKDAY,trip_98_2,Naranka Gram,1
+R61,WEEKDAY,trip_98_3,Naranka Gram,1
+R61,WEEKDAY,trip_98_4,Naranka Gram,1
+R61,WEEKDAY,trip_98_5,Naranka Gram,1
+R61,WEEKDAY,trip_98_6,Naranka Gram,1
+R61,WEEKDAY,trip_98_7,Naranka Gram,1
+R62,WEEKDAY,trip_99_0,Trikon Baug,0
+R62,WEEKDAY,trip_99_1,Trikon Baug,0
+R62,WEEKDAY,trip_99_2,Trikon Baug,0
+R62,WEEKDAY,trip_99_3,Trikon Baug,0
+R62,WEEKDAY,trip_99_4,Trikon Baug,0
+R62,WEEKDAY,trip_99_5,Trikon Baug,0
+R62,WEEKDAY,trip_99_6,Trikon Baug,0
+R62,WEEKDAY,trip_99_7,Trikon Baug,0
+R62,WEEKDAY,trip_100_0,Shapar Veraval,1
+R62,WEEKDAY,trip_100_1,Shapar Veraval,1
+R62,WEEKDAY,trip_100_2,Shapar Veraval,1
+R62,WEEKDAY,trip_100_3,Shapar Veraval,1
+R62,WEEKDAY,trip_100_4,Shapar Veraval,1
+R62,WEEKDAY,trip_100_5,Shapar Veraval,1
+R62,WEEKDAY,trip_100_6,Shapar Veraval,1
+R62,WEEKDAY,trip_100_7,Shapar Veraval,1
+R63,WEEKDAY,trip_101_0,Trikon Baug,0
+R63,WEEKDAY,trip_101_1,Trikon Baug,0
+R63,WEEKDAY,trip_101_2,Trikon Baug,0
+R63,WEEKDAY,trip_101_3,Trikon Baug,0
+R63,WEEKDAY,trip_101_4,Trikon Baug,0
+R63,WEEKDAY,trip_101_5,Trikon Baug,0
+R63,WEEKDAY,trip_101_6,Trikon Baug,0
+R63,WEEKDAY,trip_101_7,Trikon Baug,0
+R63,WEEKDAY,trip_101_8,Trikon Baug,0
+R63,WEEKDAY,trip_101_9,Trikon Baug,0
+R63,WEEKDAY,trip_101_10,Trikon Baug,0
+R63,WEEKDAY,trip_101_11,Trikon Baug,0
+R63,WEEKDAY,trip_101_12,Trikon Baug,0
+R63,WEEKDAY,trip_101_13,Trikon Baug,0
+R63,WEEKDAY,trip_101_14,Trikon Baug,0
+R63,WEEKDAY,trip_101_15,Trikon Baug,0
+R63,WEEKDAY,trip_102_0,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_1,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_2,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_3,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_4,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_5,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_6,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_7,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_8,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_9,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_10,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_11,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_12,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_13,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_14,Rajpath Siesta,1
+R63,WEEKDAY,trip_102_15,Rajpath Siesta,1
+R64A,WEEKDAY,trip_221_0,Arpit Eng. Collage,0
+R64A,WEEKDAY,trip_221_1,Arpit Eng. Collage,0
+R64A,WEEKDAY,trip_222_0,Bhaktinagar Circle,1
+R64A,WEEKDAY,trip_222_1,Bhaktinagar Circle,1
+R64B,WEEKDAY,trip_223_0,Bhaktinagar Circle,0
+R64B,WEEKDAY,trip_223_1,Bhaktinagar Circle,0
+R64B,WEEKDAY,trip_224_0,150 Feet Road Crossing - Kalawad Road,1
+R64,WEEKDAY,trip_103_0,Arpit Eng. Collage,0
+R64,WEEKDAY,trip_103_1,Arpit Eng. Collage,0
+R64,WEEKDAY,trip_103_2,Arpit Eng. Collage,0
+R64,WEEKDAY,trip_103_3,Arpit Eng. Collage,0
+R64,WEEKDAY,trip_104_0,150 Feet Road Crossing - Kalawad Road,1
+R64,WEEKDAY,trip_104_1,150 Feet Road Crossing - Kalawad Road,1
+R64,WEEKDAY,trip_104_2,150 Feet Road Crossing - Kalawad Road,1
+R64,WEEKDAY,trip_104_3,150 Feet Road Crossing - Kalawad Road,1
+R65A,WEEKDAY,trip_225_0,Trikon Baug,1
+R65B,WEEKDAY,trip_226_0,Prajapati Chowk,1
+R65,WEEKDAY,trip_105_0,Mahika Gam,0
+R65,WEEKDAY,trip_105_1,Mahika Gam,0
+R65,WEEKDAY,trip_105_2,Mahika Gam,0
+R65,WEEKDAY,trip_105_3,Mahika Gam,0
+R65,WEEKDAY,trip_105_4,Mahika Gam,0
+R65,WEEKDAY,trip_105_5,Mahika Gam,0
+R65,WEEKDAY,trip_105_6,Mahika Gam,0
+R65,WEEKDAY,trip_105_7,Mahika Gam,0
+R65,WEEKDAY,trip_106_0,Prajapati Chowk,1
+R65,WEEKDAY,trip_106_1,Prajapati Chowk,1
+R65,WEEKDAY,trip_106_2,Prajapati Chowk,1
+R65,WEEKDAY,trip_106_3,Prajapati Chowk,1
+R65,WEEKDAY,trip_106_4,Prajapati Chowk,1
+R65,WEEKDAY,trip_106_5,Prajapati Chowk,1
+R65,WEEKDAY,trip_106_6,Prajapati Chowk,1
+R65,WEEKDAY,trip_106_7,Prajapati Chowk,1
+R66,WEEKDAY,trip_107_0,Trikon Baug,0
+R66,WEEKDAY,trip_107_1,Trikon Baug,0
+R66,WEEKDAY,trip_107_2,Trikon Baug,0
+R66,WEEKDAY,trip_107_3,Trikon Baug,0
+R66,WEEKDAY,trip_107_4,Trikon Baug,0
+R66,WEEKDAY,trip_107_5,Trikon Baug,0
+R66,WEEKDAY,trip_107_6,Trikon Baug,0
+R66,WEEKDAY,trip_107_7,Trikon Baug,0
+R66,WEEKDAY,trip_107_8,Trikon Baug,0
+R66,WEEKDAY,trip_107_9,Trikon Baug,0
+R66,WEEKDAY,trip_107_10,Trikon Baug,0
+R66,WEEKDAY,trip_107_11,Trikon Baug,0
+R66,WEEKDAY,trip_107_12,Trikon Baug,0
+R66,WEEKDAY,trip_107_13,Trikon Baug,0
+R66,WEEKDAY,trip_107_14,Trikon Baug,0
+R66,WEEKDAY,trip_107_15,Trikon Baug,0
+R66,WEEKDAY,trip_107_16,Trikon Baug,0
+R66,WEEKDAY,trip_107_17,Trikon Baug,0
+R66,WEEKDAY,trip_107_18,Trikon Baug,0
+R66,WEEKDAY,trip_107_19,Trikon Baug,0
+R66,WEEKDAY,trip_108_0,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_1,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_2,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_3,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_4,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_5,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_6,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_7,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_8,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_9,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_10,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_11,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_12,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_13,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_14,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_15,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_16,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_17,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_18,Aadarsh - Shri Housing Co-Operative Service Society,1
+R66,WEEKDAY,trip_108_19,Aadarsh - Shri Housing Co-Operative Service Society,1
+R67,WEEKDAY,trip_109_0,Trikon Baug,0
+R67,WEEKDAY,trip_109_1,Trikon Baug,0
+R67,WEEKDAY,trip_109_2,Trikon Baug,0
+R67,WEEKDAY,trip_109_3,Trikon Baug,0
+R67,WEEKDAY,trip_109_4,Trikon Baug,0
+R67,WEEKDAY,trip_109_5,Trikon Baug,0
+R67,WEEKDAY,trip_109_6,Trikon Baug,0
+R67,WEEKDAY,trip_109_7,Trikon Baug,0
+R67,WEEKDAY,trip_109_8,Trikon Baug,0
+R67,WEEKDAY,trip_109_9,Trikon Baug,0
+R67,WEEKDAY,trip_109_10,Trikon Baug,0
+R67,WEEKDAY,trip_109_11,Trikon Baug,0
+R67,WEEKDAY,trip_109_12,Trikon Baug,0
+R67,WEEKDAY,trip_109_13,Trikon Baug,0
+R67,WEEKDAY,trip_109_14,Trikon Baug,0
+R67,WEEKDAY,trip_109_15,Trikon Baug,0
+R67,WEEKDAY,trip_109_16,Trikon Baug,0
+R67,WEEKDAY,trip_109_17,Trikon Baug,0
+R67,WEEKDAY,trip_109_18,Trikon Baug,0
+R67,WEEKDAY,trip_109_19,Trikon Baug,0
+R67,WEEKDAY,trip_109_20,Trikon Baug,0
+R67,WEEKDAY,trip_109_21,Trikon Baug,0
+R67,WEEKDAY,trip_109_22,Trikon Baug,0
+R67,WEEKDAY,trip_109_23,Trikon Baug,0
+R67,WEEKDAY,trip_109_24,Trikon Baug,0
+R67,WEEKDAY,trip_109_25,Trikon Baug,0
+R67,WEEKDAY,trip_109_26,Trikon Baug,0
+R67,WEEKDAY,trip_109_27,Trikon Baug,0
+R67,WEEKDAY,trip_109_28,Trikon Baug,0
+R67,WEEKDAY,trip_109_29,Trikon Baug,0
+R67,WEEKDAY,trip_109_30,Trikon Baug,0
+R67,WEEKDAY,trip_109_31,Trikon Baug,0
+R67,WEEKDAY,trip_110_0,Kankot Gam,1
+R67,WEEKDAY,trip_110_1,Kankot Gam,1
+R67,WEEKDAY,trip_110_2,Kankot Gam,1
+R67,WEEKDAY,trip_110_3,Kankot Gam,1
+R67,WEEKDAY,trip_110_4,Kankot Gam,1
+R67,WEEKDAY,trip_110_5,Kankot Gam,1
+R67,WEEKDAY,trip_110_6,Kankot Gam,1
+R67,WEEKDAY,trip_110_7,Kankot Gam,1
+R67,WEEKDAY,trip_110_8,Kankot Gam,1
+R67,WEEKDAY,trip_110_9,Kankot Gam,1
+R67,WEEKDAY,trip_110_10,Kankot Gam,1
+R67,WEEKDAY,trip_110_11,Kankot Gam,1
+R67,WEEKDAY,trip_110_12,Kankot Gam,1
+R67,WEEKDAY,trip_110_13,Kankot Gam,1
+R67,WEEKDAY,trip_110_14,Kankot Gam,1
+R67,WEEKDAY,trip_110_15,Kankot Gam,1
+R67,WEEKDAY,trip_110_16,Kankot Gam,1
+R67,WEEKDAY,trip_110_17,Kankot Gam,1
+R67,WEEKDAY,trip_110_18,Kankot Gam,1
+R67,WEEKDAY,trip_110_19,Kankot Gam,1
+R67,WEEKDAY,trip_110_20,Kankot Gam,1
+R67,WEEKDAY,trip_110_21,Kankot Gam,1
+R67,WEEKDAY,trip_110_22,Kankot Gam,1
+R67,WEEKDAY,trip_110_23,Kankot Gam,1
+R67,WEEKDAY,trip_110_24,Kankot Gam,1
+R67,WEEKDAY,trip_110_25,Kankot Gam,1
+R67,WEEKDAY,trip_110_26,Kankot Gam,1
+R67,WEEKDAY,trip_110_27,Kankot Gam,1
+R67,WEEKDAY,trip_110_28,Kankot Gam,1
+R67,WEEKDAY,trip_110_29,Kankot Gam,1
+R67,WEEKDAY,trip_110_30,Kankot Gam,1
+R67,WEEKDAY,trip_110_31,Kankot Gam,1
+R67,WEEKDAY,trip_110_32,Kankot Gam,1
+R67,WEEKDAY,trip_110_33,Kankot Gam,1
+R68,WEEKDAY,trip_111_0,Trikon Baug,0
+R68,WEEKDAY,trip_111_1,Trikon Baug,0
+R68,WEEKDAY,trip_111_2,Trikon Baug,0
+R68,WEEKDAY,trip_111_3,Trikon Baug,0
+R68,WEEKDAY,trip_111_4,Trikon Baug,0
+R68,WEEKDAY,trip_111_5,Trikon Baug,0
+R68,WEEKDAY,trip_111_6,Trikon Baug,0
+R68,WEEKDAY,trip_111_7,Trikon Baug,0
+R68,WEEKDAY,trip_111_8,Trikon Baug,0
+R68,WEEKDAY,trip_111_9,Trikon Baug,0
+R68,WEEKDAY,trip_111_10,Trikon Baug,0
+R68,WEEKDAY,trip_111_11,Trikon Baug,0
+R68,WEEKDAY,trip_112_0,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_1,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_2,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_3,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_4,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_5,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_6,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_7,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_8,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_9,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_10,Kothariya Solvant Fatak,1
+R68,WEEKDAY,trip_112_11,Kothariya Solvant Fatak,1
+R69,WEEKDAY,trip_113_0,Light House (Raiya),0
+R69,WEEKDAY,trip_113_1,Light House (Raiya),0
+R69,WEEKDAY,trip_113_2,Light House (Raiya),0
+R69,WEEKDAY,trip_113_3,Light House (Raiya),0
+R69,WEEKDAY,trip_113_4,Light House (Raiya),0
+R69,WEEKDAY,trip_113_5,Light House (Raiya),0
+R69,WEEKDAY,trip_113_6,Light House (Raiya),0
+R69,WEEKDAY,trip_113_7,Light House (Raiya),0
+R69,WEEKDAY,trip_113_8,Light House (Raiya),0
+R69,WEEKDAY,trip_113_9,Light House (Raiya),0
+R69,WEEKDAY,trip_113_10,Light House (Raiya),0
+R69,WEEKDAY,trip_113_11,Light House (Raiya),0
+R69,WEEKDAY,trip_113_12,Light House (Raiya),0
+R69,WEEKDAY,trip_113_13,Light House (Raiya),0
+R69,WEEKDAY,trip_113_14,Light House (Raiya),0
+R69,WEEKDAY,trip_113_15,Light House (Raiya),0
+R69,WEEKDAY,trip_114_0,Trikon Baug,1
+R69,WEEKDAY,trip_114_1,Trikon Baug,1
+R69,WEEKDAY,trip_114_2,Trikon Baug,1
+R69,WEEKDAY,trip_114_3,Trikon Baug,1
+R69,WEEKDAY,trip_114_4,Trikon Baug,1
+R69,WEEKDAY,trip_114_5,Trikon Baug,1
+R69,WEEKDAY,trip_114_6,Trikon Baug,1
+R69,WEEKDAY,trip_114_7,Trikon Baug,1
+R69,WEEKDAY,trip_114_8,Trikon Baug,1
+R69,WEEKDAY,trip_114_9,Trikon Baug,1
+R69,WEEKDAY,trip_114_10,Trikon Baug,1
+R69,WEEKDAY,trip_114_11,Trikon Baug,1
+R69,WEEKDAY,trip_114_12,Trikon Baug,1
+R69,WEEKDAY,trip_114_13,Trikon Baug,1
+R69,WEEKDAY,trip_114_14,Trikon Baug,1
+R69,WEEKDAY,trip_114_15,Trikon Baug,1
+R6A,WEEKDAY,trip_227_0,Ajidam,0
+R6A,WEEKDAY,trip_228_0,Shivalay Chowk,1
+R6,WEEKDAY,trip_115_0,Tramba Village,0
+R6,WEEKDAY,trip_115_1,Tramba Village,0
+R6,WEEKDAY,trip_115_2,Tramba Village,0
+R6,WEEKDAY,trip_115_3,Tramba Village,0
+R6,WEEKDAY,trip_115_4,Tramba Village,0
+R6,WEEKDAY,trip_115_5,Tramba Village,0
+R6,WEEKDAY,trip_115_6,Tramba Village,0
+R6,WEEKDAY,trip_115_7,Tramba Village,0
+R6,WEEKDAY,trip_115_8,Tramba Village,0
+R6,WEEKDAY,trip_115_9,Tramba Village,0
+R6,WEEKDAY,trip_116_0,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_1,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_2,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_3,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_4,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_5,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_6,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_7,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_8,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_9,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_10,Shivalay Chowk,1
+R6,WEEKDAY,trip_116_11,Shivalay Chowk,1
+R70A,WEEKDAY,trip_229_0,Parapipaliya Patiya,0
+R70A,WEEKDAY,trip_230_0,Ramvan,1
+R70A,WEEKDAY,trip_230_1,Ramvan,1
+R70B,WEEKDAY,trip_231_0,Trikon Baug,1
+R70,WEEKDAY,trip_117_0,Parapipaliya Patiya,0
+R70,WEEKDAY,trip_117_1,Parapipaliya Patiya,0
+R70,WEEKDAY,trip_117_2,Parapipaliya Patiya,0
+R70,WEEKDAY,trip_117_3,Parapipaliya Patiya,0
+R70,WEEKDAY,trip_117_4,Parapipaliya Patiya,0
+R70,WEEKDAY,trip_117_5,Parapipaliya Patiya,0
+R70,WEEKDAY,trip_118_0,Ramvan,1
+R70,WEEKDAY,trip_118_1,Ramvan,1
+R70,WEEKDAY,trip_118_2,Ramvan,1
+R70,WEEKDAY,trip_118_3,Ramvan,1
+R71,WEEKDAY,trip_119_0,Kothariya Gam,0
+R71,WEEKDAY,trip_119_1,Kothariya Gam,0
+R71,WEEKDAY,trip_119_2,Kothariya Gam,0
+R71,WEEKDAY,trip_119_3,Kothariya Gam,0
+R71,WEEKDAY,trip_119_4,Kothariya Gam,0
+R71,WEEKDAY,trip_119_5,Kothariya Gam,0
+R71,WEEKDAY,trip_119_6,Kothariya Gam,0
+R71,WEEKDAY,trip_119_7,Kothariya Gam,0
+R71,WEEKDAY,trip_119_8,Kothariya Gam,0
+R71,WEEKDAY,trip_119_9,Kothariya Gam,0
+R71,WEEKDAY,trip_119_10,Kothariya Gam,0
+R71,WEEKDAY,trip_119_11,Kothariya Gam,0
+R71,WEEKDAY,trip_120_0,Government Engineering College,1
+R71,WEEKDAY,trip_120_1,Government Engineering College,1
+R71,WEEKDAY,trip_120_2,Government Engineering College,1
+R71,WEEKDAY,trip_120_3,Government Engineering College,1
+R71,WEEKDAY,trip_120_4,Government Engineering College,1
+R71,WEEKDAY,trip_120_5,Government Engineering College,1
+R71,WEEKDAY,trip_120_6,Government Engineering College,1
+R71,WEEKDAY,trip_120_7,Government Engineering College,1
+R71,WEEKDAY,trip_120_8,Government Engineering College,1
+R71,WEEKDAY,trip_120_9,Government Engineering College,1
+R71,WEEKDAY,trip_120_10,Government Engineering College,1
+R71,WEEKDAY,trip_120_11,Government Engineering College,1
+R72A,WEEKDAY,trip_232_0,Government Engineering College,1
+R72B,WEEKDAY,trip_233_0,Madhapar Chowk,1
+R72,WEEKDAY,trip_121_0,Greenland Chowk,0
+R72,WEEKDAY,trip_121_1,Greenland Chowk,0
+R72,WEEKDAY,trip_121_2,Greenland Chowk,0
+R72,WEEKDAY,trip_121_3,Greenland Chowk,0
+R72,WEEKDAY,trip_121_4,Greenland Chowk,0
+R72,WEEKDAY,trip_121_5,Greenland Chowk,0
+R72,WEEKDAY,trip_121_6,Greenland Chowk,0
+R72,WEEKDAY,trip_121_7,Greenland Chowk,0
+R72,WEEKDAY,trip_121_8,Greenland Chowk,0
+R72,WEEKDAY,trip_121_9,Greenland Chowk,0
+R72,WEEKDAY,trip_121_10,Greenland Chowk,0
+R72,WEEKDAY,trip_121_11,Greenland Chowk,0
+R72,WEEKDAY,trip_121_12,Greenland Chowk,0
+R72,WEEKDAY,trip_121_13,Greenland Chowk,0
+R72,WEEKDAY,trip_121_14,Greenland Chowk,0
+R72,WEEKDAY,trip_121_15,Greenland Chowk,0
+R72,WEEKDAY,trip_121_16,Greenland Chowk,0
+R72,WEEKDAY,trip_122_0,Government Engineering College,1
+R72,WEEKDAY,trip_122_1,Government Engineering College,1
+R72,WEEKDAY,trip_122_2,Government Engineering College,1
+R72,WEEKDAY,trip_122_3,Government Engineering College,1
+R72,WEEKDAY,trip_122_4,Government Engineering College,1
+R72,WEEKDAY,trip_122_5,Government Engineering College,1
+R72,WEEKDAY,trip_122_6,Government Engineering College,1
+R72,WEEKDAY,trip_122_7,Government Engineering College,1
+R72,WEEKDAY,trip_122_8,Government Engineering College,1
+R72,WEEKDAY,trip_122_9,Government Engineering College,1
+R72,WEEKDAY,trip_122_10,Government Engineering College,1
+R72,WEEKDAY,trip_122_11,Government Engineering College,1
+R72,WEEKDAY,trip_122_12,Government Engineering College,1
+R72,WEEKDAY,trip_122_13,Government Engineering College,1
+R72,WEEKDAY,trip_122_14,Government Engineering College,1
+R72,WEEKDAY,trip_122_15,Government Engineering College,1
+R72,WEEKDAY,trip_122_16,Government Engineering College,1
+R72,WEEKDAY,trip_122_17,Government Engineering College,1
+R73,WEEKDAY,trip_123_0,Trikon Baug,0
+R73,WEEKDAY,trip_123_1,Trikon Baug,0
+R73,WEEKDAY,trip_123_2,Trikon Baug,0
+R73,WEEKDAY,trip_123_3,Trikon Baug,0
+R73,WEEKDAY,trip_123_4,Trikon Baug,0
+R73,WEEKDAY,trip_123_5,Trikon Baug,0
+R73,WEEKDAY,trip_123_6,Trikon Baug,0
+R73,WEEKDAY,trip_123_7,Trikon Baug,0
+R73,WEEKDAY,trip_124_0,Shreenathji Industries Plot No.155,1
+R73,WEEKDAY,trip_124_1,Shreenathji Industries Plot No.155,1
+R73,WEEKDAY,trip_124_2,Shreenathji Industries Plot No.155,1
+R73,WEEKDAY,trip_124_3,Shreenathji Industries Plot No.155,1
+R73,WEEKDAY,trip_124_4,Shreenathji Industries Plot No.155,1
+R73,WEEKDAY,trip_124_5,Shreenathji Industries Plot No.155,1
+R73,WEEKDAY,trip_124_6,Shreenathji Industries Plot No.155,1
+R73,WEEKDAY,trip_124_7,Shreenathji Industries Plot No.155,1
+R74,WEEKDAY,trip_125_0,Trikon Baug,0
+R74,WEEKDAY,trip_125_1,Trikon Baug,0
+R74,WEEKDAY,trip_125_2,Trikon Baug,0
+R74,WEEKDAY,trip_125_3,Trikon Baug,0
+R74,WEEKDAY,trip_125_4,Trikon Baug,0
+R74,WEEKDAY,trip_125_5,Trikon Baug,0
+R74,WEEKDAY,trip_125_6,Trikon Baug,0
+R74,WEEKDAY,trip_125_7,Trikon Baug,0
+R74,WEEKDAY,trip_125_8,Trikon Baug,0
+R74,WEEKDAY,trip_125_9,Trikon Baug,0
+R74,WEEKDAY,trip_125_10,Trikon Baug,0
+R74,WEEKDAY,trip_125_11,Trikon Baug,0
+R74,WEEKDAY,trip_125_12,Trikon Baug,0
+R74,WEEKDAY,trip_125_13,Trikon Baug,0
+R74,WEEKDAY,trip_126_0,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_1,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_2,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_3,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_4,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_5,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_6,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_7,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_8,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_9,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_10,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_11,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_12,Kothariya Solvant Fatak,1
+R74,WEEKDAY,trip_126_13,Kothariya Solvant Fatak,1
+R75A,WEEKDAY,trip_234_0,Matru Darshan School,0
+R75A,WEEKDAY,trip_235_0,P.G.V.C.L Sub Divison Morbi Road,1
+R75A,WEEKDAY,trip_235_1,P.G.V.C.L Sub Divison Morbi Road,1
+R75A,WEEKDAY,trip_235_2,P.G.V.C.L Sub Divison Morbi Road,1
+R75B,WEEKDAY,trip_236_0,Trikon Baug,0
+R75B,WEEKDAY,trip_236_1,Trikon Baug,0
+R75B,WEEKDAY,trip_236_2,Trikon Baug,0
+R75B,WEEKDAY,trip_237_0,Trikon Baug,1
+R75,WEEKDAY,trip_127_0,Matru Darshan School,0
+R75,WEEKDAY,trip_127_1,Matru Darshan School,0
+R75,WEEKDAY,trip_127_2,Matru Darshan School,0
+R75,WEEKDAY,trip_127_3,Matru Darshan School,0
+R75,WEEKDAY,trip_127_4,Matru Darshan School,0
+R75,WEEKDAY,trip_127_5,Matru Darshan School,0
+R75,WEEKDAY,trip_127_6,Matru Darshan School,0
+R75,WEEKDAY,trip_127_7,Matru Darshan School,0
+R75,WEEKDAY,trip_127_8,Matru Darshan School,0
+R75,WEEKDAY,trip_127_9,Matru Darshan School,0
+R75,WEEKDAY,trip_127_10,Matru Darshan School,0
+R75,WEEKDAY,trip_128_0,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_1,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_2,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_3,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_4,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_5,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_6,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_7,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_8,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_9,P.G.V.C.L Sub Divison Morbi Road,1
+R75,WEEKDAY,trip_128_10,P.G.V.C.L Sub Divison Morbi Road,1
+R76A,WEEKDAY,trip_238_0,Kothariya Gam,0
+R76A,WEEKDAY,trip_239_0,Marwadi College,1
+R76A,WEEKDAY,trip_239_1,Marwadi College,1
+R76B,WEEKDAY,trip_240_0,Field Marshal Chowk,0
+R76B,WEEKDAY,trip_240_1,Field Marshal Chowk,0
+R76B,WEEKDAY,trip_241_0,Field Marshal Chowk,1
+R76B,WEEKDAY,trip_241_1,Field Marshal Chowk,1
+R76,WEEKDAY,trip_129_0,Kothariya Gam,0
+R76,WEEKDAY,trip_129_1,Kothariya Gam,0
+R76,WEEKDAY,trip_129_2,Kothariya Gam,0
+R76,WEEKDAY,trip_129_3,Kothariya Gam,0
+R76,WEEKDAY,trip_129_4,Kothariya Gam,0
+R76,WEEKDAY,trip_129_5,Kothariya Gam,0
+R76,WEEKDAY,trip_129_6,Kothariya Gam,0
+R76,WEEKDAY,trip_129_7,Kothariya Gam,0
+R76,WEEKDAY,trip_130_0,Marwadi College,1
+R76,WEEKDAY,trip_130_1,Marwadi College,1
+R76,WEEKDAY,trip_130_2,Marwadi College,1
+R76,WEEKDAY,trip_130_3,Marwadi College,1
+R76,WEEKDAY,trip_130_4,Marwadi College,1
+R76,WEEKDAY,trip_130_5,Marwadi College,1
+R76,WEEKDAY,trip_130_6,Marwadi College,1
+R76,WEEKDAY,trip_130_7,Marwadi College,1
+R77,WEEKDAY,trip_131_0,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_1,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_2,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_3,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_4,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_5,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_6,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_7,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_8,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_9,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_10,Gondal Chowkdi,0
+R77,WEEKDAY,trip_131_11,Gondal Chowkdi,0
+R77,WEEKDAY,trip_132_0,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_1,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_2,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_3,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_4,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_5,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_6,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_7,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_8,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_9,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_10,Ribda Railway Station,1
+R77,WEEKDAY,trip_132_11,Ribda Railway Station,1
+R78A,WEEKDAY,trip_242_0,Greenland Chowk,1
+R78,WEEKDAY,trip_133_0,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_1,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_2,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_3,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_4,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_5,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_6,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_7,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_8,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_9,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_10,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_11,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_12,Dreemland Partyplot,0
+R78,WEEKDAY,trip_133_13,Dreemland Partyplot,0
+R78,WEEKDAY,trip_134_0,Greenland Chowk,1
+R78,WEEKDAY,trip_134_1,Greenland Chowk,1
+R78,WEEKDAY,trip_134_2,Greenland Chowk,1
+R78,WEEKDAY,trip_134_3,Greenland Chowk,1
+R78,WEEKDAY,trip_134_4,Greenland Chowk,1
+R78,WEEKDAY,trip_134_5,Greenland Chowk,1
+R78,WEEKDAY,trip_134_6,Greenland Chowk,1
+R78,WEEKDAY,trip_134_7,Greenland Chowk,1
+R78,WEEKDAY,trip_134_8,Greenland Chowk,1
+R78,WEEKDAY,trip_134_9,Greenland Chowk,1
+R78,WEEKDAY,trip_134_10,Greenland Chowk,1
+R78,WEEKDAY,trip_134_11,Greenland Chowk,1
+R78,WEEKDAY,trip_134_12,Greenland Chowk,1
+R78,WEEKDAY,trip_134_13,Greenland Chowk,1
+R79,WEEKDAY,trip_135_0,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_1,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_2,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_3,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_4,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_5,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_6,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_7,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_8,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_9,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_10,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_11,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_12,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_13,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_14,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_15,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_16,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_17,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_18,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_19,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_20,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_21,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_22,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_135_23,Vardhman Nagar (Maharana Pratap Circle),0
+R79,WEEKDAY,trip_136_0,Ajidam,1
+R79,WEEKDAY,trip_136_1,Ajidam,1
+R79,WEEKDAY,trip_136_2,Ajidam,1
+R79,WEEKDAY,trip_136_3,Ajidam,1
+R79,WEEKDAY,trip_136_4,Ajidam,1
+R79,WEEKDAY,trip_136_5,Ajidam,1
+R79,WEEKDAY,trip_136_6,Ajidam,1
+R79,WEEKDAY,trip_136_7,Ajidam,1
+R79,WEEKDAY,trip_136_8,Ajidam,1
+R79,WEEKDAY,trip_136_9,Ajidam,1
+R79,WEEKDAY,trip_136_10,Ajidam,1
+R79,WEEKDAY,trip_136_11,Ajidam,1
+R79,WEEKDAY,trip_136_12,Ajidam,1
+R79,WEEKDAY,trip_136_13,Ajidam,1
+R79,WEEKDAY,trip_136_14,Ajidam,1
+R79,WEEKDAY,trip_136_15,Ajidam,1
+R79,WEEKDAY,trip_136_16,Ajidam,1
+R79,WEEKDAY,trip_136_17,Ajidam,1
+R79,WEEKDAY,trip_136_18,Ajidam,1
+R79,WEEKDAY,trip_136_19,Ajidam,1
+R79,WEEKDAY,trip_136_20,Ajidam,1
+R79,WEEKDAY,trip_136_21,Ajidam,1
+R79,WEEKDAY,trip_136_22,Ajidam,1
+R79,WEEKDAY,trip_136_23,Ajidam,1
+R7,WEEKDAY,trip_137_0,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_1,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_2,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_3,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_4,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_5,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_6,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_7,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_8,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_9,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_10,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_11,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_12,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_13,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_14,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_15,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_16,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_17,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_137_18,Bhaktinagar Circle,0
+R7,WEEKDAY,trip_138_0,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_1,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_2,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_3,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_4,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_5,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_6,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_7,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_8,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_9,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_10,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_11,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_12,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_13,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_14,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_15,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_16,Bajrangwadi Circle,1
+R7,WEEKDAY,trip_138_17,Bajrangwadi Circle,1
+R80,WEEKDAY,trip_139_0,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_1,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_2,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_3,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_4,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_5,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_6,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_7,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_8,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_9,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_10,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_11,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_12,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_13,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_14,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_15,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_16,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_17,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_18,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_19,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_20,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_21,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_22,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_23,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_24,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_25,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_26,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_27,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_28,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_29,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_30,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_31,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_32,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_33,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_34,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_35,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_36,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_37,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_38,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_39,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_40,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_41,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_42,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_43,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_44,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_45,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_46,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_47,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_48,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_49,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_50,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_51,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_52,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_53,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_54,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_55,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_56,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_57,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_58,Gondal Chowkdi,0
+R80,WEEKDAY,trip_139_59,Gondal Chowkdi,0
+R80,WEEKDAY,trip_140_0,Shapar Veraval,1
+R80,WEEKDAY,trip_140_1,Shapar Veraval,1
+R80,WEEKDAY,trip_140_2,Shapar Veraval,1
+R80,WEEKDAY,trip_140_3,Shapar Veraval,1
+R80,WEEKDAY,trip_140_4,Shapar Veraval,1
+R80,WEEKDAY,trip_140_5,Shapar Veraval,1
+R80,WEEKDAY,trip_140_6,Shapar Veraval,1
+R80,WEEKDAY,trip_140_7,Shapar Veraval,1
+R80,WEEKDAY,trip_140_8,Shapar Veraval,1
+R80,WEEKDAY,trip_140_9,Shapar Veraval,1
+R80,WEEKDAY,trip_140_10,Shapar Veraval,1
+R80,WEEKDAY,trip_140_11,Shapar Veraval,1
+R80,WEEKDAY,trip_140_12,Shapar Veraval,1
+R80,WEEKDAY,trip_140_13,Shapar Veraval,1
+R80,WEEKDAY,trip_140_14,Shapar Veraval,1
+R80,WEEKDAY,trip_140_15,Shapar Veraval,1
+R80,WEEKDAY,trip_140_16,Shapar Veraval,1
+R80,WEEKDAY,trip_140_17,Shapar Veraval,1
+R80,WEEKDAY,trip_140_18,Shapar Veraval,1
+R80,WEEKDAY,trip_140_19,Shapar Veraval,1
+R80,WEEKDAY,trip_140_20,Shapar Veraval,1
+R80,WEEKDAY,trip_140_21,Shapar Veraval,1
+R80,WEEKDAY,trip_140_22,Shapar Veraval,1
+R80,WEEKDAY,trip_140_23,Shapar Veraval,1
+R80,WEEKDAY,trip_140_24,Shapar Veraval,1
+R80,WEEKDAY,trip_140_25,Shapar Veraval,1
+R80,WEEKDAY,trip_140_26,Shapar Veraval,1
+R80,WEEKDAY,trip_140_27,Shapar Veraval,1
+R80,WEEKDAY,trip_140_28,Shapar Veraval,1
+R80,WEEKDAY,trip_140_29,Shapar Veraval,1
+R80,WEEKDAY,trip_140_30,Shapar Veraval,1
+R80,WEEKDAY,trip_140_31,Shapar Veraval,1
+R80,WEEKDAY,trip_140_32,Shapar Veraval,1
+R80,WEEKDAY,trip_140_33,Shapar Veraval,1
+R80,WEEKDAY,trip_140_34,Shapar Veraval,1
+R80,WEEKDAY,trip_140_35,Shapar Veraval,1
+R80,WEEKDAY,trip_140_36,Shapar Veraval,1
+R80,WEEKDAY,trip_140_37,Shapar Veraval,1
+R80,WEEKDAY,trip_140_38,Shapar Veraval,1
+R80,WEEKDAY,trip_140_39,Shapar Veraval,1
+R80,WEEKDAY,trip_140_40,Shapar Veraval,1
+R80,WEEKDAY,trip_140_41,Shapar Veraval,1
+R80,WEEKDAY,trip_140_42,Shapar Veraval,1
+R80,WEEKDAY,trip_140_43,Shapar Veraval,1
+R80,WEEKDAY,trip_140_44,Shapar Veraval,1
+R80,WEEKDAY,trip_140_45,Shapar Veraval,1
+R80,WEEKDAY,trip_140_46,Shapar Veraval,1
+R80,WEEKDAY,trip_140_47,Shapar Veraval,1
+R80,WEEKDAY,trip_140_48,Shapar Veraval,1
+R80,WEEKDAY,trip_140_49,Shapar Veraval,1
+R80,WEEKDAY,trip_140_50,Shapar Veraval,1
+R80,WEEKDAY,trip_140_51,Shapar Veraval,1
+R80,WEEKDAY,trip_140_52,Shapar Veraval,1
+R80,WEEKDAY,trip_140_53,Shapar Veraval,1
+R80,WEEKDAY,trip_140_54,Shapar Veraval,1
+R80,WEEKDAY,trip_140_55,Shapar Veraval,1
+R80,WEEKDAY,trip_140_56,Shapar Veraval,1
+R80,WEEKDAY,trip_140_57,Shapar Veraval,1
+R80,WEEKDAY,trip_140_58,Shapar Veraval,1
+R80,WEEKDAY,trip_140_59,Shapar Veraval,1
+R80,WEEKDAY,trip_140_60,Shapar Veraval,1
+R80,WEEKDAY,trip_140_61,Shapar Veraval,1
+R80,WEEKDAY,trip_140_62,Shapar Veraval,1
+R80,WEEKDAY,trip_140_63,Shapar Veraval,1
+R80,WEEKDAY,trip_140_64,Shapar Veraval,1
+R80,WEEKDAY,trip_140_65,Shapar Veraval,1
+R80,WEEKDAY,trip_140_66,Shapar Veraval,1
+R80,WEEKDAY,trip_140_67,Shapar Veraval,1
+R80,WEEKDAY,trip_140_68,Shapar Veraval,1
+R80,WEEKDAY,trip_140_69,Shapar Veraval,1
+R80,WEEKDAY,trip_140_70,Shapar Veraval,1
+R80,WEEKDAY,trip_140_71,Shapar Veraval,1
+R80,WEEKDAY,trip_140_72,Shapar Veraval,1
+R80,WEEKDAY,trip_140_73,Shapar Veraval,1
+R80,WEEKDAY,trip_140_74,Shapar Veraval,1
+R80,WEEKDAY,trip_140_75,Shapar Veraval,1
+R81A,WEEKDAY,trip_243_0,Swaminarayan Vidhyalay,0
+R81A,WEEKDAY,trip_244_0,Aiims Hospital,1
+R81B,WEEKDAY,trip_245_0,Swaminarayan Vidhyalay,0
+R81B,WEEKDAY,trip_246_0,Trikon Baug,1
+R81C,WEEKDAY,trip_247_0,Madhapar Chowk,0
+R81,WEEKDAY,trip_141_0,Swaminarayan Vidhyalay,0
+R81,WEEKDAY,trip_141_1,Swaminarayan Vidhyalay,0
+R81,WEEKDAY,trip_141_2,Swaminarayan Vidhyalay,0
+R81,WEEKDAY,trip_141_3,Swaminarayan Vidhyalay,0
+R81,WEEKDAY,trip_141_4,Swaminarayan Vidhyalay,0
+R81,WEEKDAY,trip_141_5,Swaminarayan Vidhyalay,0
+R81,WEEKDAY,trip_142_0,Aiims Hospital,1
+R81,WEEKDAY,trip_142_1,Aiims Hospital,1
+R81,WEEKDAY,trip_142_2,Aiims Hospital,1
+R81,WEEKDAY,trip_142_3,Aiims Hospital,1
+R81,WEEKDAY,trip_142_4,Aiims Hospital,1
+R81,WEEKDAY,trip_142_5,Aiims Hospital,1
+R81,WEEKDAY,trip_142_6,Aiims Hospital,1
+R82A,WEEKDAY,trip_248_0,Bhaktinagar Circle,0
+R82B,WEEKDAY,trip_249_0,Madhapar Chowk,0
+R82,WEEKDAY,trip_143_0,Bhaktinagar Circle,0
+R82,WEEKDAY,trip_143_1,Bhaktinagar Circle,0
+R82,WEEKDAY,trip_143_2,Bhaktinagar Circle,0
+R82,WEEKDAY,trip_143_3,Bhaktinagar Circle,0
+R82,WEEKDAY,trip_143_4,Bhaktinagar Circle,0
+R82,WEEKDAY,trip_143_5,Bhaktinagar Circle,0
+R82,WEEKDAY,trip_143_6,Bhaktinagar Circle,0
+R82,WEEKDAY,trip_143_7,Bhaktinagar Circle,0
+R82,WEEKDAY,trip_144_0,Aiims Hospital,1
+R82,WEEKDAY,trip_144_1,Aiims Hospital,1
+R82,WEEKDAY,trip_144_2,Aiims Hospital,1
+R82,WEEKDAY,trip_144_3,Aiims Hospital,1
+R82,WEEKDAY,trip_144_4,Aiims Hospital,1
+R82,WEEKDAY,trip_144_5,Aiims Hospital,1
+R82,WEEKDAY,trip_144_6,Aiims Hospital,1
+R82,WEEKDAY,trip_144_7,Aiims Hospital,1
+R82,WEEKDAY,trip_144_8,Aiims Hospital,1
+R82,WEEKDAY,trip_144_9,Aiims Hospital,1
+R82,WEEKDAY,trip_144_10,Aiims Hospital,1
+R85A,WEEKDAY,trip_250_0,Pradhyuman Park,0
+R85A,WEEKDAY,trip_251_0,Saurashtra University,1
+R85B,WEEKDAY,trip_252_0,Raiya Chowk (Rmts),1
+R85,WEEKDAY,trip_145_0,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_1,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_2,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_3,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_4,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_5,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_6,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_7,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_8,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_9,Pradhyuman Park,0
+R85,WEEKDAY,trip_145_10,Pradhyuman Park,0
+R85,WEEKDAY,trip_146_0,Saurashtra University,1
+R85,WEEKDAY,trip_146_1,Saurashtra University,1
+R85,WEEKDAY,trip_146_2,Saurashtra University,1
+R85,WEEKDAY,trip_146_3,Saurashtra University,1
+R85,WEEKDAY,trip_146_4,Saurashtra University,1
+R85,WEEKDAY,trip_146_5,Saurashtra University,1
+R85,WEEKDAY,trip_146_6,Saurashtra University,1
+R85,WEEKDAY,trip_146_7,Saurashtra University,1
+R85,WEEKDAY,trip_146_8,Saurashtra University,1
+R85,WEEKDAY,trip_146_9,Saurashtra University,1
+R85,WEEKDAY,trip_146_10,Saurashtra University,1
+R85,WEEKDAY,trip_146_11,Saurashtra University,1
+R85,WEEKDAY,trip_146_12,Saurashtra University,1
+R85,WEEKDAY,trip_146_13,Saurashtra University,1
+R86A,WEEKDAY,trip_253_0,Trikon Baug,0
+R86A,WEEKDAY,trip_254_0,Marwadi College,1
+R86,WEEKDAY,trip_147_0,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_1,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_2,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_3,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_4,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_5,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_6,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_7,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_8,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_9,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_10,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_11,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_12,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_13,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_14,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_15,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_16,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_17,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_18,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_19,Gondal Chowkdi,0
+R86,WEEKDAY,trip_147_20,Gondal Chowkdi,0
+R86,WEEKDAY,trip_148_0,Marwadi College,1
+R86,WEEKDAY,trip_148_1,Marwadi College,1
+R86,WEEKDAY,trip_148_2,Marwadi College,1
+R86,WEEKDAY,trip_148_3,Marwadi College,1
+R86,WEEKDAY,trip_148_4,Marwadi College,1
+R86,WEEKDAY,trip_148_5,Marwadi College,1
+R86,WEEKDAY,trip_148_6,Marwadi College,1
+R86,WEEKDAY,trip_148_7,Marwadi College,1
+R86,WEEKDAY,trip_148_8,Marwadi College,1
+R86,WEEKDAY,trip_148_9,Marwadi College,1
+R86,WEEKDAY,trip_148_10,Marwadi College,1
+R86,WEEKDAY,trip_148_11,Marwadi College,1
+R86,WEEKDAY,trip_148_12,Marwadi College,1
+R86,WEEKDAY,trip_148_13,Marwadi College,1
+R86,WEEKDAY,trip_148_14,Marwadi College,1
+R86,WEEKDAY,trip_148_15,Marwadi College,1
+R86,WEEKDAY,trip_148_16,Marwadi College,1
+R86,WEEKDAY,trip_148_17,Marwadi College,1
+R86,WEEKDAY,trip_148_18,Marwadi College,1
+R88A,WEEKDAY,trip_255_0,Raiya Chowk (Rmts),0
+R88A,WEEKDAY,trip_256_0,Arpit Eng. Collage,1
+R88B,WEEKDAY,trip_257_0,Gondal Chowkdi,0
+R88B,WEEKDAY,trip_258_0,Raiya Chowk (Rmts),1
+R88,WEEKDAY,trip_149_0,Gondal Chowkdi,0
+R88,WEEKDAY,trip_149_1,Gondal Chowkdi,0
+R88,WEEKDAY,trip_149_2,Gondal Chowkdi,0
+R88,WEEKDAY,trip_149_3,Gondal Chowkdi,0
+R88,WEEKDAY,trip_149_4,Gondal Chowkdi,0
+R88,WEEKDAY,trip_149_5,Gondal Chowkdi,0
+R88,WEEKDAY,trip_150_0,Arpit Eng. Collage,1
+R88,WEEKDAY,trip_150_1,Arpit Eng. Collage,1
+R88,WEEKDAY,trip_150_2,Arpit Eng. Collage,1
+R88,WEEKDAY,trip_150_3,Arpit Eng. Collage,1
+R88,WEEKDAY,trip_150_4,Arpit Eng. Collage,1
+R88,WEEKDAY,trip_150_5,Arpit Eng. Collage,1
+R88,WEEKDAY,trip_150_6,Arpit Eng. Collage,1
+R89,WEEKDAY,trip_151_0,Trikon Baug,0
+R89,WEEKDAY,trip_151_1,Trikon Baug,0
+R89,WEEKDAY,trip_151_2,Trikon Baug,0
+R89,WEEKDAY,trip_151_3,Trikon Baug,0
+R89,WEEKDAY,trip_151_4,Trikon Baug,0
+R89,WEEKDAY,trip_151_5,Trikon Baug,0
+R89,WEEKDAY,trip_151_6,Trikon Baug,0
+R89,WEEKDAY,trip_151_7,Trikon Baug,0
+R89,WEEKDAY,trip_151_8,Trikon Baug,0
+R89,WEEKDAY,trip_151_9,Trikon Baug,0
+R89,WEEKDAY,trip_151_10,Trikon Baug,0
+R89,WEEKDAY,trip_151_11,Trikon Baug,0
+R89,WEEKDAY,trip_151_12,Trikon Baug,0
+R89,WEEKDAY,trip_151_13,Trikon Baug,0
+R89,WEEKDAY,trip_151_14,Trikon Baug,0
+R89,WEEKDAY,trip_151_15,Trikon Baug,0
+R89,WEEKDAY,trip_152_0,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_1,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_2,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_3,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_4,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_5,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_6,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_7,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_8,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_9,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_10,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_11,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_12,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_13,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_14,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_15,Shree Vitthalbhai Radadiya Chowk,1
+R89,WEEKDAY,trip_152_16,Shree Vitthalbhai Radadiya Chowk,1
+R8A,WEEKDAY,trip_259_0,Labhubhai Eng. Collage,0
+R8A,WEEKDAY,trip_260_0,Greenland Chowk,1
+R8B,WEEKDAY,trip_261_0,Trikon Baug,0
+R8B,WEEKDAY,trip_262_0,Trikon Baug,1
+R8,WEEKDAY,trip_153_0,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_1,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_2,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_3,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_4,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_5,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_6,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_7,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_8,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_9,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_10,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_11,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_12,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_13,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_14,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_15,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_16,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_17,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_18,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_19,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_20,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_21,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_22,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_23,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_24,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_25,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_26,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_27,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_153_28,Labhubhai Eng. Collage,0
+R8,WEEKDAY,trip_154_0,Greenland Chowk,1
+R8,WEEKDAY,trip_154_1,Greenland Chowk,1
+R8,WEEKDAY,trip_154_2,Greenland Chowk,1
+R8,WEEKDAY,trip_154_3,Greenland Chowk,1
+R8,WEEKDAY,trip_154_4,Greenland Chowk,1
+R8,WEEKDAY,trip_154_5,Greenland Chowk,1
+R8,WEEKDAY,trip_154_6,Greenland Chowk,1
+R8,WEEKDAY,trip_154_7,Greenland Chowk,1
+R8,WEEKDAY,trip_154_8,Greenland Chowk,1
+R8,WEEKDAY,trip_154_9,Greenland Chowk,1
+R8,WEEKDAY,trip_154_10,Greenland Chowk,1
+R8,WEEKDAY,trip_154_11,Greenland Chowk,1
+R8,WEEKDAY,trip_154_12,Greenland Chowk,1
+R8,WEEKDAY,trip_154_13,Greenland Chowk,1
+R8,WEEKDAY,trip_154_14,Greenland Chowk,1
+R8,WEEKDAY,trip_154_15,Greenland Chowk,1
+R8,WEEKDAY,trip_154_16,Greenland Chowk,1
+R8,WEEKDAY,trip_154_17,Greenland Chowk,1
+R8,WEEKDAY,trip_154_18,Greenland Chowk,1
+R8,WEEKDAY,trip_154_19,Greenland Chowk,1
+R8,WEEKDAY,trip_154_20,Greenland Chowk,1
+R8,WEEKDAY,trip_154_21,Greenland Chowk,1
+R8,WEEKDAY,trip_154_22,Greenland Chowk,1
+R8,WEEKDAY,trip_154_23,Greenland Chowk,1
+R8,WEEKDAY,trip_154_24,Greenland Chowk,1
+R8,WEEKDAY,trip_154_25,Greenland Chowk,1
+R8,WEEKDAY,trip_154_26,Greenland Chowk,1
+R8,WEEKDAY,trip_154_27,Greenland Chowk,1
+R8,WEEKDAY,trip_154_28,Greenland Chowk,1
+R91A,WEEKDAY,trip_263_0,Bhaktinagar Circle,0
+R91A,WEEKDAY,trip_264_0,Tramba Village,1
+R91A,WEEKDAY,trip_264_1,Tramba Village,1
+R91A,WEEKDAY,trip_264_2,Tramba Village,1
+R91B,WEEKDAY,trip_265_0,Ajidam,0
+R91,WEEKDAY,trip_155_0,Vagal Chowkdi,0
+R91,WEEKDAY,trip_155_1,Vagal Chowkdi,0
+R91,WEEKDAY,trip_155_2,Vagal Chowkdi,0
+R91,WEEKDAY,trip_155_3,Vagal Chowkdi,0
+R91,WEEKDAY,trip_155_4,Vagal Chowkdi,0
+R91,WEEKDAY,trip_155_5,Vagal Chowkdi,0
+R91,WEEKDAY,trip_156_0,Tramba Village,1
+R91,WEEKDAY,trip_156_1,Tramba Village,1
+R91,WEEKDAY,trip_156_2,Tramba Village,1
+R91,WEEKDAY,trip_156_3,Tramba Village,1
+R91,WEEKDAY,trip_156_4,Tramba Village,1
+R92,WEEKDAY,trip_157_0,Trikon Baug,0
+R92,WEEKDAY,trip_157_1,Trikon Baug,0
+R92,WEEKDAY,trip_157_2,Trikon Baug,0
+R92,WEEKDAY,trip_157_3,Trikon Baug,0
+R92,WEEKDAY,trip_157_4,Trikon Baug,0
+R92,WEEKDAY,trip_157_5,Trikon Baug,0
+R92,WEEKDAY,trip_157_6,Trikon Baug,0
+R92,WEEKDAY,trip_157_7,Trikon Baug,0
+R92,WEEKDAY,trip_157_8,Trikon Baug,0
+R92,WEEKDAY,trip_157_9,Trikon Baug,0
+R92,WEEKDAY,trip_157_10,Trikon Baug,0
+R92,WEEKDAY,trip_157_11,Trikon Baug,0
+R92,WEEKDAY,trip_157_12,Trikon Baug,0
+R92,WEEKDAY,trip_157_13,Trikon Baug,0
+R92,WEEKDAY,trip_157_14,Trikon Baug,0
+R92,WEEKDAY,trip_157_15,Trikon Baug,0
+R92,WEEKDAY,trip_157_16,Trikon Baug,0
+R92,WEEKDAY,trip_158_0,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_1,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_2,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_3,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_4,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_5,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_6,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_7,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_8,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_9,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_10,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_11,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_12,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_13,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_14,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_15,150 Feet Jamnagar Road Crossing,1
+R92,WEEKDAY,trip_158_16,150 Feet Jamnagar Road Crossing,1
+R96,WEEKDAY,trip_159_0,Kothariya Gam,0
+R96,WEEKDAY,trip_159_1,Kothariya Gam,0
+R96,WEEKDAY,trip_159_2,Kothariya Gam,0
+R96,WEEKDAY,trip_159_3,Kothariya Gam,0
+R96,WEEKDAY,trip_159_4,Kothariya Gam,0
+R96,WEEKDAY,trip_160_0,Atal Sarovar Entrance Gate,1
+R96,WEEKDAY,trip_160_1,Atal Sarovar Entrance Gate,1
+R96,WEEKDAY,trip_160_2,Atal Sarovar Entrance Gate,1
+R96,WEEKDAY,trip_160_3,Atal Sarovar Entrance Gate,1
+R97,WEEKDAY,trip_161_0,Ajidam,0
+R97,WEEKDAY,trip_161_1,Ajidam,0
+R97,WEEKDAY,trip_161_2,Ajidam,0
+R97,WEEKDAY,trip_161_3,Ajidam,0
+R97,WEEKDAY,trip_162_0,Atal Sarovar,1
+R97,WEEKDAY,trip_162_1,Atal Sarovar,1
+R97,WEEKDAY,trip_162_2,Atal Sarovar,1
+R97,WEEKDAY,trip_162_3,Atal Sarovar,1
+R97,WEEKDAY,trip_162_4,Atal Sarovar,1
+R98,WEEKDAY,trip_163_0,Gondal Chowkdi,0
+R98,WEEKDAY,trip_163_1,Gondal Chowkdi,0
+R98,WEEKDAY,trip_163_2,Gondal Chowkdi,0
+R98,WEEKDAY,trip_163_3,Gondal Chowkdi,0
+R98,WEEKDAY,trip_164_0,Atal Sarovar Entrance Gate,1
+R98,WEEKDAY,trip_164_1,Atal Sarovar Entrance Gate,1
+R98,WEEKDAY,trip_164_2,Atal Sarovar Entrance Gate,1
+R98,WEEKDAY,trip_164_3,Atal Sarovar Entrance Gate,1
+R98,WEEKDAY,trip_164_4,Atal Sarovar Entrance Gate,1
+R99,WEEKDAY,trip_165_0,Greenland Chowk,0
+R99,WEEKDAY,trip_165_1,Greenland Chowk,0
+R99,WEEKDAY,trip_165_2,Greenland Chowk,0
+R99,WEEKDAY,trip_165_3,Greenland Chowk,0
+R99,WEEKDAY,trip_166_0,Atal Sarovar Entrance Gate,1
+R99,WEEKDAY,trip_166_1,Atal Sarovar Entrance Gate,1
+R99,WEEKDAY,trip_166_2,Atal Sarovar Entrance Gate,1
+R99,WEEKDAY,trip_166_3,Atal Sarovar Entrance Gate,1
+R9,WEEKDAY,trip_167_0,Saurashtra University,0
+R9,WEEKDAY,trip_167_1,Saurashtra University,0
+R9,WEEKDAY,trip_167_2,Saurashtra University,0
+R9,WEEKDAY,trip_167_3,Saurashtra University,0
+R9,WEEKDAY,trip_167_4,Saurashtra University,0
+R9,WEEKDAY,trip_168_0,Arpit Eng. Collage,1
+R9,WEEKDAY,trip_168_1,Arpit Eng. Collage,1
+R9,WEEKDAY,trip_168_2,Arpit Eng. Collage,1
+R9,WEEKDAY,trip_168_3,Arpit Eng. Collage,1
+R9,WEEKDAY,trip_168_4,Arpit Eng. Collage,1

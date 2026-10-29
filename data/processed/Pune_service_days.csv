@@ -1,0 +1,2 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,weekday_service,weekend_service
+WEEKDAY,1,1,1,1,1,1,1,20261007,20270405,True,True
