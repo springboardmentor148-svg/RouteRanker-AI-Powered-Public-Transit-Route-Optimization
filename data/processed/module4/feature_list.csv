@@ -1,0 +1,26 @@
+feature,treatment
+median_headway_min_was_missing,"missing/invalid indicator (0/1, unscaled)"
+avg_speed_kmh_was_missing,"missing/invalid indicator (0/1, unscaled)"
+n_trips,log1p + standardised
+n_unique_stops,log1p + standardised
+median_stops_per_trip,standardised
+length_km,log1p + standardised
+service_span_h,standardised
+n_active_hours,standardised
+trips_per_active_hour,log1p + standardised
+median_headway_min,log1p + standardised
+avg_trip_duration_min,log1p + standardised
+stops_per_km,standardised
+avg_speed_kmh,log1p + standardised
+max_stop_overlap,standardised
+mean_routes_per_stop,log1p + standardised
+share_morning,standardised
+share_afternoon,log1p + standardised
+share_evening,log1p + standardised
+length_method__shapes.txt,one-hot (0/1)
+length_method__stop coordinates (shape failed sanity check),one-hot (0/1)
+"length_method__stop coordinates (straight-line, approximate)",one-hot (0/1)
+peak_period__afternoon,one-hot (0/1)
+peak_period__evening,one-hot (0/1)
+peak_period__morning,one-hot (0/1)
+peak_period__night,one-hot (0/1)
