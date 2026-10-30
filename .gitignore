@@ -1,0 +1,23 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Raw GTFS Datasets (excluded per repository guidelines)
+RAW DATASET/GTFS*/
+RAW DATASET/GTFS */
+GTFS*/
+GTFS */
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

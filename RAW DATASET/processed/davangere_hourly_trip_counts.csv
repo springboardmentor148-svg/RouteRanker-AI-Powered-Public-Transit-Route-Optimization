@@ -1,0 +1,15 @@
+city,route_id,day_type,hour_00,hour_01,hour_02,hour_03,hour_04,hour_05,hour_06,hour_07,hour_08,hour_09,hour_10,hour_11,hour_12,hour_13,hour_14,hour_15,hour_16,hour_17,hour_18,hour_19,hour_20,hour_21,hour_22,hour_23
+davangere,davangere_5450,all_days,0,0,0,0,0,0,0,2,1,2,4,4,3,4,4,4,4,2,2,2,2,0,0,0
+davangere,davangere_5451,all_days,0,0,0,0,0,0,2,1,2,4,4,4,3,4,3,5,2,2,2,2,0,0,0,0
+davangere,davangere_5452,all_days,0,0,0,0,0,0,0,2,6,4,8,6,6,6,4,7,5,5,4,0,0,0,0,0
+davangere,davangere_5453,all_days,0,0,0,0,0,0,0,0,3,6,5,7,7,4,6,6,4,6,4,3,0,0,0,0
+davangere,davangere_5454,all_days,0,0,0,0,0,0,0,1,2,5,6,8,7,4,5,6,5,4,3,1,0,0,0,0
+davangere,davangere_5455,all_days,0,0,0,0,0,0,0,2,4,7,6,7,6,7,5,3,5,4,1,0,0,0,0,0
+davangere,davangere_5456,all_days,0,0,0,0,0,0,0,0,1,4,6,7,10,6,5,9,7,4,2,0,0,0,0,0
+davangere,davangere_5457,all_days,0,0,0,0,0,0,0,1,2,5,9,8,6,9,6,7,6,6,3,2,0,0,0,0
+davangere,davangere_5458,all_days,0,0,0,0,0,0,0,1,3,4,5,5,4,5,5,5,5,3,1,0,0,0,0,0
+davangere,davangere_5459,all_days,0,0,0,0,0,0,0,1,2,5,4,5,5,4,5,6,4,4,1,0,0,0,0,0
+davangere,davangere_5460,all_days,0,0,0,0,0,0,0,0,2,1,1,2,1,1,1,1,2,1,1,0,0,0,0,0
+davangere,davangere_5461,all_days,0,0,0,0,0,0,0,0,1,2,1,1,2,1,1,2,1,1,1,1,0,0,0,0
+davangere,davangere_5617,all_days,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+davangere,davangere_5618,all_days,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0

@@ -1,0 +1,633 @@
+city,route_id,route_short_name,route_long_name,route_type,trip_count,stop_count,median_headway_min,min_headway_min,max_headway_min,hw_afternoon_median_min,hw_evening_median_min,hw_morning_median_min,hw_night_median_min,route_length_km,length_method,flag_too_short,flag_too_long,flag_length_review
+hdbrt,hdbrt_1,152-D,PEARL LAYOUT 2 to CBT 2 (DOWN),3,12.0,16.0,70.0,70.0,200.0,70.0,70.0,70.0,70.0,4.8786673343876785,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_2,246-D,SULLA 2 to HOSUR TERMINAL 1 (DOWN),3,18.0,18.0,30.0,25.0,170.0,47.5,42.5,30.0,,14.443991563054608,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_3,74-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to SHAREVADA 1 (UP),3,2.0,17.0,430.0,430.0,430.0,430.0,,,,12.54529850542459,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_4,1001-D,NEW BOYS HOSTEL 2 to CBT-D 2 (DOWN),3,2.0,15.0,140.0,140.0,140.0,140.0,,,,5.735307445732622,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_5,202-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to CHALAMATTI FACTORY 1 (UP),3,3.0,15.0,27.0,27.0,27.0,,,27.0,27.0,13.101391472072706,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_6,167-U,RAJ NAGAR 2 to DC OFFICE 1 (UP),3,1.0,58.0,,,,,,,,25.028743228017557,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_7,H17-U,CBT 1 to GOPANAKOPPA 1 (UP),3,1.0,12.0,,,,,,,,3.885292619590637,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_8,149-U,CBT 2 to AMARGOL K H B COLONY 2 (UP),3,10.0,33.0,20.0,7.0,410.0,27.0,19.0,,,13.046975231085112,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_9,252-U,CBT 2 to KOTARI NAGAR 1 (UP),3,17.0,13.0,50.0,50.0,158.0,50.0,104.0,50.0,50.0,4.106218436212398,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_10,1001-U,CBT-D 1 to NEW BOYS HOSTEL 2 (UP),3,2.0,15.0,140.0,140.0,140.0,,,140.0,,5.762594210901677,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_11,202-D,CHALAMATTI FACTORY 1 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,3.0,15.0,30.0,22.0,38.0,,30.0,,,13.100531484892741,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_12,78-D,NEKKAR NAGAR 2 to KMC 2 (DOWN),3,18.0,18.0,35.0,35.0,100.0,35.0,35.0,35.0,,6.058746848800637,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_13,29-U,CBT 3 to PATRAKARTH NAGAR 1 (UP),3,46.0,27.0,25.0,0.0,61.0,25.0,26.0,20.0,61.0,7.731085008941758,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_14,200A-U,CBT HUBBALLI - HD to DHARWAD BRTS TERMINAL - HD (UP),3,172.0,34.0,6.0,0.0,17.0,4.0,6.0,6.0,8.0,21.214942623060093,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_15,16-U,CBT 1 to GOPANAKOPPA 1 (UP),3,100.0,14.0,9.0,0.0,36.0,9.0,10.0,5.0,15.0,4.822476561286388,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_18,H119-U,CBT 2 to PRAJA NAGAR 1 (UP),3,21.0,32.0,42.5,10.0,80.0,45.0,44.0,35.0,,11.651127424806829,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_19,74-D,SHAREVADA 1 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,2.0,20.0,430.0,430.0,430.0,430.0,,,,12.531713474271434,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_20,204-U,HUBLI OBS (OUTSIDE) to CHALAMATTI FACTORY 1 (UP),3,3.0,15.0,30.0,22.0,38.0,,30.0,,,12.75662101628494,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_21,508-D,GOKUL 1 to GOPANAKOPPA 1 (DOWN),3,18.0,31.0,40.0,25.0,55.0,40.0,40.0,40.0,,10.279113307856486,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_24,5H-D,HANAMANT NAGAR 1 to CBT 2 (DOWN),3,9.0,22.0,70.0,70.0,85.0,70.0,70.0,70.0,,6.597216728422879,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_25,204-D,CHALAMATTI FACTORY 1 to HUBLI OBS (INSIDE) (DOWN),3,3.0,15.0,27.5,27.0,28.0,,,27.5,,12.727372556162566,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_26,75-U,CBT 1 to SIDDHARUD MATA 1 (UP),3,1.0,13.0,,,,,,,,4.720440284574947,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_27,81-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to SIDDHARUD MATA 1 (UP),3,1.0,13.0,,,,,,,,4.325577931183738,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_28,111-D,GIRIYAL 2 to HOSUR TERMINAL 1 (DOWN),3,9.0,21.0,92.5,80.0,210.0,150.0,105.0,80.0,,12.555914383366078,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_29,75-D,SIDDHARUD MATA 2 to CBT 2 (DOWN),3,1.0,14.0,,,,,,,,5.08836570765699,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_30,1002-U,CBT-D 2 to SHIVAGIRI 1 (UP),3,18.0,12.0,50.0,50.0,60.0,55.0,50.0,50.0,50.0,3.7764929233913067,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_31,210-U,KMC 1 to MANTUR ROAD 2 (UP),3,10.0,17.0,70.0,70.0,246.0,90.0,70.0,70.0,,5.656872831817617,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_32,21-U,CBT 1 to GANDHI NAGAR/KUMAR PARK 1 (UP),3,43.0,21.0,20.0,0.0,45.0,20.0,20.0,20.0,37.5,7.619132200953271,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_33,29-D,PATRAKARTH NAGAR 2 to CBT 2 (DOWN),3,47.0,25.0,25.0,0.0,40.0,21.0,26.0,20.0,26.0,6.229709223658922,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_34,81-D,SIDDHARUD MATA 1 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,1.0,12.0,,,,,,,,4.277941029643682,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_35,206-D,NENO PIX FACTORY to HUBLI OBS (OUTSIDE) (DOWN),3,2.0,27.0,575.0,575.0,575.0,,575.0,,,11.37008448010645,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_36,200A-D,DHARWAD BRTS TERMINAL - DH to CBT HUBBALLI - DH (DOWN),3,172.0,34.0,6.0,0.0,15.0,5.5,6.0,6.0,7.5,21.237924041372047,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_37,246-U,HOSUR TERMINAL 1 to SULLA 1 (UP),3,18.0,18.0,30.0,30.0,170.0,42.5,30.0,45.0,45.0,14.401229831841027,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_38,M198-U,HOSUR TERMINAL 1 to HOSUR TERMINAL 1 (UP),3,1.0,3.0,,,,,,,,0.5518321118497557,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_39,82-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to DRIVER TRAINING SCHOOL 1 (UP),3,1.0,33.0,,,,,,,,13.337535802265105,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_40,217-U,CBT 1 to SURABHI NAGAR 1 (UP),3,12.0,13.0,70.0,70.0,155.0,70.0,70.0,70.0,70.0,6.8128848029374796,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_41,127-U,CBT  5 to TARIHAL SH (UP),3,17.0,26.0,30.0,5.0,95.0,30.0,30.0,30.0,,13.143378598656444,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_44,84-U,HUBLI OBS (INSIDE) to DRIVER TRAINING SCHOOL 1 (UP),3,1.0,31.0,,,,,,,,12.929041616375617,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_45,86-D,KOTARI NAGAR 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,1.0,15.0,,,,,,,,5.129256880715579,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_47,01-D,RAJEEV NAGAR 1 to CBT 2 (DOWN),3,7.0,22.0,70.0,70.0,135.0,85.0,70.0,70.0,,7.22061240669928,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_49,82-D,DRIVER TRAINING SCHOOL 1 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,1.0,32.0,,,,,,,,12.861056246146177,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_50,19-D,MANOJ ESTAT  3 to CBT 2 (DOWN),3,2.0,16.0,83.0,83.0,83.0,,83.0,,,6.249759987452559,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_51,1072-U,CBT-D 2 to BELLAD NAGAR 2 (UP),3,10.0,18.0,50.0,10.0,225.0,50.0,30.0,60.0,,5.018625512772515,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_56,84-D,DRIVER TRAINING SCHOOL 1 to HUBLI OBS (OUTSIDE) (DOWN),3,1.0,31.0,,,,,,,,13.15643044188692,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_60,H127-U,PRAJA NAGAR 2 to RAJ NAGAR 1 (UP),3,2.0,46.0,10.0,10.0,10.0,,,10.0,,14.253142470891648,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_61,01-U,CBT 2 to RAJEEV NAGAR 1 (UP),3,7.0,23.0,70.0,70.0,150.0,70.0,,70.0,,7.151059423398846,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_62,72-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to GABBUR 1 (UP),3,5.0,10.0,18.0,18.0,146.0,,,18.0,,5.0699194422111855,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_63,90-U,KMC 1 to BANJARA COLONY 1 (UP),3,7.0,21.0,80.0,80.0,156.0,95.0,80.0,80.0,,8.042904108164532,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_64,H127-D,RAJ NAGAR 2 to PRAJA NAGAR 1 (DOWN),3,2.0,44.0,96.0,96.0,96.0,96.0,,,,13.877946893842438,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_65,1072-D,BELLAD NAGAR 1 to CBT-D 2 (DOWN),3,10.0,18.0,60.0,5.0,220.0,65.0,47.5,60.0,,5.0470577576142075,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_66,288-U,CBT 1 to RENUKA COLONY 3 (UP),3,1.0,17.0,,,,,,,,5.923844372225683,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_67,31-U,CBT 1 to HANDICAP HOSPITAL 1 (UP),3,1.0,22.0,,,,,,,,7.516444163556564,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_68,194-U,KMC 1 to HUBLI OBS (OUTSIDE) (UP),3,3.0,5.0,172.5,65.0,280.0,,65.0,,280.0,1.8888312697143124,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_71,205-U,KMC 1 to BANJARA COLONY 1 (UP),3,2.0,16.0,35.0,35.0,35.0,35.0,,,,9.637858461549726,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_72,100B-D,DHARWAD BRTS TERMINAL - DH to RAILWAY STATION - DH (DOWN),3,216.0,15.0,4.0,0.0,24.0,3.0,4.0,4.0,9.0,20.39335633477855,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_73,128-U,NAVANAGAR CITY 1 to RAJ NAGAR 2 (UP),3,1.0,38.0,,,,,,,,13.02493522811764,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_74,1E-C,HUBLI OBS (INSIDE) to HUBLI OBS (INSIDE) 1,3,33.0,30.0,25.5,7.0,55.0,14.0,55.0,27.0,,11.27052091870499,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_75,109-U,HOSUR TERMINAL 1 to G BASAVANA KOPPA 1 (UP),3,8.0,36.0,120.0,90.0,130.0,100.0,120.0,125.0,120.0,18.995505108096467,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_76,100B-U,RAILWAY STATION - HD to DHARWAD BRTS TERMINAL - HD (UP),3,216.0,15.0,4.0,0.0,31.0,3.0,3.0,4.0,11.0,20.374028256451812,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_77,225-U,CBT 3 to SHIRADI NAGAR 1 (UP),3,1.0,25.0,,,,,,,,7.352873104719871,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_78,113-U,HOSUR TERMINAL 1 to ITTIGATTI 1 (UP),3,3.0,33.0,292.5,105.0,480.0,,480.0,105.0,,17.45163170216491,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_79,216-U,RAJ NAGAR 2 to MANJUNATHA NAGAR 1 (UP),3,1.0,23.0,,,,,,,,8.207754320265174,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_80,248-U,HOSUR TERMINAL 1 to SULLA 1 (UP),3,7.0,23.0,90.0,85.0,110.0,90.0,90.0,97.5,,20.469315672193236,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_81,114-U,HOSUR TERMINAL 1 to KARDIKOPPA 1 (UP),3,9.0,21.0,92.5,90.0,170.0,130.0,92.5,90.0,130.0,20.000701799342576,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_83,19-U,CBT 1 to MANOJ ESTAT  3 (UP),3,2.0,14.0,68.0,68.0,68.0,,68.0,,,6.159290324038931,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_85,18-D,SUN CITY PARK 3 to CBT 2 (DOWN),3,2.0,15.0,30.0,30.0,30.0,,,30.0,,6.002248027158279,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_86,216-D,MANJUNATHA NAGAR 1 to RAJ NAGAR 1 (DOWN),3,1.0,25.0,,,,,,,,8.533480475450046,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_88,117-U,HOSUR TERMINAL 1 to KUSGAL 1 (UP),3,10.0,14.0,85.0,65.0,175.0,95.0,130.0,75.0,75.0,11.204080562746562,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_89,248-D,SULLA 2 to HOSUR TERMINAL 1 (DOWN),3,7.0,23.0,90.0,85.0,110.0,97.5,90.0,90.0,,20.471212122192632,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_91,50-U,CBT 1 to TAJ NAGAR H 1 (UP),3,16.0,17.0,36.0,35.0,50.0,36.0,36.0,35.5,,6.952942035547496,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_93,225-D,SHIRADI NAGAR 2 to CBT 2 (DOWN),3,1.0,23.0,,,,,,,,5.855778225111765,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_94,179-U,KMC 1 to GOPANAKOPPA 1 (UP),3,2.0,16.0,19.0,19.0,19.0,19.0,,,,5.535021280011307,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_95,3G-D,KMC 1 to GRID (DOWN),3,11.0,10.0,70.0,5.0,100.0,70.0,70.0,67.5,,6.720388133575718,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_96,140-U,HUBLI OBS (INSIDE) 1 to NEW BUS STAND-H 1 (UP),3,1.0,8.0,,,,,,,,2.3055386173596704,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_98,179-D,GOPANAKOPPA 2 to KMC 2 (DOWN),3,2.0,18.0,19.0,19.0,19.0,19.0,,,,5.712370587726956,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_99,4H-U,HOSUR CORRIDOR1 to GOKUL 1 (UP),3,14.0,15.0,70.0,20.0,85.0,70.0,70.0,70.0,,6.412043784278724,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_100,93-D,RADHAKRISHNA NAGAR -H2 to RAILWAY STATION-H 2 (DOWN),3,12.0,19.0,60.0,60.0,193.0,60.0,60.0,60.0,165.0,6.934093538496078,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_101,288-D,RENUKA COLONY 4 to CBT 1 (DOWN),3,1.0,17.0,,,,,,,,5.995856967611995,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_102,508-U,GOPANAKOPPA 1 to GOKUL 1 (UP),3,18.0,32.0,40.0,40.0,55.0,40.0,40.0,40.0,,10.31647501451861,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_104,18-U,CBT 1 to SUN CITY PARK 3 (UP),3,2.0,15.0,30.0,30.0,30.0,,,30.0,,5.957844832815801,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_105,68-U,HUBLI OBS (INSIDE) to GOKUL 1 (UP),3,4.0,22.0,28.0,27.0,111.0,,,28.0,,6.625514840669441,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_106,468-U,CBT 1 to APMC BASAVA NAGAR 1 (UP),3,1.0,25.0,,,,,,,,8.726245799907744,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_108,157-D,DEVANG PET 2 to HUBLI OBS (INSIDE) (DOWN),3,2.0,14.0,51.0,51.0,51.0,,,,51.0,3.373686445788722,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_109,25-D,SONIYA GANDHI NAGAR 1 to KMC 2 (DOWN),3,31.0,19.0,32.5,5.0,70.0,30.0,27.5,32.5,70.0,6.275571319916383,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_112,20-D,SHAKTI COLONY 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,2.0,22.0,305.0,305.0,305.0,,305.0,,,5.596002758927536,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_113,51-U,HUBLI OBS (INSIDE) 1 to LOHIYA NAGAR 2 (UP),3,1.0,16.0,,,,,,,,5.5897590225661276,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_114,H92-U,AKSHAY COLONY 2 to PEARL LAYOUT 1 (UP),3,1.0,25.0,,,,,,,,7.889020703575927,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_116,H92-D,PEARL LAYOUT 2 to AKSHAY COLONY 1 (DOWN),3,1.0,28.0,,,,,,,,7.881041965683184,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_117,89-U,AKSHAY COLONY 2 to CHETHANA COLONY 1 (UP),3,1.0,19.0,,,,,,,,8.73599606564587,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_118,90-D,BANJARA COLONY 2 to KMC 1 (DOWN),3,7.0,22.0,80.0,80.0,171.0,80.0,80.0,80.0,,8.936412783831015,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_119,153-U,HUBLI OBS (OUTSIDE) to PEARL LAYOUT 1 (UP),3,1.0,11.0,,,,,,,,3.615334147513416,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_120,105-D,CHABBI 2 to HOSUR TERMINAL 1 (DOWN),3,18.0,19.0,45.0,40.0,120.0,45.0,45.0,45.0,50.0,17.797312813026693,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_121,89-D,CHETHANA COLONY 2 to AKSHAY COLONY 1 (DOWN),3,1.0,18.0,,,,,,,,8.745546568734513,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_122,3-U,CBT 1 to ANAND NAGAR 1 (UP),3,29.0,20.0,25.5,0.0,78.0,35.0,35.0,23.0,18.0,6.244271797668025,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_123,1218-U,DWR SD 1 to DEVGERI 1 (UP),3,16.0,25.0,55.0,15.0,100.0,70.0,50.0,45.0,60.0,16.97699357777445,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_124,H29-D,AKSHAY COLONY 2 to CBT 2 (DOWN),3,2.0,17.0,340.0,340.0,340.0,340.0,,,,5.5835528441394615,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_125,100-D,BETDUR 2 to HOSUR TERMINAL 1 (DOWN),3,27.0,23.0,30.0,0.0,105.0,31.0,25.0,30.0,25.0,16.709958742994154,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_127,290-D,THIMMASAGARA 1 to KMC 2 (DOWN),3,8.0,22.0,70.0,70.0,100.0,70.0,75.0,70.0,,8.403411172065857,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_128,99-U,GAMANAGATTI 1 to GRID (UP),3,1.0,34.0,,,,,,,,13.208391056701316,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_129,153-D,PEARL LAYOUT 2 to HUBLI OBS (INSIDE) (DOWN),3,1.0,12.0,,,,,,,,3.616515557193556,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_130,133-U,CBT 2 to PADMARAJ NAGAR 1 (UP),3,10.0,21.0,65.0,60.0,85.0,67.5,65.0,70.0,,6.631066139481627,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_131,101-U,HOSUR TERMINAL 1 to BOMMASAMUDRA 1 (UP),3,8.0,18.0,90.0,80.0,210.0,127.5,210.0,90.0,105.0,18.09256910948714,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_133,64-D,GRID to KMC 2 (DOWN),3,8.0,16.0,70.0,70.0,150.0,70.0,,70.0,,5.051568458695111,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_134,1008-D,YATTIN GUDDA to CBT-D 2 (DOWN),3,26.0,17.0,35.0,10.0,70.0,27.5,25.0,50.0,55.0,6.794375135083284,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_135,1053-U,CBT-D 1 to JSS PUBLIC SCHOOL 1 (UP),3,4.0,16.0,111.0,25.0,400.0,400.0,111.0,25.0,,5.069614479207475,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_136,99-D,GRID to GAMANAGATTI 2 (DOWN),3,1.0,33.0,,,,,,,,13.112230030259653,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_137,H29-U,CBT 2 to AKSHAY COLONY 1 (UP),3,2.0,14.0,230.0,230.0,230.0,230.0,,,,5.503539605176506,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_138,1215-U,DWR SD 1 to DOMBERAKOPPA 1 (UP),3,3.0,24.0,332.5,235.0,430.0,430.0,235.0,,,17.499901754443997,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_139,343-D,BOMMASAMUDRA 2 to HOSUR TERMINAL 1 (DOWN),3,1.0,16.0,,,,,,,,17.887507097908255,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_140,1053-D,JSS PUBLIC SCHOOL 1 to CBT-D 2 (DOWN),3,4.0,16.0,106.0,5.0,405.0,405.0,106.0,5.0,,5.057667143844784,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_143,86-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to KOTARI NAGAR 1 (UP),3,1.0,15.0,,,,,,,,5.098422282065937,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_144,290-U,KMC 1 to THIMMASAGARA 2 (UP),3,8.0,20.0,70.0,70.0,100.0,72.5,,70.0,,8.262872619843781,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_147,105-U,HOSUR TERMINAL 1 to CHABBI 1 (UP),3,18.0,19.0,45.0,40.0,120.0,45.0,45.0,45.0,45.0,17.8310167019398,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_148,76-U,CBT 1 to BANJARA COLONY 1 (UP),3,17.0,30.0,45.0,25.0,115.0,37.5,102.5,45.0,90.0,9.886130578051489,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_149,488-U,CBT 1 to SIDDHARUD MATA 1 (UP),3,20.0,21.0,50.0,10.0,70.0,35.0,70.0,20.0,70.0,7.365287728901176,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_150,1215-D,DOMBERAKOPPA 1 to DWR SD 2 (DOWN),3,3.0,26.0,332.5,220.0,445.0,,445.0,,220.0,17.519271598472233,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_152,133-D,PADMARAJ NAGAR 1 to CBT 2 (DOWN),3,10.0,22.0,70.0,60.0,85.0,65.0,65.0,70.0,,6.862268360337692,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_153,93-U,RAILWAY STATION-H 3 to RADHAKRISHNA NAGAR -H1 (UP),3,11.0,20.0,60.0,60.0,138.0,60.0,60.0,60.0,,6.814729402250737,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_155,226-D,YALLAPUR ONI to KMC 1 (DOWN),3,1.0,9.0,,,,,,,,3.9008510319067766,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_156,71-D,PADMARAJ NAGAR 1 to HUBLI OBS (OUTSIDE) (DOWN),3,1.0,18.0,,,,,,,,4.974882084586072,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_160,101-D,BOMMASAMUDRA 2 to HOSUR TERMINAL 1 (DOWN),3,8.0,18.0,100.0,80.0,180.0,170.0,100.0,80.0,,18.132728036526196,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_161,227-U,KMC 1 to HANDICAP HOSPITAL 2 (UP),3,1.0,21.0,,,,,,,,7.763852698895524,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_162,249-U,THIMMASAGARA 1 to RAJ NAGAR 1 (UP),3,1.0,32.0,,,,,,,,10.710460703209394,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_163,247-D,CBT-D 3 to RAILWAY STATION-H 2 (DOWN),3,40.0,51.0,17.0,1.0,48.0,14.0,16.5,18.0,,20.782396172613733,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_165,250-D,RAJ NAGAR 2 to NEKKAR NAGAR 1 (DOWN),3,1.0,30.0,,,,,,,,8.09306144744763,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_167,M154-U,HOSUR TERMINAL 1 to HOSUR TERMINAL 1 (UP),3,2.0,2.0,10.0,10.0,10.0,10.0,,,,0.1675103781428753,stop_straight_line_estimate,True,False,True
+hdbrt,hdbrt_170,39-D,RAJ NAGAR 2 to HUBLI OBS (INSIDE) (DOWN),3,1.0,17.0,,,,,,,,4.025331065942002,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_171,102-D,GOKUL 2 to RLY 3RD GATE 1 (DOWN),3,1.0,24.0,,,,,,,,8.93246830969342,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_173,227-D,HANDICAP HOSPITAL 1 to KMC 2 (DOWN),3,1.0,23.0,,,,,,,,8.109661256724502,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_174,39-U,HUBLI OBS (OUTSIDE) to RAJ NAGAR 1 (UP),3,1.0,19.0,,,,,,,,4.3398701715492844,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_175,1054-D,HANUMANTH NAGAR -D 1 to CBT-D 2 (DOWN),3,6.0,21.0,155.0,85.0,210.0,192.5,152.5,85.0,,6.142294502835603,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_176,102-U,RLY 3RD GATE 1 to GOKUL 1 (UP),3,1.0,23.0,,,,,,,,8.822227987559966,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_177,92-U,HUBLI OBS (INSIDE) to RADHAKRISHNA NAGAR -H1 (UP),3,25.0,8.0,25.0,20.0,70.0,25.0,25.0,25.0,,5.399680083025042,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_178,27-D,NEKAR NAGAR 3 to CBT 1 (DOWN),3,8.0,21.0,70.0,70.0,235.0,70.0,152.5,77.5,,5.806930181718237,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_179,M184-U,HOSUR TERMINAL 1 to HOSUR TERMINAL 1 (UP),3,1.0,3.0,,,,,,,,0.5841126701825741,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_180,H111-D,F C I MANTUR ROAD 2 to CBT 2 (DOWN),3,1.0,11.0,,,,,,,,2.337635169598534,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_181,H51-D,SONIYA GANDHI NAGAR 1 to CBT 2 (DOWN),3,1.0,9.0,,,,,,,,2.438229642489083,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_182,228-U,NEW BUS STAND-H 2 to RAILWAY STATION-H 4 (UP),3,4.0,9.0,40.0,40.0,401.0,220.5,,40.0,,3.2300403052789375,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_183,130-U,RLY 3RD GATE 1 to NEW BUS STAND-H 1 (UP),3,1.0,10.0,,,,,,,,4.467923035881349,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_184,126-U,CBT  5 to VAJPEY NAGAR 1 (UP),3,18.0,26.0,30.0,20.0,65.0,32.5,20.0,30.0,,13.474831847760674,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_185,50-D,TAJ NAGAR H 2 to CBT 2 (DOWN),3,16.0,18.0,36.0,35.0,50.0,36.0,35.5,36.0,,6.95714962915299,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_186,228-D,RAILWAY STATION-H 2 to NEW BUS STAND-H 1 (DOWN),3,5.0,11.0,102.5,40.0,401.0,220.5,,102.5,,3.3875909213958293,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_187,122-D,MANTUR 2 to SHIRUGUPPI 1 (DOWN),3,1.0,4.0,,,,,,,,2.593628549269365,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_188,130-D,NEW BUS STAND-H 2 to RLY 3RD GATE 1 (DOWN),3,1.0,10.0,,,,,,,,4.542591669536171,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_189,119-D,MISRIKOTI 2 to HOSUR TERMINAL 1 (DOWN),3,36.0,23.0,25.0,15.0,40.0,27.5,25.0,25.0,25.0,16.146786800761106,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_191,253-U,RAILWAY STATION-H 4 to SIDDHARUD MATA 1 (UP),3,32.0,17.0,20.0,9.0,74.0,24.0,15.0,20.5,,7.743793818868527,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_192,8C-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to MANTUR ROAD 2 (UP),3,1.0,13.0,,,,,,,,4.78991592262946,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_193,131-U,RLY 3RD GATE 1 to RADHAKRISHNA NAGAR -H1 (UP),3,1.0,20.0,,,,,,,,8.22356176159848,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_194,131-D,RADHAKRISHNA NAGAR -H2 to RLY 3RD GATE 1 (DOWN),3,1.0,20.0,,,,,,,,8.23110147385955,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_195,103-U,HOSUR TERMINAL 1 to BYAHATTI 1 (UP),3,43.0,21.0,15.0,2.0,75.0,15.0,20.0,15.0,60.0,17.059706797263253,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_196,132-U,RLY 3RD GATE 1 to NEW BUS STAND 3 (UP),3,1.0,58.0,,,,,,,,23.98965622279969,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_197,1038-U,CBT-D 2 to SHREE RAM NAGAR 1 (UP),3,36.0,13.0,30.0,20.0,40.0,30.0,30.0,30.0,30.0,3.7727176644914957,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_198,406-D,KMC 1 to CBT 2 (DOWN),3,3.0,9.0,87.0,69.0,105.0,,87.0,,,3.7762175454659315,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_199,4H-D,GOKUL 1 to HOSUR CORRIDOR1 (DOWN),3,14.0,16.0,70.0,6.0,85.0,70.0,67.0,70.0,70.0,6.408050927169232,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_200,70-D,GOKUL 2 to RAILWAY STATION-H 3 (DOWN),3,6.0,23.0,75.0,70.0,407.0,241.0,70.0,92.5,,7.523634180030123,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_201,399-U,HOSUR TERMINAL 1 to DUMMAWAD 1 (UP),3,17.0,35.0,56.0,5.0,115.0,50.0,58.0,5.0,61.5,20.27963083385901,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_202,107-D,DEVARGUDIHAL 2 to HOSUR TERMINAL 1 (DOWN),3,9.0,24.0,90.0,85.0,105.0,90.0,87.5,90.0,,12.965321322019221,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_203,211-D,NAVLUR 1 to HUBLI OBS (OUTSIDE) (DOWN),3,1.0,31.0,,,,,,,,15.349621336519357,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_204,118-D,MANTUR 2 to HOSUR TERMINAL 1 (DOWN),3,34.0,20.0,25.0,10.0,50.0,27.5,30.0,25.0,25.0,16.71329211715706,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_205,28-D,PATRAKARTH NAGAR 2 to COURT 3 (DOWN),3,1.0,21.0,,,,,,,,5.204177439109274,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_206,126-D,VAJPEY NAGAR 1 to CBT  5 (DOWN),3,18.0,26.0,30.0,20.0,65.0,30.0,35.0,30.0,,13.51824499769592,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_207,211-U,HUBLI OBS (INSIDE) to NAVLUR 1 (UP),3,1.0,31.0,,,,,,,,15.530064648909237,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_208,141-U,CBT 4 to NEW BUS STAND-H 1 (UP),3,1.0,11.0,,,,,,,,4.150306450426236,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_209,1009-U,RAILWAY STATION-D 1 to MADIHAL 1 (UP),3,26.0,14.0,30.0,20.0,75.0,30.0,30.0,30.0,20.0,4.292547200237991,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_210,132-D,NEW BUS STAND 3 to RLY 3RD GATE 1 (DOWN),3,1.0,57.0,,,,,,,,23.905997090335795,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_211,201B-U,RAILWAY STATION - HD to DHARWAD NEW BUS STAND - HD (UP),3,289.0,34.0,3.0,0.0,16.0,2.0,4.0,3.0,8.0,22.501121668749782,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_212,24-U,CBT 2 to VENKATESH NAGAR 1 (UP),3,11.0,20.0,60.0,60.0,212.0,60.0,60.0,60.0,,6.489422015580262,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_213,165-U,KMC 1 to GABBUR 1 (UP),3,40.0,12.0,18.0,6.0,96.0,18.0,17.0,17.5,,5.9177265217579915,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_214,141-D,NEW BUS STAND-H 2 to CBT 4 (DOWN),3,2.0,10.0,30.0,30.0,30.0,,,30.0,,4.093855843005645,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_216,213-U,NAVLUR 1 to SATTUR 1 (UP),3,48.0,8.0,20.0,5.0,45.0,15.0,30.0,20.0,37.5,3.3376786393347837,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_217,H111-U,CBT 2 to MANTUR ROAD 2 (UP),3,2.0,9.0,226.0,226.0,226.0,,226.0,,,1.8808701929302392,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_218,47-D,SUTHAGATTI 2 to CBT 2 (DOWN),3,20.0,31.0,40.0,35.0,85.0,45.0,40.0,40.0,,12.2179737685001,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_219,69-D,NEKKAR NAGAR 1 to HOSUR CORRIDOR 3 (DOWN),3,2.0,12.0,35.0,35.0,35.0,,35.0,,,5.033565454737669,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_220,5H-U,CBT 1 to HANAMANT NAGAR 1 (UP),3,9.0,24.0,70.0,70.0,85.0,70.0,70.0,70.0,,6.561033799073945,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_221,1009-D,MADIHAL 2 to RAILWAY STATION-D 1 (DOWN),3,25.0,15.0,30.0,20.0,105.0,30.0,30.0,30.0,40.0,4.264174205983975,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_222,H100-D,MAHALAKSHMI NAGAR to CBT 2 (DOWN),3,1.0,22.0,,,,,,,,7.614059315415306,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_223,99AL-U,RLY 3RD GATE - HD to DHARWAD NEW BUS STAND - HD (UP),3,8.0,38.0,88.0,70.0,88.0,88.0,,88.0,,24.75761090444737,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_224,213-D,SATTUR 2 to NAVLUR 1 (DOWN),3,48.0,8.0,20.0,5.0,45.0,15.0,30.0,20.0,37.5,3.734642255564811,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_225,96-U,CBT 1 to SHIVA NAGAR -H (UP),3,1.0,17.0,,,,,,,,6.699333805849865,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_227,127-D,TARIHAL SH to CBT  5 (DOWN),3,17.0,26.0,30.0,0.0,90.0,30.0,52.5,30.0,,13.190634996592467,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_230,106-U,HOSUR TERMINAL 1 to CHAVARAGUDDA 1 (UP),3,18.0,16.0,50.0,20.0,95.0,70.0,50.0,40.0,50.0,15.329351577888625,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_231,26-U,CBT 2 to NAVANAGAR CITY 1 (UP),3,32.0,26.0,30.0,0.0,55.0,35.0,32.5,30.0,40.0,10.480684082082016,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_233,178-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to GOPANAKOPPA 1 (UP),3,1.0,13.0,,,,,,,,4.675943331841115,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_236,24-D,VENKATESH NAGAR 2 to CBT 1 (DOWN),3,11.0,20.0,60.0,60.0,212.0,136.0,60.0,60.0,,6.5848949557701015,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_237,54-U,CBT 1 to BHAVANI NAGAR 1 (UP),3,10.0,15.0,60.0,60.0,75.0,60.0,60.0,60.0,,4.390281097444679,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_238,124-U,HOSUR TERMINAL 1 to TARIHAL SH (UP),3,18.0,26.0,70.0,0.0,115.0,70.0,15.0,70.0,45.0,12.348220512134917,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_239,1010-U,RAILWAY STATION-D 1 to TAJ NAGAR D (UP),3,14.0,12.0,60.0,60.0,105.0,60.0,60.0,60.0,60.0,4.560835643392979,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_242,468-D,APMC BASAVA NAGAR 2 to CBT 2 (DOWN),3,1.0,24.0,,,,,,,,8.753014403492582,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_243,20-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to SHAKTI COLONY 1 (UP),3,1.0,24.0,,,,,,,,5.755522106367217,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_244,1058-U,CBT-D 1 to LOHIYA NAGAR -D1 (UP),3,2.0,14.0,460.0,460.0,460.0,,460.0,,,4.907279909838858,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_245,372-D,M/S 2 to CBT 2 (DOWN),3,11.0,22.0,70.0,70.0,262.0,70.0,70.0,70.0,70.0,6.737452336864519,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_246,276-D,TAJ NAGAR H 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 2 (DOWN),3,4.0,16.0,12.0,5.0,18.0,,,,12.0,4.232657824653982,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_250,253-D,SIDDHARUD MATA 2 to RAILWAY STATION-H 2 (DOWN),3,32.0,15.0,20.0,9.0,74.0,18.0,15.0,21.0,,7.701039530261929,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_251,111-U,HOSUR TERMINAL 1 to GIRIYAL 1 (UP),3,9.0,21.0,95.0,80.0,210.0,157.5,102.5,90.0,80.0,12.554653223415,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_252,107-U,HOSUR TERMINAL 1 to DEVARGUDIHAL 1 (UP),3,9.0,24.0,90.0,85.0,210.0,90.0,90.0,90.0,210.0,12.972879646454565,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_255,1058-D,LOHIYA NAGAR -D1 to CBT-D 2 (DOWN),3,2.0,14.0,460.0,460.0,460.0,,460.0,,,4.9453926038269875,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_256,85-U,CBT 1 to GAMANGATTI INDUSTRIAL (UP),3,4.0,34.0,110.0,110.0,533.0,533.0,110.0,110.0,,14.505861049839822,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_259,85-D,GAMANGATTI INDUSTRIAL to CBT 2 (DOWN),3,4.0,34.0,110.0,110.0,533.0,,321.5,110.0,,14.537339239290608,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_262,H81-U,VENKATESH NAGAR 2 to RAJ NAGAR 1 (UP),3,1.0,33.0,,,,,,,,8.991627737878456,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_263,1059-U,CBT-D 1 to JADAVA NAGAR -D1 (UP),3,9.0,11.0,67.5,50.0,115.0,82.5,60.0,,65.0,4.58769959282319,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_264,134-D,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to ANAND NAGAR 1 (DOWN),3,2.0,19.0,205.0,205.0,205.0,,,205.0,,5.982484115130111,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_265,H13-U,CBT 1 to NEKKAR NAGAR 1 (UP),3,6.0,14.0,70.0,70.0,195.0,70.0,,132.5,,5.453277173594152,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_266,1027-D,AGRI COLLEGE 2 to CBT-D 2 (DOWN),3,19.0,16.0,47.5,5.0,135.0,35.0,50.0,65.0,,5.884383413201744,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_267,119-U,HOSUR TERMINAL 1 to MISRIKOTI 1 (UP),3,36.0,23.0,25.0,20.0,40.0,30.0,25.0,25.0,30.0,16.091388300589426,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_269,H77-D,ANJANEY TEMPLE 1 to CBT 2 (DOWN),3,7.0,28.0,71.0,5.0,527.0,,299.0,71.0,71.0,9.134376774040218,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_270,MNT-D,HOSUR TERMINAL 1 to HOSUR TERMINAL 1 (DOWN),3,3.0,2.0,51.0,45.0,57.0,51.0,,,,0.4983706214581198,stop_straight_line_estimate,True,False,True
+hdbrt,hdbrt_274,H77-U,CBT 2 to ANJANEY TEMPLE 1 (UP),3,7.0,29.0,71.0,5.0,527.0,,71.0,71.0,,9.102990865443266,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_278,H78-D,SM KRISHNA NAGAR 1 to KMC 1 (DOWN),3,5.0,11.0,21.0,12.0,70.0,21.0,,,,5.02796649500303,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_279,226-U,KMC 1 to YALLAPUR ONI (UP),3,1.0,7.0,,,,,,,,3.836746191725261,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_280,116-U,HOSUR TERMINAL 1 to KURUVINA KOPPA 1 (UP),3,9.0,21.0,102.5,90.0,165.0,105.0,90.0,97.5,120.0,17.297592150924768,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_281,H78-U,KMC 1 to SM KRISHNA NAGAR 1 (UP),3,5.0,9.0,21.0,12.0,25.0,21.0,,,,4.973027003993873,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_282,104-D,BYAHATTI PLOT 2 to HOSUR TERMINAL 1 (DOWN),3,6.0,23.0,75.0,60.0,470.0,,297.5,75.0,,18.459637585932654,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_285,140-D,NEW BUS STAND-H 2 to HUBLI OBS (OUTSIDE) (DOWN),3,1.0,7.0,,,,,,,,2.206481557377299,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_286,H82-U,CBT 2 to SM KRISHNA NAGAR 1 (UP),3,4.0,7.0,18.0,12.0,24.0,18.0,,,,4.553805721237983,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_287,104-U,HOSUR TERMINAL 1 to BYAHATTI PLOT 1 (UP),3,6.0,23.0,120.0,60.0,470.0,470.0,120.0,67.5,145.0,18.4088349993594,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_288,109-D,G BASAVANA KOPPA 2 to HOSUR TERMINAL 1 (DOWN),3,8.0,36.0,120.0,85.0,130.0,115.0,122.5,125.0,,20.44987941234682,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_289,83-D,DRIVER TRAINING SCHOOL 1 to CBT 2 (DOWN),3,1.0,35.0,,,,,,,,14.637763340612189,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_291,H82-D,SM KRISHNA NAGAR 1 to CBT 2 (DOWN),3,4.0,7.0,18.0,12.0,24.0,18.0,,,,4.6031533364292,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_292,117-D,KUSGAL 2 to HOSUR TERMINAL 1 (DOWN),3,10.0,14.0,90.0,65.0,160.0,95.0,90.0,70.0,160.0,11.220304310428563,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_295,1017-U,CBT-D 1 to KALYAN NAGAR 1 (UP),3,37.0,19.0,25.0,0.0,55.0,20.0,27.5,25.0,30.0,5.5643214405511126,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_296,H85-U,KMC 3 to TARIHAL SH (UP),3,1.0,19.0,,,,,,,,12.932846494024414,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_297,8C-D,MANTUR ROAD 1 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,1.0,12.0,,,,,,,,4.71273884387114,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_299,H85-D,TARIHAL SH to KMC 3 (DOWN),3,1.0,19.0,,,,,,,,12.926239410843666,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_300,210-D,MANTUR ROAD 1 to KMC 2 (DOWN),3,10.0,19.0,70.0,70.0,246.0,80.0,70.0,70.0,,5.689750986133296,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_301,25-U,KMC 1 to SONIYA GANDHI NAGAR 2 (UP),3,31.0,17.0,30.0,5.0,70.0,30.0,27.5,32.5,70.0,6.194870427159472,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_302,176-U,CBT 1 to GOKUL 1 (UP),3,68.0,26.0,10.0,0.0,85.0,10.0,11.5,10.0,59.0,8.444638898947716,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_304,H68-D,BANJARA COLONY 2 to RAILWAY STATION-H 2 (DOWN),3,2.0,27.0,25.0,25.0,25.0,25.0,,,,9.114966106460406,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_305,122-U,SHIRUGUPPI 2 to MANTUR 2 (UP),3,1.0,5.0,,,,,,,,3.4488399973498827,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_307,116-D,KURUVINA KOPPA 2 to HOSUR TERMINAL 1 (DOWN),3,9.0,21.0,95.0,90.0,165.0,127.5,90.0,100.0,,17.321271408793194,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_309,H68-U,RAILWAY STATION-H 3 to BANJARA COLONY 1 (UP),3,2.0,28.0,281.0,281.0,281.0,281.0,,,,8.958505203392622,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_310,56-U,KMC 1 to ANAND NAGAR 2 (UP),3,28.0,19.0,30.0,0.0,70.0,30.0,52.5,12.5,70.0,7.188299685572855,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_311,H100-U,CBT 2 to MAHALAKSHMI NAGAR (UP),3,1.0,26.0,,,,,,,,7.43742814709048,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_312,H69-U,CBT 2 to SHANKARJYOTI NAGAR 1 (UP),3,1.0,32.0,,,,,,,,12.544524402227436,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_313,249-D,RAJ NAGAR 2 to THIMMASAGARA 2 (DOWN),3,1.0,29.0,,,,,,,,10.31546418170582,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_315,H69-D,SHANKARJYOTI NAGAR 1 to CBT 2 (DOWN),3,1.0,32.0,,,,,,,,12.571742527372113,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_316,156-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to DEVANG PET 1 (UP),3,1.0,19.0,,,,,,,,4.6845146291356015,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_318,1025-U,CBT-D 1 to RAILWAY STATION-D 1 (UP),3,23.0,9.0,30.0,10.0,140.0,30.0,32.5,42.5,92.5,2.3158313626592038,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_319,28-U,COURT 3 to PATRAKARTH NAGAR 1 (UP),3,2.0,23.0,55.0,55.0,55.0,,,55.0,,6.162488509572363,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_320,H70-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to NEW BUS STAND-H 1 (UP),3,1.0,6.0,,,,,,,,2.010146609125285,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_322,H70-D,NEW BUS STAND-H 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,1.0,5.0,,,,,,,,1.80272097073856,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_323,128-D,RAJ NAGAR 2 to NAVANAGAR CITY 1 (DOWN),3,3.0,38.0,52.5,10.0,95.0,,,52.5,,12.684857440179156,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_324,54-D,BHAVANI NAGAR 2 to CBT 2 (DOWN),3,10.0,16.0,60.0,60.0,75.0,60.0,60.0,60.0,,4.456826618268117,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_325,406-U,CBT 2 to KMC 1 (UP),3,3.0,11.0,37.5,11.0,64.0,37.5,,,,3.835965566608266,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_326,118-U,HOSUR TERMINAL 1 to MANTUR 1 (UP),3,34.0,20.0,25.0,10.0,50.0,30.0,25.0,20.0,30.0,16.74789537537386,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_327,254-U,INDI PUMP SH 1 to RAILWAY STATION-H 2 (UP),3,1.0,16.0,,,,,,,,8.292825352949938,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_328,47-U,CBT 2 to SUTHAGATTI 1 (UP),3,21.0,30.0,40.0,35.0,85.0,40.0,40.0,40.0,45.0,12.188407006168745,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_331,M193-U,HOSUR TERMINAL 1 to HOSUR TERMINAL 1 (UP),3,1.0,3.0,,,,,,,,0.17189268542713915,stop_straight_line_estimate,True,False,True
+hdbrt,hdbrt_332,254-D,RAILWAY STATION-H 4 to INDI PUMP SH 1 (DOWN),3,1.0,18.0,,,,,,,,8.324371663958331,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_333,123-D,SHIRUGUPPI 2 to HOSUR TERMINAL 1 (DOWN),3,13.0,21.0,90.0,5.0,105.0,57.5,90.0,90.0,,17.28156991955626,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_336,H91-D,GAMANAGATTI 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 2 (DOWN),3,2.0,24.0,380.0,380.0,380.0,,380.0,,,8.745000676028523,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_337,H91-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 1 to GAMANAGATTI 1 (UP),3,1.0,23.0,,,,,,,,8.710883653609274,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_338,205-D,BANJARA COLONY 2 to KMC 1 (DOWN),3,2.0,16.0,35.0,35.0,35.0,35.0,,,,9.733278405486862,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_340,3G-U,GRID to KMC 1 (UP),3,11.0,10.0,70.0,10.0,100.0,72.5,70.0,65.0,,6.777612147687322,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_341,72-D,GABBUR 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,5.0,12.0,17.0,12.0,244.0,,17.0,,,5.3235019798152585,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_342,A76-U,BANJARA COLONY 2 to HUBLI OBS (OUTSIDE) (UP),3,1.0,25.0,,,,,,,,8.075863929665006,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_343,H34-U,CBT 1 to HUBLI OBS (OUTSIDE) (UP),3,4.0,42.0,45.0,38.0,136.0,,38.0,,90.5,13.663886112345955,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_344,372-U,CBT 3 to M/S 1 (UP),3,11.0,20.0,70.0,70.0,195.0,132.5,70.0,70.0,70.0,6.184177944164748,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_348,1025-D,RAILWAY STATION-D4 to CBT-D 2 (DOWN),3,6.0,9.0,190.0,45.0,335.0,110.0,335.0,240.0,117.5,2.3540163002348136,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_349,1026-D,BENDRE NAGAR 4 to RAILWAY STATION-D 1 (DOWN),3,5.0,19.0,65.0,60.0,70.0,65.0,,,,6.026354042207972,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_350,292-U,RAILWAY STATION-H 2 to OLD BUS STAND DHARWAD 1 (UP),3,1.0,47.0,,,,,,,,20.510309820539543,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_351,292-D,OLD BUS STAND DHARWAD 1 to RAILWAY STATION-H 2 (DOWN),3,1.0,49.0,,,,,,,,20.41416670425747,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_353,83-U,CBT 1 to DRIVER TRAINING SCHOOL 1 (UP),3,1.0,36.0,,,,,,,,14.982098219163094,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_355,123-U,HOSUR TERMINAL 1 to SHIRUGUPPI 1 (UP),3,13.0,21.0,75.0,30.0,105.0,60.0,97.5,72.5,105.0,17.333112873557344,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_360,250-U,NEKKAR NAGAR 2 to RAJ NAGAR 1 (UP),3,1.0,31.0,,,,,,,,8.505900543475068,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_361,92-D,RADHAKRISHNA NAGAR -H2 to HUBLI OBS (OUTSIDE) (DOWN),3,26.0,7.0,20.0,0.0,225.0,20.0,20.0,25.0,225.0,5.293465810865323,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_362,1026-U,RAILWAY STATION-D 1 to BENDRE NAGAR 1 (UP),3,6.0,18.0,65.0,60.0,70.0,67.5,,60.0,,5.802742241515007,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_364,94-U,CBT 1 to GIRI NAGAR H (UP),3,19.0,24.0,42.0,27.0,71.0,42.0,71.0,43.0,71.0,7.778691177391894,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_365,52-D,THIMMASAGARA 2 to CBT 2 (DOWN),3,1.0,21.0,,,,,,,,8.23255723381227,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_367,231-D,NEKKAR NAGAR 2 to KMC 2 (DOWN),3,2.0,15.0,35.0,35.0,35.0,35.0,,,,6.346884133089807,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_368,95-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to GIRI NAGAR H (UP),3,1.0,20.0,,,,,,,,5.716464388535356,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_370,212-U,ANAND NAGAR 2 to HUBLI OBS (INSIDE) (UP),3,2.0,19.0,208.0,208.0,208.0,,,,208.0,4.894987462946019,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_371,26-D,NAVANAGAR CITY 2 to CBT 2 (DOWN),3,33.0,27.0,32.5,0.0,70.0,37.5,32.5,30.0,35.0,10.5232814147712,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_372,231-U,KMC 1 to NEKKAR NAGAR 1 (UP),3,2.0,13.0,35.0,35.0,35.0,35.0,,,,6.293253137892212,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_373,96-D,SHIVA NAGAR -H to CBT 1 (DOWN),3,1.0,17.0,,,,,,,,6.756792897600562,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_374,152-U,CBT 1 to PEARL LAYOUT 1 (UP),3,12.0,14.0,70.0,70.0,190.0,130.0,85.0,70.0,70.0,4.7924959960085936,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_375,232-D,SIDDHARUD MATA 2 to CBT 2 (DOWN),3,1.0,19.0,,,,,,,,8.726212651876478,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_377,68-D,GOKUL 2 to HUBLI OBS (OUTSIDE) (DOWN),3,5.0,21.0,21.0,13.0,38.0,,21.0,,,6.636690897804305,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_378,13-U,CBT 1 to GAMANAGATTI 1 (UP),3,76.0,29.0,12.0,0.0,33.0,12.0,20.0,8.0,26.0,11.590391554650406,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_380,165-D,GABBUR 2 to KMC 2 (DOWN),3,40.0,16.0,18.0,6.0,106.0,18.0,16.0,18.0,,6.273067708174501,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_381,100-U,HOSUR TERMINAL 1 to BETDUR 1 (UP),3,27.0,23.0,33.5,5.0,90.0,37.5,25.0,35.0,45.0,16.74234198712151,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_382,147-D,BHAVANI NAGAR 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,1.0,14.0,,,,,,,,4.318393949245201,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_383,232-U,CBT 1 to SIDDHARUD MATA 1 (UP),3,1.0,20.0,,,,,,,,8.647188554591903,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_384,91-D,RADHAKRISHNA NAGAR -H2 to CBT 4 (DOWN),3,42.0,12.0,20.0,0.0,70.0,20.0,35.0,20.0,70.0,7.185739350270594,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_385,94-D,GIRI NAGAR H to CBT 2 (DOWN),3,19.0,24.0,42.0,27.0,86.0,35.5,71.0,42.0,,7.861757981767666,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_386,95-D,GIRI NAGAR H to HOSUR CORRIDOR 1 (DOWN),3,1.0,20.0,,,,,,,,5.71961090360081,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_387,31-D,HANDICAP HOSPITAL 1 to CBT 2 (DOWN),3,1.0,22.0,,,,,,,,7.560771574339921,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_388,H97-D,MAHALAKSHMI NAGAR to CBT 2 (DOWN),3,51.0,23.0,15.0,1.0,70.0,14.5,18.0,15.0,70.0,7.614275727983063,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_389,48-U,CBT 1 to TAJ NAGAR H 1 (UP),3,56.0,24.0,16.0,2.0,45.0,16.0,15.0,13.0,15.0,7.134963148079883,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_391,293-U,CBT 2 to NEW BUS STAND 3 (UP),3,1.0,56.0,,,,,,,,23.486006021991663,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_392,206-U,HUBLI OBS (INSIDE) to NENO PIX FACTORY (UP),3,2.0,28.0,575.0,575.0,575.0,,575.0,,,11.40528588596573,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_393,33-D,NAVLUR 2 to CBT-D 2 (DOWN),3,1.0,18.0,,,,,,,,6.015471181162725,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_394,H17-D,GOPANAKOPPA 2 to CBT 2 (DOWN),3,1.0,12.0,,,,,,,,3.7481669239891993,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_396,293-D,NEW BUS STAND 3 to CBT 2 (DOWN),3,1.0,57.0,,,,,,,,23.53067260248416,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_397,33-U,CBT-D 1 to NAVLUR 1 (UP),3,1.0,18.0,,,,,,,,5.944222745418229,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_398,H7-U,CBT 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (UP),3,8.0,8.0,60.0,0.0,285.0,105.0,35.0,,167.0,2.944553942254658,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_399,1031-U,CBT-D 1 to RAILWAY STATION-D 1 (UP),3,9.0,9.0,55.0,10.0,186.0,30.0,95.0,,,2.3158313626592038,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_400,1034-U,CBT-D 1 to KAYAK NAGAR 1 (UP),3,1.0,21.0,,,,,,,,8.356893372020409,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_401,1229-D,NAGALAVI 2 to DWR SD 2 (DOWN),3,6.0,28.0,100.0,65.0,265.0,265.0,82.5,152.5,,19.709628932315933,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_402,1031-D,RAILWAY STATION-D4 to CBT-D 2 (DOWN),3,25.0,9.0,30.0,0.0,130.0,20.0,30.0,30.0,130.0,2.3540163002348136,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_403,294-D,OLD BUS STAND DHARWAD 1 to CBT 2 (DOWN),3,1.0,50.0,,,,,,,,21.262449464766526,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_404,338-U,STAGE 1 to STAGE 10 (UP),3,2.0,10.0,64.0,64.0,64.0,64.0,,,,0.6448570509501591,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_405,1033-D,MADIHAL 2 to CBT-D 1 (DOWN),3,6.0,8.0,50.0,10.0,495.0,30.0,,210.0,495.0,1.9584565201246718,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_406,1208-U,DWR SD 1 to NARENDR POLT 1 (UP),3,32.0,22.0,30.0,0.0,70.0,20.0,35.0,20.0,42.5,9.052736259980934,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_407,294-U,CBT 2 to OLD BUS STAND DHARWAD 1 (UP),3,1.0,48.0,,,,,,,,21.272720992171035,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_408,176-D,GOKUL 2 to CBT 2 (DOWN),3,67.0,25.0,10.0,0.0,85.0,13.0,22.0,8.5,74.5,8.524079888332299,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_409,338-D,STAGE 10 to STAGE 1 (DOWN),3,2.0,10.0,64.0,64.0,64.0,64.0,,,,0.6448570509501591,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_410,1061-U,CBT-D 2 to IIIT-D1 (UP),3,3.0,21.0,322.5,80.0,565.0,,565.0,80.0,,10.407316055857772,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_412,576-C,CBT 2 to CBT 1,3,40.0,46.0,24.0,2.0,45.0,21.0,30.0,22.5,45.0,15.551270776400878,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_413,516-C,CBT 1 to CBT 1,3,17.0,39.0,30.0,9.0,60.0,34.5,32.5,30.0,,14.044321155634217,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_416,1061-D,IIIT-D1 to CBT-D 1 (DOWN),3,3.0,21.0,322.5,80.0,565.0,,565.0,80.0,,10.456930231761552,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_418,1028-U,CBT-D 1 to SHIRIDI NAGAR D1 (UP),3,2.0,20.0,505.0,505.0,505.0,,505.0,,,7.068580078047054,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_420,1032-D,UDAYGIRI 4 to CBT-D 2 (DOWN),3,5.0,21.0,155.0,75.0,240.0,155.0,75.0,240.0,,8.448597330831314,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_421,1233-U,DWR SD 1 to KURUB GATTI 1 (UP),3,10.0,33.0,90.0,30.0,170.0,105.0,130.0,75.0,60.0,15.783295815195256,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_422,112-D,HALLYAL 2 to HOSUR TERMINAL 1 (DOWN),3,9.0,17.0,90.0,90.0,150.0,105.0,97.5,90.0,,11.077681041272873,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_423,51-D,LOHIYA NAGAR 1 to HUBLI OBS (INSIDE) (DOWN),3,1.0,14.0,,,,,,,,5.737420555635012,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_424,SD36-D,MALLUR 2 to DWR SD 2 (DOWN),3,1.0,22.0,,,,,,,,13.748413475083728,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_425,56-D,ANAND NAGAR 1 to KMC 2 (DOWN),3,26.0,22.0,30.0,0.0,70.0,30.0,45.0,10.0,,7.052226349484167,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_426,21-D,GANDHI NAGAR/KUMAR PARK 2 to CBT 2 (DOWN),3,43.0,19.0,20.0,0.0,50.0,15.0,20.0,30.0,40.0,7.495401053410446,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_428,103-D,BYAHATTI 2 to HOSUR TERMINAL 1 (DOWN),3,43.0,21.0,17.5,3.0,45.0,15.0,20.0,15.0,40.0,17.062448824807056,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_430,1020-D,CHAITHANYA NAGAR 2 to CBT-D 2 (DOWN),3,21.0,13.0,40.0,0.0,90.0,40.0,40.0,40.0,50.0,3.864426533344482,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_431,1044-U,CBT-D 2 to TAJESAVI NAGAR 1 (UP),3,2.0,14.0,425.0,425.0,425.0,425.0,,,,3.5309303781839216,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_432,114-D,KARDIKOPPA 2 to HOSUR TERMINAL 1 (DOWN),3,9.0,19.0,92.5,90.0,160.0,90.0,97.5,90.0,,19.726488414476048,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_434,12-D,SIDDHARUD MATA 2 to RAILWAY STATION-H 2 (DOWN),3,3.0,18.0,25.5,21.0,30.0,25.5,,,,6.577286345708674,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_435,12-U,RAILWAY STATION-H 3 to SIDDHARUD MATA 1 (UP),3,3.0,19.0,25.5,21.0,30.0,25.5,,,,6.43766235424231,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_436,52-U,CBT 2 to THIMMASAGARA 2 (UP),3,1.0,21.0,,,,,,,,7.813316224798483,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_438,1057-D,JOGELLAPUR 2 to CBT-D 2 (DOWN),3,7.0,21.0,135.0,70.0,260.0,260.0,185.0,80.0,180.0,8.585719874220539,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_440,1046-D,NAVLUR 2 to CBT-D 2 (DOWN),3,27.0,19.0,30.0,15.0,65.0,30.0,30.0,30.0,50.0,6.029282570271923,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_441,H15-U,HUBLI OBS (INSIDE) to SURABHI NAGAR 1 (UP),3,1.0,9.0,,,,,,,,4.994774888153042,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_442,238-U,SUTHAGATTI 2 to HUBLI OBS (OUTSIDE) (UP),3,1.0,26.0,,,,,,,,10.326180558106456,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_443,1015-U,CBT-D 1 to RADHAKRISHNA NAGAR 1 (UP),3,10.0,13.0,40.0,40.0,180.0,40.0,,40.0,,4.606319870202758,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_444,1021-D,VINAYAKA NAGAR D 2 to CBT-D 2 (DOWN),3,5.0,12.0,165.0,130.0,315.0,130.0,315.0,200.0,,3.7078573918401396,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_445,H15-D,SURABHI NAGAR 2 to HUBLI OBS (OUTSIDE) (DOWN),3,1.0,11.0,,,,,,,,5.139897518707066,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_446,H119-D,PRAJA NAGAR 2 to CBT 2 (DOWN),3,21.0,33.0,45.0,12.0,90.0,45.0,45.0,42.5,,11.72377180155851,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_449,1050-D,RAJIV GANDHI NAGAR 2 to CBT-D 2 (DOWN),3,30.0,22.0,30.0,20.0,45.0,30.0,30.0,30.0,30.0,6.1164401151303815,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_452,SD12-U,DWR SD 1 to YADWAD 1 (UP),3,1.0,13.0,,,,,,,,12.427701402617178,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_454,H45-U,HUBLI OBS (INSIDE) to KMC 1 (UP),3,1.0,7.0,,,,,,,,2.017736097380673,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_455,D222-U1,CBT-D 2 to SHREE RAM NAGAR 1,3,13.0,15.0,55.0,20.0,100.0,55.0,55.0,50.0,,3.841752361357863,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_457,73-D,GOKUL 1 to KMC 1 (DOWN),3,23.0,20.0,29.0,15.0,70.0,27.0,25.0,35.0,,8.571082633938369,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_459,1234-U,DWR SD 1 to GONGADI KOPPA 1 (UP),3,1.0,13.0,,,,,,,,10.081421907999639,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_461,1212-D,SALAKIN KOPPA 2 to DWR SD 2 (DOWN),3,3.0,17.0,305.0,110.0,500.0,,500.0,110.0,,9.172164244308664,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_462,G80-U,HUBLI OBS (INSIDE) to VENKATESH NAGAR 2 (UP),3,1.0,16.0,,,,,,,,4.684489598473188,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_463,1208-D,NARENDR POLT 2 to DWR SD 2 (DOWN),3,32.0,22.0,25.0,5.0,60.0,10.0,30.0,27.5,45.0,8.993036788969079,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_465,1229-U,DWR SD 1 to NAGALAVI 1 (UP),3,6.0,26.0,170.0,60.0,270.0,165.0,110.0,215.0,170.0,17.11596078478801,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_466,343-U,HOSUR TERMINAL 1 to BOMMASAMUDRA 2 (UP),3,1.0,18.0,,,,,,,,18.089521945938408,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_467,SD26-D,KALKERI 2 to DWR SD 2 (DOWN),3,7.0,26.0,102.5,100.0,115.0,107.5,102.5,102.5,,16.966998711639594,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_468,1207-U,DWR SD 1 to GARAG 1 (UP),3,34.0,31.0,20.0,5.0,50.0,20.0,40.0,20.0,30.0,20.854124938679494,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_469,1210-U,DWR SD 1 to CHIKKAMALLIGAWAD 1 (UP),3,35.0,18.0,22.5,0.0,100.0,15.0,35.0,20.0,60.0,6.869186892237057,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_470,1235-D,KOTUR 2 to DWR SD 2 (DOWN),3,25.0,26.0,35.0,15.0,75.0,35.0,40.0,30.0,15.0,17.518091829759246,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_472,124-D,TARIHAL SH to HOSUR TERMINAL 1 (DOWN),3,18.0,26.0,70.0,5.0,115.0,70.0,45.0,47.5,,12.336142928563977,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_473,SD36-U,DWR SD 1 to MALLUR 1 (UP),3,1.0,20.0,,,,,,,,13.724963929916353,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_474,399-D,DUMMAWAD 1 to HOSUR TERMINAL 1 (DOWN),3,17.0,34.0,52.5,0.0,115.0,45.0,56.0,55.0,,20.220387807848194,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_475,1225-U,DWR SD 1 to MURKATTI 1 (UP),3,8.0,25.0,120.0,16.0,275.0,145.5,87.0,117.5,125.0,17.108117180247312,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_477,171-U,GAMANAGATTI 1 to HUBLI OBS (INSIDE) (UP),3,3.0,28.0,29.5,26.0,33.0,,,,29.5,10.067479558614497,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_479,64-U,KMC 1 to GRID (UP),3,8.0,16.0,70.0,70.0,135.0,70.0,,85.0,,5.152166389820145,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_480,1241-D,GAMBYAPUR 2 to DWR SD 2 (DOWN),3,6.0,30.0,100.0,100.0,170.0,135.0,100.0,105.0,,23.13436169603355,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_481,70-U,RAILWAY STATION-H 3 to GOKUL 1 (UP),3,6.0,24.0,70.0,50.0,412.0,241.0,,70.0,,7.51599859575533,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_482,1212-U,DWR SD 1 to SALAKIN KOPPA 1 (UP),3,3.0,15.0,305.0,100.0,510.0,,510.0,100.0,,9.15923005242526,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_486,252-D,KOTARI NAGAR 2 to CBT 1 (DOWN),3,17.0,13.0,50.0,50.0,158.0,50.0,50.0,50.0,50.0,3.9425572836170426,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_487,D236-U2,CBT-D 1 to PAVATE NAGAR 2,3,1.0,14.0,,,,,,,,4.605398584804677,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_488,23-D,LINGARAJ NAGAR 2 to CBT 2 (DOWN),3,32.0,20.0,30.0,10.0,55.0,20.0,30.0,30.0,20.0,6.367182912329444,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_489,1220-U,DWR SD 1 to MULMUTTAL 1 (UP),3,1.0,27.0,,,,,,,,14.712232939659938,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_492,276-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 1 to TAJ NAGAR H 1 (UP),3,1.0,17.0,,,,,,,,4.255305787240046,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_493,1042-D,SOMESHWARA TEMPLE 2 to CBT-D 2 (DOWN),3,2.0,16.0,375.0,375.0,375.0,375.0,,,,4.6044489567836795,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_494,76-D,BANJARA COLONY 2 to CBT 2 (DOWN),3,15.0,29.0,50.0,10.0,100.0,40.0,95.0,50.0,,9.963250205416625,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_496,71-U,HUBLI OBS (INSIDE) to PADMARAJ NAGAR 1 (UP),3,1.0,17.0,,,,,,,,4.812836670254034,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_497,134-U,ANAND NAGAR 1 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (UP),3,2.0,12.0,196.0,196.0,196.0,,,,196.0,5.681732810493231,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_498,112-U,HOSUR TERMINAL 1 to HALLYAL 1 (UP),3,9.0,17.0,92.5,90.0,150.0,127.5,95.0,90.0,,11.07577311121267,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_499,149-D,AMARGOL K H B COLONY 2 to CBT 2 (DOWN),3,10.0,32.0,27.0,2.0,410.0,27.0,39.0,20.0,,13.061930955015509,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_500,217-D,SURABHI NAGAR 2 to CBT 2 (DOWN),3,11.0,15.0,70.0,70.0,155.0,70.0,70.0,70.0,,7.027283794458686,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_501,48-D,TAJ NAGAR H 2 to CBT 2 (DOWN),3,53.0,22.0,16.0,2.0,58.0,16.0,12.5,16.0,15.0,7.150672719455506,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_502,181-U,HUBLI OBS (INSIDE) to GOPANAKOPPA 1 (UP),3,2.0,11.0,466.0,466.0,466.0,466.0,,,,3.6664701288361607,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_503,1226-D,MANAGUNDI 2 to DWR SD 2 (DOWN),3,11.0,22.0,70.0,30.0,155.0,40.0,92.5,87.5,90.0,11.971237800145271,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_504,1226-U,DWR SD 1 to MANAGUNDI 1 (UP),3,12.0,22.0,80.0,30.0,160.0,35.0,90.0,50.0,80.0,12.022758547680688,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_505,H372-U,HUBLI OBS (OUTSIDE) to M/S 1 (UP),3,1.0,17.0,,,,,,,,4.733284912230948,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_506,1228-D,MANSUR 2 to DWR SD 2 (DOWN),3,4.0,16.0,155.0,155.0,160.0,157.5,,155.0,,9.33392798763663,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_507,13-D,GAMANAGATTI 2 to CBT 2 (DOWN),3,73.0,29.0,10.0,0.0,35.0,9.5,21.0,10.0,16.5,11.645413156047404,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_508,91-U,CBT 3 to RADHAKRISHNA NAGAR -H1 (UP),3,44.0,13.0,20.0,0.0,70.0,17.5,35.0,20.0,44.0,7.221651745616095,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_509,1232-D,AMMINBHAVI 2 to DWR SD 2 (DOWN),3,41.0,22.0,20.0,0.0,55.0,20.0,25.0,17.5,25.0,12.387411683940332,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_510,291-D,NEW BUS STAND 3 to RAILWAY STATION-H 2 (DOWN),3,161.0,56.0,6.0,0.0,29.0,6.0,5.0,5.0,4.0,22.6823898419751,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_511,H13-D,NEKAR NAGAR 3 to CBT 2 (DOWN),3,6.0,15.0,70.0,70.0,195.0,70.0,,195.0,,5.566526069561914,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_512,97-D,ALLHAPUR 2 to HOSUR TERMINAL 1 (DOWN),3,18.0,17.0,45.0,30.0,95.0,52.5,50.0,30.0,,12.19357581602534,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_513,27-U,CBT 1 to NEKKAR NAGAR 2 (UP),3,8.0,17.0,70.0,70.0,165.0,70.0,117.5,77.5,,5.42016261097632,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_514,3-D,ANAND NAGAR 2 to CBT 2 (DOWN),3,28.0,21.0,25.0,1.0,71.0,22.0,32.0,22.0,,6.624255437194046,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_515,488-D,SIDDHARUD MATA 2 to CBT 2 (DOWN),3,20.0,20.0,50.0,10.0,70.0,50.0,40.0,35.0,,7.425570444664894,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_516,1237-U,DWR SD 1 to MANGALAGATTI 1 (UP),3,1.0,25.0,,,,,,,,12.523204259277298,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_520,69-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to NEKKAR NAGAR 1 (UP),3,2.0,12.0,35.0,35.0,35.0,,,35.0,,5.009663715658375,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_521,1237-D,MANGALAGATTI 2 to DWR SD 2 (DOWN),3,1.0,25.0,,,,,,,,12.454164487456644,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_522,113-D,ITTIGATTI 2 to HOSUR TERMINAL 1 (DOWN),3,3.0,32.0,292.5,120.0,465.0,,465.0,120.0,,17.342962970983255,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_527,106-D,CHAVARAGUDDA 2 to HOSUR TERMINAL 1 (DOWN),3,18.0,16.0,45.0,20.0,95.0,57.5,50.0,30.0,40.0,15.35409069133933,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_528,H26-U,NAVANAGAR CITY 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 2 (UP),3,1.0,20.0,,,,,,,,7.603087878226692,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_529,H50-U,HUBLI OBS (OUTSIDE) to SONIYA GANDHI NAGAR 1 (UP),3,1.0,13.0,,,,,,,,4.3049874049975365,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_531,H372-D,M/S 2 to HUBLI OBS (INSIDE) (DOWN),3,1.0,18.0,,,,,,,,4.854370535766781,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_536,G80-D,VENKATESH NAGAR 2 to HUBLI OBS (INSIDE) (DOWN),3,1.0,14.0,,,,,,,,4.741632453262103,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_537,11-D,DEVANG PET 2 to CBT 2 (DOWN),3,39.0,17.0,9.0,1.0,75.0,10.0,60.0,9.0,60.0,4.654225672574194,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_539,23-U,CBT 3 to LINGARAJ NAGAR 1 (UP),3,32.0,22.0,25.0,10.0,70.0,15.0,25.0,30.0,50.0,6.267068151255763,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_542,97-U,HOSUR TERMINAL 1 to ALLHAPUR 1 (UP),3,18.0,18.0,45.0,30.0,95.0,60.0,40.0,30.0,50.0,12.31248750192381,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_545,1202-U,DWR SD 1 to BAAD 1 (UP),3,16.0,16.0,60.0,5.0,95.0,60.0,65.0,47.5,75.0,10.857380341782376,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_547,1223-D,BGT HIGH SCHOOL 1 to DWR SD 2 (DOWN),3,4.0,27.0,65.0,35.0,395.0,,230.0,35.0,,14.182176636872985,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_548,73-U,KMC 1 to GOKUL 1 (UP),3,23.0,20.0,27.0,15.0,70.0,27.0,20.5,35.0,,8.404692542455278,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_549,1049-U,CBT-D 1 to NEW BUS STAND-D 1 (UP),3,9.0,7.0,32.5,10.0,185.0,65.0,25.0,30.0,,2.3937070948752384,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_551,1223-U,DWR SD 1 to BGT HIGH SCHOOL 1 (UP),3,4.0,26.0,70.0,25.0,405.0,405.0,70.0,25.0,,14.15455819907675,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_552,1008-U,CBT-D 1 to YATTIN GUDDA (UP),3,26.0,17.0,35.0,10.0,70.0,25.0,35.0,47.5,50.0,6.860053937503172,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_553,344-C,HOSUR TERMINAL 1 to HOSUR TERMINAL 2,3,5.0,19.0,95.0,95.0,100.0,95.0,,95.0,,34.927012191393075,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_555,11-U,CBT 1 to DEVANG PET 1 (UP),3,40.0,20.0,9.0,1.0,75.0,9.0,60.0,9.0,60.0,4.919500276932954,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_556,1224-U,DWR SD 1 to AMBALI KOPPA 1 (UP),3,10.0,23.0,65.0,40.0,195.0,52.5,120.0,127.5,165.0,16.075367911679248,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_558,78-U,KMC 1 to NEKKAR NAGAR 1 (UP),3,18.0,16.0,35.0,35.0,100.0,35.0,35.0,35.0,,5.936042389690561,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_559,1224-D,AMBALI KOPPA 2 to DWR SD 2 (DOWN),3,10.0,25.0,70.0,35.0,200.0,55.0,117.5,145.0,,16.103926859393013,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_560,1222-U,DWR SD 1 to DUMMAWAD 1 (UP),3,15.0,27.0,67.5,5.0,120.0,45.0,90.0,60.0,120.0,19.953413330061586,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_561,1239-U,DWR SD 1 to HEBBALLI 1 (UP),3,47.0,22.0,20.0,0.0,45.0,20.0,22.5,15.0,30.0,14.784167790309798,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_562,244-D,KARNATAKA CIRCLE 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 2 (DOWN),3,1.0,14.0,,,,,,,,7.5345932059373215,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_563,1239-D,HEBBALLI 2 to DWR SD 2 (DOWN),3,47.0,24.0,20.0,5.0,35.0,25.0,20.0,20.0,30.0,16.27734516083701,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_564,1235-U,DWR SD 1 to KOTUR 1 (UP),3,25.0,27.0,35.0,0.0,70.0,42.5,30.0,32.5,35.0,17.64327806887355,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_565,1222-D,DUMMAWAD 2 to DWR SD 2 (DOWN),3,15.0,28.0,67.5,5.0,115.0,60.0,85.0,60.0,,20.054830723765726,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_566,244-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 1 to KARNATAKA CIRCLE 2 (UP),3,1.0,14.0,,,,,,,,7.565299064781356,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_567,1240-U,DWR SD 1 to G BASAVANA KOPPA 1 (UP),3,10.0,28.0,70.0,30.0,235.0,70.0,60.0,77.0,,16.47435727271417,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_568,1236-U,DWR SD 1 to NAYAKAN HULLI KATTI 1 (UP),3,5.0,18.0,155.0,45.0,340.0,280.0,67.5,,,11.62714134735782,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_569,1240-D,G BASAVANA KOPPA 2 to DWR SD 2 (DOWN),3,10.0,28.0,65.0,35.0,235.0,72.5,50.0,75.0,,16.473552208577054,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_570,1221-U,DWR SD 1 to MUGAD 1 (UP),3,24.0,22.0,40.0,10.0,80.0,30.0,45.0,40.0,55.0,12.52266345275781,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_571,1225-D,MURKATTI 2 to DWR SD 2 (DOWN),3,8.0,28.0,105.0,10.0,275.0,207.5,60.0,102.5,,17.269436807534117,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_572,1203-D,TALWAI 2 to DWR SD 2 (DOWN),3,12.0,22.0,75.0,20.0,180.0,75.0,70.0,75.0,,15.136037202926495,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_573,1201-D,CHANDANMATTI 2 to DWR SD 1 (DOWN),3,4.0,18.0,165.0,85.0,475.0,,475.0,125.0,,12.315666080586452,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_574,1203-U,DWR SD 1 to TALWAI 1 (UP),3,12.0,19.0,75.0,15.0,180.0,75.0,70.0,67.5,105.0,13.686219010598874,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_575,H44-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 1 to KMC 1 (UP),3,3.0,4.0,97.5,35.0,160.0,,,97.5,,0.9561886513252749,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_576,1236-D,NAYAKAN HULLI KATTI 2 to DWR SD 2 (DOWN),3,5.0,18.0,152.5,50.0,340.0,340.0,85.0,,,11.6305980740113,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_577,1042-U,CBT-D 2 to SOMESHWARA TEMPLE 1 (UP),3,2.0,16.0,375.0,375.0,375.0,375.0,,,,4.6450407564229685,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_578,1219-U,DWR SD 1 to YADWAD 1 (UP),3,3.0,16.0,267.5,60.0,475.0,60.0,475.0,,,12.762155184930316,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_579,1214-U,DWR SD 1 to SHIBAR GATTI 1 (UP),3,12.0,17.0,70.0,10.0,170.0,70.0,50.0,95.0,170.0,14.618957606461429,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_581,1048-U,CBT-D 2 to VANASHRI NAGAR  1 (UP),3,8.0,24.0,80.0,70.0,100.0,80.0,100.0,80.0,,8.143636760048757,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_582,1219-D,YADWAD 2 to DWR SD 2 (DOWN),3,5.0,15.0,160.0,60.0,450.0,,267.5,147.5,,12.305826292918574,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_583,1214-D,SHIBAR GATTI 2 to DWR SD 2 (DOWN),3,12.0,18.0,55.0,5.0,140.0,72.5,52.5,90.0,,14.586971727636431,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_584,120-U,HOSUR TERMINAL 1 to NOOLVI 1 (UP),3,6.0,15.0,80.0,80.0,145.0,115.0,,80.0,,11.163077281232312,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_585,1211-U,DWR SD 1 to KYARKOPPA 1 (UP),3,16.0,23.0,50.0,20.0,100.0,45.0,70.0,55.0,100.0,9.866535210438354,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_586,1211-D,KYARKOPPA 1 to DWR SD 2 (DOWN),3,16.0,21.0,55.0,20.0,90.0,47.5,70.0,65.0,,9.844078713075792,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_587,1018-U,CBT-D 4 to ANJANA NAGAR-D1 (UP),3,51.0,15.0,15.5,0.0,50.0,12.0,20.0,15.0,35.5,5.895685129009137,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_588,345-U,CBT 2 to AGRI COLLEGE 1 (UP),3,1.0,60.0,,,,,,,,29.86423532743188,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_589,345-D,AGRI COLLEGE 1 to CBT 1 (DOWN),3,1.0,60.0,,,,,,,,29.1294842754515,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_590,H97-U,CBT 2 to MAHALAKSHMI NAGAR (UP),3,51.0,25.0,15.0,1.0,70.0,15.0,18.0,16.0,,7.437426879718949,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_591,A13-U,CBT 1 to GAMANAGATTI 1 (UP),3,4.0,25.0,27.0,26.0,230.0,26.5,230.0,,,10.768248688441755,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_592,1027-U,CBT-D 1 to AGRI COLLEGE 1 (UP),3,30.0,16.0,25.0,0.0,90.0,15.0,40.0,15.0,,5.951632487363653,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_593,167-D,DC OFFICE 1 to RAJ NAGAR 1 (DOWN),3,1.0,64.0,,,,,,,,25.164687011228043,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_594,1065-D,GAMANAGATTI 2 to CBT-D 2 (DOWN),3,12.0,34.0,85.0,35.0,100.0,65.0,87.5,90.0,90.0,13.722871644475413,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_595,H81-D,RAJ NAGAR 1 to VENKATESH NAGAR 2 (DOWN),3,1.0,32.0,,,,,,,,8.679229935932646,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_596,1204-D,BELLI GATTI 2 to DWR SD 2 (DOWN),3,21.0,25.0,40.0,0.0,320.0,40.0,27.5,40.0,,13.819541150966904,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_597,201B-D,DHARWAD NEW BUS STAND - DH to RAILWAY STATION - DH (DOWN),3,289.0,34.0,3.0,0.0,20.0,3.0,4.0,3.0,6.0,22.51642475941464,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_598,1006-U,CBT-D 2 to BANASHRI NAGAR 1 (UP),3,30.0,13.0,30.0,0.0,60.0,25.0,47.5,30.0,55.0,4.796798180378152,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_599,1006-D,BANASHRI NAGAR 1 to CBT-D 3 (DOWN),3,30.0,13.0,30.0,10.0,55.0,30.0,30.0,30.0,52.5,4.651478677890969,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_600,H114-D,AIRPORT 4 to CBT 2 (DOWN),3,15.0,22.0,70.0,4.0,85.0,75.0,70.0,64.5,,7.673175646425581,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_601,1054-U,CBT-D 1 to HANUMANTH NAGAR -D 1 (UP),3,6.0,21.0,160.0,75.0,210.0,210.0,155.0,127.5,,6.083032822984694,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_602,H75-D,NANDA GOKUL 2 to CBT 2 (DOWN),3,9.0,27.0,79.0,14.0,339.0,209.0,79.0,72.0,79.0,8.850004289730915,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_603,1050-U,CBT-D 1 to RAJIV GANDHI NAGAR 1 (UP),3,30.0,22.0,30.0,20.0,45.0,30.0,30.0,30.0,30.0,6.048338560051583,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_604,H114-U,CBT 1 to AIRPORT 3 (UP),3,15.0,22.0,70.0,2.0,90.0,75.0,70.0,61.0,,7.631025230045647,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_605,D236-D2,PAVATE NAGAR 3 to CBT-D 2,3,1.0,14.0,,,,,,,,4.590973878577525,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_606,SD26-U,DWR SD 1 to KALKERI 1 (UP),3,7.0,26.0,105.0,95.0,115.0,105.0,100.0,105.0,,17.010360799208428,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_607,1059-D,JADAVA NAGAR -D1 to CBT-D 2 (DOWN),3,9.0,11.0,65.0,50.0,125.0,65.0,75.0,,65.0,4.558582923761908,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_609,1207-D,GARAG 1 to DWR SD 2 (DOWN),3,34.0,30.0,25.0,0.0,50.0,20.0,30.0,25.0,40.0,21.40609461471596,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_610,1218-D,DEVGERI 2 to DWR SD 2 (DOWN),3,16.0,29.0,60.0,15.0,125.0,65.0,55.0,62.5,35.0,17.023494666598328,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_611,1037-U,CBT-D 1 to MEHABUB NAGAR 1 (UP),3,22.0,10.0,40.0,11.0,69.0,40.0,40.0,40.0,69.0,2.6910313788961755,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_612,1037-D,MEHABUB NAGAR 2 to CBT-D 2 (DOWN),3,22.0,10.0,40.0,30.0,60.0,40.0,40.0,40.0,40.0,2.766064437313134,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_613,1015-D,RADHAKRISHNA NAGAR 2 to CBT-D 2 (DOWN),3,10.0,12.0,40.0,40.0,180.0,40.0,50.0,40.0,,4.47681184166212,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_614,1016-D,SAI NAGAR-D 3 to CBT-D 2 (DOWN),3,15.0,10.0,40.0,40.0,70.0,40.0,40.0,50.0,,4.019899036445877,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_616,30-U,HUBLI OBS (INSIDE) to PATRAKARTH NAGAR 2 (UP),3,1.0,23.0,,,,,,,,5.231517675595868,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_617,1016-U,CBT-D 3 to SAI NAGAR-D 3 (UP),3,15.0,10.0,40.0,40.0,70.0,40.0,40.0,50.0,,4.015199399672687,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_619,1202-D,BAAD 2 to DWR SD 2 (DOWN),3,16.0,19.0,55.0,5.0,140.0,55.0,57.5,35.0,85.0,11.162396363479445,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_620,1024-U,CBT-D 3 to SAMPIGE NAGAR 1 (UP),3,14.0,20.0,60.0,60.0,75.0,60.0,60.0,60.0,60.0,6.213668112902903,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_621,1024-D,SAMPIGE NAGAR 2 to CBT-D 4 (DOWN),3,14.0,18.0,60.0,55.0,75.0,60.0,62.5,60.0,60.0,5.9266381350048425,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_622,1013-U,CBT-D 1 to NEHRU NAGAR 1 (UP),3,244.0,15.0,4.0,0.0,30.0,3.0,3.0,4.5,20.0,4.666480721990808,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_623,296-D,MANOJ PARK 2 to CBT 2 (DOWN),3,9.0,13.0,60.0,60.0,95.0,60.0,60.0,60.0,,4.931078312855087,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_624,1020-U,CBT-D 1 to CHAITHANYA NAGAR 1 (UP),3,21.0,13.0,40.0,0.0,90.0,40.0,40.0,40.0,40.0,3.859812743933967,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_625,1051-U,CBT-D 1 to SARASWATHIPURA 3 (UP),3,3.0,7.0,240.0,50.0,430.0,,430.0,50.0,,2.7146728154537416,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_626,297-U,CBT 1 to SINDYA PLOT 2 (UP),3,1.0,17.0,,,,,,,,5.897092459458204,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_628,1028-D,SHIRIDI NAGAR D2 to CBT-D 2 (DOWN),3,2.0,20.0,505.0,505.0,505.0,,505.0,,,6.9284402132250555,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_629,297-D,SINDYA PLOT 1 to CBT 1 (DOWN),3,1.0,11.0,,,,,,,,5.783197118062846,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_630,H71-D,SIDDHARUD MATA 1 to KMC 1 (DOWN),3,1.0,19.0,,,,,,,,5.527180423027934,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_631,120-D,NOOLVI 2 to HOSUR TERMINAL 1 (DOWN),3,6.0,14.0,80.0,80.0,145.0,130.0,80.0,80.0,,11.090897290343037,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_632,1002-D,SHIVAGIRI 2 to CBT-D 2 (DOWN),3,18.0,14.0,50.0,45.0,70.0,55.0,50.0,50.0,47.5,3.892668829775404,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_634,1047-U,CBT-D 2 to TADSINAKOPPA 1 (UP),3,12.0,25.0,75.0,70.0,100.0,72.5,80.0,75.0,90.0,9.338640022115703,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_635,1012-D,TAJ NAGAR D to CBT-D 4 (DOWN),3,2.0,8.0,480.0,480.0,480.0,,,,480.0,2.244606857631202,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_636,1017-D,KALYAN NAGAR 2 to CBT-D 2 (DOWN),3,37.0,19.0,25.0,0.0,60.0,20.0,20.0,25.0,27.5,5.62242620061192,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_637,1032-U,CBT-D 1 to UDAYGIRI 3 (UP),3,5.0,22.0,167.5,75.0,217.0,167.5,75.0,217.0,,8.452534530946618,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_638,1065-U,CBT-D 2 to GAMANAGATTI 1 (UP),3,12.0,34.0,90.0,10.0,95.0,80.0,90.0,92.5,75.0,15.78311826305014,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_639,30-D,PATRAKARTH NAGAR 2 to HUBLI OBS (INSIDE) (DOWN),3,1.0,21.0,,,,,,,,4.933297475687327,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_640,1046-U,CBT-D 1 to NAVLUR 1 (UP),3,27.0,19.0,32.5,10.0,65.0,30.0,35.0,32.5,50.0,5.953555621197315,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_641,1043-U,CBT-D 3 to SHANTINIKETHAN D 2 (UP),3,1.0,20.0,,,,,,,,5.874563311869231,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_642,H39-D,RAJ NAGAR 2 to CBT 2 (DOWN),3,9.0,21.0,88.0,66.0,193.0,88.0,107.0,66.0,193.0,5.3080489344704604,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_643,298-U,KMC 3 to NOOLVI 1 (UP),3,1.0,15.0,,,,,,,,11.48639178371084,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_644,D236-D1,PAVATE NAGAR 3 to CBT-D 2,3,15.0,14.0,40.0,6.0,60.0,35.0,,40.0,,4.590973878577525,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_645,346-U,CBT 4 to LAXMINAGAR PETROL BANK 1 (UP),3,1.0,13.0,,,,,,,,5.879040475083535,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_646,1049-D,NEW BUS STAND-D 2 to CBT-D 2 (DOWN),3,7.0,7.0,40.0,30.0,185.0,40.0,90.0,30.0,,2.3609186872595047,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_647,1010-D,TAJ NAGAR D to RAILWAY STATION-D 1 (DOWN),3,14.0,11.0,60.0,60.0,105.0,60.0,60.0,60.0,60.0,4.515384735011317,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_648,298-D,NOOLVI 2 to KMC 3 (DOWN),3,1.0,14.0,,,,,,,,11.414124957282068,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_649,1210-D,CHIKKAMALLIGAWAD 2 to DWR SD 2 (DOWN),3,35.0,17.0,25.0,0.0,95.0,15.0,35.0,25.0,45.0,6.767741728291241,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_650,346-D,LAXMINAGAR PETROL BANK 1 to CBT 4 (DOWN),3,1.0,12.0,,,,,,,,5.838371094099191,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_651,D236-U1,CBT-D 1 to PAVATE NAGAR 2,3,15.0,14.0,37.5,10.0,60.0,30.0,,40.0,,4.605398584804677,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_652,1040-D,GURUDEVA NAGAR 2 to CBT-D 1 (DOWN),3,3.0,14.0,262.5,215.0,310.0,215.0,310.0,,,4.328141648025454,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_653,1213-U,DWR SD 1 to ITTIGATTI 1 (UP),3,9.0,23.0,92.5,45.0,135.0,90.0,102.5,95.0,,14.241112680750538,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_654,214-U,HUBLI OBS (INSIDE) to TAJ NAGAR H 1 (UP),3,1.0,20.0,,,,,,,,5.316853233295445,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_655,1033-U,CBT-D 2 to MADIHAL 1 (UP),3,5.0,8.0,97.5,30.0,240.0,55.0,,240.0,,1.9597403278600107,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_656,1213-D,ITTIGATTI 2 to DWR SD 2 (DOWN),3,9.0,23.0,90.0,40.0,145.0,110.0,75.0,67.5,,14.004547443455563,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_657,214-D,TAJ NAGAR H 2 to HUBLI OBS (OUTSIDE) (DOWN),3,1.0,18.0,,,,,,,,5.263286443703886,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_658,1018-D,ANJANA NAGAR-D1 to CBT-D 2 (DOWN),3,51.0,15.0,15.0,0.0,50.0,14.0,16.0,17.5,27.5,6.252310103197556,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_659,1048-D,VANASHRI NAGAR  2 to CBT-D 1 (DOWN),3,8.0,24.0,80.0,75.0,100.0,80.0,90.0,80.0,,8.096801822972571,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_660,1030-U,NEW BUS STAND-D 2 to RAILWAY STATION-D 1 (UP),3,6.0,13.0,50.0,50.0,85.0,50.0,,50.0,,3.9281202135544673,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_661,1030-D,RAILWAY STATION-D 1 to NEW BUS STAND-D 1 (DOWN),3,6.0,13.0,50.0,50.0,85.0,50.0,,,,3.8943008045938288,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_662,1043-D,SHANTINIKETHAN D 1 to CBT-D 4 (DOWN),3,1.0,20.0,,,,,,,,5.9156670684014925,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_663,1038-D,SHREE RAM NAGAR 2 to CBT-D 1 (DOWN),3,36.0,13.0,30.0,20.0,40.0,30.0,25.0,30.0,30.0,3.7032919798612447,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_664,181-D,GOPANAKOPPA 2 to HUBLI OBS (OUTSIDE) (DOWN),3,6.0,11.0,15.0,0.0,335.0,,,,15.0,3.6698067413472195,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_666,1044-D,TAJESAVI NAGAR 2 to CBT-D 1 (DOWN),3,2.0,13.0,430.0,430.0,430.0,430.0,,,,3.666669478990284,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_667,1057-U,CBT-D 1 to JOGELLAPUR (UP),3,7.0,23.0,135.0,70.0,260.0,260.0,190.0,80.0,180.0,8.554407972856833,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_670,1013-D,NEHARU NAGAR 2 to CBT-D 2 (DOWN),3,244.0,15.0,4.0,0.0,30.0,3.0,3.0,4.0,20.0,4.675082971092811,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_676,1201-U,DWR SD 1 to CHANDANMATTI 1 (UP),3,4.0,15.0,220.0,170.0,470.0,,470.0,170.0,220.0,10.873881537345703,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_678,1232-U,DWR SD 1 to AMMINBHAVI 1 (UP),3,41.0,19.0,20.0,0.0,50.0,22.5,22.5,20.0,20.0,10.950846055133976,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_686,H39-U,CBT 1 to RAJ NAGAR 1 (UP),3,11.0,22.0,66.0,10.0,153.0,64.0,122.5,66.0,,5.60548443839654,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_688,1228-U,DWR SD 1 to MANSUR 1 (UP),3,4.0,16.0,155.0,155.0,160.0,157.5,,155.0,,9.3876814760131,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_693,1234-D,GONGADI KOPPA 2 to DWR SD 2 (DOWN),3,1.0,16.0,,,,,,,,11.533110263558632,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_698,1204-U,DWR SD 1 to BELLI GATTI 1 (UP),3,22.0,24.0,45.0,0.0,400.0,57.5,30.0,40.0,60.0,13.78316063956196,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_703,1233-D,KURUB GATTI 2 to DWR SD 2 (DOWN),3,10.0,33.0,95.0,30.0,170.0,105.0,80.0,95.0,170.0,16.63056631240748,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_706,1039-U,CBT-D 1 to DHARWAD HIGH COURT 1 (UP),3,1.0,23.0,,,,,,,,11.597964947055662,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_708,157-U,HUBLI OBS (INSIDE) to DEVANG PET 1 (UP),3,1.0,17.0,,,,,,,,3.6766809855729545,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_714,1005-U,DWR SD 2 to NEW BUS STAND-D 1 (UP),3,2.0,7.0,35.0,35.0,35.0,,,35.0,,2.2822236806393357,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_717,1005-D,NEW BUS STAND-D 2 to DWR SD 2 (DOWN),3,4.0,7.0,35.0,20.0,285.0,285.0,20.0,35.0,,2.255817822520909,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_722,1066-D,BENDRE NAGAR 4 to DWR SD 2 (DOWN),3,1.0,12.0,,,,,,,,4.094387669054988,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_729,1068-D,PAVATE NAGAR 3 to DWR SD 2 (DOWN),3,2.0,13.0,515.0,515.0,515.0,515.0,,,,4.482364598866814,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_736,1019-D,SANGOLLI RAYANA NAGAR 2 to CBT-D 2 (DOWN),3,34.0,14.0,20.0,5.0,75.0,15.0,30.0,22.5,40.0,3.9168368145867816,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_738,99AL-D,DHARWAD NEW BUS STAND - DH to RLY 3RD GATE - DH (DOWN),3,8.0,38.0,88.0,70.0,88.0,88.0,,88.0,,24.790178953872598,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_742,H75-U,CBT 2 to NANDA GOKUL 1 (UP),3,9.0,28.0,79.0,9.0,339.0,79.0,86.5,72.0,79.0,8.818766863870398,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_743,1012-U,CBT-D 3 to TAJ NAGAR D (UP),3,2.0,9.0,480.0,480.0,480.0,480.0,,,,2.3048850566767416,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_749,1014-U,CBT-D 1 to PAVATE NAGAR 2 (UP),3,69.0,13.0,12.5,0.0,60.0,10.0,15.0,15.0,22.5,4.570913249620125,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_750,46-U,CBT 2 to SHAKTI COLONY 1 (UP),3,9.0,25.0,70.0,70.0,85.0,70.0,70.0,70.0,,5.990627308607726,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_751,46-D,SHAKTI COLONY 2 to CBT 2 (DOWN),3,8.0,23.0,70.0,70.0,85.0,70.0,70.0,70.0,,5.814996309973165,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_758,1241-U,DWR SD 1 to GAMBYAPUR 1 (UP),3,6.0,30.0,100.0,100.0,170.0,135.0,100.0,105.0,,23.143954911327246,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_760,347-U,CBT 1 to SHARAVATI NAGAR 1 (UP),3,1.0,15.0,,,,,,,,5.051183054411915,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_773,C16-U,CBT 1 to GOPANAKOPPA 1 (UP),3,,,,,,,,,,,unmeasured,False,False,False
+hdbrt,hdbrt_776,1249-U,DWR SD 2 to PRAJAVANI 2 (UP),3,1.0,25.0,,,,,,,,13.184906442024072,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_778,1249-D,PRAJAVANI 2 to DWR SD 2 (DOWN),3,1.0,25.0,,,,,,,,14.356784015686632,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_779,C16-D,GOPANAKOPPA 2 to CBT 2 (DOWN),3,,,,,,,,,,,unmeasured,False,False,False
+hdbrt,hdbrt_781,H44-D,KMC 1 to MAHILA VIDYA PITH (HOSUR TERMINAL) 2 (DOWN),3,2.0,3.0,35.0,35.0,35.0,,35.0,,,0.8582026506644087,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_782,347-D,SHARAVATI NAGAR 1 to CBT 2 (DOWN),3,1.0,15.0,,,,,,,,5.089234612006115,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_790,156-D,DEVANG PET 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,1.0,16.0,,,,,,,,4.435232121528567,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_791,1014-D,PAVATE NAGAR 3 to CBT-D 2 (DOWN),3,67.0,13.0,15.0,0.0,40.0,10.0,15.0,15.0,20.0,4.555233939612168,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_792,1019-U,CBT-D 1 to SANGOLLI RAYANA NAGAR 1 (UP),3,34.0,14.0,20.0,5.0,75.0,15.0,30.0,20.0,40.0,3.920871948764266,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_795,H7-D,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to CBT 1 (DOWN),3,4.0,7.0,85.0,80.0,325.0,202.5,,85.0,,2.9181557376496183,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_796,1029-U,RAILWAY STATION-D 1 to DHARWAD HIGH COURT 1 (UP),3,2.0,29.0,80.0,80.0,80.0,,,80.0,,13.098097482233902,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_797,1029-D,DHARWAD HIGH COURT 2 to RAILWAY STATION-D 1 (DOWN),3,3.0,29.0,257.5,80.0,435.0,,435.0,80.0,,13.117623422189316,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_798,D222-D1,SHREE RAM NAGAR 2 to CBT-D 1,3,13.0,14.0,55.0,15.0,95.0,60.0,55.0,50.0,,3.779052758031204,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_799,1040-U,CBT-D 2 to GURUDEVA NAGAR 2 (UP),3,3.0,14.0,262.5,215.0,310.0,215.0,310.0,,,4.289821048575918,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_800,1205-U,DWR SD 1 to TARIHAL SH (UP),3,2.0,27.0,550.0,550.0,550.0,550.0,,,,17.11475155433778,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_801,1221-D,MUGAD 1 to DWR SD 2 (DOWN),3,24.0,23.0,35.0,15.0,65.0,30.0,37.5,32.5,,12.474383845035822,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_802,1205-D,TARIHAL SH to DWR SD 2 (DOWN),3,2.0,27.0,550.0,550.0,550.0,,550.0,,,17.079125054573964,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_803,247-U,RAILWAY STATION-H 2 to CBT-D 2 (UP),3,40.0,52.0,16.0,0.0,38.0,16.0,14.0,17.0,,20.844515932328182,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_806,1244-U,DWR SD 1 to GARAG MATH 1 (UP),3,1.0,32.0,,,,,,,,21.997503638592754,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_807,1231-U,DWR SD 1 to KALKERI 1 (UP),3,10.0,23.0,95.0,60.0,125.0,95.0,95.0,112.5,60.0,16.13689865809623,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_808,1244-D,GARAG MATH 1 to DWR SD 2 (DOWN),3,1.0,29.0,,,,,,,,22.505980754580012,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_809,1034-D,KAYAK NAGAR 1 to CBT-D 2 (DOWN),3,1.0,21.0,,,,,,,,8.288716414260426,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_810,1231-D,KALKERI 2 to DWR SD 2 (DOWN),3,10.0,23.0,105.0,5.0,125.0,105.0,105.0,110.0,,16.201014486070036,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_811,1047-D,TADSINKOPPA 2 to CBT-D 1 (DOWN),3,12.0,25.0,75.0,70.0,100.0,72.5,85.0,77.5,85.0,9.32688943667041,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_812,H71-U,KMC 1 to SIDDHARUD MATA 1 (UP),3,1.0,14.0,,,,,,,,5.385222376271946,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_816,A13-D,GAMANAGATTI 2 to CBT 2 (DOWN),3,3.0,24.0,26.5,26.0,27.0,26.5,,,,10.753079080757768,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_818,1051-D,SARASWATHIPURA 4 to CBT-D 2 (DOWN),3,3.0,7.0,235.0,45.0,425.0,,425.0,45.0,,3.07690323042989,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_819,147-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to BHAVANI NAGAR 1 (UP),3,1.0,14.0,,,,,,,,4.243747867999406,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_820,1238-U,DWR SD 1 to KARADI GUDDA 1 (UP),3,16.0,21.0,60.0,10.0,105.0,77.5,50.0,47.5,90.0,14.336887312460172,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_821,1021-U,CBT-D 1 to VINAYAKA NAGAR D 1 (UP),3,5.0,12.0,165.0,130.0,310.0,130.0,310.0,200.0,,3.7111772427164493,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_822,16-D,GOPANAKOPPA 2 to CBT 2 (DOWN),3,97.0,15.0,9.0,0.0,35.0,9.0,9.0,5.0,15.0,4.88928014395883,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_823,221-U,NEW BUS STAND-H 1 to GAMANAGATTI 1 (UP),3,2.0,27.0,115.0,115.0,115.0,,,115.0,,10.641337014865133,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_825,291-U,RAILWAY STATION-H 2 to NEW BUS STAND 3 (UP),3,161.0,56.0,5.0,0.0,24.0,6.0,5.0,5.0,12.0,22.757175085161478,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_826,1238-D,KARADI GUDDA 2 to DWR SD 2 (DOWN),3,16.0,24.0,60.0,10.0,105.0,60.0,47.5,57.5,90.0,17.28604344787824,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_828,245-D,SUTHAGATTI 1 to KARNATAKA CIRCLE 1 (DOWN),3,29.0,8.0,30.0,30.0,45.0,30.0,30.0,30.0,30.0,2.9923872713950788,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_829,1250-U,DWR SD 1 to DEVER HUBBALLI 1 (UP),3,2.0,21.0,675.0,675.0,675.0,,675.0,,,15.717542394675906,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_830,1250-D,DEVER HUBBALLI 1 to DWR SD 2 (DOWN),3,2.0,23.0,670.0,670.0,670.0,,,,670.0,15.747211459230849,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_831,245-U,KARNATAKA CIRCLE 1 to SUTHAGATTI 1 (UP),3,29.0,8.0,30.0,30.0,45.0,30.0,30.0,30.0,30.0,2.9751899311523733,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_832,295-D,GANDHIWAD 2 to KMC 2 (DOWN),3,1.0,7.0,,,,,,,,3.3221868520336426,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_833,296-U,CBT 2 to MANOJ PARK 1 (UP),3,9.0,9.0,60.0,60.0,95.0,60.0,60.0,60.0,,4.845263905769716,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_834,289-U,MAHILA VIDYA PITH (HOSUR TERMINAL) 2 to GANDHIWAD 1 (UP),3,8.0,7.0,50.0,50.0,85.0,50.0,,50.0,,2.7230197028915564,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_835,289-D,GANDHIWAD 2 to MAHILA VIDYA PITH (HOSUR TERMINAL) 1 (DOWN),3,8.0,7.0,50.0,50.0,85.0,50.0,,50.0,,2.780847821220098,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_836,295-U,KMC 1 to GANDHIWAD 1 (UP),3,1.0,7.0,,,,,,,,3.2151214813424613,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_841,1259-U,DWR SD 1 to MULMUTTAL 2 (UP),3,13.0,15.0,75.0,35.0,115.0,75.0,80.0,57.5,115.0,15.286895712264872,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_842,1259-D,MULMUTTAL 1 to DWR SD 2 (DOWN),3,14.0,17.0,70.0,0.0,100.0,85.0,75.0,55.0,,15.214581970088574,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_843,1078-U,CBT-D 1 to MANJUNATHA COLONY 1 (UP),3,10.0,15.0,55.0,50.0,105.0,50.0,105.0,60.0,,6.009991128570592,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_844,1209-D,DEVER HUBBALLI 2 to DWR SD 2 (DOWN),3,6.0,23.0,95.0,80.0,390.0,110.0,390.0,95.0,,13.47886742013017,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_845,1209-U,DWR SD 1 to DEVER HUBBALLI 1 (UP),3,6.0,21.0,105.0,95.0,390.0,105.0,390.0,95.0,205.0,13.466859629593609,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_846,SD11-D,LAKMAPUR 2 to DWR SD 2 (DOWN),3,1.0,14.0,,,,,,,,9.180967798028,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_847,SD11-U,DWR SD 1 to LAKMAPUR 1 (UP),3,1.0,12.0,,,,,,,,9.181460053129898,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_848,1073-D,SHIVALLI 2 to DWR SD 2 (DOWN),3,1.0,17.0,,,,,,,,15.798031545124767,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_849,1073-U,DWR SD 1 to SHIVALLI 1 (UP),3,1.0,14.0,,,,,,,,14.342676182755362,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_850,1074-D,TALWAI 2 to CBT-D 1 (DOWN),3,1.0,21.0,,,,,,,,15.233753411268628,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_851,1078-D,MANJUNATHA COLONY 1 to CBT-D 2 (DOWN),3,10.0,15.0,55.0,50.0,105.0,50.0,105.0,65.0,,6.004278436509963,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_852,1075-U,DWR SD 1 to BAAD 1 (UP),3,1.0,15.0,,,,,,,,10.856702408170078,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_853,1074-U,CBT-D 1 to TALWAI 1 (UP),3,1.0,19.0,,,,,,,,13.580874061671441,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_854,1077-D,BELLI GATTI 2 to DWR SD 2 (DOWN),3,1.0,24.0,,,,,,,,13.817126979963858,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_855,1077-U,DWR SD 1 to BELLI GATTI 1 (UP),3,1.0,23.0,,,,,,,,13.783157170736771,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_858,1084-D,BAAD 2 to CBT-D 2 (DOWN),3,1.0,18.0,,,,,,,,11.256867822459274,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_859,1206-U,DWR SD 1 to BELUR 1 (UP),3,17.0,26.0,47.5,10.0,130.0,77.5,20.0,40.0,90.0,16.563769351847355,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_860,1206-D,BELUR 2 to DWR SD 2 (DOWN),3,17.0,23.0,45.0,5.0,175.0,65.0,30.0,42.5,175.0,16.471887170551877,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_861,1227-U,DWR SD 1 to NIRAL KATTI 1 (UP),3,5.0,28.0,140.0,90.0,210.0,190.0,110.0,90.0,,15.478368756858524,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_862,1227-D,NIRAL KATTI 2 to DWR SD 2 (DOWN),3,5.0,27.0,137.5,95.0,210.0,190.0,105.0,95.0,,15.406781724382938,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_865,1083-D,CHANDANMATTI 2 to CBT-D 1 (DOWN),3,1.0,18.0,,,,,,,,12.421851366074938,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_866,199-U,HOSUR TERMINAL 1 to RAM NAGAR  2 (UP),3,2.0,27.0,270.0,270.0,270.0,,,270.0,,13.835000752946607,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_867,199-D,RAM NAGAR 3 to HOSUR TERMINAL 1 (DOWN),3,2.0,27.0,270.0,270.0,270.0,270.0,,,,13.81926126404366,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_868,1268-U,DWR SD 1 to HEBBALLI 1 (UP),3,1.0,22.0,,,,,,,,14.778762758307158,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_869,1467-D,KANKUR GOVT SCHOOL 2 to CBT-D 1 (DOWN),3,1.0,19.0,,,,,,,,13.379529158086562,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_870,1467-U,DHARWAD to KANKUR GOVT SCHOOL 1 (UP),3,1.0,15.0,,,,,,,,11.67894693613739,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_871,1079-D,AGRI COLLEGE 2 to DHARWAD (DOWN),3,1.0,16.0,,,,,,,,5.929648308268689,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_872,1080-D,BELLI GATTI 2 to DWR SD 2 (DOWN),3,1.0,24.0,,,,,,,,13.817947521433041,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_873,1081-U,CBT-D 3 to K H B COLLONY 1 (UP),3,2.0,18.0,580.0,580.0,580.0,,580.0,,,7.297067652934431,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_874,1081-D,KHB COLLONY 2 to CBT-D 1 (DOWN),3,2.0,19.0,580.0,580.0,580.0,,580.0,,,7.131513692224791,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_875,1083-U,DWR SD 1 to CHANDANMATTI 1 (UP),3,1.0,14.0,,,,,,,,10.84421542620775,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_876,1269-U,DWR SD 1 to MANSUR 1 (UP),3,2.0,15.0,515.0,515.0,515.0,,515.0,,,9.385160809376986,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_877,1087-U,CBT-D 1 to CHINMAY COLONY 1 (UP),3,4.0,15.0,245.0,61.0,275.0,245.0,275.0,61.0,,4.214068799268265,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_878,1087-D,CHINMAY COLONY 2 to CBT-D 2 (DOWN),3,4.0,15.0,245.0,55.0,275.0,245.0,275.0,55.0,,4.209327012240712,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_879,1270-D,LAKMAPUR 2 to DWR SD 2 (DOWN),3,1.0,13.0,,,,,,,,9.177783831877056,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_880,1088-U,DWR SD 1 to TARIHAL 1 (UP),3,1.0,24.0,,,,,,,,14.519900082446433,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_881,1088-D,TARIHAL 2 to CBT-D 1 (DOWN),3,1.0,24.0,,,,,,,,14.656093998655626,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_882,1267-U,DWR SD 1 to YADWAD 1 (UP),3,6.0,12.0,185.0,110.0,255.0,165.0,255.0,185.0,162.5,12.205121610847787,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_883,1267-D,YADWAD 2 to DWR SD 2 (DOWN),3,5.0,14.0,260.0,85.0,315.0,172.5,260.0,,315.0,12.06624426153548,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_884,1268-D,HEBBALLI 2 to CBT-D 1 (DOWN),3,1.0,24.0,,,,,,,,16.376372265404136,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_885,1269-D,MANSUR 2 to CBT-D 1 (DOWN),3,2.0,16.0,520.0,520.0,520.0,,520.0,,,9.432955092203754,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_886,1270-U,DWR SD 1 to LAKMAPUR 1 (UP),3,1.0,11.0,,,,,,,,9.17789781386375,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_887,1271-U,DWR SD 1 to CHIKKAMALLIGAWAD 1 (UP),3,1.0,17.0,,,,,,,,6.860289340080694,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_888,1271-D,CHIKKAMALLIGAWAD 2 to CBT-D 1 (DOWN),3,1.0,16.0,,,,,,,,6.85739661683829,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_889,1272-U,DWR SD 1 to DWD IIT 1 (UP),3,1.0,9.0,,,,,,,,11.235106751147702,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_890,139-U,HOSUR TERMINAL 1 to CHABBI 1 (UP),3,1.0,18.0,,,,,,,,17.8276163288486,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_891,139-D,CHABBI 2 to HOSUR TERMINAL 1 (DOWN),3,1.0,18.0,,,,,,,,17.7973112591652,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_892,1090-D,AGRI COLLEGE 2 to CBT-D 4 (DOWN),3,20.0,16.0,6.0,0.0,125.0,62.5,125.0,5.0,,5.903774470991116,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_893,1090-U,CBT-D 3 to AGRI COLLEGE 1 (UP),3,10.0,16.0,5.0,4.0,6.0,,,5.0,,5.948495081402789,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_894,1272-D,DWD IIT 2 to DWR SD 2 (DOWN),3,1.0,9.0,,,,,,,,11.218853833742312,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_895,220-U,GAMANAGATTI 1 to SUTHAGATTI 1 (UP),3,34.0,7.0,20.0,20.0,50.0,20.0,30.0,20.0,,4.066691877936587,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_896,220-D,SUTHAGATTI 2 to GAMANAGATTI 2 (DOWN),3,33.0,7.0,20.0,10.0,55.0,20.0,40.0,20.0,40.0,4.118265647200819,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_897,221-D,GAMANAGATTI 2 to NEW BUS STAND-H 1 (DOWN),3,1.0,29.0,,,,,,,,13.985279107255511,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_900,222-D,SUTHAGATTI 1 to NEW BUS STAND-H 1 (DOWN),3,1.0,28.0,,,,,,,,14.324244110390522,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_901,166-D,GABBUR VILLEGE 2 to KMC 2 (DOWN),3,1.0,17.0,,,,,,,,6.514550794809952,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_902,169-D,JAGADEESH NAGAR-2 to CBT 2 (DOWN),3,3.0,31.0,425.5,155.0,696.0,,,155.0,696.0,11.922974207900964,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_903,169-U,CBT 1 to JAGADEESH NAGAR-1 (UP),3,3.0,32.0,425.5,150.0,701.0,,701.0,150.0,,11.928237531951565,stop_straight_line_estimate,False,False,False
+hdbrt,hdbrt_904,166-U,KMC 1 to GABBUR VILLEGE 2 (UP),3,1.0,13.0,,,,,,,,6.123256263701638,stop_straight_line_estimate,False,False,False

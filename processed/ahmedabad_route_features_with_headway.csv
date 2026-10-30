@@ -1,0 +1,979 @@
+city,route_id,route_short_name,route_long_name,route_type,trip_count,stop_count,median_headway_min,min_headway_min,max_headway_min,hw_afternoon_median_min,hw_evening_median_min,hw_morning_median_min,hw_night_median_min
+ahmedabad,ahmedabad_AMC_1790,101sh,P.D.P.U. Cross Road to Asarva Railway Station (DOWN),3,5.0,44.0,162.5,155.0,220.0,190.0,165.0,155.0,
+ahmedabad,ahmedabad_AMC_1791,101sh,Asarva Railway Station to P.D.P.U. Cross Road (UP),3,5.0,44.0,160.0,115.0,220.0,220.0,160.0,137.5,
+ahmedabad,ahmedabad_AMC_1798,103,Bhakti Circle to Gujarat University (DOWN),3,14.0,71.0,55.0,45.0,95.0,55.0,50.0,60.0,
+ahmedabad,ahmedabad_AMC_1799,103,Gujarat University to Bhakti Circle (UP),3,8.0,74.0,60.0,45.0,320.0,320.0,50.0,60.0,
+ahmedabad,ahmedabad_AMC_1800,103,Bhakti Circle to Sarangpur (DOWN),3,4.0,46.0,55.0,50.0,60.0,,,,55.0
+ahmedabad,ahmedabad_AMC_1801,103,Gujarat University to Sarangpur (UP),3,6.0,28.0,50.0,50.0,345.0,50.0,345.0,,50.0
+ahmedabad,ahmedabad_AMC_1805,103,Sarangpur to Bhakti Circle (UP),3,10.0,49.0,55.0,45.0,310.0,52.5,,55.0,180.0
+ahmedabad,ahmedabad_AMC_1807,105,Naroda Industrial Township( MuthiyaGam ) to Lal Darwaja (DOWN),3,108.0,40.0,10.0,5.0,20.0,10.0,10.0,10.0,10.0
+ahmedabad,ahmedabad_AMC_1808,105,Lal Darwaja to Naroda Industrial Township( MuthiyaGam ) (UP),3,108.0,39.0,10.0,5.0,20.0,10.0,10.0,10.0,20.0
+ahmedabad,ahmedabad_AMC_1811,107,Sarangpur to Sarangpur (DOWN),3,6.0,91.0,180.0,120.0,190.0,160.0,180.0,150.0,
+ahmedabad,ahmedabad_AMC_1814,109,Amba Township Sector-5 (Trimandir) to G.E.B (Naroda) (DOWN),3,3.0,79.0,272.5,225.0,320.0,320.0,,225.0,
+ahmedabad,ahmedabad_AMC_1815,109,G.E.B (Naroda) to Amba Township Sector-5 (Trimandir) (UP),3,3.0,79.0,157.5,35.0,280.0,280.0,,35.0,
+ahmedabad,ahmedabad_AMC_1816,109,Amba Township Sector-5 (Trimandir) to Naroda (DOWN),3,2.0,63.0,380.0,380.0,380.0,,380.0,,
+ahmedabad,ahmedabad_AMC_1817,109,Chandkheda Gam to Amba Township Sector-5 (Trimandir) (UP),3,1.0,24.0,,,,,,,
+ahmedabad,ahmedabad_AMC_1820,109,Chandkheda Gam to Naroda (DOWN),3,2.0,40.0,460.0,460.0,460.0,460.0,,,
+ahmedabad,ahmedabad_AMC_1821,109,G.E.B (Naroda) to Chandkheda Gam (UP),3,1.0,56.0,,,,,,,
+ahmedabad,ahmedabad_AMC_1822,109,Naroda to Amba Township Sector-5 (Trimandir) (UP),3,1.0,63.0,,,,,,,
+ahmedabad,ahmedabad_AMC_1823,109,Naroda to Chandkheda Gam (UP),3,2.0,40.0,455.0,455.0,455.0,455.0,,,
+ahmedabad,ahmedabad_AMC_1828,111/2,Karai Gam to Lal Darwaja (DOWN),3,4.0,70.0,200.0,190.0,250.0,250.0,200.0,190.0,
+ahmedabad,ahmedabad_AMC_1829,111/2,Lal Darwaja to Karai Gam (UP),3,4.0,70.0,195.0,175.0,250.0,250.0,195.0,175.0,
+ahmedabad,ahmedabad_AMC_1834,116,Dani Limda Gam to Civil Hospital (DOWN),3,8.0,23.0,90.0,80.0,150.0,90.0,90.0,85.0,
+ahmedabad,ahmedabad_AMC_1835,116,Civil Hospital to Dani Limda Gam (UP),3,8.0,23.0,90.0,85.0,150.0,120.0,92.5,85.0,
+ahmedabad,ahmedabad_AMC_1838,116,Dani Limda Gam to Sarangpur (DOWN),3,1.0,17.0,,,,,,,
+ahmedabad,ahmedabad_AMC_1847,117,Meghaninagar to Sarangpur (UP),3,1.0,21.0,,,,,,,
+ahmedabad,ahmedabad_AMC_1852,117/1,Miroli Gam to Sarangpur (DOWN),3,12.0,54.0,80.0,25.0,135.0,120.0,80.0,67.5,85.0
+ahmedabad,ahmedabad_AMC_1853,117/1,Sarangpur to Miroli Gam (UP),3,12.0,54.0,80.0,25.0,135.0,90.0,90.0,72.5,
+ahmedabad,ahmedabad_AMC_1854,117/1,Sarangpur to Kamod Gam (UP),3,2.0,35.0,235.0,235.0,235.0,,,235.0,
+ahmedabad,ahmedabad_AMC_1855,117/1,Kamod Gam to Sarangpur (DOWN),3,2.0,34.0,240.0,240.0,240.0,240.0,,,
+ahmedabad,ahmedabad_AMC_1860,12,Maninagar to Nenpur Gam (UP),3,4.0,64.0,245.0,235.0,245.0,235.0,245.0,245.0,
+ahmedabad,ahmedabad_AMC_1861,123,Sitarambapa Chowk (Gopal Chowk) to Vasna (DOWN),3,12.0,51.0,70.0,20.0,250.0,162.5,65.0,60.0,
+ahmedabad,ahmedabad_AMC_1862,123,Vasna to Sitarambapa Chowk (Gopal Chowk) (UP),3,12.0,53.0,65.0,55.0,90.0,62.5,65.0,62.5,
+ahmedabad,ahmedabad_AMC_1865,123,Lal Darwaja to Vasna (DOWN),3,6.0,17.0,35.0,20.0,65.0,35.0,,,
+ahmedabad,ahmedabad_AMC_1866,123,Lal Darwaja to Sitarambapa Chowk (Gopal Chowk) (UP),3,3.0,37.0,50.0,45.0,55.0,,,50.0,
+ahmedabad,ahmedabad_AMC_1870,123,Vasna to Lal Darwaja (UP),3,10.0,17.0,5.0,5.0,50.0,,5.0,,12.5
+ahmedabad,ahmedabad_AMC_1871,123/1,Parshwanath Township to Sarangpur (DOWN),3,20.0,22.0,40.0,30.0,100.0,37.5,45.0,35.0,
+ahmedabad,ahmedabad_AMC_1872,123/1,Sarangpur to Parshwanath Township (UP),3,20.0,24.0,35.0,30.0,100.0,40.0,42.5,35.0,
+ahmedabad,ahmedabad_AMC_1873,123sh,Sitarambapa Chowk (Gopal Chowk) to Lal Darwaja (DOWN),3,63.0,35.0,15.0,5.0,55.0,10.0,17.5,15.0,20.0
+ahmedabad,ahmedabad_AMC_1874,123sh,Lal Darwaja to Sitarambapa Chowk (Gopal Chowk) (UP),3,60.0,37.0,15.0,5.0,55.0,15.0,10.0,15.0,10.0
+ahmedabad,ahmedabad_AMC_1878,123sh,Sitarambapa Chowk (Gopal Chowk) to Sarangpur (DOWN),3,3.0,26.0,47.5,40.0,55.0,,,,47.5
+ahmedabad,ahmedabad_AMC_1879,124,Engg./B.Ed.College (Vahelal) to Maninagar (DOWN),3,4.0,73.0,220.0,20.0,240.0,230.0,,20.0,
+ahmedabad,ahmedabad_AMC_1880,124,Maninagar to Engg./B.Ed.College (Vahelal) (UP),3,4.0,71.0,215.0,20.0,235.0,235.0,,117.5,
+ahmedabad,ahmedabad_AMC_1881,125,Karoli Gam to Lal Darwaja (DOWN),3,16.0,73.0,30.0,20.0,330.0,180.0,30.0,25.0,
+ahmedabad,ahmedabad_AMC_1882,125,Lal Darwaja to Karoli Gam (UP),3,16.0,72.0,50.0,40.0,185.0,60.0,60.0,45.0,
+ahmedabad,ahmedabad_AMC_1884,125,Lal Darwaja to Vehlal Gam (UP),3,5.0,61.0,47.5,45.0,60.0,45.0,,50.0,
+ahmedabad,ahmedabad_AMC_1887,125,Vehlal Gam to Lal Darwaja (DOWN),3,5.0,63.0,50.0,45.0,55.0,50.0,,,
+ahmedabad,ahmedabad_AMC_1893,125/2,Dahegam-Bayad Circle to Naroda (DOWN),3,32.0,33.0,30.0,20.0,45.0,30.0,25.0,25.0,40.0
+ahmedabad,ahmedabad_AMC_1894,125/2,Naroda to Dahegam-Bayad Circle (UP),3,32.0,33.0,25.0,20.0,50.0,30.0,30.0,25.0,
+ahmedabad,ahmedabad_AMC_1895,125sh,Vehlal Gam to Naroda (DOWN),3,6.0,25.0,130.0,120.0,185.0,152.5,130.0,120.0,
+ahmedabad,ahmedabad_AMC_1896,125sh,Naroda to Vehlal Gam (UP),3,6.0,25.0,125.0,120.0,185.0,152.5,127.5,120.0,
+ahmedabad,ahmedabad_AMC_1897,126,Sardarnagar to Sarangpur (DOWN),3,6.0,37.0,130.0,120.0,195.0,195.0,125.0,130.0,135.0
+ahmedabad,ahmedabad_AMC_1898,126,Sarangpur to Sardarnagar (UP),3,6.0,39.0,130.0,115.0,190.0,160.0,137.5,115.0,
+ahmedabad,ahmedabad_AMC_1899,127,Bhakti Circle to Sarangpur (DOWN),3,84.0,44.0,10.0,5.0,25.0,10.0,10.0,10.0,25.0
+ahmedabad,ahmedabad_AMC_1900,127,Sarangpur to Bhakti Circle (UP),3,84.0,48.0,10.0,5.0,35.0,15.0,10.0,10.0,10.0
+ahmedabad,ahmedabad_AMC_1901,128,Naroda Industrial Township( MuthiyaGam ) to Nigam Society (DOWN),3,20.0,69.0,40.0,20.0,145.0,50.0,40.0,37.5,
+ahmedabad,ahmedabad_AMC_1902,128,Nigam Society to Naroda Industrial Township( MuthiyaGam ) (UP),3,22.0,71.0,40.0,25.0,95.0,42.5,37.5,35.0,
+ahmedabad,ahmedabad_AMC_1913,128,Naroda Industrial Township( MuthiyaGam ) to Sarangpur (DOWN),3,8.0,30.0,55.0,35.0,340.0,60.0,340.0,,55.0
+ahmedabad,ahmedabad_AMC_1914,128,Nigam Society to Sarangpur (UP),3,6.0,40.0,50.0,40.0,395.0,45.0,395.0,,55.0
+ahmedabad,ahmedabad_AMC_1915,128,Naroda to Sarangpur (DOWN),3,4.0,26.0,40.0,40.0,565.0,40.0,,,302.5
+ahmedabad,ahmedabad_AMC_1919,128,Sarangpur to Naroda Industrial Township( MuthiyaGam ) (UP),3,6.0,31.0,55.0,45.0,380.0,55.0,,45.0,
+ahmedabad,ahmedabad_AMC_1929,13/1,Ranip Gam to Prakash Vidhyalay (Isanpur) (DOWN),3,64.0,58.0,15.0,5.0,45.0,15.0,15.0,15.0,20.0
+ahmedabad,ahmedabad_AMC_1930,13/1,Prakash Vidhyalay (Isanpur) to Ranip Gam (UP),3,64.0,58.0,15.0,5.0,40.0,20.0,10.0,15.0,10.0
+ahmedabad,ahmedabad_AMC_1932,13/1,Lal Darwaja to Prakash Vidhyalay (Isanpur) (DOWN),3,4.0,33.0,25.0,20.0,30.0,,,25.0,
+ahmedabad,ahmedabad_AMC_1933,13/1,Lal Darwaja to Ranip Gam (UP),3,4.0,26.0,30.0,20.0,40.0,30.0,,,
+ahmedabad,ahmedabad_AMC_1934,13/1,Prakash Vidhyalay (Isanpur) to Lal Darwaja (UP),3,4.0,33.0,25.0,20.0,30.0,25.0,,,
+ahmedabad,ahmedabad_AMC_1935,13/1,Ranip Gam to Lal Darwaja (DOWN),3,4.0,26.0,30.0,25.0,30.0,,,,30.0
+ahmedabad,ahmedabad_AMC_1936,13/1,Ranip Gam to Vadaj (DOWN),3,25.0,13.0,20.0,10.0,250.0,20.0,55.0,,15.0
+ahmedabad,ahmedabad_AMC_1938,13/1,Vadaj to Ranip Gam (UP),3,24.0,13.0,20.0,10.0,295.0,20.0,,15.0,
+ahmedabad,ahmedabad_AMC_1945,130/4,Nava Vadaj to Memco (UP),3,1.0,32.0,,,,,,,
+ahmedabad,ahmedabad_AMC_1947,130sh,Lambha Gam to Naroda Industrial Township( MuthiyaGam ) (DOWN),3,56.0,54.0,15.0,10.0,95.0,20.0,10.0,15.0,17.5
+ahmedabad,ahmedabad_AMC_1948,130sh,Naroda Industrial Township( MuthiyaGam ) to Lambha Gam (UP),3,52.0,53.0,15.0,5.0,130.0,15.0,15.0,15.0,
+ahmedabad,ahmedabad_AMC_1958,133,Anand Flats to Lal Darwaja (DOWN),3,8.0,29.0,95.0,85.0,160.0,100.0,100.0,90.0,
+ahmedabad,ahmedabad_AMC_1959,133,Lal Darwaja to Anand Flats (UP),3,8.0,31.0,95.0,80.0,155.0,127.5,100.0,90.0,
+ahmedabad,ahmedabad_AMC_1960,135,Bhakti Circle to Lal Darwaja (DOWN),3,60.0,50.0,15.0,5.0,50.0,15.0,20.0,10.0,35.0
+ahmedabad,ahmedabad_AMC_1961,135,Lal Darwaja to Bhakti Circle (UP),3,60.0,53.0,10.0,5.0,45.0,15.0,10.0,12.5,20.0
+ahmedabad,ahmedabad_AMC_1962,135,Bhakti Circle to Sarangpur (DOWN),3,10.0,41.0,20.0,15.0,25.0,,22.5,,20.0
+ahmedabad,ahmedabad_AMC_1963,135,Khodiyar Mandir (Nikol) to Lal Darwaja (DOWN),3,10.0,34.0,40.0,25.0,50.0,40.0,40.0,,
+ahmedabad,ahmedabad_AMC_1964,135,Lal Darwaja to Khodiyar Mandir (Nikol) (UP),3,10.0,37.0,40.0,25.0,50.0,30.0,42.5,,
+ahmedabad,ahmedabad_AMC_1965,135,Pramukh Swaminagar (Bapunagar Tollnaka) to Lal Darwaja (DOWN),3,4.0,23.0,20.0,20.0,55.0,20.0,,,
+ahmedabad,ahmedabad_AMC_1966,135,Pramukh Swaminagar (Bapunagar Tollnaka) to Bhakti Circle (UP),3,4.0,28.0,20.0,20.0,50.0,,,20.0,
+ahmedabad,ahmedabad_AMC_1968,135,Sarangpur to Bhakti Circle (UP),3,10.0,44.0,15.0,15.0,20.0,,,15.0,
+ahmedabad,ahmedabad_AMC_1973,136,Sattadhar Society to G.E.B (Naroda) (DOWN),3,20.0,103.0,35.0,15.0,110.0,35.0,35.0,35.0,
+ahmedabad,ahmedabad_AMC_1974,136,G.E.B (Naroda) to Sattadhar Society (UP),3,20.0,102.0,35.0,15.0,180.0,50.0,35.0,35.0,
+ahmedabad,ahmedabad_AMC_1987,136,Sattadhar Society to Sarangpur (DOWN),3,10.0,44.0,45.0,30.0,330.0,45.0,190.0,,30.0
+ahmedabad,ahmedabad_AMC_1988,136,Sarangpur to Sattadhar Society (UP),3,10.0,44.0,40.0,30.0,350.0,35.0,,40.0,
+ahmedabad,ahmedabad_AMC_1992,137/1,Ramdev Masala to Asarva Railway Station (DOWN),3,5.0,43.0,142.5,125.0,205.0,205.0,150.0,130.0,
+ahmedabad,ahmedabad_AMC_1993,137/1,Asarva Railway Station to Ramdev Masala (UP),3,5.0,43.0,145.0,130.0,210.0,175.0,150.0,130.0,
+ahmedabad,ahmedabad_AMC_1994,137/1,Ramdev Masala to Vadaj (DOWN),3,1.0,24.0,,,,,,,
+ahmedabad,ahmedabad_AMC_1997,137/1,Vadaj to Ramdev Masala (UP),3,1.0,24.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2003,137sh,Ramdev Masala to Bapunagar (DOWN),3,32.0,51.0,30.0,15.0,80.0,27.5,25.0,27.5,50.0
+ahmedabad,ahmedabad_AMC_2004,137sh,Bapunagar to Ramdev Masala (UP),3,32.0,51.0,25.0,15.0,85.0,30.0,25.0,25.0,45.0
+ahmedabad,ahmedabad_AMC_2020,138,Gujarat University to Bapunagar (DOWN),3,4.0,41.0,205.0,175.0,325.0,325.0,205.0,175.0,
+ahmedabad,ahmedabad_AMC_2021,138,Bapunagar to Gujarat University (UP),3,5.0,39.0,162.5,145.0,175.0,160.0,160.0,165.0,
+ahmedabad,ahmedabad_AMC_2022,138,Bapunagar to Lal Darwaja (UP),3,1.0,23.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2023,138,Gujarat University to Lal Darwaja (DOWN),3,1.0,17.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2027,138,Lal Darwaja to Bapunagar (DOWN),3,2.0,25.0,495.0,495.0,495.0,495.0,,,
+ahmedabad,ahmedabad_AMC_2038,14,Nandej-Barejadi Gam to Lal Darwaja (DOWN),3,13.0,71.0,67.5,25.0,145.0,85.0,60.0,67.5,90.0
+ahmedabad,ahmedabad_AMC_2039,14,Lal Darwaja to Nandej-Barejadi Gam (UP),3,13.0,71.0,57.5,25.0,145.0,87.5,60.0,55.0,
+ahmedabad,ahmedabad_AMC_2040,14,Devdi Gam to Lal Darwaja (DOWN),3,1.0,56.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2041,14,Lal Darwaja to Devdi Gam (UP),3,1.0,56.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2042,14,Lal Darwaja to Vatva Gam (UP),3,2.0,31.0,70.0,70.0,70.0,70.0,,,
+ahmedabad,ahmedabad_AMC_2043,14,Vatva Gam to Lal Darwaja (DOWN),3,2.0,31.0,70.0,70.0,70.0,70.0,,,
+ahmedabad,ahmedabad_AMC_2044,14/1,Vatva Railway Station to Lal Darwaja (DOWN),3,18.0,40.0,50.0,20.0,140.0,50.0,50.0,50.0,
+ahmedabad,ahmedabad_AMC_2045,14/1,Lal Darwaja to Vatva Railway Station (UP),3,18.0,40.0,50.0,20.0,135.0,50.0,50.0,52.5,50.0
+ahmedabad,ahmedabad_AMC_2047,14/1,Isanpur to Vatva Railway Station (UP),3,6.0,15.0,50.0,50.0,390.0,50.0,,50.0,
+ahmedabad,ahmedabad_AMC_2049,14/1,Vatva Railway Station to Isanpur (DOWN),3,6.0,15.0,50.0,50.0,400.0,50.0,400.0,,50.0
+ahmedabad,ahmedabad_AMC_2050,142,Gujarat University to Vastral Gam (DOWN),3,20.0,57.0,35.0,25.0,85.0,35.0,35.0,40.0,
+ahmedabad,ahmedabad_AMC_2051,142,Vastral Gam to Gujarat University (UP),3,20.0,54.0,40.0,15.0,210.0,40.0,32.5,40.0,30.0
+ahmedabad,ahmedabad_AMC_2056,142sh,Lal Darwaja to Vastral Gam (DOWN),3,60.0,39.0,15.0,5.0,50.0,15.0,15.0,15.0,40.0
+ahmedabad,ahmedabad_AMC_2057,142sh,Vastral Gam to Lal Darwaja (UP),3,70.0,39.0,15.0,5.0,45.0,15.0,15.0,15.0,17.5
+ahmedabad,ahmedabad_AMC_2061,142sh,Sarangpur to Vastral Gam (DOWN),3,10.0,31.0,15.0,10.0,30.0,,,15.0,
+ahmedabad,ahmedabad_AMC_2066,143,Pasunj Gam to Sarangpur (DOWN),3,4.0,67.0,270.0,240.0,365.0,270.0,365.0,,240.0
+ahmedabad,ahmedabad_AMC_2067,143,Sarangpur to Pasunj Gam (UP),3,4.0,67.0,255.0,250.0,370.0,370.0,255.0,250.0,
+ahmedabad,ahmedabad_AMC_2070,143sh,Kubadthal Gam to Sarangpur (DOWN),3,15.0,55.0,65.0,25.0,130.0,60.0,70.0,70.0,45.0
+ahmedabad,ahmedabad_AMC_2071,143sh,Sarangpur to Kubadthal Gam (UP),3,15.0,55.0,65.0,25.0,130.0,55.0,80.0,60.0,
+ahmedabad,ahmedabad_AMC_2074,144,Gujarat University to Arbudanagar (DOWN),3,40.0,56.0,20.0,10.0,30.0,25.0,17.5,20.0,
+ahmedabad,ahmedabad_AMC_2075,144,Arbudanagar to Gujarat University (UP),3,40.0,57.0,20.0,10.0,30.0,20.0,25.0,20.0,
+ahmedabad,ahmedabad_AMC_2080,144/1,Madhav Homes to Lal Darwaja (DOWN),3,54.0,54.0,20.0,5.0,45.0,20.0,15.0,20.0,20.0
+ahmedabad,ahmedabad_AMC_2081,144/1,Lal Darwaja to Madhav Homes (UP),3,54.0,54.0,20.0,10.0,45.0,20.0,20.0,15.0,30.0
+ahmedabad,ahmedabad_AMC_2088,146/1,Ranip Gam to Chinubhainagar (DOWN),3,50.0,64.0,15.0,5.0,60.0,15.0,22.5,15.0,50.0
+ahmedabad,ahmedabad_AMC_2089,146/1,Chinubhainagar to Ranip Gam (UP),3,56.0,64.0,15.0,5.0,35.0,15.0,15.0,15.0,20.0
+ahmedabad,ahmedabad_AMC_2093,146/1,Ranip Gam to Nava Vadaj (DOWN),3,4.0,12.0,25.0,15.0,25.0,,25.0,,
+ahmedabad,ahmedabad_AMC_2094,146/1,Ranip Gam to Vadaj (DOWN),3,11.0,19.0,40.0,30.0,185.0,40.0,30.0,,30.0
+ahmedabad,ahmedabad_AMC_2097,147,Ranchodpura Cross Road to Vadaj (DOWN),3,10.0,49.0,60.0,60.0,160.0,77.5,80.0,60.0,
+ahmedabad,ahmedabad_AMC_2098,147,Vadaj to Ranchodpura Cross Road (UP),3,10.0,49.0,60.0,55.0,155.0,60.0,80.0,65.0,
+ahmedabad,ahmedabad_AMC_2102,147/1,Silver Oak University to Vastral Gam(Metro Station) (DOWN),3,3.0,75.0,255.0,220.0,290.0,290.0,,220.0,
+ahmedabad,ahmedabad_AMC_2103,147/1,Vastral Gam(Metro Station) to Silver Oak University (UP),3,3.0,75.0,257.5,220.0,295.0,295.0,220.0,,
+ahmedabad,ahmedabad_AMC_2108,147/2,Vagheshwari Soc(Chandlodia Rly Station) to Swami Vivekanand Chowk(Vastral) (DOWN),3,2.0,82.0,320.0,320.0,320.0,320.0,,,
+ahmedabad,ahmedabad_AMC_2109,147/2,Swami Vivekanand Chowk(Vastral) to Vagheshwari Soc(Chandlodia Rly Station) (UP),3,3.0,82.0,275.0,255.0,295.0,275.0,,,
+ahmedabad,ahmedabad_AMC_2114,148,Naroda to Sarangpur (DOWN),3,16.0,69.0,50.0,30.0,160.0,55.0,67.5,47.5,80.0
+ahmedabad,ahmedabad_AMC_2115,148,Sarangpur to Naroda (UP),3,16.0,71.0,60.0,25.0,105.0,80.0,60.0,60.0,
+ahmedabad,ahmedabad_AMC_2118,148/1,Bakrol-Bujrang Gam to Sarangpur (DOWN),3,12.0,53.0,60.0,25.0,200.0,60.0,85.0,35.0,60.0
+ahmedabad,ahmedabad_AMC_2119,148/1,Sarangpur to Bakrol-Bujrang Gam (UP),3,12.0,53.0,50.0,25.0,225.0,50.0,80.0,30.0,
+ahmedabad,ahmedabad_AMC_2124,149,Haldharvas Patiya to Lal Darwaja (DOWN),3,30.0,82.0,25.0,15.0,35.0,25.0,25.0,25.0,
+ahmedabad,ahmedabad_AMC_2125,149,Lal Darwaja to Haldharvas Patiya (UP),3,30.0,82.0,25.0,20.0,40.0,20.0,30.0,25.0,40.0
+ahmedabad,ahmedabad_AMC_2128,149/1,Undrel Gam to Sarangpur (DOWN),3,4.0,58.0,245.0,240.0,255.0,240.0,245.0,255.0,
+ahmedabad,ahmedabad_AMC_2129,149/1,Sarangpur to Undrel Gam (UP),3,4.0,58.0,230.0,220.0,265.0,265.0,230.0,220.0,
+ahmedabad,ahmedabad_AMC_2130,15,Chosar Gam to Maninagar (DOWN),3,16.0,45.0,55.0,50.0,95.0,55.0,55.0,55.0,52.5
+ahmedabad,ahmedabad_AMC_2131,15,Maninagar to Chosar Gam (UP),3,16.0,45.0,55.0,45.0,100.0,50.0,55.0,52.5,55.0
+ahmedabad,ahmedabad_AMC_2132,15/1,Vinobabhavenagar to Maninagar (DOWN),3,7.0,31.0,110.0,100.0,180.0,147.5,120.0,105.0,
+ahmedabad,ahmedabad_AMC_2133,15/1,Maninagar to Vinobabhavenagar (UP),3,7.0,29.0,110.0,95.0,175.0,142.5,130.0,100.0,
+ahmedabad,ahmedabad_AMC_2134,15/3,Khatraj (Panchvati circle) to Maninagar (DOWN),3,16.0,62.0,40.0,25.0,115.0,40.0,55.0,50.0,47.5
+ahmedabad,ahmedabad_AMC_2135,15/3,Maninagar to Khatraj (Panchvati circle) (UP),3,16.0,62.0,40.0,30.0,120.0,35.0,55.0,50.0,
+ahmedabad,ahmedabad_AMC_2136,15/3sh,Virol Darwaja (Mahemdavad) to Maninagar (DOWN),3,8.0,66.0,120.0,105.0,140.0,122.5,120.0,127.5,120.0
+ahmedabad,ahmedabad_AMC_2137,15/3sh,Maninagar to Virol Darwaja (Mahemdavad) (UP),3,8.0,66.0,115.0,90.0,180.0,142.5,122.5,95.0,
+ahmedabad,ahmedabad_AMC_2140,150,Chinubhainagar to Sarkhej Gam (DOWN),3,79.0,69.0,10.0,5.0,40.0,15.0,10.0,10.0,10.0
+ahmedabad,ahmedabad_AMC_2141,150,Sarkhej Gam to Chinubhainagar (UP),3,77.0,69.0,10.0,5.0,45.0,15.0,10.0,10.0,12.5
+ahmedabad,ahmedabad_AMC_2146,150,Sarangpur to Sarkhej Gam (DOWN),3,22.0,36.0,20.0,5.0,270.0,15.0,,20.0,
+ahmedabad,ahmedabad_AMC_2147,150,Sarkhej Gam to Sarangpur (UP),3,21.0,36.0,20.0,10.0,270.0,20.0,145.0,,15.0
+ahmedabad,ahmedabad_AMC_2167,151,Vivekanandnagar to Hatkeshwar Depo (DOWN),3,22.0,31.0,20.0,10.0,300.0,20.0,165.0,,20.0
+ahmedabad,ahmedabad_AMC_2175,151/2,Nandej-Barejadi Gam to Maninagar (DOWN),3,20.0,50.0,40.0,15.0,95.0,65.0,35.0,75.0,25.0
+ahmedabad,ahmedabad_AMC_2176,151/2,Maninagar to Nandej-Barejadi Gam (UP),3,20.0,50.0,40.0,20.0,95.0,42.5,35.0,55.0,
+ahmedabad,ahmedabad_AMC_2189,151/4,Hatkeshwar Depo to Gujarat University (DOWN),3,11.0,37.0,110.0,5.0,150.0,147.5,65.0,77.5,110.0
+ahmedabad,ahmedabad_AMC_2190,151/4,Gujarat University to Hatkeshwar Depo (UP),3,12.0,37.0,35.0,15.0,155.0,80.0,115.0,20.0,35.0
+ahmedabad,ahmedabad_AMC_2194,151sh,Vivekanandnagar to Lal Darwaja (DOWN),3,6.0,50.0,160.0,145.0,180.0,160.0,165.0,162.5,
+ahmedabad,ahmedabad_AMC_2195,151sh,Lal Darwaja to Vivekanandnagar (UP),3,6.0,50.0,175.0,120.0,180.0,155.0,180.0,147.5,
+ahmedabad,ahmedabad_AMC_2206,152/1,Bakrol-Bujrang Gam to Lal Darwaja (DOWN),3,12.0,45.0,95.0,35.0,120.0,95.0,100.0,50.0,120.0
+ahmedabad,ahmedabad_AMC_2207,152/1,Lal Darwaja to Bakrol-Bujrang Gam (UP),3,12.0,45.0,75.0,35.0,150.0,110.0,115.0,60.0,
+ahmedabad,ahmedabad_AMC_2210,152/1,Gatrad Gam to Lal Darwaja (DOWN),3,3.0,34.0,112.5,100.0,125.0,100.0,125.0,,
+ahmedabad,ahmedabad_AMC_2215,152/1,Lal Darwaja to Gatrad Gam (UP),3,3.0,34.0,135.0,110.0,160.0,160.0,110.0,,
+ahmedabad,ahmedabad_AMC_2218,152Sh,Dhamatwan Gam to Lal Darwaja (DOWN),3,15.0,46.0,45.0,20.0,145.0,50.0,37.5,42.5,140.0
+ahmedabad,ahmedabad_AMC_2219,152Sh,Lal Darwaja to Dhamatwan Gam (UP),3,15.0,46.0,45.0,15.0,155.0,35.0,40.0,50.0,140.0
+ahmedabad,ahmedabad_AMC_2225,16,Karai Gam to Vatva Railway Station (DOWN),3,18.0,110.0,40.0,30.0,95.0,40.0,50.0,40.0,
+ahmedabad,ahmedabad_AMC_2226,16,Vatva Railway Station to Karai Gam (UP),3,18.0,114.0,40.0,30.0,100.0,40.0,50.0,40.0,
+ahmedabad,ahmedabad_AMC_2228,16,Karai Gam to Sarangpur (DOWN),3,5.0,64.0,40.0,30.0,60.0,,40.0,,
+ahmedabad,ahmedabad_AMC_2229,16,Maninagar to Someshwar Mahadev (UP),3,4.0,73.0,100.0,65.0,385.0,385.0,100.0,65.0,
+ahmedabad,ahmedabad_AMC_2231,16,Maninagar to Sarangpur (UP),3,4.0,17.0,95.0,75.0,390.0,75.0,390.0,,95.0
+ahmedabad,ahmedabad_AMC_2234,16,Someshwar Mahadev to Maninagar (DOWN),3,8.0,70.0,100.0,70.0,185.0,100.0,122.5,130.0,
+ahmedabad,ahmedabad_AMC_2235,16,Sarangpur to Vatva Railway Station (DOWN),3,4.0,47.0,40.0,40.0,40.0,,,40.0,
+ahmedabad,ahmedabad_AMC_2237,16,Vatva Railway Station to Sarangpur (UP),3,4.0,49.0,40.0,40.0,40.0,,40.0,,
+ahmedabad,ahmedabad_AMC_2238,160,Silver Oak University to Hatkeshwar Depo (DOWN),3,18.0,74.0,35.0,30.0,75.0,35.0,35.0,35.0,
+ahmedabad,ahmedabad_AMC_2239,160,Hatkeshwar Depo to Silver Oak University (UP),3,18.0,74.0,35.0,25.0,75.0,35.0,,30.0,
+ahmedabad,ahmedabad_AMC_2248,17,Meghaninagar to Karnavati Chowk-4 (New Narol) (DOWN),3,8.0,73.0,100.0,25.0,145.0,122.5,85.0,40.0,
+ahmedabad,ahmedabad_AMC_2249,17,Karnavati Chowk-4 (New Narol) to Meghaninagar (UP),3,8.0,74.0,120.0,30.0,210.0,35.0,160.0,120.0,
+ahmedabad,ahmedabad_AMC_2276,204,Vasna to Vasna (UP),3,8.0,114.0,95.0,60.0,160.0,125.0,105.0,95.0,
+ahmedabad,ahmedabad_AMC_2283,205,Vasna to Vasna (DOWN),3,8.0,114.0,95.0,60.0,160.0,125.0,105.0,95.0,
+ahmedabad,ahmedabad_AMC_2296,22/1,Bareja Eye Hospital to Lal Darwaja (DOWN),3,40.0,59.0,20.0,10.0,55.0,20.0,20.0,15.0,40.0
+ahmedabad,ahmedabad_AMC_2304,22sh,Indiranagar Vibhag-2 (Pani ni Tanki) to Lal Darwaja (DOWN),3,6.0,35.0,155.0,135.0,380.0,,285.0,155.0,135.0
+ahmedabad,ahmedabad_AMC_2305,22sh,Lal Darwaja to Indiranagar Vibhag-2 (Pani ni Tanki) (UP),3,6.0,35.0,175.0,110.0,385.0,385.0,145.0,142.5,190.0
+ahmedabad,ahmedabad_AMC_2308,23,Lambha Gam to Maninagar (DOWN),3,7.0,40.0,112.5,100.0,175.0,147.5,100.0,110.0,
+ahmedabad,ahmedabad_AMC_2309,23,Maninagar to Lambha Gam (UP),3,7.0,40.0,115.0,95.0,165.0,142.5,107.5,107.5,
+ahmedabad,ahmedabad_AMC_2310,28,Lambha Gam to Meghaninagar (DOWN),3,32.0,51.0,25.0,5.0,115.0,35.0,27.5,25.0,25.0
+ahmedabad,ahmedabad_AMC_2311,28,Meghaninagar to Lambha Gam (UP),3,32.0,52.0,25.0,15.0,120.0,25.0,30.0,25.0,
+ahmedabad,ahmedabad_AMC_2314,28,Meghaninagar to Sarangpur (UP),3,16.0,21.0,25.0,10.0,295.0,20.0,165.0,,25.0
+ahmedabad,ahmedabad_AMC_2315,28,Sarangpur to Meghaninagar (DOWN),3,12.0,21.0,35.0,5.0,325.0,35.0,,,40.0
+ahmedabad,ahmedabad_AMC_2316,28sh,Indiranagar Vibhag-2 (Pani ni Tanki) to Sarangpur (DOWN),3,24.0,36.0,40.0,20.0,75.0,40.0,40.0,45.0,40.0
+ahmedabad,ahmedabad_AMC_2317,28sh,Sarangpur to Indiranagar Vibhag-2 (Pani ni Tanki) (UP),3,24.0,36.0,45.0,20.0,65.0,45.0,42.5,40.0,45.0
+ahmedabad,ahmedabad_AMC_2319,29,Devimata Mandir to Sarangpur (DOWN),3,6.0,42.0,170.0,150.0,180.0,165.0,170.0,175.0,150.0
+ahmedabad,ahmedabad_AMC_2320,29,Sarangpur to Devimata Mandir (UP),3,6.0,42.0,165.0,145.0,180.0,172.5,155.0,150.0,
+ahmedabad,ahmedabad_AMC_2321,30,Karnavati Chowk-4 (New Narol) to Maninagar (DOWN),3,13.0,46.0,57.5,40.0,180.0,45.0,60.0,65.0,
+ahmedabad,ahmedabad_AMC_2322,30,Maninagar to Karnavati Chowk-4 (New Narol) (UP),3,16.0,44.0,60.0,40.0,100.0,55.0,60.0,57.5,65.0
+ahmedabad,ahmedabad_AMC_2324,30,Karnavati Chowk-4 (New Narol) to Isanpur (DOWN),3,3.0,33.0,260.0,50.0,470.0,,,,260.0
+ahmedabad,ahmedabad_AMC_2331,30/3,Dev Residency to Dani Limda Gam (DOWN),3,3.0,62.0,230.0,195.0,265.0,265.0,,195.0,
+ahmedabad,ahmedabad_AMC_2332,30/3,Dani Limda Gam to Dev Residency (UP),3,4.0,63.0,205.0,180.0,270.0,270.0,205.0,180.0,
+ahmedabad,ahmedabad_AMC_2334,30/3,Dev Residency to Paldi (DOWN),3,1.0,52.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2343,31,Meghaninagar to Sarkhej Gam (DOWN),3,54.0,54.0,15.0,5.0,50.0,15.0,20.0,15.0,37.5
+ahmedabad,ahmedabad_AMC_2344,31,Sarkhej Gam to Meghaninagar (UP),3,57.0,54.0,15.0,10.0,45.0,15.0,15.0,15.0,35.0
+ahmedabad,ahmedabad_AMC_2346,31,Meghaninagar to Lal Darwaja (DOWN),3,12.0,23.0,45.0,25.0,225.0,42.5,45.0,55.0,35.0
+ahmedabad,ahmedabad_AMC_2348,31,Lal Darwaja to Meghaninagar (UP),3,9.0,22.0,57.5,25.0,160.0,40.0,,72.5,
+ahmedabad,ahmedabad_AMC_2349,31,Sarkhej Gam to Lal Darwaja (UP),3,3.0,33.0,80.0,65.0,95.0,,95.0,,65.0
+ahmedabad,ahmedabad_AMC_2351,31,Lal Darwaja to Sarkhej Gam (DOWN),3,6.0,32.0,30.0,30.0,35.0,,,30.0,
+ahmedabad,ahmedabad_AMC_2353,31/1,Aradhana Residency (Fateh wadi Kenal) to Lal Darwaja (DOWN),3,7.0,32.0,110.0,95.0,175.0,142.5,112.5,102.5,
+ahmedabad,ahmedabad_AMC_2354,31/1,Lal Darwaja to Aradhana Residency (Fateh wadi Kenal) (UP),3,7.0,32.0,112.5,80.0,175.0,142.5,115.0,105.0,
+ahmedabad,ahmedabad_AMC_2355,31/4,Kasindra Gam to Lal Darwaja (DOWN),3,16.0,60.0,60.0,50.0,70.0,60.0,62.5,62.5,62.5
+ahmedabad,ahmedabad_AMC_2356,31/4,Lal Darwaja to Kasindra Gam (UP),3,16.0,59.0,60.0,50.0,70.0,60.0,67.5,57.5,
+ahmedabad,ahmedabad_AMC_2360,31/4sh,Bakrol Gam to Lal Darwaja (DOWN),3,5.0,49.0,165.0,140.0,230.0,230.0,170.0,150.0,
+ahmedabad,ahmedabad_AMC_2361,31/4sh,Lal Darwaja to Bakrol Gam (UP),3,4.0,48.0,170.0,150.0,230.0,230.0,170.0,150.0,
+ahmedabad,ahmedabad_AMC_2362,31/4sh,Paldi to Bakrol Gam (UP),3,1.0,40.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2369,31/5,Lal Darwaja to Vadnagar  Patiya (UP),3,48.0,64.0,20.0,20.0,30.0,20.0,20.0,20.0,30.0
+ahmedabad,ahmedabad_AMC_2372,32,Nigam Society to Ambedkarnagar (DOWN),3,12.0,69.0,45.0,40.0,105.0,50.0,45.0,45.0,
+ahmedabad,ahmedabad_AMC_2373,32,Ambedkarnagar to Nigam Society (UP),3,16.0,66.0,45.0,40.0,105.0,50.0,50.0,40.0,
+ahmedabad,ahmedabad_AMC_2375,32,Lal Darwaja to Ambedkarnagar (DOWN),3,4.0,31.0,40.0,40.0,40.0,,,40.0,
+ahmedabad,ahmedabad_AMC_2378,33,S.P.Ring Road (Odhav Gidc) to Vasna (DOWN),3,51.0,65.0,15.0,5.0,80.0,20.0,15.0,15.0,
+ahmedabad,ahmedabad_AMC_2379,33,Vasna to S.P.Ring Road (Odhav Gidc) (UP),3,54.0,69.0,15.0,5.0,95.0,15.0,15.0,15.0,10.0
+ahmedabad,ahmedabad_AMC_2384,33,Lal Darwaja to Vasna (DOWN),3,14.0,25.0,25.0,15.0,350.0,25.0,,25.0,
+ahmedabad,ahmedabad_AMC_2389,33,Vasna to Lal Darwaja (UP),3,14.0,27.0,20.0,15.0,330.0,20.0,187.5,,15.0
+ahmedabad,ahmedabad_AMC_2398,33/1sh,Civil Hospital to Vaishali Township (DOWN),3,5.0,49.0,140.0,135.0,205.0,172.5,140.0,135.0,
+ahmedabad,ahmedabad_AMC_2399,33/1sh,Vaishali Township to Civil Hospital (UP),3,5.0,50.0,140.0,130.0,205.0,172.5,140.0,130.0,
+ahmedabad,ahmedabad_AMC_2400,33/1sh,Lal Darwaja to Vaishali Township (DOWN),3,9.0,32.0,82.5,80.0,145.0,80.0,85.0,80.0,
+ahmedabad,ahmedabad_AMC_2401,33/1sh,Paldi to Vaishali Township (DOWN),3,1.0,24.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2402,33/1sh,Vaishali Township to Lal Darwaja (UP),3,10.0,33.0,80.0,35.0,145.0,80.0,90.0,80.0,50.0
+ahmedabad,ahmedabad_AMC_2405,34/3,Adani Vidyavihar to Lal Darwaja (DOWN),3,6.0,40.0,140.0,100.0,200.0,170.0,140.0,112.5,
+ahmedabad,ahmedabad_AMC_2406,34/3,Lal Darwaja to Adani Vidyavihar (UP),3,6.0,40.0,135.0,95.0,205.0,170.0,135.0,102.5,
+ahmedabad,ahmedabad_AMC_2409,34/4,Ambedkarnagar to Lal Darwaja (DOWN),3,49.0,30.0,15.0,10.0,35.0,20.0,15.0,15.0,30.0
+ahmedabad,ahmedabad_AMC_2410,34/4,Lal Darwaja to Ambedkarnagar (UP),3,49.0,30.0,15.0,10.0,35.0,15.0,20.0,15.0,
+ahmedabad,ahmedabad_AMC_2414,34/5,Lal Darwaja to Meghaninagar (UP),3,2.0,27.0,35.0,35.0,35.0,,,35.0,
+ahmedabad,ahmedabad_AMC_2415,34/5,Meghaninagar to Lal Darwaja (DOWN),3,5.0,29.0,25.0,20.0,30.0,,25.0,,
+ahmedabad,ahmedabad_AMC_2417,35,Dhedhal Cross Road (Bavla) to Lal Darwaja (DOWN),3,21.0,78.0,32.5,5.0,130.0,35.0,30.0,115.0,30.0
+ahmedabad,ahmedabad_AMC_2418,35,Lal Darwaja to Dhedhal Cross Road (Bavla) (UP),3,21.0,78.0,35.0,15.0,115.0,30.0,45.0,35.0,45.0
+ahmedabad,ahmedabad_AMC_2419,35,Bavla to Lal Darwaja (DOWN),3,45.0,76.0,17.5,5.0,40.0,30.0,17.5,15.0,32.5
+ahmedabad,ahmedabad_AMC_2420,35,Lal Darwaja to Bavla (UP),3,45.0,76.0,20.0,5.0,65.0,20.0,30.0,15.0,
+ahmedabad,ahmedabad_AMC_2421,35,Lal Darwaja to Rajoda Patiya (UP),3,5.0,69.0,30.0,30.0,30.0,,,30.0,
+ahmedabad,ahmedabad_AMC_2422,35,Rajoda Patiya to Lal Darwaja (DOWN),3,5.0,69.0,32.5,30.0,40.0,,,32.5,
+ahmedabad,ahmedabad_AMC_2423,36/1,Sarkhej Roza to Sarangpur (DOWN),3,6.0,37.0,130.0,105.0,190.0,160.0,140.0,115.0,
+ahmedabad,ahmedabad_AMC_2424,36/1,Sarangpur to Sarkhej Roza (UP),3,6.0,37.0,120.0,100.0,195.0,157.5,140.0,107.5,
+ahmedabad,ahmedabad_AMC_2432,37sh,Bapunagar to Vasna (DOWN),3,6.0,39.0,160.0,110.0,220.0,170.0,180.0,135.0,
+ahmedabad,ahmedabad_AMC_2433,37sh,Vasna to Bapunagar (UP),3,5.0,41.0,142.5,125.0,215.0,170.0,130.0,155.0,
+ahmedabad,ahmedabad_AMC_2434,37sh,Bapunagar to Lal Darwaja (DOWN),3,1.0,23.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2440,39/3,Ambedkarnagar to Bhakti Circle (DOWN),3,4.0,70.0,80.0,65.0,410.0,410.0,65.0,80.0,
+ahmedabad,ahmedabad_AMC_2441,39/3,Bhakti Circle to Ambedkarnagar (UP),3,8.0,68.0,85.0,50.0,190.0,120.0,120.0,85.0,
+ahmedabad,ahmedabad_AMC_2442,39/3,Ambedkarnagar to Sarangpur (DOWN),3,4.0,33.0,70.0,50.0,425.0,70.0,425.0,,50.0
+ahmedabad,ahmedabad_AMC_2451,40,Meda-Adraj Gam to Vadaj (DOWN),3,6.0,64.0,150.0,100.0,215.0,172.5,132.5,150.0,
+ahmedabad,ahmedabad_AMC_2452,40,Vadaj to Meda-Adraj Gam (UP),3,6.0,64.0,145.0,80.0,210.0,177.5,180.0,110.0,
+ahmedabad,ahmedabad_AMC_2464,40/2,Bavla to Ranip Gam (DOWN),3,14.0,98.0,50.0,35.0,125.0,62.5,45.0,50.0,75.0
+ahmedabad,ahmedabad_AMC_2465,40/2,Ranip Gam to Bavla (UP),3,16.0,94.0,25.0,20.0,320.0,50.0,50.0,20.0,
+ahmedabad,ahmedabad_AMC_2467,40/2,Iskon Mandir to Nava Vadaj (DOWN),3,4.0,29.0,50.0,35.0,55.0,,50.0,,
+ahmedabad,ahmedabad_AMC_2468,40/2,Iskon Mandir to Ranip Gam (DOWN),3,1.0,39.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2469,40/2,Nava Vadaj to Bavla (UP),3,4.0,84.0,65.0,45.0,70.0,65.0,,,
+ahmedabad,ahmedabad_AMC_2470,40/2,Nava Vadaj to Iskon Mandir (UP),3,1.0,29.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2471,40/2,Ranip Gam to Iskon Mandir (UP),3,4.0,40.0,50.0,30.0,55.0,,50.0,,
+ahmedabad,ahmedabad_AMC_2472,40/3,Gayatri Vidyalay to Ambedkarnagar (DOWN),3,25.0,47.0,30.0,25.0,100.0,30.0,30.0,27.5,
+ahmedabad,ahmedabad_AMC_2473,40/3,Ambedkarnagar to Gayatri Vidyalay (UP),3,25.0,50.0,30.0,25.0,100.0,30.0,30.0,30.0,
+ahmedabad,ahmedabad_AMC_2479,400,Lal Darwaja to Lal Darwaja (UP),3,24.0,53.0,35.0,25.0,70.0,40.0,37.5,35.0,35.0
+ahmedabad,ahmedabad_AMC_2480,401,Chandkheda (Sarthi Bunglows) to Vasna (DOWN),3,105.0,45.0,10.0,2.0,80.0,7.5,10.0,5.0,50.0
+ahmedabad,ahmedabad_AMC_2481,401,Vasna to Chandkheda (Sarthi Bunglows) (UP),3,112.0,50.0,10.0,5.0,25.0,10.0,10.0,5.0,10.0
+ahmedabad,ahmedabad_AMC_2486,401,Vadaj to Vasna (DOWN),3,11.0,25.0,22.5,10.0,705.0,,357.5,20.0,25.0
+ahmedabad,ahmedabad_AMC_2487,401,Vasna to Vadaj (UP),3,9.0,25.0,25.0,10.0,155.0,15.0,80.0,,30.0
+ahmedabad,ahmedabad_AMC_2495,42,Nigam Society to Lal Darwaja (UP),3,2.0,38.0,50.0,50.0,50.0,,50.0,,
+ahmedabad,ahmedabad_AMC_2496,42,Shilaj Gam to Lal Darwaja (DOWN),3,2.0,50.0,60.0,60.0,60.0,,60.0,,
+ahmedabad,ahmedabad_AMC_2501,43,Vastrapur to Ambli Cross Road (UP),3,1.0,22.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2546,50,Naroda to Ghuma Gam (DOWN),3,8.0,84.0,90.0,85.0,270.0,270.0,85.0,90.0,
+ahmedabad,ahmedabad_AMC_2547,50,Ghuma Gam to Naroda (UP),3,8.0,84.0,85.0,60.0,280.0,85.0,95.0,100.0,80.0
+ahmedabad,ahmedabad_AMC_2561,500,Lal Darwaja to Lal Darwaja (DOWN),3,24.0,55.0,35.0,25.0,70.0,40.0,37.5,35.0,35.0
+ahmedabad,ahmedabad_AMC_2562,501,Amba Township Sector-5 (Trimandir) to Sanathal Cross Road (DOWN),3,3.0,58.0,267.5,240.0,295.0,295.0,240.0,,
+ahmedabad,ahmedabad_AMC_2563,501,Sanathal Cross Road to Amba Township Sector-5 (Trimandir) (UP),3,3.0,61.0,257.5,215.0,300.0,300.0,,215.0,
+ahmedabad,ahmedabad_AMC_2572,501,Prabhahanuman Mandir(Trimandir) to Sarkhej-Bavla Circle (Ujala Hotel) (DOWN),3,69.0,49.0,10.0,5.0,20.0,10.0,10.0,10.0,
+ahmedabad,ahmedabad_AMC_2574,501,Sarkhej-Bavla Circle (Ujala Hotel) to Prabhahanuman Mandir(Trimandir) (UP),3,69.0,52.0,10.0,5.0,40.0,12.5,10.0,10.0,
+ahmedabad,ahmedabad_AMC_2581,503,Kalol Institute Technology College to Lal Darwaja (DOWN),3,12.0,77.0,30.0,30.0,110.0,35.0,30.0,30.0,
+ahmedabad,ahmedabad_AMC_2582,503,Lal Darwaja to Kalol Institute Technology College (UP),3,18.0,78.0,30.0,20.0,110.0,30.0,35.0,25.0,
+ahmedabad,ahmedabad_AMC_2589,50,Income Tax Office to Meghaninagar (UP),3,8.0,25.0,40.0,30.0,365.0,40.0,,40.0,
+ahmedabad,ahmedabad_AMC_2590,50,Meghaninagar to Income Tax Office (DOWN),3,10.0,25.0,20.0,15.0,420.0,20.0,217.5,,25.0
+ahmedabad,ahmedabad_AMC_2591,51Ri,Rancharda Gam to Lal Darwaja (DOWN),3,3.0,52.0,255.0,235.0,275.0,275.0,235.0,,
+ahmedabad,ahmedabad_AMC_2592,51Ri,Lal Darwaja to Rancharda Gam (UP),3,3.0,50.0,232.5,155.0,310.0,310.0,,155.0,
+ahmedabad,ahmedabad_AMC_2594,51Ri,Lal Darwaja to Shilaj Gam (UP),3,1.0,37.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2596,51T,Lal Darwaja to Thol Gam (Saradar Chowk) (UP),3,36.0,68.0,25.0,5.0,60.0,25.0,30.0,20.0,20.0
+ahmedabad,ahmedabad_AMC_2601,51sh,Lal Darwaja to Rancharda Gam (UP),3,3.0,48.0,45.0,20.0,70.0,45.0,,,
+ahmedabad,ahmedabad_AMC_2605,52,Thol Gam (Saradar Chowk) to Ranip Gam (DOWN),3,3.0,76.0,290.0,265.0,315.0,265.0,315.0,,
+ahmedabad,ahmedabad_AMC_2606,52,Ranip Gam to Thol Gam (Saradar Chowk) (UP),3,3.0,76.0,270.0,225.0,315.0,315.0,,225.0,
+ahmedabad,ahmedabad_AMC_2609,52/2,Sattadhar Society to Maninagar (DOWN),3,40.0,55.0,25.0,10.0,70.0,25.0,25.0,20.0,25.0
+ahmedabad,ahmedabad_AMC_2610,52/2,Maninagar to Sattadhar Society (UP),3,40.0,58.0,25.0,10.0,55.0,25.0,25.0,20.0,35.0
+ahmedabad,ahmedabad_AMC_2615,53,Thol Gam (Saradar Chowk) to Lal Darwaja (DOWN),3,32.0,71.0,25.0,10.0,75.0,45.0,20.0,22.5,75.0
+ahmedabad,ahmedabad_AMC_2616,53,Lal Darwaja to Thol Gam (Saradar Chowk) (UP),3,32.0,70.0,25.0,10.0,75.0,40.0,30.0,20.0,
+ahmedabad,ahmedabad_AMC_2617,54,Vaishnodevi Circle(Zydus Life) to Lal Darwaja (DOWN),3,18.0,50.0,50.0,40.0,75.0,50.0,55.0,57.5,50.0
+ahmedabad,ahmedabad_AMC_2618,54,Lal Darwaja to Vaishnodevi Circle(Zydus Life) (UP),3,18.0,49.0,50.0,35.0,75.0,50.0,57.5,52.5,55.0
+ahmedabad,ahmedabad_AMC_2632,56/1,Sardar Party Plot (S.P.Ring Road) to Kalupur Terminus (UP),3,2.0,41.0,60.0,60.0,60.0,,60.0,,
+ahmedabad,ahmedabad_AMC_2634,56/1,Mahavirnagar to Sardar Party Plot (S.P.Ring Road) (DOWN),3,2.0,23.0,60.0,60.0,60.0,,,60.0,
+ahmedabad,ahmedabad_AMC_2644,58,Sarangpur to Kush Society (New Naroda) (UP),3,14.0,46.0,30.0,30.0,290.0,30.0,,30.0,
+ahmedabad,ahmedabad_AMC_2653,63,Ramdev Masala to Lal Darwaja (DOWN),3,6.0,38.0,135.0,100.0,190.0,190.0,137.5,105.0,
+ahmedabad,ahmedabad_AMC_2654,63,Lal Darwaja to Ramdev Masala (UP),3,6.0,37.0,120.0,90.0,190.0,155.0,145.0,95.0,
+ahmedabad,ahmedabad_AMC_2655,63,Lal Darwaja to Usmanpura (UP),3,1.0,11.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2656,63/1,Lilapur Gam to Lal Darwaja (DOWN),3,3.0,65.0,322.5,210.0,435.0,,435.0,210.0,
+ahmedabad,ahmedabad_AMC_2657,63/1,Lal Darwaja to Lilapur Gam (UP),3,2.0,65.0,445.0,445.0,445.0,,445.0,,
+ahmedabad,ahmedabad_AMC_2660,63/1,Vadaj to Lilapur Gam (UP),3,1.0,50.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2661,64,Ramdev Masala to Lal Darwaja (DOWN),3,56.0,36.0,15.0,10.0,35.0,15.0,15.0,15.0,30.0
+ahmedabad,ahmedabad_AMC_2662,64,Lal Darwaja to Ramdev Masala (UP),3,56.0,36.0,15.0,15.0,30.0,15.0,15.0,17.5,20.0
+ahmedabad,ahmedabad_AMC_2663,64,Ramdev Masala to Usmanpura (DOWN),3,8.0,24.0,30.0,15.0,35.0,,30.0,,30.0
+ahmedabad,ahmedabad_AMC_2665,64,Usmanpura to Ramdev Masala (UP),3,8.0,24.0,30.0,20.0,30.0,,,30.0,
+ahmedabad,ahmedabad_AMC_2667,64/1,Jaspur Gam to Lal Darwaja (DOWN),3,4.0,59.0,255.0,255.0,260.0,260.0,255.0,255.0,
+ahmedabad,ahmedabad_AMC_2672,64/2,Krushna Yaan to Lal Darwaja (DOWN),3,15.0,48.0,40.0,40.0,115.0,40.0,42.5,40.0,
+ahmedabad,ahmedabad_AMC_2673,64/2,Lal Darwaja to Krushna Yaan (UP),3,15.0,48.0,40.0,40.0,115.0,40.0,50.0,40.0,
+ahmedabad,ahmedabad_AMC_2674,64/2,Krushna Yaan to Vadaj (DOWN),3,3.0,36.0,42.5,40.0,45.0,,42.5,,
+ahmedabad,ahmedabad_AMC_2675,64/2,Vadaj to Krushna Yaan (UP),3,3.0,36.0,40.0,40.0,40.0,,,40.0,
+ahmedabad,ahmedabad_AMC_2676,64/3,Ranip Gam to Lal Darwaja (DOWN),3,6.0,39.0,130.0,110.0,185.0,157.5,135.0,115.0,
+ahmedabad,ahmedabad_AMC_2677,64/3,Lal Darwaja to Ranip Gam (UP),3,6.0,42.0,130.0,120.0,185.0,152.5,132.5,125.0,
+ahmedabad,ahmedabad_AMC_2678,65,Vasantnagar Township to Lal Darwaja (DOWN),3,5.0,46.0,152.5,150.0,215.0,182.5,155.0,150.0,
+ahmedabad,ahmedabad_AMC_2679,65,Lal Darwaja to Vasantnagar Township (UP),3,5.0,47.0,147.5,135.0,220.0,220.0,145.0,142.5,
+ahmedabad,ahmedabad_AMC_2682,65/1,Mangalmurti Apartment to Lal Darwaja (DOWN),3,11.0,23.0,70.0,60.0,135.0,70.0,70.0,65.0,
+ahmedabad,ahmedabad_AMC_2683,65/1,Lal Darwaja to Mangalmurti Apartment (UP),3,11.0,21.0,70.0,60.0,135.0,70.0,70.0,67.5,
+ahmedabad,ahmedabad_AMC_2684,65/2,Arvind Polycoat (Khatraj) to Lal Darwaja (DOWN),3,32.0,54.0,30.0,10.0,80.0,30.0,30.0,35.0,25.0
+ahmedabad,ahmedabad_AMC_2685,65/2,Lal Darwaja to Arvind Polycoat (Khatraj) (UP),3,32.0,54.0,30.0,15.0,85.0,30.0,30.0,30.0,32.5
+ahmedabad,ahmedabad_AMC_2692,66,Shilaj Gam to Asarva Railway Station (DOWN),3,4.0,56.0,165.0,160.0,220.0,192.5,,160.0,
+ahmedabad,ahmedabad_AMC_2693,66,Asarva Railway Station to Shilaj Gam (UP),3,5.0,56.0,162.5,145.0,220.0,220.0,170.0,150.0,
+ahmedabad,ahmedabad_AMC_2695,66,Shilaj Gam to Income Tax Office (DOWN),3,1.0,41.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2696,66/1,Shilaj Gam to Asarva Railway Station (DOWN),3,4.0,53.0,175.0,155.0,230.0,202.5,,155.0,
+ahmedabad,ahmedabad_AMC_2697,66/1,Asarva Railway Station to Shilaj Gam (UP),3,4.0,53.0,180.0,165.0,230.0,230.0,180.0,165.0,
+ahmedabad,ahmedabad_AMC_2700,66/1,Shilaj Gam to Usmanpura (DOWN),3,1.0,36.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2705,66/3,Arvind Polycoat (Khatraj) to Naroda (DOWN),3,66.0,78.0,15.0,10.0,35.0,20.0,15.0,10.0,15.0
+ahmedabad,ahmedabad_AMC_2706,66/3,Naroda to Arvind Polycoat (Khatraj) (UP),3,66.0,78.0,10.0,5.0,40.0,20.0,15.0,10.0,25.0
+ahmedabad,ahmedabad_AMC_2717,66/3sh,Moti Bhoyan Chokdi to Naroda (DOWN),3,1.0,90.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2718,66/3sh,Naroda to Moti Bhoyan Chokdi (UP),3,1.0,90.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2721,66/4,Arvind Polycoat (Khatraj) to Kush Society (New Naroda) (DOWN),3,2.0,107.0,435.0,435.0,435.0,,435.0,,
+ahmedabad,ahmedabad_AMC_2722,66/4,Kush Society (New Naroda) to Arvind Polycoat (Khatraj) (UP),3,2.0,107.0,480.0,480.0,480.0,480.0,,,
+ahmedabad,ahmedabad_AMC_2724,69,Oganaj Circle (S.P.Ring Road) to S.P.Ring Road (Odhav Gidc) (DOWN),3,2.0,74.0,325.0,325.0,325.0,325.0,,,
+ahmedabad,ahmedabad_AMC_2725,69,S.P.Ring Road (Odhav Gidc) to Oganaj Circle (S.P.Ring Road) (UP),3,3.0,76.0,292.5,285.0,300.0,285.0,300.0,,
+ahmedabad,ahmedabad_AMC_2726,69,Bhadaj Circle (S.P.Ring Road) to Kalupur Terminus (DOWN),3,2.0,40.0,35.0,35.0,35.0,,35.0,,
+ahmedabad,ahmedabad_AMC_2729,69-D-KSP(O),Kalupur to S.P.Ring Road (Odhav Gidc),3,3.0,30.0,50.0,45.0,55.0,,,50.0,
+ahmedabad,ahmedabad_AMC_2730,69,Oganaj Circle (S.P.Ring Road) to Kalupur (DOWN),3,1.0,46.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2731,69-U-SP(OG)C,S.P.Ring Road (Odhav Gidc) to Bhadaj Circle (S.P.Ring Road),3,12.0,69.0,55.0,30.0,105.0,75.0,57.5,50.0,
+ahmedabad,ahmedabad_AMC_2739,69,Kalupur to Bhadaj Circle (S.P.Ring Road) (UP),3,2.0,40.0,25.0,25.0,25.0,,,25.0,
+ahmedabad,ahmedabad_AMC_2746,70,Bhakti Circle to Vagheshwari Soc(Chandlodia Rly Station) (DOWN),3,21.0,81.0,35.0,15.0,125.0,45.0,37.5,30.0,
+ahmedabad,ahmedabad_AMC_2747,70,Vagheshwari Soc(Chandlodia Rly Station) to Bhakti Circle (UP),3,18.0,74.0,30.0,25.0,135.0,72.5,35.0,30.0,
+ahmedabad,ahmedabad_AMC_2748,70,Bhakti Circle to Vadaj (DOWN),3,2.0,63.0,110.0,110.0,110.0,,,,110.0
+ahmedabad,ahmedabad_AMC_2751,70,Vagheshwari Soc(Chandlodia Rly Station) to Vadaj (UP),3,2.0,16.0,495.0,495.0,495.0,,,,495.0
+ahmedabad,ahmedabad_AMC_2752,70/1,Meghaninagar to Gujarat High Court (DOWN),3,5.0,48.0,150.0,125.0,230.0,230.0,160.0,132.5,
+ahmedabad,ahmedabad_AMC_2753,70/1,Gujarat High Court to Meghaninagar (UP),3,5.0,48.0,155.0,130.0,230.0,192.5,155.0,130.0,
+ahmedabad,ahmedabad_AMC_2758,70/2,Kalol Police Chowki Underbridge to Vadaj (DOWN),3,12.0,74.0,55.0,45.0,180.0,60.0,50.0,52.5,
+ahmedabad,ahmedabad_AMC_2759,70/2,Vadaj to Kalol Police Chowki Underbridge (UP),3,12.0,75.0,60.0,45.0,165.0,65.0,60.0,50.0,
+ahmedabad,ahmedabad_AMC_2762,72,Krushna Yaan to Nigam Society (DOWN),3,43.0,84.0,15.0,5.0,100.0,25.0,25.0,15.0,35.0
+ahmedabad,ahmedabad_AMC_2763,72,Nigam Society to Krushna Yaan (UP),3,41.0,86.0,20.0,10.0,55.0,20.0,22.5,15.0,
+ahmedabad,ahmedabad_AMC_2766,72,Krushna Yaan to Vadaj (DOWN),3,7.0,30.0,30.0,15.0,50.0,,25.0,,42.5
+ahmedabad,ahmedabad_AMC_2767,72,Lal Darwaja to Nigam Society (DOWN),3,3.0,41.0,62.5,60.0,65.0,62.5,,,
+ahmedabad,ahmedabad_AMC_2771,72,Nigam Society to Vadaj (UP),3,10.0,57.0,35.0,10.0,360.0,35.0,360.0,,37.5
+ahmedabad,ahmedabad_AMC_2774,72,Vadaj to Krushna Yaan (UP),3,17.0,30.0,20.0,5.0,295.0,30.0,,20.0,
+ahmedabad,ahmedabad_AMC_2778,74,Vatva Railway Station to Andh Kalyan Kendra (DOWN),3,12.0,85.0,60.0,30.0,170.0,115.0,55.0,65.0,
+ahmedabad,ahmedabad_AMC_2779,74,Andh Kalyan Kendra to Vatva Railway Station (UP),3,12.0,85.0,60.0,45.0,185.0,55.0,60.0,65.0,
+ahmedabad,ahmedabad_AMC_2782,74,Lal Darwaja to Vatva Railway Station (UP),3,4.0,50.0,60.0,50.0,430.0,245.0,,50.0,
+ahmedabad,ahmedabad_AMC_2785,74,Vatva Railway Station to Lal Darwaja (DOWN),3,4.0,50.0,65.0,50.0,435.0,65.0,435.0,,50.0
+ahmedabad,ahmedabad_AMC_2786,74/1,Kali Gam to Lal Darwaja (DOWN),3,30.0,43.0,25.0,15.0,60.0,25.0,25.0,22.5,
+ahmedabad,ahmedabad_AMC_2787,74/1,Lal Darwaja to Kali Gam (UP),3,30.0,43.0,25.0,15.0,65.0,25.0,20.0,25.0,35.0
+ahmedabad,ahmedabad_AMC_2789,74/1,Kali Gam to Vadaj (DOWN),3,5.0,31.0,32.5,25.0,70.0,,27.5,,52.5
+ahmedabad,ahmedabad_AMC_2790,74/1,Vadaj to Kali Gam (UP),3,4.0,31.0,45.0,35.0,45.0,,,45.0,
+ahmedabad,ahmedabad_AMC_2791,75,Chandkheda (Sarthi Bunglows) to Maninagar (DOWN),3,40.0,49.0,20.0,15.0,40.0,25.0,20.0,20.0,30.0
+ahmedabad,ahmedabad_AMC_2792,75,Maninagar to Chandkheda (Sarthi Bunglows) (UP),3,40.0,54.0,20.0,10.0,45.0,20.0,20.0,20.0,42.5
+ahmedabad,ahmedabad_AMC_2793,75,Chandkheda (Sarthi Bunglows) to Vadaj (DOWN),3,10.0,20.0,35.0,30.0,335.0,35.0,335.0,,37.5
+ahmedabad,ahmedabad_AMC_2795,75,Lal Darwaja to Maninagar (DOWN),3,10.0,20.0,35.0,30.0,340.0,35.0,,35.0,
+ahmedabad,ahmedabad_AMC_2796,75,Maninagar to Lal Darwaja (UP),3,10.0,20.0,35.0,25.0,335.0,37.5,,,35.0
+ahmedabad,ahmedabad_AMC_2801,76,Vaishnodevi Circle(Zydus Life) to Sarangpur (DOWN),3,15.0,51.0,50.0,50.0,85.0,50.0,55.0,50.0,
+ahmedabad,ahmedabad_AMC_2802,76,Sarangpur to Vaishnodevi Circle(Zydus Life) (UP),3,15.0,53.0,50.0,45.0,95.0,50.0,52.5,50.0,
+ahmedabad,ahmedabad_AMC_2805,76,Vadaj to Vaishnodevi Circle(Zydus Life) (UP),3,3.0,38.0,50.0,50.0,50.0,,,50.0,
+ahmedabad,ahmedabad_AMC_2806,76,Vaishnodevi Circle(Zydus Life) to Vadaj (DOWN),3,4.0,38.0,50.0,25.0,50.0,,25.0,,50.0
+ahmedabad,ahmedabad_AMC_2807,77,Vatva Railway Station to Nava Vadaj (DOWN),3,44.0,66.0,25.0,15.0,35.0,25.0,25.0,25.0,20.0
+ahmedabad,ahmedabad_AMC_2808,77,Nava Vadaj to Vatva Railway Station (UP),3,34.0,66.0,25.0,15.0,55.0,30.0,25.0,25.0,20.0
+ahmedabad,ahmedabad_AMC_2813,77,Kalupur to Vatva Railway Station (UP),3,10.0,47.0,45.0,20.0,345.0,50.0,,37.5,
+ahmedabad,ahmedabad_AMC_2815,77,Nava Vadaj to Kalupur (UP),3,10.0,20.0,50.0,20.0,340.0,45.0,340.0,,37.5
+ahmedabad,ahmedabad_AMC_2820,79,Krushna Yaan to Badrinarayan Society (DOWN),3,6.0,68.0,65.0,30.0,335.0,182.5,,65.0,
+ahmedabad,ahmedabad_AMC_2821,79,Badrinarayan Society to Krushna Yaan (UP),3,7.0,68.0,65.0,30.0,280.0,180.0,57.5,60.0,
+ahmedabad,ahmedabad_AMC_2822,79,Badrinarayan Society to Chenpur Gam (UP),3,28.0,61.0,20.0,10.0,85.0,25.0,45.0,20.0,
+ahmedabad,ahmedabad_AMC_2824,79,Badrinarayan Society to Vadaj (UP),3,4.0,33.0,45.0,45.0,70.0,,45.0,,70.0
+ahmedabad,ahmedabad_AMC_2825,79,Chenpur Gam to Badrinarayan Society (DOWN),3,28.0,61.0,20.0,10.0,75.0,32.5,17.5,20.0,
+ahmedabad,ahmedabad_AMC_2826,79,Chenpur Gam to Kalupur (DOWN),3,1.0,42.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2827,79,Chenpur Gam to Vadaj (DOWN),3,4.0,29.0,70.0,65.0,130.0,,67.5,,130.0
+ahmedabad,ahmedabad_AMC_2828,79,Krushna Yaan to Kalupur (DOWN),3,3.0,49.0,55.0,40.0,70.0,,55.0,,
+ahmedabad,ahmedabad_AMC_2830,79,Vadaj to Badrinarayan Society (DOWN),3,1.0,33.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2832,79,Vadaj to Krushna Yaan (UP),3,2.0,36.0,50.0,50.0,50.0,,,50.0,
+ahmedabad,ahmedabad_AMC_2833,79,Kalupur to Badrinarayan Society (DOWN),3,4.0,20.0,40.0,40.0,50.0,,,40.0,
+ahmedabad,ahmedabad_AMC_2834,79,Vadaj to Chenpur Gam (UP),3,5.0,29.0,77.5,55.0,605.0,,337.5,70.0,
+ahmedabad,ahmedabad_AMC_2837,82,Gayatri Vidyalay to Lal Darwaja (DOWN),3,24.0,28.0,35.0,20.0,90.0,30.0,37.5,40.0,
+ahmedabad,ahmedabad_AMC_2838,82,Lal Darwaja to Gayatri Vidyalay (UP),3,24.0,29.0,35.0,20.0,90.0,35.0,35.0,35.0,90.0
+ahmedabad,ahmedabad_AMC_2839,82,Gayatri Vidyalay to Vadaj (DOWN),3,3.0,17.0,77.5,40.0,115.0,,40.0,,115.0
+ahmedabad,ahmedabad_AMC_2841,83,Chandkheda (Sarthi Bunglows) to Lal Darwaja (DOWN),3,25.0,52.0,30.0,25.0,95.0,35.0,35.0,25.0,
+ahmedabad,ahmedabad_AMC_2842,83,Lal Darwaja to Chandkheda (Sarthi Bunglows) (UP),3,25.0,51.0,30.0,20.0,100.0,30.0,35.0,30.0,65.0
+ahmedabad,ahmedabad_AMC_2849,84/1,Vishwakarma College Metro (S.M.S. Hospital) to Lal Darwaja (DOWN),3,8.0,44.0,80.0,65.0,270.0,80.0,172.5,70.0,
+ahmedabad,ahmedabad_AMC_2850,84/1,Lal Darwaja to Vishwakarma College Metro (S.M.S. Hospital) (UP),3,8.0,44.0,80.0,75.0,265.0,175.0,75.0,77.5,
+ahmedabad,ahmedabad_AMC_2852,85sh,Tragad Gam to Lal Darwaja (DOWN),3,19.0,48.0,45.0,15.0,105.0,45.0,45.0,35.0,
+ahmedabad,ahmedabad_AMC_2855,85sh,Chandkheda (Sarthi Bunglows) to Lal Darwaja (DOWN),3,2.0,35.0,480.0,480.0,480.0,,480.0,,
+ahmedabad,ahmedabad_AMC_2858,85sh,Lal Darwaja to Chandkheda (Sarthi Bunglows) (UP),3,2.0,34.0,480.0,480.0,480.0,,480.0,,
+ahmedabad,ahmedabad_AMC_2861,87,Amba Township Sector-5 (Trimandir) to Sarangpur (DOWN),3,3.0,64.0,257.5,220.0,295.0,295.0,,220.0,
+ahmedabad,ahmedabad_AMC_2862,87,Sarangpur to Amba Township Sector-5 (Trimandir) (UP),3,3.0,66.0,255.0,220.0,290.0,290.0,220.0,,
+ahmedabad,ahmedabad_AMC_2863,87,Amba Township Sector-5 (Trimandir) to Acher Depo (DOWN),3,1.0,28.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2864,87,Acher Depo to Amba Township Sector-5 (Trimandir) (UP),3,1.0,28.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2878,89/1,Amba Township Sector-5 (Trimandir) to Chandkheda Gam (DOWN),3,1.0,21.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2879,89/1,Chandkheda Gam to Amba Township Sector-5 (Trimandir) (UP),3,1.0,23.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2883,89/1sh,Amba Township Sector-5 (Trimandir) to Asarva Railway Station (DOWN),3,6.0,75.0,60.0,60.0,210.0,135.0,122.5,60.0,
+ahmedabad,ahmedabad_AMC_2887,89/2,Jawahar Chowk (Sabarmati) to Tragad Gam (DOWN),3,2.0,16.0,60.0,60.0,60.0,,,60.0,
+ahmedabad,ahmedabad_AMC_2888,89/2,Kalupur to Ramol Gam Talav (UP),3,2.0,35.0,60.0,60.0,60.0,,,60.0,
+ahmedabad,ahmedabad_AMC_2893,89/2,Tragad Gam to Jawahar Chowk (Sabarmati) (UP),3,1.0,16.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2894,89/3,Tragad Gam to Amraiwadi (DOWN),3,20.0,62.0,30.0,20.0,95.0,45.0,30.0,30.0,
+ahmedabad,ahmedabad_AMC_2896,89/3,Amraiwadi to Kalupur Metro Station (UP),3,2.0,16.0,150.0,150.0,150.0,,,,150.0
+ahmedabad,ahmedabad_AMC_2912,90sh,Bhakti Circle to Tragad Gam (DOWN),3,10.0,109.0,50.0,25.0,370.0,55.0,35.0,55.0,
+ahmedabad,ahmedabad_AMC_2913,90sh,Tragad Gam to Bhakti Circle (UP),3,10.0,109.0,55.0,40.0,115.0,40.0,62.5,,
+ahmedabad,ahmedabad_AMC_2914,90sh,Bhakti Circle to Krushnanagar (DOWN),3,4.0,29.0,55.0,50.0,60.0,,50.0,,57.5
+ahmedabad,ahmedabad_AMC_2915,90sh,Chandkheda Gam to Tragad Gam (DOWN),3,2.0,16.0,50.0,50.0,50.0,,,50.0,
+ahmedabad,ahmedabad_AMC_2916,90sh,Krushnanagar to Tragad Gam (DOWN),3,8.0,81.0,35.0,35.0,65.0,35.0,,47.5,
+ahmedabad,ahmedabad_AMC_2920,90sh,Tragad Gam to Krushnanagar (UP),3,8.0,80.0,35.0,35.0,50.0,,,35.0,
+ahmedabad,ahmedabad_AMC_2921,90sh,Tragad Gam to Abu-Koba Cross Road (UP),3,2.0,40.0,55.0,55.0,55.0,,55.0,,
+ahmedabad,ahmedabad_AMC_2922,96,Vatva Railway Station to Civil Hospital (DOWN),3,32.0,63.0,30.0,20.0,75.0,30.0,27.5,30.0,30.0
+ahmedabad,ahmedabad_AMC_2923,96,Civil Hospital to Vatva Railway Station (UP),3,32.0,62.0,30.0,20.0,80.0,30.0,25.0,25.0,35.0
+ahmedabad,ahmedabad_AMC_2935,999/1,Vaishanavdevi Circle to Sanathal Circle (UP),3,6.0,45.0,110.0,105.0,175.0,140.0,120.0,110.0,
+ahmedabad,ahmedabad_AMC_3063,142,Lal Darwaja to Gujarat University (UP),3,5.0,16.0,32.5,25.0,40.0,32.5,,,
+ahmedabad,ahmedabad_AMC_3064,142,Gujarat University to Lal Darwaja (DOWN),3,4.0,19.0,35.0,30.0,40.0,,,,35.0
+ahmedabad,ahmedabad_AMC_4390,14sh,Geeta Mandir (BRT) to Ropda Gam (UP),3,1.0,42.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4391,14sh,Lal Darwaja to Mahalakshmi Talav (Vatva) (UP),3,1.0,33.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4393,14sh,Lal Darwaja to Nirmal Saroavar Bunglows (UP),3,42.0,43.0,20.0,15.0,50.0,25.0,22.5,20.0,35.0
+ahmedabad,ahmedabad_AMC_4397,16,Sarangpur to Karai Gam (UP),3,5.0,66.0,40.0,30.0,60.0,,,40.0,
+ahmedabad,ahmedabad_AMC_4419,22,Tragad Gam to Vadaj (UP),3,10.0,50.0,40.0,35.0,325.0,40.0,325.0,,40.0
+ahmedabad,ahmedabad_AMC_4428,37sh,Lal Darwaja to Bapunagar (UP),3,2.0,25.0,475.0,475.0,475.0,475.0,,,
+ahmedabad,ahmedabad_AMC_4429,37sh,Vasna to Lal Darwaja (UP),3,1.0,17.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4466,70/3,Vadnagar  Patiya to Nava Vadaj (DOWN),3,18.0,72.0,40.0,20.0,145.0,40.0,32.5,40.0,
+ahmedabad,ahmedabad_AMC_4467,70/3,Nava Vadaj to Vadnagar  Patiya (UP),3,18.0,72.0,30.0,5.0,135.0,37.5,30.0,30.0,
+ahmedabad,ahmedabad_AMC_4468,75,Vadaj to Chandkheda (Sarthi Bunglows) (UP),3,10.0,24.0,35.0,35.0,330.0,40.0,,35.0,
+ahmedabad,ahmedabad_AMC_4477,89/3,Chandkheda (Sarthi Bunglows) to Tragad Gam (UP),3,3.0,13.0,32.5,30.0,35.0,,,32.5,
+ahmedabad,ahmedabad_AMC_4481,106,Sarangpur to Sarangpur (UP),3,6.0,92.0,180.0,120.0,190.0,160.0,180.0,150.0,
+ahmedabad,ahmedabad_AMC_4484,112,Kubernagar Bangla to Lal Darwaja (DOWN),3,7.0,30.0,100.0,90.0,155.0,90.0,100.0,100.0,
+ahmedabad,ahmedabad_AMC_4485,112,Meghaninagar to Lal Darwaja (DOWN),3,1.0,20.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4487,112,Lal Darwaja to Meghaninagar (UP),3,1.0,20.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4488,112,Lal Darwaja to Kubernagar Bangla (UP),3,7.0,30.0,97.5,90.0,155.0,95.0,97.5,100.0,
+ahmedabad,ahmedabad_AMC_4489,127,Bhakti Circle to Memco (DOWN),3,1.0,32.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4490,127,Memco to Bhakti Circle (UP),3,17.0,34.0,20.0,10.0,360.0,45.0,,10.0,
+ahmedabad,ahmedabad_AMC_4508,71/1sh,Gandhinagar University to Lal Darwaja (DOWN),3,76.0,64.0,15.0,10.0,40.0,15.0,15.0,15.0,10.0
+ahmedabad,ahmedabad_AMC_4509,71/1sh,Gandhinagar University to Vadaj (DOWN),3,4.0,49.0,50.0,10.0,65.0,,37.5,,50.0
+ahmedabad,ahmedabad_AMC_4519,71/1sh,Lal Darwaja to Gandhinagar University (UP),3,76.0,63.0,15.0,10.0,25.0,10.0,15.0,10.0,20.0
+ahmedabad,ahmedabad_AMC_4520,71/1sh,Vadaj to Gandhinagar University (UP),3,4.0,49.0,45.0,15.0,70.0,,,45.0,
+ahmedabad,ahmedabad_AMC_4536,146/6,Arbudanagar to Sarangpur (DOWN),3,12.0,17.0,60.0,60.0,125.0,67.5,60.0,60.0,
+ahmedabad,ahmedabad_AMC_4537,146/6,Sarangpur to Arbudanagar (UP),3,12.0,17.0,60.0,55.0,125.0,70.0,62.5,60.0,
+ahmedabad,ahmedabad_AMC_4541,AB1,Vasna to Vasna (UP),3,16.0,18.0,45.0,40.0,110.0,45.0,45.0,40.0,
+ahmedabad,ahmedabad_AMC_4563,Metro1,Thaltej Metro Station to Thaltej Metro Station (UP),3,14.0,38.0,50.0,40.0,115.0,50.0,50.0,47.5,
+ahmedabad,ahmedabad_AMC_4564,Metro11,Appolo Hospital to Narendra Modi Stadium (DOWN),3,12.0,19.0,60.0,50.0,135.0,60.0,70.0,60.0,
+ahmedabad,ahmedabad_AMC_4565,Metro11,Narendra Modi Stadium to Appolo Hospital (UP),3,12.0,19.0,60.0,45.0,130.0,60.0,70.0,60.0,
+ahmedabad,ahmedabad_AMC_4568,Metro13,Narol Circle to Jivraj Park (DOWN),3,9.0,17.0,77.5,60.0,145.0,70.0,82.5,80.0,
+ahmedabad,ahmedabad_AMC_4569,Metro13,Jivraj Park to Narol Circle (UP),3,9.0,17.0,75.0,60.0,135.0,75.0,85.0,70.0,
+ahmedabad,ahmedabad_AMC_4570,Metro14,Pakwan to Jivraj Park (DOWN),3,11.0,17.0,65.0,50.0,120.0,62.5,70.0,65.0,
+ahmedabad,ahmedabad_AMC_4571,Metro14,Jivraj Park to Pakwan (UP),3,11.0,17.0,62.5,50.0,120.0,60.0,67.5,62.5,
+ahmedabad,ahmedabad_AMC_4572,Metro2,Thaltej Metro Station to Thaltej Metro Station (DOWN),3,14.0,37.0,50.0,45.0,115.0,50.0,50.0,47.5,
+ahmedabad,ahmedabad_AMC_4573,Metro3,Thaltej Metro Station to Thaltej Metro Station (UP),3,9.0,49.0,80.0,60.0,140.0,80.0,80.0,77.5,
+ahmedabad,ahmedabad_AMC_4574,Metro4,Thaltej Metro Station to Thaltej Metro Station (DOWN),3,9.0,50.0,80.0,60.0,140.0,80.0,80.0,75.0,
+ahmedabad,ahmedabad_AMC_4575,Metro5,Thaltej Metro Station to Thaltej Metro Station (UP),3,11.0,40.0,65.0,45.0,130.0,70.0,70.0,60.0,
+ahmedabad,ahmedabad_AMC_4576,Metro6,Thaltej Metro Station to Thaltej Metro Station (DOWN),3,11.0,40.0,65.0,50.0,130.0,70.0,70.0,60.0,
+ahmedabad,ahmedabad_AMC_4577,Metro7,Thaltej Metro Station to Thaltej Metro Station (UP),3,9.0,46.0,80.0,60.0,145.0,112.5,82.5,75.0,
+ahmedabad,ahmedabad_AMC_4578,Metro8,Thaltej Metro Station to Thaltej Metro Station (DOWN),3,9.0,46.0,80.0,60.0,145.0,85.0,85.0,72.5,
+ahmedabad,ahmedabad_AMC_4579,ML1,Narendra Modi Stadium to Ghuma Gam (DOWN),3,7.0,84.0,82.5,70.0,130.0,85.0,105.0,72.5,
+ahmedabad,ahmedabad_AMC_4580,ML1,Narendra Modi Stadium to Thaltej Metro Station (DOWN),3,2.0,55.0,80.0,80.0,80.0,,80.0,,
+ahmedabad,ahmedabad_AMC_4581,ML1,Thaltej Metro Station to Ghuma Gam (DOWN),3,2.0,30.0,80.0,80.0,80.0,,,80.0,
+ahmedabad,ahmedabad_AMC_4582,ML1,Ghuma Gam to Narendra Modi Stadium (UP),3,9.0,84.0,82.5,70.0,135.0,80.0,100.0,80.0,
+ahmedabad,ahmedabad_AMC_4583,PF1,Sindhu Bhavan Road(Multi level parking) to Mansi Complex (DOWN),3,52.0,15.0,10.0,10.0,80.0,10.0,12.5,12.5,
+ahmedabad,ahmedabad_AMC_4584,PF1,Mansi Complex to Sindhu Bhavan Road(Multi level parking) (UP),3,54.0,12.0,10.0,10.0,80.0,12.5,12.5,10.0,
+ahmedabad,ahmedabad_AMC_4596,RFEx1C,Vasna to Vasna (UP),3,10.0,42.0,85.0,60.0,170.0,105.0,100.0,70.0,85.0
+ahmedabad,ahmedabad_AMC_4597,RFEx1C-VP,Vasna to Paldi (UP),3,1.0,36.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4599,RFEW-AM,Amts Staff Quarters to Maninagar (UP),3,4.0,16.0,65.0,60.0,430.0,247.5,,60.0,
+ahmedabad,ahmedabad_AMC_4667,71/1,Vamaj Gam to Lal Darwaja (DOWN),3,2.0,77.0,260.0,260.0,260.0,260.0,,,
+ahmedabad,ahmedabad_AMC_4668,71/1,Lal Darwaja to Vamaj Gam (UP),3,2.0,76.0,315.0,315.0,315.0,315.0,,,
+ahmedabad,ahmedabad_AMC_4670,84/1,Rajivnagar (Chandkheda) to Lal Darwaja (DOWN),3,2.0,37.0,75.0,75.0,75.0,75.0,,,
+ahmedabad,ahmedabad_AMC_4672,109,Kotarpur Approach to Naroda (DOWN),3,3.0,7.0,192.5,30.0,355.0,30.0,355.0,,
+ahmedabad,ahmedabad_AMC_4678,71/1,Vadaj to Vamaj Gam (UP),3,1.0,62.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4680,74,Lal Darwaja to Andh Kalyan Kendra (DOWN),3,4.0,36.0,65.0,50.0,420.0,235.0,,65.0,
+ahmedabad,ahmedabad_AMC_4681,74,Andh Kalyan Kendra to Lal Darwaja (UP),3,4.0,36.0,60.0,60.0,425.0,60.0,425.0,,60.0
+ahmedabad,ahmedabad_AMC_4685,130sh,Lambha Gam to Isanpur (BRTS) (DOWN),3,8.0,15.0,35.0,20.0,370.0,35.0,370.0,,30.0
+ahmedabad,ahmedabad_AMC_4686,130sh,Isanpur (BRTS) to Lambha Gam (UP),3,12.0,15.0,30.0,25.0,330.0,30.0,,30.0,
+ahmedabad,ahmedabad_AMC_4694,503,Kalol Institute Technology College to Vadaj (DOWN),3,6.0,66.0,30.0,20.0,90.0,,27.5,,35.0
+ahmedabad,ahmedabad_AMC_4697,147/2,Kalupur to Swami Vivekanand Chowk(Vastral) (DOWN),3,1.0,53.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4698,147/2,Vagheshwari Soc(Chandlodia Rly Station) to Kalupur Terminus (DOWN),3,1.0,30.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4701,71/1,Vamaj Gam to Vadaj (DOWN),3,1.0,62.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4710,14sh,Ropda Gam to Lal Darwaja (DOWN),3,5.0,48.0,160.0,155.0,340.0,,247.5,160.0,
+ahmedabad,ahmedabad_AMC_4711,14sh,Mahalakshmi Talav (Vatva) to Lal Darwaja (DOWN),3,1.0,33.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4714,14sh,Nirmal Saroavar Bunglows to Lal Darwaja (DOWN),3,42.0,43.0,20.0,10.0,50.0,25.0,22.5,20.0,25.0
+ahmedabad,ahmedabad_AMC_4731,22,Vadaj to Tragad Gam (DOWN),3,5.0,49.0,40.0,40.0,40.0,40.0,,,
+ahmedabad,ahmedabad_AMC_4738,84/1,Lal Darwaja to Rajivnagar (Chandkheda) (UP),3,2.0,37.0,80.0,80.0,80.0,80.0,,,
+ahmedabad,ahmedabad_AMC_4747,31/5,Hirapur (Sanand) MSME Park to Vadnagar  Patiya (DOWN),3,16.0,26.0,40.0,20.0,100.0,30.0,60.0,37.5,
+ahmedabad,ahmedabad_AMC_4748,31/5,Vadnagar  Patiya to Hirapur (Sanand) MSME Park (UP),3,16.0,26.0,40.0,20.0,120.0,30.0,80.0,40.0,
+ahmedabad,ahmedabad_AMC_4754,51/1,Medha Gam to Lal Darwaja (DOWN),3,1.0,80.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4755,85/1,Shree Ram Chowk (New Tragad) to Lal Darwaja (DOWN),3,4.0,46.0,175.0,160.0,250.0,212.5,,160.0,
+ahmedabad,ahmedabad_AMC_4756,85/1,Shree Ram Chowk (New Tragad) to Chandkheda Gam (DOWN),3,1.0,16.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4760,85/1,Chandkheda Gam to Shree Ram Chowk (New Tragad) (UP),3,1.0,16.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4761,85/1,Lal Darwaja to Shree Ram Chowk (New Tragad) (UP),3,4.0,46.0,185.0,180.0,245.0,245.0,180.0,185.0,
+ahmedabad,ahmedabad_AMC_4762,89/3,Amraiwadi to Chandkheda (Sarthi Bunglows) (UP),3,3.0,51.0,30.0,30.0,30.0,,30.0,,
+ahmedabad,ahmedabad_AMC_4770,51/1,Lal Darwaja to Medha Gam (UP),3,1.0,81.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4784,Metro10,Vastral Gam(Metro Station) to Vastral Gam(Metro Station) (DOWN),3,11.0,46.0,62.5,40.0,130.0,65.0,70.0,60.0,
+ahmedabad,ahmedabad_AMC_4785,Metro9,Vastral Gam(Metro Station) to Vastral Gam(Metro Station) (UP),3,11.0,47.0,62.5,45.0,125.0,65.0,67.5,60.0,
+ahmedabad,ahmedabad_AMC_4787,RFEW-MA,Maninagar to Amts Staff Quarters (UP),3,4.0,45.0,70.0,70.0,420.0,70.0,245.0,,
+ahmedabad,ahmedabad_AMC_4788,RFEW,Maninagar to Maninagar (UP),3,8.0,45.0,65.0,60.0,300.0,65.0,70.0,60.0,
+ahmedabad,ahmedabad_AMC_4789,109,Naroda to Kotarpur Approach (UP),3,3.0,7.0,192.5,30.0,355.0,30.0,355.0,,
+ahmedabad,ahmedabad_AMC_4792,503,Vadaj to Chhatral Chowkdi (UP),3,3.0,76.0,285.0,260.0,310.0,310.0,,260.0,
+ahmedabad,ahmedabad_AMC_4793,503,Chhatral Chowkdi to Vadaj (DOWN),3,3.0,76.0,295.0,260.0,330.0,330.0,260.0,,
+ahmedabad,ahmedabad_AMC_4794,31/5,Motipura Chokdi(Sanand) to Lal Darwaja (DOWN),3,24.0,78.0,40.0,20.0,60.0,40.0,37.5,45.0,40.0
+ahmedabad,ahmedabad_AMC_4795,31/5,Lal Darwaja to Motipura Chokdi(Sanand) (UP),3,24.0,75.0,40.0,20.0,60.0,40.0,40.0,40.0,
+ahmedabad,ahmedabad_AMC_4797,51/1,Medha Gam to Sanand Cross Road (DOWN),3,7.0,16.0,80.0,75.0,135.0,85.0,75.0,80.0,
+ahmedabad,ahmedabad_AMC_4798,51/1,Sanand Cross Road to Medha Gam (UP),3,7.0,16.0,80.0,55.0,145.0,80.0,70.0,80.0,
+ahmedabad,ahmedabad_AMC_4800,66/3,Sarangpur to Arvind Polycoat (Khatraj) (UP),3,9.0,57.0,20.0,15.0,35.0,,,20.0,
+ahmedabad,ahmedabad_AMC_4801,69-B-D-SP(O),Bhadaj Circle (S.P.Ring Road) to S.P.Ring Road (Odhav Gidc),3,12.0,69.0,45.0,30.0,110.0,67.5,57.5,30.0,
+ahmedabad,ahmedabad_AMC_4802,69-U-SP(OG)K,S.P.Ring Road (Odhav Gidc) to Kalupur Terminus,3,2.0,30.0,45.0,45.0,45.0,,45.0,,
+ahmedabad,ahmedabad_AMC_4803,70,Civil Hospital to Vagheshwari Soc(Chandlodia Rly Station) (DOWN),3,2.0,38.0,170.0,170.0,170.0,170.0,,,
+ahmedabad,ahmedabad_AMC_4804,70,Civil Hospital to Bhakti Circle (UP),3,2.0,46.0,100.0,100.0,100.0,,100.0,,
+ahmedabad,ahmedabad_AMC_4805,70,Vagheshwari Soc(Chandlodia Rly Station) to Civil Hospital (UP),3,2.0,35.0,175.0,175.0,175.0,175.0,,,
+ahmedabad,ahmedabad_AMC_4806,70,Vagheshwari Soc(Chandlodia Rly Station) to Naroda (UP),3,4.0,62.0,95.0,30.0,110.0,,62.5,,110.0
+ahmedabad,ahmedabad_AMC_4807,70,Naroda to Bhakti Circle (UP),3,5.0,19.0,107.5,35.0,390.0,255.0,,65.0,
+ahmedabad,ahmedabad_AMC_4808,70,Vadaj to Bhakti Circle (UP),3,2.0,65.0,480.0,480.0,480.0,480.0,,,
+ahmedabad,ahmedabad_AMC_4812,72,Lal Darwaja to Maninagar (DOWN),3,2.0,22.0,60.0,60.0,60.0,60.0,,,
+ahmedabad,ahmedabad_AMC_4813,72,Maninagar to Nigam Society (DOWN),3,5.0,20.0,32.5,30.0,45.0,,,32.5,
+ahmedabad,ahmedabad_AMC_4814,72,Maninagar to Krushna Yaan (UP),3,10.0,64.0,55.0,10.0,60.0,40.0,40.0,,60.0
+ahmedabad,ahmedabad_AMC_4815,66/3sh,Kalupur to Naroda (DOWN),3,1.0,25.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4816,66/3sh,Moti Bhoyan Chokdi to Arvind Polycoat (Khatraj) (DOWN),3,7.0,13.0,60.0,60.0,125.0,75.0,,60.0,
+ahmedabad,ahmedabad_AMC_4830,31/5,Lal Darwaja to Hirapur (Sanand) MSME Park (UP),3,4.0,89.0,40.0,40.0,45.0,,,40.0,
+ahmedabad,ahmedabad_AMC_4831,31/5,Hirapur (Sanand) MSME Park to Lal Darwaja (DOWN),3,4.0,92.0,45.0,35.0,115.0,,45.0,,
+ahmedabad,ahmedabad_AMC_4833,70,Bhakti Circle to Civil Hospital (DOWN),3,1.0,44.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4836,72,Krushna Yaan to Maninagar (DOWN),3,8.0,65.0,35.0,20.0,60.0,30.0,55.0,,
+ahmedabad,ahmedabad_AMC_4841,22/1,Lal Darwaja to Bidaj Gam (UP),3,16.0,64.0,55.0,30.0,105.0,55.0,60.0,57.5,
+ahmedabad,ahmedabad_AMC_4844,22/1,Bidaj Gam to Lal Darwaja (DOWN),3,16.0,64.0,55.0,30.0,130.0,60.0,50.0,60.0,52.5
+ahmedabad,ahmedabad_AMC_4845,32,Nigam Society to Lal Darwaja (DOWN),3,4.0,39.0,50.0,45.0,50.0,,50.0,,45.0
+ahmedabad,ahmedabad_AMC_4846,34/5,Lal Darwaja to Kalapinagar (UP),3,1.0,24.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4848,49/2,L.D.Engineering College BRT to Nirant Chokdi (DOWN),3,15.0,63.0,41.0,35.0,270.0,158.0,54.0,40.0,
+ahmedabad,ahmedabad_AMC_4849,49/2,Nirant Chokdi to L.D.Engineering College BRT (UP),3,20.0,63.0,45.0,40.0,70.0,45.0,50.0,40.0,40.0
+ahmedabad,ahmedabad_AMC_4850,50,Meghaninagar to Ghuma Gam (DOWN),3,42.0,67.0,20.0,10.0,110.0,20.0,15.0,20.0,50.0
+ahmedabad,ahmedabad_AMC_4851,50,Ghuma Gam to Meghaninagar (UP),3,44.0,67.0,20.0,10.0,80.0,25.0,15.0,20.0,45.0
+ahmedabad,ahmedabad_AMC_4852,50,Ghuma Gam to Income Tax Office (UP),3,8.0,43.0,40.0,30.0,370.0,35.0,207.5,,35.0
+ahmedabad,ahmedabad_AMC_4853,50,Income Tax Office to Ghuma Gam (DOWN),3,10.0,43.0,20.0,20.0,400.0,25.0,,20.0,
+ahmedabad,ahmedabad_AMC_4855,58,Sarangpur to Govardhan party plot (DOWN),3,14.0,40.0,30.0,30.0,290.0,30.0,,30.0,
+ahmedabad,ahmedabad_AMC_4856,58,Govardhan party plot to Sarangpur (UP),3,14.0,38.0,30.0,20.0,310.0,30.0,30.0,,30.0
+ahmedabad,ahmedabad_AMC_4858,58,Govardhan party plot to Kush Society (New Naroda) (UP),3,28.0,84.0,30.0,20.0,120.0,30.0,30.0,30.0,
+ahmedabad,ahmedabad_AMC_4859,58,Kush Society (New Naroda) to Govardhan party plot (DOWN),3,28.0,83.0,30.0,10.0,120.0,30.0,30.0,30.0,
+ahmedabad,ahmedabad_AMC_4860,60sh,Lal Darwaja to Bhagwat Bungalowz (South Bopal) (UP),3,4.0,59.0,195.0,160.0,265.0,230.0,,160.0,
+ahmedabad,ahmedabad_AMC_4861,60sh,Bhagwat Bungalowz (South Bopal) to Lal Darwaja (DOWN),3,4.0,59.0,195.0,185.0,265.0,265.0,195.0,185.0,
+ahmedabad,ahmedabad_AMC_4862,66/3sh,Arvind Polycoat (Khatraj) to Moti Bhoyan Chokdi (UP),3,7.0,13.0,60.0,60.0,155.0,60.0,60.0,60.0,
+ahmedabad,ahmedabad_AMC_4865,72,Krushna Yaan to Lal Darwaja (DOWN),3,10.0,44.0,35.0,10.0,335.0,35.0,335.0,,37.5
+ahmedabad,ahmedabad_AMC_4866,89/1,Kalupur to Amba Township Sector-5 (Trimandir) (UP),3,2.0,70.0,240.0,240.0,240.0,,240.0,,
+ahmedabad,ahmedabad_AMC_4868,89/1,Amba Township Sector-5 (Trimandir) to Kalupur (DOWN),3,2.0,68.0,210.0,210.0,210.0,210.0,,,
+ahmedabad,ahmedabad_AMC_4870,89/1sh,Chandkheda Gam to Asarva Railway Station (DOWN),3,2.0,54.0,60.0,60.0,60.0,,,60.0,
+ahmedabad,ahmedabad_AMC_4871,89/2,Kalupur to Tragad Gam (DOWN),3,1.0,41.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4872,89/2,Ramol Gam Talav to Kalupur (DOWN),3,1.0,34.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4873,89/2,Tragad Gam to Kalupur (UP),3,2.0,41.0,30.0,30.0,30.0,,30.0,,
+ahmedabad,ahmedabad_AMC_4874,89/2,Tragad Gam to RTO Circle (UP),3,1.0,24.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4875,109sh,Naroda to Kotarpur Approach (UP),3,14.0,7.0,30.0,25.0,195.0,65.0,30.0,30.0,
+ahmedabad,ahmedabad_AMC_4876,109sh,Kotarpur Approach to Naroda (DOWN),3,14.0,7.0,30.0,25.0,185.0,70.0,30.0,30.0,
+ahmedabad,ahmedabad_AMC_4879,128,Sarangpur to Nigam Society (DOWN),3,8.0,40.0,45.0,45.0,330.0,52.5,,45.0,
+ahmedabad,ahmedabad_AMC_4881,130sh,Naroda to Narol Circle (BRTS) (UP),3,8.0,32.0,45.0,40.0,410.0,,80.0,45.0,
+ahmedabad,ahmedabad_AMC_4890,138/1,Vadnagar  Patiya to Lal Darwaja (DOWN),3,12.0,87.0,70.0,50.0,140.0,72.5,65.0,65.0,
+ahmedabad,ahmedabad_AMC_4891,144/1,Lal Darwaja to Shitalchhaya Society (UP),3,6.0,36.0,40.0,25.0,60.0,40.0,,,
+ahmedabad,ahmedabad_AMC_4892,144/1,Shitalchhaya Society to Lal Darwaja (DOWN),3,6.0,36.0,40.0,30.0,60.0,40.0,60.0,,
+ahmedabad,ahmedabad_AMC_4893,144sh,Arbudanagar to Sarangpur (UP),3,20.0,29.0,40.0,10.0,110.0,30.0,40.0,45.0,80.0
+ahmedabad,ahmedabad_AMC_4894,144sh,Sarangpur to Arbudanagar (DOWN),3,20.0,34.0,45.0,25.0,80.0,32.5,45.0,45.0,
+ahmedabad,ahmedabad_AMC_4895,147/1,Vadaj to Silver Oak University (UP),3,1.0,21.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4896,147/1,Silver Oak University to Vadaj (DOWN),3,1.0,21.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4897,150sh,Vasna to Singarwa Patiya (UP),3,8.0,52.0,65.0,60.0,355.0,355.0,60.0,65.0,
+ahmedabad,ahmedabad_AMC_4898,150sh,Amts Staff Quarters to Singarwa Patiya (UP),3,4.0,43.0,60.0,60.0,495.0,277.5,,60.0,
+ahmedabad,ahmedabad_AMC_4899,150sh,Singarwa Patiya to Vasna (DOWN),3,10.0,57.0,65.0,60.0,200.0,65.0,80.0,72.5,
+ahmedabad,ahmedabad_AMC_4900,150sh,Singarwa Patiya to Sarangpur (DOWN),3,2.0,40.0,60.0,60.0,60.0,,,,60.0
+ahmedabad,ahmedabad_AMC_4903,151/3,Hatkeshwar Depo to Nidharad Gam (DOWN),3,35.0,80.0,30.0,10.0,50.0,30.0,30.0,30.0,
+ahmedabad,ahmedabad_AMC_4904,151/3,Nidharad Gam to Hatkeshwar Depo (UP),3,35.0,80.0,25.0,15.0,45.0,30.0,25.0,25.0,25.0
+ahmedabad,ahmedabad_AMC_4905,151/4,Raipur Darwaja to Hatkeshwar Depo (UP),3,1.0,14.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4906,151/4,Hatkeshwar Depo to Lal Darwaja (DOWN),3,2.0,20.0,530.0,530.0,530.0,,,,530.0
+ahmedabad,ahmedabad_AMC_4908,151/4,Lal Darwaja to Gujarat University (DOWN),3,1.0,17.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4910,200/300sh,Maninagar to Civil Hospital (UP),3,4.0,44.0,135.0,110.0,330.0,330.0,135.0,110.0,
+ahmedabad,ahmedabad_AMC_4911,200/300sh,Civil Hospital to Maninagar (DOWN),3,4.0,74.0,135.0,120.0,330.0,330.0,135.0,120.0,
+ahmedabad,ahmedabad_AMC_4912,151/2,Maninagar to Vivekanandnagar (UP),3,2.0,37.0,415.0,415.0,415.0,415.0,,,
+ahmedabad,ahmedabad_AMC_4932,33,Bapunagar to S.P.Ring Road (Odhav Gidc) (UP),3,3.0,19.0,32.5,30.0,35.0,,,32.5,
+ahmedabad,ahmedabad_AMC_4933,33,Bapunagar to Vasna (DOWN),3,3.0,47.0,40.0,25.0,55.0,40.0,,,
+ahmedabad,ahmedabad_AMC_4934,33,S.P.Ring Road (Odhav Gidc) to Bapunagar (DOWN),3,6.0,19.0,45.0,35.0,460.0,40.0,,,45.0
+ahmedabad,ahmedabad_AMC_4937,84,Lal Darwaja to Jawahar Chowk (Sabarmati) (UP),3,2.0,29.0,75.0,75.0,75.0,,,,75.0
+ahmedabad,ahmedabad_AMC_4944,300,Memco to Civil Hospital (DOWN),3,16.0,13.0,30.0,20.0,310.0,30.0,,25.0,
+ahmedabad,ahmedabad_AMC_4947,503,Acher Depo to S.P.Ring Road (Zundal) (UP),3,1.0,11.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4948,503,S.P.Ring Road (Zundal) to Acher Depo (DOWN),3,1.0,11.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4949,142,Vastral Metro Station to Sarangpur (UP),3,5.0,29.0,47.5,35.0,50.0,,47.5,,42.5
+ahmedabad,ahmedabad_AMC_4950,142,Sarangpur to Vastral Metro Station (DOWN),3,5.0,29.0,35.0,35.0,45.0,,,35.0,
+ahmedabad,ahmedabad_AMC_4951,35,Lal Darwaja to Sarkhej-Bavla Circle (Ujala Hotel) (UP),3,9.0,32.0,20.0,15.0,35.0,,,20.0,
+ahmedabad,ahmedabad_AMC_4952,35,Sarkhej-Bavla Circle (Ujala Hotel) to Lal Darwaja (DOWN),3,9.0,32.0,20.0,10.0,35.0,,20.0,,22.5
+ahmedabad,ahmedabad_AMC_4953,35,Sanathal Circle to Lal Darwaja (DOWN),3,3.0,37.0,22.5,5.0,40.0,,22.5,,
+ahmedabad,ahmedabad_AMC_4954,35,Lal Darwaja to Sanathal Circle (UP),3,3.0,37.0,20.0,5.0,35.0,,,20.0,
+ahmedabad,ahmedabad_AMC_4955,503,Acher Depo to Prabhahanuman Mandir(Trimandir) (UP),3,14.0,23.0,20.0,10.0,20.0,,,20.0,
+ahmedabad,ahmedabad_AMC_4956,503,Prabhahanuman Mandir(Trimandir) to Acher Depo (DOWN),3,14.0,23.0,20.0,10.0,25.0,,15.0,,20.0
+ahmedabad,ahmedabad_AMC_4959,51T,Thaltej Gam to Thaltej Metro Station (DOWN),3,6.0,4.0,5.0,5.0,5.0,,,5.0,
+ahmedabad,ahmedabad_AMC_4967,300,Maninagar to Maninagar (DOWN),3,27.0,117.0,30.0,5.0,70.0,40.0,15.0,25.0,
+ahmedabad,ahmedabad_AMC_4968,300,Vadaj to Maninagar (DOWN),3,5.0,67.0,40.0,25.0,50.0,,,40.0,
+ahmedabad,ahmedabad_AMC_4973,135,Lal Darwaja to Pramukh Swaminagar (Bapunagar Tollnaka) (UP),3,4.0,26.0,20.0,20.0,55.0,20.0,,,
+ahmedabad,ahmedabad_AMC_4975,151,Hatkeshwar Depo to Antariksh Colony (BRT) (DOWN),3,18.0,51.0,20.0,15.0,315.0,20.0,,20.0,
+ahmedabad,ahmedabad_AMC_4976,151,Hatkeshwar Depo to Vivekanandnagar (UP),3,18.0,31.0,15.0,5.0,345.0,20.0,,15.0,
+ahmedabad,ahmedabad_AMC_4977,151,Antariksh Colony (BRT) to Hatkeshwar Depo (UP),3,14.0,51.0,20.0,10.0,395.0,15.0,210.0,,20.0
+ahmedabad,ahmedabad_AMC_4978,130sh,Lambha Gam to Naroda (DOWN),3,10.0,45.0,30.0,10.0,275.0,12.5,275.0,,32.5
+ahmedabad,ahmedabad_AMC_4991,51sh,Thaltej Metro Station to Lal Darwaja (DOWN),3,1.0,26.0,,,,,,,
+ahmedabad,ahmedabad_AMC_4994,38sh,Gyaspur Gam to Lal Darwaja (UP),3,8.0,25.0,120.0,85.0,200.0,150.0,130.0,100.0,
+ahmedabad,ahmedabad_AMC_4997,38sh,Lal Darwaja to Gyaspur Gam (DOWN),3,8.0,25.0,115.0,95.0,195.0,195.0,125.0,115.0,110.0
+ahmedabad,ahmedabad_AMC_4998,22,Tragad Gam to Indiranagar Vibhag-2 (Pani ni Tanki) (UP),3,20.0,99.0,40.0,30.0,125.0,45.0,37.5,40.0,
+ahmedabad,ahmedabad_AMC_4999,22,Indiranagar Vibhag-2 (Pani ni Tanki) to Tragad Gam (DOWN),3,20.0,100.0,35.0,25.0,160.0,35.0,40.0,35.0,
+ahmedabad,ahmedabad_AMC_5000,49sh,Sarangpur to Krishna Shelbi Hospital (Ghuma) (UP),3,4.0,49.0,200.0,200.0,285.0,285.0,200.0,200.0,
+ahmedabad,ahmedabad_AMC_5001,49sh,Krishna Shelbi Hospital (Ghuma) to Sarangpur (DOWN),3,5.0,49.0,180.0,165.0,320.0,,245.0,177.5,
+ahmedabad,ahmedabad_AMC_5002,49/1,Sarangpur to Jodhpur Gam (UP),3,8.0,27.0,110.0,75.0,145.0,135.0,125.0,80.0,
+ahmedabad,ahmedabad_AMC_5003,49/1,Jodhpur Gam to Sarangpur (DOWN),3,9.0,26.0,105.0,75.0,145.0,140.0,122.5,80.0,110.0
+ahmedabad,ahmedabad_AMC_5006,151,Vivekanandnagar to Antariksh Colony (BRT) (DOWN),3,46.0,81.0,15.0,10.0,155.0,20.0,10.0,15.0,
+ahmedabad,ahmedabad_AMC_5007,142sh,Sukharam Mahadev to Sarangpur (UP),3,2.0,30.0,45.0,45.0,45.0,,45.0,,
+ahmedabad,ahmedabad_AMC_5008,142sh,Sarangpur to Sukharam Mahadev (DOWN),3,2.0,30.0,30.0,30.0,30.0,,,30.0,
+ahmedabad,ahmedabad_AMC_5011,102,Akshardham Mandir (Gandhinagar) to Vadaj (DOWN),3,4.0,63.0,95.0,85.0,405.0,95.0,405.0,,85.0
+ahmedabad,ahmedabad_AMC_5015,149,Ajit Mills Char Rasta (BRT) to Haldharvas Patiya (UP),3,8.0,56.0,45.0,30.0,390.0,47.5,,40.0,
+ahmedabad,ahmedabad_AMC_5016,149,Haldharvas Patiya to Ajit Mills Char Rasta (BRT) (DOWN),3,8.0,56.0,45.0,25.0,425.0,45.0,235.0,37.5,40.0
+ahmedabad,ahmedabad_AMC_5027,22,Lal Darwaja to Tragad Gam (DOWN),3,5.0,65.0,37.5,35.0,40.0,,,37.5,
+ahmedabad,ahmedabad_AMC_5028,22,Indiranagar Vibhag-2 (Pani ni Tanki) to Lal Darwaja (DOWN),3,10.0,35.0,35.0,30.0,350.0,32.5,350.0,,35.0
+ahmedabad,ahmedabad_AMC_5029,22,Lal Darwaja to Indiranagar Vibhag-2 (Pani ni Tanki) (UP),3,10.0,35.0,35.0,30.0,345.0,35.0,,35.0,
+ahmedabad,ahmedabad_AMC_5034,40/1,Vinobabhavenagar to Iskon Mandir (DOWN),3,30.0,87.0,20.0,15.0,185.0,30.0,22.5,20.0,
+ahmedabad,ahmedabad_AMC_5036,40/1,Maninagar to Iskon Mandir (DOWN),3,16.0,48.0,15.0,15.0,340.0,15.0,,30.0,
+ahmedabad,ahmedabad_AMC_5037,40/1,Vatva Railway Station to Maninagar (DOWN),3,4.0,21.0,40.0,30.0,45.0,,,,40.0
+ahmedabad,ahmedabad_AMC_5038,40/1,Vinobabhavenagar to Maninagar (DOWN),3,18.0,40.0,20.0,5.0,290.0,17.5,30.0,,22.5
+ahmedabad,ahmedabad_AMC_5039,40/1,Iskon Mandir to Vinobabhavenagar (UP),3,32.0,87.0,15.0,15.0,180.0,15.0,17.5,20.0,
+ahmedabad,ahmedabad_AMC_5040,40/1,Maninagar to Vatva Railway Station (UP),3,4.0,21.0,40.0,35.0,40.0,,,,40.0
+ahmedabad,ahmedabad_AMC_5041,40/1,Maninagar to Vinobabhavenagar (UP),3,16.0,40.0,20.0,10.0,335.0,30.0,,17.5,
+ahmedabad,ahmedabad_AMC_5042,40/1,Iskon Mandir to Maninagar (UP),3,14.0,48.0,30.0,15.0,365.0,30.0,15.0,,22.5
+ahmedabad,ahmedabad_AMC_5044,49/2,L.D.Engineering College BRT to Sarangpur (DOWN),3,10.0,24.0,40.0,40.0,331.0,40.0,331.0,,42.0
+ahmedabad,ahmedabad_AMC_5045,49/2,Sarangpur to Nirant Chokdi (DOWN),3,5.0,40.0,40.0,40.0,40.0,40.0,,,
+ahmedabad,ahmedabad_AMC_5047,52/2,Gujarat University to Maninagar (DOWN),3,10.0,35.0,35.0,30.0,195.0,30.0,,35.0,
+ahmedabad,ahmedabad_AMC_5060,130sh,Naroda Industrial Township( MuthiyaGam ) to Naroda (UP),3,8.0,9.0,30.0,20.0,455.0,25.0,,,32.5
+ahmedabad,ahmedabad_AMC_5061,130sh,Naroda Industrial Township( MuthiyaGam ) to Isanpur (BRTS) (UP),3,12.0,39.0,30.0,20.0,330.0,30.0,182.5,,27.5
+ahmedabad,ahmedabad_AMC_5062,130sh,Isanpur (BRTS) to Naroda Industrial Township( MuthiyaGam ) (DOWN),3,8.0,39.0,35.0,25.0,360.0,45.0,,35.0,
+ahmedabad,ahmedabad_AMC_5063,130sh,Naroda to Naroda Industrial Township( MuthiyaGam ) (DOWN),3,8.0,9.0,20.0,15.0,470.0,25.0,,15.0,
+ahmedabad,ahmedabad_AMC_5064,130sh,Narol Circle (BRTS) to Naroda (DOWN),3,12.0,33.0,45.0,35.0,255.0,147.5,77.5,45.0,80.0
+ahmedabad,ahmedabad_AMC_5065,130sh,Naroda to Lambha Gam (UP),3,10.0,44.0,30.0,20.0,270.0,30.0,,27.5,
+ahmedabad,ahmedabad_AMC_5067,151,Antariksh Colony (BRT) to Vivekanandnagar (UP),3,50.0,81.0,20.0,10.0,60.0,20.0,17.5,20.0,22.5
+ahmedabad,ahmedabad_AMC_5071,151/3,Ghuma BRTS to Hatkeshwar Depo (UP),3,37.0,67.0,30.0,5.0,55.0,30.0,30.0,30.0,15.0
+ahmedabad,ahmedabad_AMC_5072,151/3,Hatkeshwar Depo to Ghuma BRTS (DOWN),3,37.0,67.0,30.0,10.0,65.0,30.0,30.0,30.0,10.0
+ahmedabad,ahmedabad_AMC_5073,300,Maninagar to Vadaj (DOWN),3,5.0,52.0,32.5,25.0,40.0,,32.5,,
+ahmedabad,ahmedabad_AMC_5074,34/5,Ambedkarnagar to Meghaninagar (UP),3,32.0,56.0,20.0,5.0,60.0,30.0,22.5,20.0,
+ahmedabad,ahmedabad_AMC_5075,34/5,Meghaninagar to Ambedkarnagar (DOWN),3,29.0,56.0,30.0,5.0,60.0,22.5,22.5,30.0,
+ahmedabad,ahmedabad_AMC_5082,150,Sarangpur to Chinubhainagar (UP),3,23.0,34.0,20.0,5.0,275.0,20.0,,20.0,
+ahmedabad,ahmedabad_AMC_5083,150,Chinubhainagar to Sarangpur (DOWN),3,19.0,34.0,20.0,5.0,270.0,20.0,150.0,,20.0
+ahmedabad,ahmedabad_AMC_5084,49sh,Sarangpur to Iskcon mandir BRT (UP),3,1.0,29.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5086,50,Naroda to Iskcon mandir BRT (DOWN),3,8.0,67.0,100.0,80.0,240.0,100.0,240.0,145.0,90.0
+ahmedabad,ahmedabad_AMC_5088,49sh,Iskcon mandir BRT to Sarangpur (DOWN),3,1.0,29.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5089,999,Vastral Metro Station to Ognaj Toll Plaza (UP),3,17.0,52.0,37.5,30.0,90.0,45.0,32.5,35.0,
+ahmedabad,ahmedabad_AMC_5090,999,Zundal Circle to Ognaj Toll Plaza (UP),3,1.0,17.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5091,999,Vastral Metro Station to Zundal Circle (UP),3,1.0,36.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5094,999,Ognaj Toll Plaza to Vastral Metro Station (DOWN),3,18.0,52.0,40.0,30.0,115.0,37.5,45.0,35.0,
+ahmedabad,ahmedabad_AMC_5096,49sh,Shivranjni Society to Krishna Shelbi Hospital (Ghuma) (UP),3,1.0,27.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5097,28,P&T Quarters (Shahalam) to Meghaninagar (DOWN),3,4.0,30.0,50.0,50.0,50.0,,,50.0,
+ahmedabad,ahmedabad_AMC_5099,34/5,Lal Darwaja to Ambedkarnagar (DOWN),3,5.0,30.0,25.0,15.0,30.0,,,25.0,
+ahmedabad,ahmedabad_AMC_5100,34/5,Kalapinagar to Ambedkarnagar (DOWN),3,6.0,53.0,30.0,30.0,75.0,,,30.0,
+ahmedabad,ahmedabad_AMC_5101,34/5,Ambedkarnagar to Lal Darwaja (UP),3,3.0,30.0,37.5,20.0,55.0,,37.5,,
+ahmedabad,ahmedabad_AMC_5103,37/4,Sarangpur to Ambedkarnagar (UP),3,7.0,32.0,120.0,95.0,200.0,165.0,150.0,102.5,
+ahmedabad,ahmedabad_AMC_5104,37/4,Ambedkarnagar to Sarangpur (DOWN),3,7.0,32.0,120.0,100.0,200.0,117.5,150.0,152.5,
+ahmedabad,ahmedabad_AMC_5105,34/5,Ambedkarnagar to Kalapinagar (UP),3,5.0,53.0,30.0,30.0,75.0,,,30.0,
+ahmedabad,ahmedabad_AMC_5106,146/1,Chinubhainagar to Ajit Mills (UP),3,8.0,20.0,45.0,30.0,410.0,45.0,,,45.0
+ahmedabad,ahmedabad_AMC_5107,146/1,Ajit Mills to Chinubhainagar (DOWN),3,8.0,20.0,45.0,25.0,410.0,45.0,,35.0,
+ahmedabad,ahmedabad_AMC_5110,14sh,Lal Darwaja to Ropda Gam (UP),3,4.0,48.0,155.0,150.0,330.0,330.0,155.0,150.0,
+ahmedabad,ahmedabad_AMC_5111,17,Karnavati Chowk-4 (New Narol) to Maninagar (UP),3,1.0,41.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5113,17,Maninagar to Karnavati Chowk-4 (New Narol) (DOWN),3,1.0,41.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5115,31/5,Vadnagar  Patiya to Lal Darwaja (DOWN),3,48.0,67.0,20.0,15.0,30.0,20.0,20.0,20.0,20.0
+ahmedabad,ahmedabad_AMC_5118,33,Lal Darwaja to S.P.Ring Road (Odhav Gidc) (UP),3,14.0,43.0,25.0,15.0,335.0,25.0,,22.5,
+ahmedabad,ahmedabad_AMC_5119,39/3,Sarangpur to Bhakti Circle (DOWN),3,4.0,39.0,60.0,40.0,410.0,225.0,,60.0,
+ahmedabad,ahmedabad_AMC_5121,40/2,Bavla to Nava Vadaj (DOWN),3,6.0,88.0,55.0,45.0,530.0,,530.0,52.5,
+ahmedabad,ahmedabad_AMC_5124,42,Nigam Society to Shilaj Gam (UP),3,12.0,84.0,55.0,45.0,120.0,55.0,60.0,55.0,
+ahmedabad,ahmedabad_AMC_5125,42,Shilaj Gam to Nigam Society (DOWN),3,12.0,87.0,55.0,50.0,110.0,60.0,57.5,50.0,
+ahmedabad,ahmedabad_AMC_5127,42,Lal Darwaja to Shilaj Gam (UP),3,2.0,47.0,50.0,50.0,50.0,,,50.0,
+ahmedabad,ahmedabad_AMC_5128,42,Lal Darwaja to Nigam Society (DOWN),3,2.0,37.0,35.0,35.0,35.0,,,35.0,
+ahmedabad,ahmedabad_AMC_5130,43,Lal Darwaja to Ambli Cross Road (UP),3,5.0,44.0,135.0,130.0,195.0,162.5,140.0,130.0,
+ahmedabad,ahmedabad_AMC_5131,43,Ambli Cross Road to Lal Darwaja (DOWN),3,6.0,45.0,135.0,120.0,195.0,165.0,140.0,125.0,
+ahmedabad,ahmedabad_AMC_5133,45,Lal Darwaja to Shela Gam (UP),3,4.0,56.0,165.0,130.0,325.0,325.0,,147.5,
+ahmedabad,ahmedabad_AMC_5135,45,Lal Darwaja to Anandnagar (Madhur Hall) (UP),3,1.0,34.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5136,45,Shela Gam to Lal Darwaja (DOWN),3,4.0,57.0,235.0,150.0,265.0,235.0,265.0,150.0,
+ahmedabad,ahmedabad_AMC_5138,45,Anandnagar (Madhur Hall) to Lal Darwaja (DOWN),3,1.0,35.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5140,45/1,Lal Darwaja to Shela Gam (UP),3,16.0,58.0,35.0,25.0,110.0,75.0,40.0,32.5,
+ahmedabad,ahmedabad_AMC_5143,45/1,Lal Darwaja to Anandnagar (Madhur Hall) (UP),3,4.0,36.0,75.0,70.0,205.0,137.5,75.0,,
+ahmedabad,ahmedabad_AMC_5144,45/1,Shela Gam to Lal Darwaja (DOWN),3,16.0,57.0,35.0,25.0,165.0,50.0,35.0,30.0,
+ahmedabad,ahmedabad_AMC_5146,45/1,Anandnagar (Madhur Hall) to Lal Darwaja (DOWN),3,4.0,35.0,80.0,70.0,205.0,137.5,80.0,,
+ahmedabad,ahmedabad_AMC_5152,49,Odhav Panjarapol to Ghuma Gam (UP),3,12.0,79.0,45.0,15.0,275.0,157.5,40.0,45.0,
+ahmedabad,ahmedabad_AMC_5153,49,Ghuma Gam to Odhav Panjarapol (DOWN),3,14.0,78.0,45.0,40.0,220.0,45.0,50.0,45.0,
+ahmedabad,ahmedabad_AMC_5154,49,Vakil Bridge to Odhav Panjarapol (DOWN),3,16.0,68.0,45.0,20.0,160.0,40.0,50.0,45.0,40.0
+ahmedabad,ahmedabad_AMC_5155,49,Sarangpur to Odhav Panjarapol (DOWN),3,10.0,34.0,20.0,20.0,345.0,40.0,,20.0,
+ahmedabad,ahmedabad_AMC_5156,49,Vakil Bridge to Sarangpur (DOWN),3,4.0,35.0,45.0,35.0,45.0,45.0,,,
+ahmedabad,ahmedabad_AMC_5161,49,Sarangpur to Vakil Bridge (UP),3,2.0,36.0,40.0,40.0,40.0,40.0,,,
+ahmedabad,ahmedabad_AMC_5162,49,Odhav Panjarapol to Vakil Bridge (UP),3,18.0,69.0,45.0,20.0,100.0,45.0,50.0,40.0,
+ahmedabad,ahmedabad_AMC_5163,49,Sarangpur to Ghuma Gam (UP),3,8.0,46.0,40.0,40.0,410.0,40.0,,42.5,
+ahmedabad,ahmedabad_AMC_5164,49,Odhav Panjarapol to Sarangpur (UP),3,10.0,34.0,35.0,20.0,415.0,50.0,415.0,,25.0
+ahmedabad,ahmedabad_AMC_5166,55,Lal Darwaja to Arvind Polycoat (Khatraj) (UP),3,24.0,64.0,40.0,30.0,50.0,40.0,42.5,40.0,
+ahmedabad,ahmedabad_AMC_5167,55,Arvind Polycoat (Khatraj) to Lal Darwaja (DOWN),3,24.0,63.0,40.0,30.0,55.0,40.0,40.0,40.0,45.0
+ahmedabad,ahmedabad_AMC_5168,56,Sitarambapa Chowk (Gopal Chowk) to Antariksh Colony (Joitaramno Kuvo) (UP),3,30.0,76.0,25.0,20.0,80.0,25.0,25.0,20.0,
+ahmedabad,ahmedabad_AMC_5169,56,Antariksh Colony (Joitaramno Kuvo) to Sitarambapa Chowk (Gopal Chowk) (DOWN),3,28.0,80.0,25.0,20.0,80.0,25.0,25.0,25.0,
+ahmedabad,ahmedabad_AMC_5170,56,Antariksh Colony (Joitaramno Kuvo) to Lal Darwaja (DOWN),3,2.0,43.0,185.0,185.0,185.0,,185.0,,
+ahmedabad,ahmedabad_AMC_5171,56,Gujarat University to Sitarambapa Chowk (Gopal Chowk) (DOWN),3,2.0,57.0,160.0,160.0,160.0,,,160.0,
+ahmedabad,ahmedabad_AMC_5172,56/1,Gujarat University to Sardar Party Plot (S.P.Ring Road) (DOWN),3,6.0,71.0,60.0,60.0,220.0,200.0,60.0,60.0,
+ahmedabad,ahmedabad_AMC_5173,56/1,Sardar Party Plot (S.P.Ring Road) to Gujarat University (UP),3,6.0,69.0,60.0,60.0,265.0,162.5,,60.0,
+ahmedabad,ahmedabad_AMC_5175,58,Kush Society (New Naroda) to Sarangpur (DOWN),3,14.0,44.0,30.0,20.0,310.0,30.0,30.0,,30.0
+ahmedabad,ahmedabad_AMC_5219,3,Bhadrakali Mandir to Bhadrakali Mandir (UP),3,36.0,21.0,20.0,15.0,45.0,27.5,25.0,20.0,
+ahmedabad,ahmedabad_AMC_5220,12,Nenpur Gam to Maninagar (DOWN),3,4.0,64.0,240.0,235.0,245.0,237.5,245.0,,
+ahmedabad,ahmedabad_AMC_5221,401,Chandkheda (Sarthi Bunglows) to Paldi (DOWN),3,5.0,38.0,47.5,20.0,75.0,,65.0,,30.0
+ahmedabad,ahmedabad_AMC_5224,401,Chandkheda (Sarthi Bunglows) to Vadaj (DOWN),3,12.0,21.0,35.0,20.0,185.0,35.0,40.0,,20.0
+ahmedabad,ahmedabad_AMC_5226,800,Paldi to Mansi Complex (UP),3,2.0,21.0,10.0,10.0,10.0,,,10.0,
+ahmedabad,ahmedabad_AMC_5229,42,Sindhu Bhavan to Lal Darwaja (DOWN),3,2.0,38.0,10.0,10.0,10.0,,10.0,,
+ahmedabad,ahmedabad_AMC_5230,51T,Thaltej Metro Station to Lal Darwaja (DOWN),3,4.0,26.0,20.0,15.0,105.0,,17.5,,105.0
+ahmedabad,ahmedabad_AMC_5231,51T,Lal Darwaja to Thaltej Metro Station (UP),3,2.0,24.0,15.0,15.0,15.0,,,15.0,
+ahmedabad,ahmedabad_AMC_5232,142,Vastral Gam to Lal Darwaja (UP),3,5.0,39.0,37.5,30.0,50.0,37.5,,,
+ahmedabad,ahmedabad_AMC_5233,142,Lal Darwaja to Vastral Gam (DOWN),3,5.0,39.0,40.0,35.0,50.0,,,40.0,
+ahmedabad,ahmedabad_AMC_5234,144,Arbudanagar to Sarangpur (UP),3,10.0,35.0,20.0,15.0,30.0,,22.5,,20.0
+ahmedabad,ahmedabad_AMC_5236,144,Sarangpur to Arbudanagar (DOWN),3,10.0,35.0,20.0,15.0,25.0,,,20.0,
+ahmedabad,ahmedabad_AMC_5237,401,Vadaj to Chandkheda (Sarthi Bunglows) (UP),3,10.0,26.0,25.0,5.0,325.0,25.0,,80.0,
+ahmedabad,ahmedabad_AMC_5239,149,Haldharvas Patiya to Sarangpur (DOWN),3,18.0,73.0,30.0,5.0,395.0,50.0,25.0,45.0,27.5
+ahmedabad,ahmedabad_AMC_5240,149,Sarangpur to Haldharvas Patiya (UP),3,18.0,73.0,20.0,15.0,385.0,,55.0,20.0,
+ahmedabad,ahmedabad_AMC_5241,137M,Manmohan Park to Lapakaman Gam (UP),3,44.0,71.0,20.0,10.0,90.0,20.0,20.0,20.0,17.5
+ahmedabad,ahmedabad_AMC_5242,137M,Manmohan Park to Vadaj (UP),3,4.0,39.0,85.0,65.0,405.0,85.0,405.0,,65.0
+ahmedabad,ahmedabad_AMC_5243,137M,Vadaj to Lapakaman Gam (UP),3,4.0,33.0,80.0,70.0,400.0,235.0,,80.0,
+ahmedabad,ahmedabad_AMC_5245,137M,Lapakaman Gam to Manmohan Park (DOWN),3,28.0,70.0,20.0,10.0,160.0,60.0,15.0,20.0,
+ahmedabad,ahmedabad_AMC_5246,137M,Lapakaman Gam to Kalupur (DOWN),3,4.0,46.0,40.0,40.0,445.0,40.0,242.5,,
+ahmedabad,ahmedabad_AMC_5247,137M,Bapunagar to Manmohan Park (DOWN),3,10.0,14.0,40.0,30.0,365.0,45.0,40.0,45.0,
+ahmedabad,ahmedabad_AMC_5248,137M,Lapakaman Gam to Bapunagar (DOWN),3,10.0,58.0,40.0,20.0,375.0,40.0,375.0,,35.0
+ahmedabad,ahmedabad_AMC_5249,137M,Kalupur to Manmohan Park (DOWN),3,4.0,26.0,40.0,40.0,440.0,240.0,,40.0,
+ahmedabad,ahmedabad_AMC_5250,137M,Lapakaman Gam to Vadaj (DOWN),3,6.0,33.0,40.0,40.0,405.0,40.0,,,40.0
+ahmedabad,ahmedabad_AMC_5251,137M,Vadaj to Manmohan Park (DOWN),3,6.0,39.0,40.0,40.0,405.0,40.0,,40.0,
+ahmedabad,ahmedabad_AMC_5255,RFEx1A,Vasna to Vasna (DOWN),3,10.0,45.0,85.0,60.0,170.0,122.5,90.0,72.5,
+ahmedabad,ahmedabad_AMC_5256,RFEx1A,Vasna to Vallabhsadan Cross road (DOWN),3,1.0,30.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5258,138/1,Lal Darwaja to Vadnagar  Patiya (UP),3,12.0,86.0,70.0,25.0,110.0,90.0,72.5,60.0,
+ahmedabad,ahmedabad_AMC_5259,138/1,Lal Darwaja to Ghuma Gam (UP),3,15.0,50.0,62.5,20.0,155.0,65.0,60.0,62.5,
+ahmedabad,ahmedabad_AMC_5261,138/1,Ghuma Gam to Lal Darwaja (DOWN),3,15.0,51.0,60.0,20.0,140.0,60.0,60.0,65.0,140.0
+ahmedabad,ahmedabad_AMC_5263,146/1,Vadaj to Chinubhainagar (DOWN),3,6.0,46.0,25.0,20.0,95.0,,,25.0,
+ahmedabad,ahmedabad_AMC_5264,125/1,Sarangpur to Dabhoda Gam (UP),3,8.0,63.0,65.0,40.0,290.0,65.0,,45.0,
+ahmedabad,ahmedabad_AMC_5265,125/1,Naroda to Dabhoda Gam (UP),3,8.0,40.0,65.0,40.0,355.0,,67.5,50.0,
+ahmedabad,ahmedabad_AMC_5266,125/1,Dabhoda Gam to Sarangpur (DOWN),3,8.0,65.0,65.0,40.0,360.0,52.5,215.0,50.0,55.0
+ahmedabad,ahmedabad_AMC_5267,125/1,Dabhoda Gam to Naroda (DOWN),3,8.0,41.0,65.0,40.0,320.0,192.5,57.5,50.0,
+ahmedabad,ahmedabad_AMC_5268,123sh,Lal Darwaja to Krushnanagar (UP),3,10.0,29.0,55.0,5.0,140.0,52.5,,55.0,
+ahmedabad,ahmedabad_AMC_5269,123sh,Krushnanagar to Lal Darwaja (DOWN),3,7.0,27.0,57.5,30.0,145.0,55.0,,57.5,
+ahmedabad,ahmedabad_AMC_5270,130/4,Manmohan Park to Nava Vadaj (DOWN),3,20.0,66.0,35.0,30.0,120.0,37.5,32.5,30.0,
+ahmedabad,ahmedabad_AMC_5272,130/4,Nava Vadaj to Manmohan Park (UP),3,19.0,67.0,35.0,30.0,125.0,37.5,37.5,32.5,
+ahmedabad,ahmedabad_AMC_5275,85sh,Lal Darwaja to Tragad Gam (UP),3,19.0,47.0,45.0,20.0,105.0,45.0,45.0,45.0,
+ahmedabad,ahmedabad_AMC_5276,89/1,Manmohan Park to Amba Township Sector-5 (Trimandir) (UP),3,1.0,96.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5277,89/1,Amba Township Sector-5 (Trimandir) to Manmohan Park (DOWN),3,1.0,92.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5284,84,Lal Darwaja to Chandkheda (Sarthi Bunglows) (UP),3,8.0,54.0,80.0,70.0,130.0,80.0,112.5,75.0,
+ahmedabad,ahmedabad_AMC_5286,84,Chandkheda (Sarthi Bunglows) to Lal Darwaja (DOWN),3,10.0,50.0,80.0,70.0,135.0,85.0,85.0,70.0,
+ahmedabad,ahmedabad_AMC_5288,148,Sarangpur to Kathwada Gam (UP),3,3.0,49.0,70.0,60.0,80.0,60.0,,80.0,
+ahmedabad,ahmedabad_AMC_5289,148,Kathwada Gam to Sarangpur (DOWN),3,3.0,49.0,67.5,50.0,85.0,67.5,,,
+ahmedabad,ahmedabad_AMC_5292,152,Lal Darwaja to Wanch Gam (UP),3,25.0,39.0,40.0,15.0,70.0,35.0,42.5,35.0,
+ahmedabad,ahmedabad_AMC_5295,152,Wanch Gam to Lal Darwaja (DOWN),3,25.0,41.0,37.5,15.0,85.0,35.0,37.5,35.0,50.0
+ahmedabad,ahmedabad_AMC_5296,160,Ramdev Masala to Hatkeshwar Depo (DOWN),3,6.0,69.0,35.0,35.0,35.0,,35.0,,35.0
+ahmedabad,ahmedabad_AMC_5297,160,Hatkeshwar Depo to Ramdev Masala (UP),3,6.0,69.0,35.0,35.0,35.0,,35.0,,
+ahmedabad,ahmedabad_AMC_5298,49,Ghuma Gam to Sarangpur (DOWN),3,6.0,45.0,40.0,35.0,380.0,42.5,207.5,,40.0
+ahmedabad,ahmedabad_AMC_5299,401sh,Acher Depo to Vadaj (DOWN),3,5.0,13.0,30.0,20.0,75.0,,,30.0,
+ahmedabad,ahmedabad_AMC_5300,401sh,Vadaj to Acher Depo (UP),3,4.0,13.0,50.0,30.0,75.0,,40.0,,75.0
+ahmedabad,ahmedabad_AMC_5303,51Ri,Shilaj Gam to Lal Darwaja (DOWN),3,1.0,39.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5304,51sh,Rancharda Gam to Lal Darwaja (DOWN),3,3.0,50.0,45.0,30.0,60.0,45.0,,,
+ahmedabad,ahmedabad_AMC_5305,51sh,Shilaj Gam to Lal Darwaja (DOWN),3,18.0,39.0,35.0,15.0,235.0,32.5,50.0,47.5,37.5
+ahmedabad,ahmedabad_AMC_5306,51sh,Lal Darwaja to Shilaj Gam (UP),3,18.0,37.0,40.0,15.0,235.0,40.0,55.0,35.0,
+ahmedabad,ahmedabad_AMC_5307,64/1,Lal Darwaja to Jaspur Gam (UP),3,4.0,58.0,250.0,215.0,275.0,275.0,250.0,215.0,
+ahmedabad,ahmedabad_AMC_5308,66/1,Usmanpura to Shilaj Gam (UP),3,1.0,36.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5309,88,Nava Vadaj to Nikol Kathwada Ring Road (UP),3,24.0,69.0,40.0,35.0,40.0,40.0,40.0,40.0,
+ahmedabad,ahmedabad_AMC_5310,88,Nikol Kathwada Ring Road to Nava Vadaj (DOWN),3,24.0,69.0,40.0,30.0,50.0,40.0,40.0,40.0,35.0
+ahmedabad,ahmedabad_AMC_5311,102,Lal Darwaja to Akshardham Mandir (Gandhinagar) (UP),3,2.0,74.0,90.0,90.0,90.0,,,90.0,
+ahmedabad,ahmedabad_AMC_5313,102,Akshardham Mandir (Gandhinagar) to Maninagar (DOWN),3,4.0,95.0,100.0,85.0,385.0,385.0,85.0,100.0,
+ahmedabad,ahmedabad_AMC_5314,102,Maninagar to Akshardham Mandir (Gandhinagar) (UP),3,4.0,94.0,100.0,90.0,395.0,,242.5,100.0,
+ahmedabad,ahmedabad_AMC_5315,102,Vadaj to Akshardham Mandir (Gandhinagar) (UP),3,2.0,62.0,80.0,80.0,80.0,80.0,,,
+ahmedabad,ahmedabad_AMC_5316,89/1sh,Asarva Railway Station to Amba Township Sector-5 (Trimandir) (UP),3,6.0,76.0,60.0,60.0,225.0,142.5,,60.0,
+ahmedabad,ahmedabad_AMC_5317,89/1sh,Asarva Railway Station to Chandkheda Gam (UP),3,2.0,54.0,60.0,60.0,60.0,,60.0,,
+ahmedabad,ahmedabad_AMC_5318,89/2,Tragad Gam to Ramol Gam Talav (UP),3,13.0,75.0,47.5,30.0,145.0,60.0,82.5,30.0,
+ahmedabad,ahmedabad_AMC_5319,89/2,Ramol Gam Talav to Tragad Gam (DOWN),3,14.0,74.0,55.0,5.0,120.0,55.0,37.5,45.0,
+ahmedabad,ahmedabad_AMC_5320,89/3,Amraiwadi to Tragad Gam (UP),3,15.0,63.0,30.0,30.0,95.0,30.0,30.0,35.0,
+ahmedabad,ahmedabad_AMC_5321,89/3,Kalupur to Tragad Gam (UP),3,2.0,45.0,150.0,150.0,150.0,,,150.0,
+ahmedabad,ahmedabad_AMC_5323,89/3sh,Sarangpur to Tragad Gam (UP),3,5.0,48.0,37.5,30.0,60.0,,,37.5,
+ahmedabad,ahmedabad_AMC_5324,89/3sh,Sarangpur to Chandkheda (Sarthi Bunglows) (UP),3,25.0,36.0,30.0,15.0,60.0,30.0,30.0,45.0,60.0
+ahmedabad,ahmedabad_AMC_5325,89/3sh,Tragad Gam to Sarangpur (DOWN),3,5.0,46.0,42.5,30.0,65.0,,,42.5,
+ahmedabad,ahmedabad_AMC_5326,89/3sh,Chandkheda (Sarthi Bunglows) to Sarangpur (DOWN),3,25.0,34.0,30.0,10.0,60.0,30.0,30.0,40.0,30.0
+ahmedabad,ahmedabad_AMC_5327,200,Maninagar to Maninagar (UP),3,27.0,114.0,27.5,15.0,70.0,40.0,15.0,22.5,
+ahmedabad,ahmedabad_AMC_5328,200,Maninagar to Vadaj (UP),3,5.0,66.0,32.5,25.0,40.0,,32.5,,
+ahmedabad,ahmedabad_AMC_5329,200,Civil Hospital to Memco (UP),3,16.0,13.0,25.0,15.0,325.0,30.0,325.0,,25.0
+ahmedabad,ahmedabad_AMC_5330,200,Vadaj to Maninagar (UP),3,5.0,52.0,37.5,30.0,50.0,,,37.5,
+ahmedabad,ahmedabad_AMC_5331,800,Nava Vadaj to Nava Vadaj (UP),3,10.0,88.0,60.0,60.0,155.0,77.5,70.0,60.0,
+ahmedabad,ahmedabad_AMC_5333,900,Nava Vadaj to Nava Vadaj (DOWN),3,10.0,90.0,60.0,60.0,145.0,77.5,77.5,60.0,
+ahmedabad,ahmedabad_AMC_5335,136,Manmohan Park to Gujarat University (UP),3,8.0,59.0,70.0,60.0,185.0,105.0,60.0,70.0,
+ahmedabad,ahmedabad_AMC_5336,136,G.E.B (Naroda) to Sarangpur (UP),3,10.0,59.0,35.0,30.0,295.0,35.0,170.0,,37.5
+ahmedabad,ahmedabad_AMC_5337,136,Sarangpur to Manmohan Park (DOWN),3,2.0,35.0,70.0,70.0,70.0,,,70.0,
+ahmedabad,ahmedabad_AMC_5338,136,Sarangpur to G.E.B (Naroda) (DOWN),3,10.0,60.0,40.0,30.0,300.0,45.0,,30.0,
+ahmedabad,ahmedabad_AMC_5339,136,Gujarat University to Manmohan Park (DOWN),3,8.0,59.0,70.0,60.0,200.0,130.0,87.5,70.0,
+ahmedabad,ahmedabad_AMC_5340,136,Manmohan Park to Sarangpur (UP),3,2.0,34.0,60.0,60.0,60.0,,60.0,,
+ahmedabad,ahmedabad_AMC_5342,202,Vasna to Naroda (UP),3,10.0,99.0,80.0,5.0,150.0,90.0,112.5,67.5,
+ahmedabad,ahmedabad_AMC_5343,202,Sattadhar Society to Naroda (UP),3,5.0,70.0,125.0,55.0,200.0,127.5,125.0,,
+ahmedabad,ahmedabad_AMC_5344,202,Naroda to Vasna (DOWN),3,10.0,99.0,80.0,40.0,165.0,152.5,55.0,70.0,
+ahmedabad,ahmedabad_AMC_5345,202,Naroda to Sarthak School (Sattadhar Cross Road) (DOWN),3,5.0,70.0,122.5,40.0,210.0,122.5,,,
+ahmedabad,ahmedabad_AMC_5346,151/2,Vivekanandnagar to Maninagar (DOWN),3,2.0,37.0,430.0,430.0,430.0,430.0,,,
+ahmedabad,ahmedabad_AMC_5347,51T,Thol Gam (Saradar Chowk) to Lal Darwaja (DOWN),3,36.0,70.0,25.0,10.0,65.0,25.0,25.0,25.0,25.0
+ahmedabad,ahmedabad_AMC_5358,52/2,Maninagar to Gujarat University (UP),3,10.0,39.0,30.0,25.0,200.0,40.0,,30.0,
+ahmedabad,ahmedabad_AMC_5359,70,Bhakti Circle to Memco (DOWN),3,2.0,32.0,55.0,55.0,55.0,55.0,,,
+ahmedabad,ahmedabad_AMC_5362,70,Naroda to Vagheshwari Soc(Chandlodia Rly Station) (DOWN),3,1.0,64.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5372,40/1,Amts Staff Quarters to Vasna (DOWN),3,1.0,11.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5373,123sh,Sarangpur to Krushnanagar (UP),3,3.0,20.0,45.0,40.0,50.0,,,,45.0
+ahmedabad,ahmedabad_AMC_5376,16,Sarangpur to Someshwar Mahadev (UP),3,4.0,57.0,100.0,75.0,385.0,242.5,,75.0,
+ahmedabad,ahmedabad_AMC_5379,33,S.P.Ring Road (Odhav Gidc) to Lal Darwaja (DOWN),3,14.0,41.0,30.0,10.0,340.0,25.0,187.5,,25.0
+ahmedabad,ahmedabad_AMC_5382,117,Meghaninagar to Navapura Gam (Gate) (UP),3,2.0,76.0,550.0,550.0,550.0,,550.0,,
+ahmedabad,ahmedabad_AMC_5383,117,Navapura Gam (Gate) to Meghaninagar (DOWN),3,3.0,78.0,250.0,240.0,260.0,260.0,,240.0,
+ahmedabad,ahmedabad_AMC_5384,117,Sarangpur to Navapura Gam (Gate) (UP),3,2.0,56.0,480.0,480.0,480.0,480.0,,,
+ahmedabad,ahmedabad_AMC_5385,22/1,Lal Darwaja to Bareja Eye Hospital (UP),3,40.0,59.0,20.0,10.0,65.0,20.0,22.5,20.0,65.0
+ahmedabad,ahmedabad_AMC_5386,Feeder-8,Apparel Park Metro Station (New Cotton Mills) to Apparel Park Metro Station (New Cotton Mills) (UP),3,15.0,26.0,50.0,35.0,110.0,50.0,50.0,45.0,
+ahmedabad,ahmedabad_AMC_5387,Feeder-9,Apparel Park Metro Station (New Cotton Mills) to Apparel Park Metro Station (New Cotton Mills) (DOWN),3,16.0,27.0,50.0,35.0,110.0,50.0,50.0,47.5,
+ahmedabad,ahmedabad_AMC_5400,50,Iskcon mandir BRT to Naroda (UP),3,8.0,67.0,90.0,75.0,235.0,145.0,85.0,90.0,155.0
+ahmedabad,ahmedabad_AMC_5427,66/3,Arvind Polycoat (Khatraj) to Memco (DOWN),3,9.0,65.0,20.0,10.0,55.0,20.0,,20.0,
+ahmedabad,ahmedabad_AMC_5428,66/3,S.P.Ring Road (Paghadi Sheth Farm) to Naroda (DOWN),3,9.0,60.0,25.0,20.0,35.0,20.0,25.0,,
+ahmedabad,ahmedabad_AMC_5433,34/4,Lal Darwaja to Jivraj Park (UP),3,1.0,22.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5434,34/4,Jivraj Park to Lal Darwaja (DOWN),3,1.0,22.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5438,66/3,Naroda to S.P.Ring Road (Paghadi Sheth Farm) (UP),3,9.0,60.0,25.0,15.0,35.0,25.0,30.0,,
+ahmedabad,ahmedabad_AMC_5453,151,Lal Darwaja to Vivekanandnagar (UP),3,8.0,50.0,120.0,45.0,245.0,125.0,130.0,87.5,75.0
+ahmedabad,ahmedabad_AMC_5454,151,Vivekanandnagar to Lal Darwaja (DOWN),3,8.0,50.0,110.0,65.0,215.0,125.0,112.5,97.5,
+ahmedabad,ahmedabad_AMC_5457,146/1,Vadaj to Ranip Gam (UP),3,5.0,19.0,50.0,40.0,50.0,50.0,50.0,,
+ahmedabad,ahmedabad_AMC_5458,117,Navapura Gam (Gate) to Sarangpur (DOWN),3,1.0,56.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5471,137sh,Bapunagar to Vadaj (UP),3,11.0,26.0,45.0,35.0,280.0,50.0,42.5,47.5,45.0
+ahmedabad,ahmedabad_AMC_5472,137sh,Vadaj to Bapunagar (DOWN),3,11.0,26.0,45.0,35.0,275.0,162.5,40.0,45.0,
+ahmedabad,ahmedabad_AMC_5473,125,Naroda to Karoli Gam (UP),3,6.0,38.0,55.0,45.0,455.0,60.0,,47.5,
+ahmedabad,ahmedabad_AMC_5474,125,Karoli Gam to Naroda (DOWN),3,6.0,38.0,50.0,45.0,460.0,47.5,,,60.0
+ahmedabad,ahmedabad_AMC_5475,150,Chinubhainagar to Ajit Mills Char Rasta (BRT) (DOWN),3,6.0,17.0,40.0,30.0,470.0,37.5,,,45.0
+ahmedabad,ahmedabad_AMC_5476,150,Ajit Mills Char Rasta (BRT) to Sarkhej Gam (DOWN),3,3.0,53.0,35.0,30.0,40.0,,,35.0,
+ahmedabad,ahmedabad_AMC_5477,150,Sarkhej Gam to Ajit Mills Char Rasta (BRT) (UP),3,6.0,53.0,35.0,25.0,480.0,32.5,,,35.0
+ahmedabad,ahmedabad_AMC_5478,150,Ajit Mills Char Rasta (BRT) to Chinubhainagar (UP),3,4.0,17.0,30.0,30.0,515.0,515.0,,30.0,
+ahmedabad,ahmedabad_AMC_5485,143sh,Sarangpur to Pasunj Gam (UP),3,4.0,66.0,255.0,240.0,300.0,300.0,255.0,240.0,
+ahmedabad,ahmedabad_AMC_5486,143sh,Pasunj Gam to Sarangpur (DOWN),3,4.0,66.0,270.0,245.0,295.0,295.0,245.0,270.0,
+ahmedabad,ahmedabad_AMC_5491,134/1,Lal Darwaja to Bhakti Circle (UP),3,2.0,62.0,160.0,160.0,160.0,,,160.0,
+ahmedabad,ahmedabad_AMC_5492,134/1,Sarangpur to Bhakti Circle (UP),3,4.0,54.0,155.0,140.0,530.0,335.0,155.0,,
+ahmedabad,ahmedabad_AMC_5493,134/1,Bhakti Circle to Lal Darwaja (DOWN),3,2.0,63.0,145.0,145.0,145.0,,,145.0,
+ahmedabad,ahmedabad_AMC_5494,134/1,Bhakti Circle to Sarangpur (DOWN),3,4.0,55.0,155.0,145.0,245.0,245.0,150.0,,
+ahmedabad,ahmedabad_AMC_2945,1D,Maninagar to Ghuma Gam (DOWN),3,128.0,35.0,8.0,1.0,18.0,11.0,8.0,5.0,16.0
+ahmedabad,ahmedabad_AMC_2947,1E-GK,Ghuma Gam to Kashiram Textiles,3,13.0,32.0,21.0,4.0,484.0,40.0,,12.0,246.0
+ahmedabad,ahmedabad_AMC_2948,1E-MS,Maninagar to Soma Textiles,3,17.0,12.0,11.0,5.0,47.0,,6.5,,14.5
+ahmedabad,ahmedabad_AMC_2949,1S-CG,Chhipa Society to Ghuma Gam,3,15.0,29.0,19.5,1.0,341.0,10.0,,24.0,
+ahmedabad,ahmedabad_AMC_2951,1S-SM,Soma Textiles to Maninagar,3,17.0,12.0,7.0,5.0,16.0,,,7.0,
+ahmedabad,ahmedabad_AMC_2952,1U,Ghuma Gam to Maninagar (UP),3,128.0,34.0,8.0,1.0,20.0,10.0,6.0,8.0,14.0
+ahmedabad,ahmedabad_AMC_2953,11D-OL,SP Ring Road Approach to LD Engg. College (DOWN),3,66.0,21.0,14.0,10.0,30.0,15.0,15.0,12.0,15.0
+ahmedabad,ahmedabad_AMC_2954,11U-AO,Ajit Mill Char Rasta to SP Ring Road Approach (UP),3,5.0,9.0,11.5,8.0,21.0,,,11.5,
+ahmedabad,ahmedabad_AMC_2955,11U-LO,LD Engg. College to SP Ring Road Approach (UP),3,61.0,21.0,15.0,10.0,30.0,15.0,15.0,12.0,25.0
+ahmedabad,ahmedabad_AMC_2956,11U-LS,LD Engg. College to Soma Textiles (UP),3,5.0,12.0,26.0,10.0,40.0,,,,26.0
+ahmedabad,ahmedabad_AMC_2957,12D-PR,Rameshwar Park to R.T.O. Circle (DOWN),3,40.0,39.0,8.0,4.0,252.0,10.0,6.0,8.0,
+ahmedabad,ahmedabad_AMC_2959,12D-RR,Rabari Colony to R.T.O. Circle (DOWN),3,92.0,37.0,8.0,1.0,121.0,13.0,8.0,6.0,15.0
+ahmedabad,ahmedabad_AMC_2961,12U-RL,R.T.O. Circle to Rabari Colony (UP),3,92.0,37.0,6.0,1.0,140.0,8.0,6.0,6.0,
+ahmedabad,ahmedabad_AMC_2962,12U-RP,R.T.O. Circle to Rameshwar Park (UP),3,40.0,39.0,12.0,6.0,202.0,10.0,13.0,7.0,15.0
+ahmedabad,ahmedabad_AMC_2963,14D-OS,SP Ring Road Approach to Sanand Circle (DOWN),3,24.0,30.0,16.0,8.0,330.0,30.0,30.0,10.0,
+ahmedabad,ahmedabad_AMC_2964,14D-SS,Sarangpur Darwaja to Sanand Circle (DOWN),3,41.0,21.0,16.0,10.0,171.0,30.0,17.0,12.5,20.0
+ahmedabad,ahmedabad_AMC_2967,14U-SO,Sanand Circle to SP Ring Road Approach (UP),3,24.0,29.0,24.0,12.0,169.0,25.0,51.5,18.0,15.0
+ahmedabad,ahmedabad_AMC_2968,14U-SS,Sanand Circle to Sarangpur Darwaja (UP),3,41.0,20.0,15.0,8.0,202.0,21.0,15.0,12.0,22.5
+ahmedabad,ahmedabad_AMC_2969,15D,ISKCON Cross Road to R.T.O. Circle (DOWN),3,71.0,18.0,10.5,4.0,52.0,18.0,8.0,9.5,19.0
+ahmedabad,ahmedabad_AMC_2970,15D-IA,ISKCON Cross Road to Ahmedabad Domestic Airport (DOWN),3,31.0,22.0,30.0,10.0,71.0,34.0,30.0,30.0,30.0
+ahmedabad,ahmedabad_AMC_2971,15E-AS,Ahmedabad Domestic Airport to Shastrinagar,3,1.0,8.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2972,15E-IJ,ISKCON Cross Road to Jaimangal,3,17.0,12.0,29.0,1.0,241.0,23.0,241.0,40.0,34.5
+ahmedabad,ahmedabad_AMC_2973,15E-RS,R.T.O. Circle to Shastrinagar,3,7.0,6.0,63.5,15.0,306.0,54.5,169.5,,84.5
+ahmedabad,ahmedabad_AMC_2974,15S-JI,Jaimangal to ISKCON Cross Road,3,19.0,12.0,13.0,3.0,343.0,14.0,,13.0,
+ahmedabad,ahmedabad_AMC_2975,15S-PA,Pragatinagar to Ahmedabad Domestic Airport,3,1.0,6.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2976,15S-PR,Pragatinagar to R.T.O. Circle,3,9.0,5.0,25.5,8.0,454.0,454.0,36.0,16.0,
+ahmedabad,ahmedabad_AMC_2977,15U,R.T.O. Circle to ISKCON Cross Road (UP),3,70.0,18.0,11.0,3.0,50.0,17.0,10.0,10.0,13.0
+ahmedabad,ahmedabad_AMC_2978,15U-AI,Ahmedabad Domestic Airport to ISKCON Cross Road (UP),3,31.0,23.0,34.0,17.0,45.0,37.5,30.0,32.0,35.5
+ahmedabad,ahmedabad_AMC_2979,16D-NS,Nehrunagar to Sanand Circle (DOWN),3,94.0,12.0,10.0,1.0,20.0,15.0,10.0,8.0,10.0
+ahmedabad,ahmedabad_AMC_2980,16E,Nehrunagar to Jaimangal,3,2.0,10.0,571.0,571.0,571.0,,,,571.0
+ahmedabad,ahmedabad_AMC_2981,16E-SJ,Sanand Circle to Jaimangal,3,2.0,15.0,536.0,536.0,536.0,,536.0,,
+ahmedabad,ahmedabad_AMC_2982,16S,Jaimangal to Nehrunagar,3,3.0,10.0,254.0,60.0,448.0,254.0,,,
+ahmedabad,ahmedabad_AMC_2983,16S-JS,Jaimangal to Sanand Circle,3,1.0,16.0,,,,,,,
+ahmedabad,ahmedabad_AMC_2984,16U-SN,Sanand Circle to Nehrunagar (UP),3,78.0,11.0,10.0,6.0,60.0,15.0,10.0,9.0,10.0
+ahmedabad,ahmedabad_AMC_2985,17D,Nehrunagar to South Bopal BRTS Terminus (DOWN),3,83.0,24.0,10.0,8.0,30.0,15.0,10.0,10.0,12.0
+ahmedabad,ahmedabad_AMC_2986,17E,Nehrunagar to Jaimangal,3,8.0,10.0,24.0,15.0,63.0,24.0,,,
+ahmedabad,ahmedabad_AMC_2987,17E-BJ,South Bopal BRTS Terminus to Jaimangal,3,13.0,28.0,20.0,8.0,370.0,35.0,370.0,,15.0
+ahmedabad,ahmedabad_AMC_2988,17S,Jaimangal to Nehrunagar,3,18.0,10.0,22.0,9.0,366.0,22.5,22.0,22.0,
+ahmedabad,ahmedabad_AMC_2989,17S-JB,Jaimangal to South Bopal BRTS Terminus,3,5.0,28.0,14.5,8.0,34.0,,,14.5,
+ahmedabad,ahmedabad_AMC_2990,17U,South Bopal BRTS Terminus to Nehrunagar (UP),3,74.0,24.0,10.0,8.0,40.0,15.0,10.0,10.0,21.0
+ahmedabad,ahmedabad_AMC_2991,2D-OI,SP Ring Road Approach to ISKCON Cross Road (DOWN),3,105.0,32.0,10.0,5.0,24.0,12.0,10.0,6.0,15.0
+ahmedabad,ahmedabad_AMC_2992,2D-SL,SP Ring Road Approach to LD Engg. College (DOWN),3,3.0,21.0,15.0,15.0,15.0,,,,15.0
+ahmedabad,ahmedabad_AMC_2995,2U-IO,ISKCON Cross Road to SP Ring Road Approach (UP),3,105.0,32.0,10.0,6.0,20.0,12.0,10.0,8.0,12.0
+ahmedabad,ahmedabad_AMC_2996,2U-LS,LD Engg. College to SP Ring Road Approach (UP),3,3.0,21.0,15.0,15.0,15.0,,,,15.0
+ahmedabad,ahmedabad_AMC_2997,3D,Maninagar to R.T.O. Circle (DOWN),3,90.0,30.0,10.0,6.0,35.0,12.0,12.0,10.0,20.0
+ahmedabad,ahmedabad_AMC_3001,3U,R.T.O. Circle to Maninagar (UP),3,90.0,29.0,10.0,8.0,15.0,12.0,10.0,10.0,10.0
+ahmedabad,ahmedabad_AMC_3003,4D-LA,LD Engg. College to Amba Township (DOWN),3,50.0,39.0,16.0,1.0,70.0,23.0,15.0,16.0,11.0
+ahmedabad,ahmedabad_AMC_3004,4D-LZ,LD Engg. College to DCIS Circle (DOWN),3,77.0,32.0,11.0,1.0,37.0,14.5,22.0,6.5,15.0
+ahmedabad,ahmedabad_AMC_3006,4E-ZS,DCIS Circle to Shastrinagar,3,5.0,17.0,51.0,13.0,479.0,44.0,,,253.0
+ahmedabad,ahmedabad_AMC_3007,4S-PZ,Pragatinagar to DCIS Circle,3,6.0,17.0,22.0,4.0,527.0,274.5,63.0,5.5,
+ahmedabad,ahmedabad_AMC_3009,4U-AL,Amba Township to LD Engg. College (UP),3,50.0,39.0,18.0,1.0,79.0,26.0,19.0,21.0,9.0
+ahmedabad,ahmedabad_AMC_3010,4U-ZL,DCIS Circle to LD Engg. College (UP),3,75.0,32.0,9.0,1.0,102.0,13.0,18.5,6.0,14.0
+ahmedabad,ahmedabad_AMC_3011,5D-NV,Hanspura Ring Road to Vasna (DOWN),3,103.0,43.0,10.0,1.0,37.0,12.0,9.0,8.0,20.0
+ahmedabad,ahmedabad_AMC_3012,5E-HW,Hanspura Ring Road to Naroda S. T. Workshop,3,15.0,11.0,14.0,3.0,43.0,,13.0,,32.5
+ahmedabad,ahmedabad_AMC_3013,5E-VK,Vasna to Kashiram Textiles,3,7.0,10.0,15.0,11.0,29.0,15.0,,,
+ahmedabad,ahmedabad_AMC_3014,5E-VR,Vasna to Rameshwar Park,3,8.0,22.0,59.0,21.0,447.0,59.0,447.0,28.5,64.0
+ahmedabad,ahmedabad_AMC_3015,5S-CV,Chhipa Society to Vasna,3,9.0,7.0,25.0,6.0,488.0,30.0,36.0,20.0,
+ahmedabad,ahmedabad_AMC_3016,5S-RV,Rameshwar Park to Vasna,3,8.0,22.0,64.0,13.0,435.0,262.0,71.0,30.0,
+ahmedabad,ahmedabad_AMC_3017,5S-WH,Naroda S. T. Workshop to Hanspura Ring Road,3,13.0,11.0,13.5,4.0,16.0,,,13.5,
+ahmedabad,ahmedabad_AMC_3018,5U-VN,Vasna to Hanspura Ring Road (UP),3,111.0,43.0,8.0,1.0,31.0,10.0,8.0,8.0,20.0
+ahmedabad,ahmedabad_AMC_3019,6D,Naroda S. T. Workshop to Narol (DOWN),3,48.0,23.0,20.0,10.0,40.0,25.0,20.0,15.0,25.0
+ahmedabad,ahmedabad_AMC_3020,6E-NR,Narol to Rameshwar Park,3,9.0,12.0,46.5,15.0,272.0,64.0,158.0,27.0,105.0
+ahmedabad,ahmedabad_AMC_3021,6E-SC,Naroda S. T. Workshop to Geeta Gauri Cinema,3,7.0,11.0,79.5,30.0,270.0,79.5,155.0,,127.5
+ahmedabad,ahmedabad_AMC_3022,6S-CS,Geeta Gauri Cinema to Naroda S. T. Workshop,3,7.0,11.0,43.0,15.0,265.0,165.0,123.5,17.5,
+ahmedabad,ahmedabad_AMC_3023,6S-RN,Rameshwar Park to Narol,3,7.0,12.0,66.0,28.0,287.0,218.0,45.0,61.5,
+ahmedabad,ahmedabad_AMC_3024,6U,Narol to Naroda S. T. Workshop (UP),3,47.0,23.0,20.0,12.0,35.0,25.0,20.0,15.0,30.0
+ahmedabad,ahmedabad_AMC_3027,7D-NS,Narol to Sarangpur Darwaja (DOWN),3,76.0,14.0,12.0,4.0,30.0,15.0,12.0,10.0,15.0
+ahmedabad,ahmedabad_AMC_3028,7D-SZ,Sarkari Litho Press Cabin to DCIS Circle (DOWN),3,72.0,21.0,12.0,1.0,30.0,17.5,20.0,10.0,25.0
+ahmedabad,ahmedabad_AMC_3030,7U-SN,Sarangpur Darwaja to Narol (UP),3,75.0,15.0,12.0,2.0,30.0,15.0,10.0,11.0,14.0
+ahmedabad,ahmedabad_AMC_3031,7U-ZS,DCIS Circle to Sarkari Litho Press Cabin (UP),3,72.0,22.0,15.0,1.0,25.0,20.0,22.5,10.0,20.0
+ahmedabad,ahmedabad_AMC_3032,8D-HB,Hanspura Ring Road to Bhadaj Circle (DOWN),3,7.0,43.0,53.5,10.0,438.0,,40.0,90.5,
+ahmedabad,ahmedabad_AMC_3033,8D-NB,Naroda Gam to Bhadaj Circle (DOWN),3,98.0,35.0,8.0,2.0,30.0,13.0,8.0,8.0,20.0
+ahmedabad,ahmedabad_AMC_3036,8E-BJ,Bhadaj Circle to Jaimangal,3,8.0,12.0,18.0,13.0,466.0,18.0,,,239.5
+ahmedabad,ahmedabad_AMC_3037,8E-NC,Naroda Gam to Geeta Gauri Cinema,3,24.0,13.0,11.0,2.0,200.0,18.0,144.5,19.0,8.0
+ahmedabad,ahmedabad_AMC_3038,8S-CN,Geeta Gauri Cinema to Naroda Gam,3,13.0,13.0,19.0,9.0,62.0,16.0,40.0,,
+ahmedabad,ahmedabad_AMC_3039,8S-JB,Jaimangal to Bhadaj Circle,3,9.0,12.0,12.0,4.0,494.0,18.0,,12.0,
+ahmedabad,ahmedabad_AMC_3040,8S-SN,SP Ring Road Approach to Naroda Gam,3,22.0,18.0,7.0,2.0,17.0,,,7.0,
+ahmedabad,ahmedabad_AMC_3041,8U-BH,Bhadaj Circle to Hanspura Ring Road (UP),3,10.0,44.0,52.0,8.0,449.0,234.5,52.0,86.5,
+ahmedabad,ahmedabad_AMC_3042,8U-BN,Bhadaj Circle to Naroda Gam (UP),3,94.0,36.0,8.0,5.0,33.0,15.0,8.0,8.0,10.0
+ahmedabad,ahmedabad_AMC_3043,9D-LV,LD Engg. College to Gota Vasant Nagar Township (DOWN),3,13.0,23.0,33.0,1.0,256.0,125.0,21.0,,
+ahmedabad,ahmedabad_AMC_3044,9D-MV,Maninagar to Gota Vasant Nagar Township (DOWN),3,130.0,40.0,6.0,1.0,30.0,13.0,8.0,6.0,8.0
+ahmedabad,ahmedabad_AMC_3046,9E-MJ,Maninagar to Jaimangal,3,3.0,31.0,318.0,107.0,529.0,107.0,,,529.0
+ahmedabad,ahmedabad_AMC_3048,9E-VJ,Gota Vasant Nagar Township to Jaimangal,3,9.0,10.0,33.0,14.0,336.0,43.0,,,20.0
+ahmedabad,ahmedabad_AMC_3050,9S-JL,Jaimangal to LD Engg. College,3,1.0,14.0,,,,,,,
+ahmedabad,ahmedabad_AMC_3051,9S-JM,Jaimangal to Maninagar,3,1.0,29.0,,,,,,,
+ahmedabad,ahmedabad_AMC_3052,9S-JV,Jaimangal to Gota Vasant Nagar Township,3,14.0,11.0,24.0,5.0,375.0,27.0,6.0,19.0,
+ahmedabad,ahmedabad_AMC_3053,9U-VL,Gota Vasant Nagar Township to LD Engg. College (UP),3,16.0,22.0,28.0,8.0,250.0,28.0,250.0,56.0,26.0
+ahmedabad,ahmedabad_AMC_3054,9U-VM,Gota Vasant Nagar Township to Maninagar (UP),3,134.0,37.0,7.0,1.0,27.0,10.0,6.0,6.0,8.0
+ahmedabad,ahmedabad_AMC_4340,101-C,R.T.O. Circle to R.T.O. Circle,3,96.0,42.0,10.0,1.0,29.0,16.0,10.0,8.0,20.0
+ahmedabad,ahmedabad_AMC_4341,8U-BS,Bhadaj Circle to Sarkari Litho Press Cabin (UP),3,5.0,23.0,73.0,16.0,472.0,,244.0,73.0,
+ahmedabad,ahmedabad_AMC_4345,8D-SB,Sarkari Litho Press Cabin to Bhadaj Circle (DOWN),3,5.0,23.0,73.0,21.0,471.0,,246.0,73.0,
+ahmedabad,ahmedabad_AMC_4918,9E-MB,Maninagar to Bhavsar Hostel,3,4.0,28.0,24.0,11.0,26.0,,24.0,,
+ahmedabad,ahmedabad_AMC_5022,7D-SM,Memco Cross Road to Sarkari Litho Press Cabin (DOWN),3,5.0,9.0,16.5,14.0,60.0,,,16.5,
+ahmedabad,ahmedabad_AMC_5023,7D-RD,Ranip Cross Road to DCIS Circle (DOWN),3,5.0,15.0,14.0,7.0,30.0,,,14.0,
+ahmedabad,ahmedabad_AMC_5024,7U-DR,DCIS Circle to Ranip Cross Road (UP),3,5.0,15.0,25.0,20.0,32.0,,25.0,,
+ahmedabad,ahmedabad_AMC_5025,7U-SM,Sarkari Litho Press Cabin to Memco Cross Road (UP),3,4.0,9.0,20.0,15.0,20.0,,,,20.0
+ahmedabad,ahmedabad_AMC_5026,12D-OR,Odhav Talav to R.T.O. Circle (DOWN),3,12.0,46.0,29.0,15.0,287.0,39.5,,20.0,
+ahmedabad,ahmedabad_AMC_5033,101U-NR,Naroda Gam to R.T.O. Circle (UP),3,6.0,21.0,8.0,1.0,17.0,,,8.0,
+ahmedabad,ahmedabad_AMC_5035,101S-RM,R.T.O. Circle to Memco Cross Road,3,6.0,16.0,13.0,11.0,14.0,,,,13.0
+ahmedabad,ahmedabad_AMC_5050,4S-RA,Ranip Cross Road to Amba Township,3,2.0,21.0,19.0,19.0,19.0,,,19.0,
+ahmedabad,ahmedabad_AMC_5051,4S-OL,Odhav Talav to LD Engg. College,3,18.0,20.0,16.0,4.0,289.0,222.5,49.5,15.0,
+ahmedabad,ahmedabad_AMC_5052,4E-LO,LD Engg. College to Odhav Talav,3,12.0,20.0,53.0,13.0,152.0,53.0,46.0,,122.0
+ahmedabad,ahmedabad_AMC_5053,9S-BG,Bhavsar Hostel to Gota Vasant Nagar Township,3,9.0,14.0,10.5,7.0,30.0,,,10.5,
+ahmedabad,ahmedabad_AMC_5054,4D-RA,R.T.O. Circle to Amba Township (DOWN),3,1.0,20.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5055,4E-AR,Amba Township to R.T.O. Circle,3,3.0,20.0,87.0,47.0,127.0,87.0,,,
+ahmedabad,ahmedabad_AMC_5116,5E-HO,Hanspura Ring Road to Odhav Talav,3,4.0,25.0,22.0,20.0,71.0,,21.0,,71.0
+ahmedabad,ahmedabad_AMC_5120,4E-ARa,Amba Township to Ranip Cross Road,3,3.0,20.0,149.0,138.0,160.0,,160.0,,138.0
+ahmedabad,ahmedabad_AMC_5122,4E-DRa,DCIS Circle to Ranip Cross Road,3,3.0,13.0,52.5,39.0,66.0,,52.5,,
+ahmedabad,ahmedabad_AMC_5137,4S-PA,Pragatinagar to Amba Township,3,3.0,24.0,38.0,21.0,55.0,,,38.0,
+ahmedabad,ahmedabad_AMC_5142,4U-RL,R.T.O. Circle to LD Engg. College (UP),3,5.0,20.0,72.0,8.0,142.0,11.0,142.0,,
+ahmedabad,ahmedabad_AMC_5147,4U-ZR,DCIS Circle to R.T.O. Circle (UP),3,4.0,13.0,189.0,40.0,419.0,114.5,,,419.0
+ahmedabad,ahmedabad_AMC_5176,12U-RO,R.T.O. Circle to Odhav Talav (UP),3,12.0,46.0,26.0,8.0,368.0,21.0,27.0,30.0,
+ahmedabad,ahmedabad_AMC_5211,3E-MO,Maninagar to SP Ring Road Approach,3,10.0,20.0,8.0,6.0,32.0,,,,8.0
+ahmedabad,ahmedabad_AMC_5213,8E-NO,Naroda Gam to Odhav Talav,3,13.0,17.0,18.5,5.0,368.0,18.0,,,193.5
+ahmedabad,ahmedabad_AMC_5215,8S-ON,Odhav Talav to Naroda Gam,3,11.0,17.0,16.5,7.0,75.0,16.5,45.5,,
+ahmedabad,ahmedabad_AMC_5281,7E-NR,Narol to Rameshwar Park,3,10.0,12.0,39.0,14.0,297.0,42.0,297.0,,28.5
+ahmedabad,ahmedabad_AMC_5282,7E-SA,Sarangpur Darwaja to Ajit Mill Char Rasta,3,2.0,4.0,57.0,57.0,57.0,57.0,,,
+ahmedabad,ahmedabad_AMC_5283,7S-RN,Rameshwar Park to Narol,3,13.0,12.0,20.0,5.0,382.0,20.0,20.0,29.0,
+ahmedabad,ahmedabad_AMC_5287,7S-AS,Ajit Mill Char Rasta to Sarangpur Darwaja,3,1.0,4.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5348,9D-ML,Maninagar to LD Engg. College (DOWN),3,3.0,17.0,198.0,93.0,303.0,93.0,303.0,,
+ahmedabad,ahmedabad_AMC_5349,9D-SM,SP Ring Road Approach to Maninagar (DOWN),3,7.0,21.0,19.5,6.0,48.0,,,19.5,
+ahmedabad,ahmedabad_AMC_5350,9E-LO,LD Engg. College to Odhav Talav,3,9.0,20.0,25.5,8.0,38.0,25.5,,,
+ahmedabad,ahmedabad_AMC_5353,9S-OS,Odhav Talav to LD Engg. College,3,8.0,20.0,32.0,3.0,40.0,32.5,19.0,,
+ahmedabad,ahmedabad_AMC_5357,4E-AS,Amba Township to Shastrinagar,3,1.0,24.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5364,9E-MO,Maninagar to Odhav Talav,3,2.0,18.0,28.0,28.0,28.0,,,,28.0
+ahmedabad,ahmedabad_AMC_5378,8D-NG,Naroda Gam to Gurudwara (DOWN),3,1.0,17.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5380,8U-GN,Gurudwara to Naroda Gam (UP),3,1.0,17.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5381,8U-PN,Pragatinagar to Naroda Gam (UP),3,1.0,23.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5412,8E-HO,Hanspura Ring Road to Odhav Talav,3,2.0,25.0,35.0,35.0,35.0,,,,35.0
+ahmedabad,ahmedabad_AMC_5414,4E-LK,LD Engg. College to Kashiram Textiles,3,19.0,15.0,20.0,1.0,152.0,25.0,15.0,1.0,9.0
+ahmedabad,ahmedabad_AMC_5415,4S-CL,Chhipa Society to LD Engg. College,3,16.0,12.0,27.0,3.0,295.0,21.5,66.0,23.5,
+ahmedabad,ahmedabad_AMC_5425,101-C-PR,Pragatinagar to R.T.O. Circle,3,4.0,5.0,40.0,21.0,474.0,247.5,,40.0,
+ahmedabad,ahmedabad_AMC_5426,101-C-RS,R.T.O. Circle to Shastrinagar,3,3.0,6.0,272.5,41.0,504.0,41.0,,,504.0
+ahmedabad,ahmedabad_AMC_5429,4D-NZ,Nehrunagar to DCIS Circle (DOWN),3,1.0,28.0,,,,,,,
+ahmedabad,ahmedabad_AMC_5431,4D-CZ,Chhipa Society to DCIS Circle (DOWN),3,4.0,36.0,10.0,10.0,10.0,,,10.0,
+ahmedabad,ahmedabad_AMC_5435,2E-IK,ISKCON Cross Road to Kashiram Textiles,3,11.0,19.0,33.5,12.0,370.0,30.0,370.0,,70.0
+ahmedabad,ahmedabad_AMC_5436,2S-CI,Chhipa Society to ISKCON Cross Road,3,14.0,16.0,24.0,7.0,360.0,45.0,58.0,11.0,
+ahmedabad,ahmedabad_AMC_5440,12S-PR,Pragatinagar to R.T.O. Circle,3,10.0,5.0,34.0,24.0,310.0,38.0,,28.0,
+ahmedabad,ahmedabad_AMC_5441,12E-RS,R.T.O. Circle to Shastrinagar,3,9.0,6.0,41.0,20.0,319.0,29.5,319.0,,52.0
+ahmedabad,ahmedabad_AMC_5442,5S-OV,Odhav Talav to Vasna,3,8.0,29.0,14.0,10.0,30.0,,,14.0,
+ahmedabad,ahmedabad_AMC_5444,14D-CS,Chhipa Society to Sanand Circle (DOWN),3,4.0,14.0,62.0,14.0,532.0,297.0,,14.0,
+ahmedabad,ahmedabad_AMC_5445,14U-SK,Sanand Circle to Kashiram Textiles (UP),3,2.0,17.0,89.0,89.0,89.0,89.0,,,
+ahmedabad,ahmedabad_AMC_5449,16U-CN,Chhipa Society to Nehrunagar (UP),3,15.0,9.0,27.0,5.0,418.0,30.0,28.5,20.0,
+ahmedabad,ahmedabad_AMC_5450,3S-SM,SP Ring Road Approach to Maninagar,3,11.0,21.0,8.0,6.0,30.0,,,8.0,
+ahmedabad,ahmedabad_AMC_5452,16U-SK,Sanand Circle to Kashiram Textiles (UP),3,14.0,17.0,15.0,8.0,370.0,15.0,,,10.0
+ahmedabad,ahmedabad_AMC_5459,5U-NH,Narol to Hanspura Ring Road (UP),3,6.0,33.0,12.0,8.0,427.0,427.0,,12.0,
+ahmedabad,ahmedabad_AMC_5460,5D-HN,Hanspura Ring Road to Narol (DOWN),3,6.0,33.0,20.0,7.0,502.0,,20.0,,32.0
+ahmedabad,ahmedabad_AMC_5463,1S-CM,Chhipa Society to Maninagar,3,5.0,9.0,11.0,5.0,12.0,,,11.0,
+ahmedabad,ahmedabad_AMC_5464,1E-MK,Maninagar to Kashiram Textiles,3,5.0,12.0,31.5,10.0,49.0,,,,31.5
+ahmedabad,ahmedabad_GTSL_5575,Chandkheda To Pathikashram,Chandkheda To Pathikashram,3,38.0,21.0,15.0,0.0,30.0,10.0,15.0,,20.0
+ahmedabad,ahmedabad_GTSL_5545,Chiloda To Pathikashram,Chiloda To Pathikashram,3,29.0,19.0,15.0,15.0,50.0,15.0,15.0,,20.0
+ahmedabad,ahmedabad_GTSL_5568,Kalol To Pathikashram Via Dhamasana,Kalol To Pathikashram Via Dhamasana,3,12.0,19.0,30.0,30.0,30.0,30.0,30.0,,
+ahmedabad,ahmedabad_GTSL_5855,Kalol To Pathikashram Via Sardhav,Kalol To Pathikashram Via Sardhav,3,,,,,,,,,
+ahmedabad,ahmedabad_GTSL_5853,Mansa To Pathikashram,Mansa To Pathikashram,3,,,,,,,,,
+ahmedabad,ahmedabad_GTSL_5573,Pathikashram To Chandkheda,Pathikashram To Chandkheda,3,33.0,21.0,15.0,0.0,30.0,10.0,15.0,,25.0
+ahmedabad,ahmedabad_GTSL_5544,Pathikashram To Chiloda,Pathikashram To Chiloda,3,26.0,19.0,15.0,15.0,50.0,15.0,15.0,,50.0
+ahmedabad,ahmedabad_GTSL_5558,Pathikashram To Kalol Via Dhamasana,Pathikashram To Kalol Via Dhamasana,3,10.0,19.0,30.0,30.0,30.0,30.0,30.0,,
+ahmedabad,ahmedabad_GTSL_5854,Pathikashram To Kalol Via Sardhav,Pathikashram To Kalol Via Sardhav,3,,,,,,,,,
+ahmedabad,ahmedabad_GTSL_5852,Pathikashram To Mansa,Pathikashram To Mansa,3,,,,,,,,,
+ahmedabad,ahmedabad_GTSL_5549,Pathikashram To Pethapur,Pathikashram To Pethapur,3,13.0,13.0,30.0,30.0,30.0,30.0,30.0,,
+ahmedabad,ahmedabad_GTSL_5856,Pathikashram To Pundhara,Pathikashram To Pundhara,3,,,,,,,,,
+ahmedabad,ahmedabad_GTSL_5542,Pathikashram To Unava,Pathikashram To Unava,3,19.0,22.0,20.0,20.0,40.0,20.0,20.0,,
+ahmedabad,ahmedabad_GTSL_5550,Pethapur To Pathikashram,Pethapur To Pathikashram,3,14.0,13.0,30.0,30.0,30.0,30.0,30.0,,
+ahmedabad,ahmedabad_GTSL_5857,Pundhara To Pathikashram,Pundhara To Pathikashram,3,,,,,,,,,
+ahmedabad,ahmedabad_GTSL_5543,Unava To Pathikashram,Unava To Pathikashram,3,22.0,22.0,20.0,20.0,40.0,20.0,20.0,,30.0

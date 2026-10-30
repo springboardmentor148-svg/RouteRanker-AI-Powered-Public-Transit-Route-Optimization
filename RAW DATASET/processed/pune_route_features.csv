@@ -1,0 +1,629 @@
+city,route_id,route_short_name,route_long_name,route_type,trip_count,stop_count
+pune,pune_6,100,Hinjawadi Maan Phase 3 to Ma Na Pa Dengle Pul Nadikathi (UP),3,36,52
+pune,pune_7,100,Ma Na Pa Dengle Pul Nadikhathi to Hinjawadi Maan Phase 3 (DOWN),3,43,51
+pune,pune_10,103,Kothrud Depot to Katraj (UP),3,29,35
+pune,pune_14,104,Dsk Vishwa to Shivaji Nagar (UP),3,11,44
+pune,pune_16,107,Pimplegurav to Ganpati Matha (UP),3,3,57
+pune,pune_17,107,Ganpati Matha to Pimplegurav (DOWN),3,3,57
+pune,pune_18,108,Pune Station Moledina Road to Sutardara (UP),3,3,29
+pune,pune_19,108,Sutardara to Pune Station Moledina Stand (DOWN),3,3,28
+pune,pune_28,111M,Ma Na Pa Congress Bhavan to Bhekrai Nagar (UP),3,2,35
+pune,pune_29,111M,Bhekrai Nagar to Ma Na Pa Congress Bhavan (DOWN),3,2,39
+pune,pune_36,113,Sangvi Vasantdada Putala to Vasant Talkies (UP),3,5,26
+pune,pune_37,113,Vasant Talkies to Sangvi Vasantdada Putala (DOWN),3,6,27
+pune,pune_38,114,Bajirao Padale Chowk Mhalunge to Ma Na Pa Main Gate (UP),3,52,43
+pune,pune_39,114,Ma Na Pa Main Gate to Bajirao Padale Chowk Mhalunge (DOWN),3,64,43
+pune,pune_40,115,Hinjawadi Maan Phase 3 to Pune Station Moledina Stand (UP),3,32,54
+pune,pune_41,115,Pune Station Moledina Stand to Hinjawadi Maan Phase 3 (DOWN),3,26,56
+pune,pune_45,117,Dhayareshwar Mandir to Swargate Natraj Stand (UP),3,44,33
+pune,pune_47,117,Swargate Natraj Stand to Dhayareshwar Mandir (DOWN),3,46,31
+pune,pune_48,118A,Suncity to Swargate Natraj Stand (UP),3,7,20
+pune,pune_49,118A,Swargate Natraj Stand to Suncity (DOWN),3,8,17
+pune,pune_55,118,Vadgaon Budruk Stand to Swargate Natraj Stand (UP),3,16,22
+pune,pune_57,118,Swargate Natraj Stand to Vadgaon Budruk Stand (DOWN),3,18,19
+pune,pune_58,119A,Charholigaon to Ma Na Pa Daphale Garage (UP),3,3,46
+pune,pune_59,119A,Ma Na Pa Daphale Garage to Charholigaon (DOWN),3,2,44
+pune,pune_60,119,Alandi to Ma Na Pa Daphale Garage (UP),3,35,44
+pune,pune_61,119,Ma Na Pa Daphale Garage to Alandi (DOWN),3,34,43
+pune,pune_62,11A,Kasarwadi Railway Station to Marketyard Depot (UP),3,2,48
+pune,pune_63,11A,Marketyard Depot to Kasarwadi Railway Station (DOWN),3,2,48
+pune,pune_66,11C,Pimplegurav to Katraj (UP),3,6,46
+pune,pune_67,11C,Katraj to Pimplegurav (DOWN),3,7,46
+pune,pune_68,11,Pimplegurav to Marketyard Depot (UP),3,19,42
+pune,pune_69,11,Marketyard Depot to Pimplegurav (DOWN),3,21,42
+pune,pune_70,120,Endurance Systems Chakan Mahalunge to Bhosari Chakan Road (UP),3,21,43
+pune,pune_71,120,Bhosari Chakan Road to Endurance Systems Chakan Mahalunge (DOWN),3,21,43
+pune,pune_72,121,Bhosari Terminal to Ma Na Pa Main Stand (UP),3,29,30
+pune,pune_73,121,Ma Na Pa Main Stand to Bhosari Terminal (DOWN),3,42,29
+pune,pune_78,122,Chinchwadgaon to Ma Na Pa Main Stand (UP),3,9,34
+pune,pune_79,122,Ma Na Pa Main Stand to Chinchwadgaon (DOWN),3,6,34
+pune,pune_80,123,Nigdi Bhakti Shakti to Ma Na Pa Main Stand (UP),3,29,36
+pune,pune_81,123,Ma Na Pa Main Stand to Nigdi Bhakti Shakti (DOWN),3,28,34
+pune,pune_82,124,Neilsoft Company infosys Phase 3 to Aundhgaon (UP),3,3,50
+pune,pune_83,124,Aundhgaon to Neilsoft Company infosys Phase 3 (DOWN),3,5,51
+pune,pune_96,126,Pimple Nilakh to Bopkhel (UP),3,16,48
+pune,pune_100,126,Bopkhel to Pimple Nilakh (DOWN),3,16,48
+pune,pune_102,12,Shivaji Nagar to Upper Depot (UP),3,4,29
+pune,pune_103,12,Upper Depot to Shivaji Nagar (DOWN),3,4,28
+pune,pune_110,130,Swargate to Narhegaon (UP),3,20,21
+pune,pune_111,130,Narhegaon to Swargate (DOWN),3,20,21
+pune,pune_112,131,Golegaon Gram Panchayat to Ma Na Pa Dengle Pul Nadikhathi (UP),3,3,52
+pune,pune_113,131,Ma Na Pa Dengle Pul Nadikathi to Golegaon Gram Panchayat (DOWN),3,2,50
+pune,pune_114,132,Shubham Society Nagar Road to Ma Na Pa Shramik Bhavan (UP),3,11,22
+pune,pune_115,132,Ma Na Pa Shramik Bhavan to Shubham Society Nagar Road (DOWN),3,12,21
+pune,pune_116,133A,Columbia Hospital to Ma Na Pa Shramik Bhavan (UP),3,19,31
+pune,pune_117,133A,Ma Na Pa Shramik Bhavan to Columbia Hospital (DOWN),3,21,31
+pune,pune_118,133,Anand Park Vadgaon Sheri Road to Ma Na Pa Shramik Bhavan (UP),3,16,25
+pune,pune_119,133,Ma Na Pa Shramik Bhavan to Anand Park Vadgaon Sheri Road (DOWN),3,16,24
+pune,pune_124,135,Ranjangaon Sandas to Ma Na Pa Shramik Bhavan (UP),3,2,106
+pune,pune_125,135,Ma Na Pa Shramik Bhavan to Ranjangaon Sandas (DOWN),3,1,105
+pune,pune_126,136,Vadegaon to Kesnand Phata Wagholi (UP),3,4,17
+pune,pune_127,136,Wagholi Kesnand Phata to Vadegaon (DOWN),3,6,17
+pune,pune_130,137,Pargaon Salu Malu to Ma Na Pa Shramik Bhavan (UP),3,7,105
+pune,pune_131,137,Ma Na Pa Shramik Bhavan to Pargaon Salu Malu (DOWN),3,7,104
+pune,pune_134,139A,Nigdi Bhakti Shakti Stand to Bhekrai Nagar (UP),3,21,58
+pune,pune_135,139A,Bhekrai Nagar to Nigdi Bhakti Shakti Stand (DOWN),3,29,59
+pune,pune_138,139,Nigdi Bhakti Shakti to Shewalewadi Depot (UP),3,23,60
+pune,pune_139,139,Shewalewadi Depot to Nigdi Bhakti Shakti (DOWN),3,18,61
+pune,pune_142,13,Shivaji Nagar to Upper Depot (UP),3,39,25
+pune,pune_145,13,Upper Depot to Shivaji Nagar (DOWN),3,41,25
+pune,pune_146,140A,Pune Station Jayprakash Stand to Katraj Kondhwa Road (UP),3,2,31
+pune,pune_147,140A,Katraj Kondhwa Road to Pune Station Jayprakash Stand (DOWN),3,2,31
+pune,pune_148,140,Pune Station Jayprakash Stand to Upper Depot (UP),3,37,29
+pune,pune_149,140,Upper Depot to Pune Station Jayprakash Stand (DOWN),3,38,28
+pune,pune_150,141,Pune Station Jayprakash Stand to Kumar Pruthvi Kondhwa (UP),3,4,21
+pune,pune_151,141,Kumar Pruthvi Kondhwa to Pune Station Jayprakash Stand (DOWN),3,4,20
+pune,pune_152,142,Ghotawade Phata to Pune Station Moledina Stand (UP),3,4,60
+pune,pune_153,142,Pune Station Depot to Ghotawade Phata (DOWN),3,5,61
+pune,pune_154,143,Pune Station Moledina Stand to Galinde Path (UP),3,8,36
+pune,pune_155,143,Galinde Path to Pune Station Moledina Stand (DOWN),3,8,35
+pune,pune_158,144A,Pune Station Moledina Stand to Aditya Garden City (UP),3,3,38
+pune,pune_159,144A,Aditya Garden City to Pune Station Moledina Stand (DOWN),3,3,36
+pune,pune_162,144,Pune Station Moledina Stand to Nda 10 No. Gate (UP),3,9,46
+pune,pune_165,144,Nda 10 No. Gate to Pune Station Moledina Stand (DOWN),3,9,45
+pune,pune_166,145,Sutarwadi Depot to Pune Station Depot (UP),3,3,33
+pune,pune_167,145,Pune Station Depot to Sutarwadi Depot (DOWN),3,4,34
+pune,pune_168,146,Gokhale Nagar Police Line to Pune Station Jayprakash Stand (UP),3,18,22
+pune,pune_169,146,Pune Station Jayprakash Stand to Gokhale Nagar Police Line (DOWN),3,18,19
+pune,pune_170,147,Nhavi Sandas to Ma Na Pa Shramik Bhavan (UP),3,2,71
+pune,pune_171,147,Ma Na Pa Shramik Bhavan to Nhavi Sandas (DOWN),3,1,70
+pune,pune_174,148A,Bhosari Terminal to Bhekrai Nagar (UP),3,10,65
+pune,pune_175,148A,Bhekrai Nagar to Bhosari Terminal (DOWN),3,10,65
+pune,pune_176,148,Pimplegurav to Shewalewadi Depot (UP),3,26,54
+pune,pune_177,148,Shewalewadi Depot to Pimplegurav (DOWN),3,33,54
+pune,pune_178,149,Nigdi Bhakti Shakti Stand to Hadapsar Gadital (UP),3,35,86
+pune,pune_179,149,Hadapsar Gadital to Nigdi Bhakti Shakti Stand (DOWN),3,64,87
+pune,pune_182,151,Alandi to Pune Station Moledina Stand (UP),3,33,42
+pune,pune_183,151,Pune Station Moledina Stand to Alandi (DOWN),3,40,38
+pune,pune_191,152,Lohegaon to Ma Na Pa Daphale Garage (UP),3,21,38
+pune,pune_194,152,Ma Na Pa Daphale Garage to Dimond Water Park (DOWN),3,27,47
+pune,pune_195,153,Alandi to Kharadi Gaon (UP),3,4,54
+pune,pune_196,153,Kharadi Gaon to Alandi (DOWN),3,2,53
+pune,pune_197,154,Dimond Water Park to Pune Station Moledina Stand (UP),3,24,50
+pune,pune_198,154,Pune Station Moledina Stand to Dimond Water Park (DOWN),3,20,45
+pune,pune_199,155,Dimond Water Park to Pune Station Moledina Stand (UP),3,26,50
+pune,pune_200,155,Pune Station Moledina Stand to Dimond Water Park (DOWN),3,20,45
+pune,pune_205,157,JSPM Vidhyapith Wagholi to Ma Na Pa Shramik Bhavan (UP),3,4,38
+pune,pune_206,157,Ma Na Pa Shramik Bhavan to JSPM Vidhyapith Wagholi (DOWN),3,6,37
+pune,pune_207,158A,Dimond Water Park to Ma Na Pa Dengle Pul Nadikathi (UP),3,7,38
+pune,pune_208,158A,Ma Na Pa Dengle Pul Nadikhathi to Dimond Water Park (DOWN),3,8,35
+pune,pune_213,158,Prime City Charholi to Ma Na Pa Dengle Pul Nadikathi (UP),3,42,36
+pune,pune_214,158,Ma Na Pa Dengle Pul Nadikhathi to Prime City Charholi (DOWN),3,31,34
+pune,pune_217,159B,Loni Dhamni to Ma Na Pa Shramik Bhavan (UP),3,5,100
+pune,pune_218,159B,Ma Na Pa Shramik Bhavan to Loni Dhamni (DOWN),3,6,99
+pune,pune_221,159,Talegaon Dhamdhere Bazar to Ma Na Pa Shramik Bhavan (UP),3,38,67
+pune,pune_222,159,Ma Na Pa Shramik Bhavan to Talegaon Dhamdhere Bazar (DOWN),3,48,65
+pune,pune_223,15,Dsk Vishwa to Bhekrai Nagar (UP),3,28,56
+pune,pune_224,15,Bhekrai Nagar to Dsk Vishwa (DOWN),3,31,54
+pune,pune_225,160,Manjari Budruk to Shaniwarwada Stand (UP),3,12,41
+pune,pune_226,160,Shaniwarwada Stand to Manjari Budruk (DOWN),3,15,40
+pune,pune_234,161,Zilla Parishad Shala Karegaon to Kesnand Phata Wagholi (UP),3,33,59
+pune,pune_236,161,Wagholi Kesnand Phata to Zilla Parishad Shala Karegaon (DOWN),3,43,59
+pune,pune_237,162,Pabal Gaon to Ma Na Pa Shramik Bhavan (UP),3,3,92
+pune,pune_238,162,Ma Na Pa Shramik Bhavan to Pabal Gaon (DOWN),3,2,88
+pune,pune_241,163,Dhole Patil Collage to Pune Station Ambedkar Putala (UP),3,28,36
+pune,pune_242,163,Pune Station Ambedkar Putala to Dhole Patil Collage (DOWN),3,31,35
+pune,pune_245,164,Nhavare to Ma Na Pa Shramik Bhavan (UP),3,7,103
+pune,pune_246,164,Ma Na Pa Shramik Bhavan to Nhavare (DOWN),3,5,101
+pune,pune_247,165,Vadgaon Sheri to Ma Na Pa Dengle Pul Nadikhathi (UP),3,27,22
+pune,pune_248,165,Ma Na Pa Dengle Pul Nadikathi to Vadgaon Sheri (DOWN),3,32,21
+pune,pune_255,166,Lohgaon Airport to Pune Station Ambedkar Putala (UP),3,18,23
+pune,pune_256,166,Pune Station Ambedkar Putala to Lohegaon Airport (DOWN),3,22,25
+pune,pune_259,167,Kesnand Phata Wagholi to Bhekrai Nagar (UP),3,50,34
+pune,pune_262,167,Bhekrai Nagar to Wagholi Kesnand Phata (DOWN),3,57,35
+pune,pune_265,168,Keshav Nagar to Shaniwarwada Stand (UP),3,9,33
+pune,pune_266,168,Shaniwarwada Stand to Keshav Nagar (DOWN),3,11,32
+pune,pune_267,169,Keshav Nagar to Shaniwarwada Stand (UP),3,30,27
+pune,pune_270,169,Shaniwarwada Stand to Keshav Nagar (DOWN),3,35,26
+pune,pune_279,172,Pune Station Jayprakash Stand to Yewalewadi (UP),3,3,40
+pune,pune_280,172,Yewalewadi to Pune Station Jayprakash Stand (DOWN),3,3,39
+pune,pune_281,174,Nda 10 No. Gate to Pune Station Moledina Stand (UP),3,15,51
+pune,pune_282,174,Pune Station Moledina Stand to Nda 10 No. Gate (DOWN),3,34,49
+pune,pune_285,175,Hadapsar Gadital to Shaniwarwada Stand (UP),3,3,38
+pune,pune_286,175,Shaniwarwada Stand to Hadapsar Gadital (DOWN),3,3,36
+pune,pune_287,176,Vadachi Wadi to Pune Station Depot (UP),3,2,42
+pune,pune_288,176,Pune Station Depot to Vadachi Wadi (DOWN),3,2,41
+pune,pune_291,177,Bhangire Nagar Mahamadwadi to Pune Station Depot (UP),3,16,28
+pune,pune_292,177,Pune Station Depot to Bhangire Nagar Mahamadwadi (DOWN),3,21,27
+pune,pune_293,179,Lohegaon Khandoba Mal to Hadapsar Gadital (UP),3,5,42
+pune,pune_294,179,Hadapsar Gadital to Lohegaon Khandoba Mal (DOWN),3,8,46
+pune,pune_297,17,Narhegaon to Shivaji Nagar (UP),3,28,41
+pune,pune_298,17,Shivaji Nagar to Narhegaon (DOWN),3,18,39
+pune,pune_299,180,Bhekrai Nagar to Na Ta Wadi (UP),3,9,35
+pune,pune_300,180,Na Ta Wadi to Bhekrai Nagar (DOWN),3,11,34
+pune,pune_311,183,Wagholi Kesnand Phata to Hadapsar Gadital Solapur Road (UP),3,9,55
+pune,pune_312,183,Hadapsar Gadital Solapur Road to Wagholi Kesnand Phata (DOWN),3,12,54
+pune,pune_313,184,Ramdara to Hadapsar Gadital Solapur Road (UP),3,4,30
+pune,pune_314,184,Hadapsar Gadital Solapur Road to Ramdara (DOWN),3,5,29
+pune,pune_315,185,Kesnand Phata Wagholi to Hadapsar Gadital (UP),3,8,29
+pune,pune_316,185,Hadapsar Gadital to Wagholi Kesnand Phata (DOWN),3,10,29
+pune,pune_317,186,Jspm College to Hadapsar Gadital (UP),3,6,16
+pune,pune_318,186,Hadapsar Gadital to Jspm College (DOWN),3,7,12
+pune,pune_321,188,Katraj Kondhwa Road to Hadapsar Gadital (UP),3,30,42
+pune,pune_322,188,Hadapsar Gadital to Katraj Kondhwa Road (DOWN),3,47,42
+pune,pune_323,189,Dhangar Vasti to Hadapsar Gadital (UP),3,35,22
+pune,pune_324,189,Hadapsar Gadital to Dhangar Vasti (DOWN),3,43,22
+pune,pune_327,192,Vadachi Wadi to Hadapsar Gadital (UP),3,24,26
+pune,pune_328,192,Hadapsar Gadital to Vadachi Wadi (DOWN),3,31,27
+pune,pune_331,193,Khutbav Gaon to Hadapsar Gadital Solapur Road (UP),3,2,87
+pune,pune_332,193,Hadapsar Gadital Solapur Road to Khutbav Gaon (DOWN),3,1,86
+pune,pune_335,195,Holkarwadi to Hadapsar Gadital (UP),3,16,26
+pune,pune_336,195,Hadapsar Gadital to Holkarwadi (DOWN),3,22,22
+pune,pune_345,199,Shewalewadi Depot to Kothrud Depot (UP),3,28,48
+pune,pune_346,199,Kothrud Depot to Shewalewadi Depot (DOWN),3,22,48
+pune,pune_347,19A,Swargate to Yewalewadi (UP),3,5,27
+pune,pune_348,19A,Yewalewadi to Swargate (DOWN),3,5,26
+pune,pune_351,19,Swargate to Yewalewadi (UP),3,17,27
+pune,pune_352,19,Yewalewadi to Swargate (DOWN),3,18,28
+pune,pune_355,200,Alandi to Shewalewadi Depot (UP),3,12,72
+pune,pune_356,200,Shewalewadi Depot to Alandi (DOWN),3,24,72
+pune,pune_357,201,Alandi to Bhekrai Nagar (UP),3,41,67
+pune,pune_358,201,Bhekrai Nagar to Alandi (DOWN),3,36,69
+pune,pune_359,202,Ganpati Matha to Shewalewadi Depot (UP),3,24,52
+pune,pune_360,202,Shewalewadi Depot to Ganpati Matha (DOWN),3,24,57
+pune,pune_363,203,Pune Station Moledina Stand to Shewalewadi Depot (UP),3,30,27
+pune,pune_364,203,Shewalewadi Depot to Pune Station Moledina Stand (DOWN),3,45,28
+pune,pune_365,204,Chinchwadgaon to Bhekrai Nagar (UP),3,39,60
+pune,pune_366,204,Bhekrai Nagar to Chinchwadgaon Aundh Road / Chinchwadgaon (DOWN),3,54,60
+pune,pune_367,205,Sangvi Vasantdada Putala to Shewalewadi Depot (UP),3,8,58
+pune,pune_368,205,Shewalewadi Depot to Sangvi Vasantdada Putala (DOWN),3,9,58
+pune,pune_371,207A,Saswad to Hadapsar Gadital (UP),3,23,41
+pune,pune_372,207A,Hadapsar Gadital to Saswad (DOWN),3,31,41
+pune,pune_373,207,Saswad to Swargate (UP),3,6,58
+pune,pune_379,207,Swargate to Saswad (DOWN),3,9,58
+pune,pune_380,208,Hinjawadi Maan Phase 3 to Bhekrai Nagar (UP),3,9,78
+pune,pune_381,208,Bhekrai Nagar to Hinjawadi Maan Phase 3 (DOWN),3,15,79
+pune,pune_382,209A,Saswad to Swargate (UP),3,2,59
+pune,pune_383,209A,Swargate to Saswad (DOWN),3,2,59
+pune,pune_386,209,Saswad to Katraj Kondhwa Road (UP),3,29,48
+pune,pune_387,209,Katraj Kondhwa Road to Saswad (DOWN),3,37,48
+pune,pune_392,210,Midc Jejuri to Hadapsar Gadital (UP),3,21,85
+pune,pune_393,210,Hadapsar Gadital to Midc Jejuri (DOWN),3,20,85
+pune,pune_1274,211,Uruli Kanchan to Saswad (UP),3,4,43
+pune,pune_1275,211,Saswad to Uruli Kanchan (DOWN),3,5,43
+pune,pune_396,212,Morgaon St Stand to Hadapsar Gadital (UP),3,2,112
+pune,pune_397,212,Hadapsar Gadital to Morgaon St Stand (DOWN),3,1,112
+pune,pune_400,213,Nira to Hadapsar Gadital (UP),3,8,122
+pune,pune_401,213,Hadapsar Gadital to Nira (DOWN),3,9,122
+pune,pune_402,214,Shingad Collage Ambegaon to Katraj (UP),3,15,11
+pune,pune_403,214,Katraj to Shingad Collage Ambegaon (DOWN),3,14,11
+pune,pune_404,215,Swargate to Chintamani Dnyanpith (UP),3,18,30
+pune,pune_405,215,Chintamani Dnyanpith to Swargate (DOWN),3,18,29
+pune,pune_410,216,Shivaji Nagar to Bharati Vidyapeeth (UP),3,27,25
+pune,pune_411,216,Bharati Vidyapeeth to Shivaji Nagar (DOWN),3,31,24
+pune,pune_414,219,Alandi to Kothrud Depot (UP),3,1,63
+pune,pune_415,219,Kothrud Depot to Alandi (DOWN),3,2,65
+pune,pune_418,21,Sangvi Vasantdada Putala to Swargate (UP),3,20,36
+pune,pune_419,21,Swargate to Sangvi Vasantdada Putala (DOWN),3,23,35
+pune,pune_422,221,I V Estate Wagholi to Wagholi Kesnand Phata (UP),3,9,8
+pune,pune_423,221,Kesnand Phata Wagholi to IV VILLA LANE NO. 1 (DOWN),3,8,8
+pune,pune_424,225,Hinjawadi Maan Phase 3 to Kharadi Gaon (UP),3,3,69
+pune,pune_425,225,Kharadi Gaon to Hinjawadi Maan Phase 3 (DOWN),3,6,69
+pune,pune_432,227A,Mhasoba Mandir Kharawade to Marketyard Depot (UP),3,6,80
+pune,pune_433,227A,Marketyard Depot to Mhasoba Mandir Kharawade (DOWN),3,6,82
+pune,pune_434,227,Marnewadi to Marketyard Depot (UP),3,2,69
+pune,pune_435,227,Marketyard Depot to Marnewadi (DOWN),3,3,70
+pune,pune_440,228,Vadgaon Mawal to Katraj (UP),3,24,87
+pune,pune_445,228,Katraj to Vadgaon Mawal (DOWN),3,31,88
+pune,pune_448,231,Shilim Gaon to Marketyard Depot (UP),3,2,117
+pune,pune_449,231,Marketyard Depot to Shilim Gaon (DOWN),3,2,118
+pune,pune_450,232,Gram Panchayat Belawade to Marketyard Depot (UP),3,2,93
+pune,pune_451,232,Marketyard Depot to Gram Panchayat Belawade (DOWN),3,1,93
+pune,pune_452,233A,Kolwan Gaon to Marketyard Depot (UP),3,7,97
+pune,pune_453,233A,Marketyard Depot to Kolwan Gaon (DOWN),3,5,98
+pune,pune_454,233B,Bhadasgaon to Marketyard Depot (UP),3,2,87
+pune,pune_455,233B,Marketyard Depot to Bhadasgaon (DOWN),3,1,88
+pune,pune_456,233,Paud Shashkiy Vishram Gruh to Marketyard Depot (UP),3,8,73
+pune,pune_457,233,Marketyard Depot to Paud Shashkiy Vishram Gruh (DOWN),3,9,74
+pune,pune_458,234,Dhole Patil Collage to Ma Na Pa Shramik Bhavan (UP),3,15,41
+pune,pune_459,234,Ma Na Pa Shramik Bhavan to Dhole Patil Collage (DOWN),3,16,40
+pune,pune_460,235,Kharadi Gaon to Katraj (UP),3,27,48
+pune,pune_461,235,Katraj to Kharadi Gaon (DOWN),3,28,48
+pune,pune_462,236,Kesnand Phata Wagholi to Katraj (UP),3,28,51
+pune,pune_463,236,Katraj to Wagholi Kesnand Phata (DOWN),3,22,51
+pune,pune_464,24A,Lohegaon Haran Tale to Katraj (UP),3,24,54
+pune,pune_465,24A,Katraj to Lohegaon Haran Tale (DOWN),3,40,53
+pune,pune_468,24,Maharashtra Housing Board Samta Nagar to Katraj (UP),3,16,46
+pune,pune_469,24,Katraj to Maharashtra Housing Board Samta Nagar (DOWN),3,18,44
+pune,pune_472,256,Balewadi Depot to Pune Station Moledina Stand (UP),3,33,39
+pune,pune_473,256,Pune Station Moledina Stand to Balewadi Depot (DOWN),3,27,41
+pune,pune_1244,257A,Indian Oil Petrol Pump Tulapur to Wagholi Kesnand Phata (UP),3,9,26
+pune,pune_1245,257A,Wagholi Kesnand Phata to Indian Oil Petrol Pump Tulapur (DOWN),3,12,26
+pune,pune_476,257,Alandi to Panaychi Taki Markal (UP),3,10,25
+pune,pune_477,257,Panaychi Taki Markal to Alandi (DOWN),3,12,25
+pune,pune_478,258,Nilanjan Society Soosgaon to Ma Na Pa Main Gate (UP),3,4,40
+pune,pune_479,258,Ma Na Pa Main Gate to Nilanjan Society Soosgaon (DOWN),3,4,40
+pune,pune_484,262,Sant Tukaram Maharaj Krida Sankul Dehugaon to Pune Station Moledina Stand (UP),3,4,68
+pune,pune_485,262,Pune Station Moledina Stand to Sant Tukaram Maharaj Krida Sankul Dehugaon (DOWN),3,4,69
+pune,pune_486,264,Pabal Gaon to Bhosari Pmt Chowk (UP),3,2,85
+pune,pune_487,264,Bhosari Pmt Chowk to Pabal Gaon (DOWN),3,1,84
+pune,pune_488,26,Shivaji Nagar to Dhankawadi (UP),3,4,24
+pune,pune_489,26,Dhankawadi to Shivaji Nagar (DOWN),3,3,23
+pune,pune_494,276,Chinchwadgaon to Ganpati Matha (UP),3,32,52
+pune,pune_495,276,Ganpati Matha to Chinchwadgaon Aundh Road / Chinchwadgaon (DOWN),3,36,50
+pune,pune_496,277,Bhosari Terminal to Kothrud Depot (UP),3,8,56
+pune,pune_497,277,Kothrud Depot to Bhosari Terminal (DOWN),3,9,53
+pune,pune_498,279,Katar Khadak to Marketyard Depot (UP),3,2,90
+pune,pune_499,279,Marketyard Depot to Katar Khadak (DOWN),3,1,91
+pune,pune_500,281,Nigdi Bhakti Shakti to Ganpati Matha (UP),3,13,56
+pune,pune_501,281,Ganpati Matha to Nigdi Bhakti Shakti (DOWN),3,12,56
+pune,pune_502,282,Bhosari Terminal to Ganpati Matha (UP),3,14,50
+pune,pune_503,282,Ganpati Matha to Bhosari Terminal (DOWN),3,16,51
+pune,pune_504,283,Pune Station Moledina Stand to Kumbare Park (UP),3,3,33
+pune,pune_505,283,Kumbare Park to Pune Station Moledina Stand (DOWN),3,4,32
+pune,pune_510,290,Swargate to Jambhulwadi (UP),3,33,25
+pune,pune_511,290,Jambhulwadi to Swargate (DOWN),3,31,25
+pune,pune_512,291,Hadapsar Gadital to Katraj Kondhwa Road (UP),3,38,37
+pune,pune_513,291,Katraj Kondhwa Road to Hadapsar Gadital (DOWN),3,63,36
+pune,pune_521,292,Kondhanpur to Balaji Nagar Corner Satara Road (UP),3,11,39
+pune,pune_523,292,Balaji Nagar Corner Satara Road to Kondhanpur (DOWN),3,14,39
+pune,pune_524,293,Saswad to Balaji Nagar Corner Satara Road (UP),3,2,81
+pune,pune_525,293,Balaji Nagar Corner Satara Road to Saswad (DOWN),3,2,81
+pune,pune_530,296A,Vangniwadi to Balaji Nagar Corner Satara Road (UP),3,2,84
+pune,pune_531,296A,Balaji Nagar Corner Satara Road to Vangniwadi (DOWN),3,1,84
+pune,pune_532,296,Velhe to Balaji Nagar Corner Satara Road (UP),3,8,104
+pune,pune_533,296,Balaji Nagar Corner Satara Road to Velhe (DOWN),3,5,104
+pune,pune_534,297,Shivaji Nagar to Rajas Society (UP),3,4,27
+pune,pune_535,297,Rajas Society to Shivaji Nagar (DOWN),3,4,27
+pune,pune_538,298,Chinchwadgaon to Gujarwadi Pmt Bus Stand (UP),3,35,60
+pune,pune_539,298,Gujarwadi Pmt Bus Stand to Chinchwadgaon Aundh Road / Chinchwadgaon (DOWN),3,35,58
+pune,pune_540,299,Bhosari Terminal to Gujarwadi Pmt Bus Stand (UP),3,34,53
+pune,pune_541,299,Gujarwadi Pmt Bus Stand to Bhosari Terminal (DOWN),3,35,53
+pune,pune_544,29,Alandi to Swargate (UP),3,36,50
+pune,pune_545,29,Swargate to Alandi (DOWN),3,41,51
+pune,pune_546,2A,Shivaji Nagar to Katraj (UP),3,24,23
+pune,pune_547,2A,Katraj to Shivaji Nagar (DOWN),3,25,23
+pune,pune_551,2,Shivaji Nagar to Swargate (UP),3,14,11
+pune,pune_552,2,Swargate to Shivaji Nagar (DOWN),3,14,11
+pune,pune_553,301A,Bhekrai Nagar to Katraj (UP),3,15,37
+pune,pune_554,301A,Katraj to Bhekrai Nagar (DOWN),3,22,37
+pune,pune_557,301,Shewalewadi Depot to Katraj (UP),3,54,39
+pune,pune_560,301,Katraj to Shewalewadi Depot (DOWN),3,51,39
+pune,pune_561,302A,Alandi to Pimprigaon (UP),3,3,49
+pune,pune_562,302A,Pimprigaon to Alandi (DOWN),3,4,49
+pune,pune_565,302,Bhosari Gavhane Vasti to Pimprigaon (UP),3,29,25
+pune,pune_566,302,Pimprigaon to Bhosari Gavhane Vasti (DOWN),3,35,25
+pune,pune_567,303A,Gahunjegaon to Nigdi Pawale Chowk (UP),3,4,38
+pune,pune_568,303A,Nigdi Pawale Chowk to Gahunjegaon (DOWN),3,5,36
+pune,pune_569,303,Akurdi Railway Station to Nigdi Pawale Chowk (UP),3,21,18
+pune,pune_570,303,Nigdi Pawale Chowk to Akurdi Railway Station (DOWN),3,22,16
+pune,pune_571,304,Bhosari Gavhane Vasti to Chinchwadgaon (UP),3,44,33
+pune,pune_572,304,Chinchwadgaon to Bhosari Gavhane Vasti (DOWN),3,49,25
+pune,pune_573,305A,Greenbase Industrial Park Navlakh Umbre to Nigdi Pawale Chowk (UP),3,6,59
+pune,pune_574,305A,Nigdi Pawale Chowk to Greenbase Industrial Park Navlakh Umbre (DOWN),3,7,60
+pune,pune_575,305B,Mindewadi Navlakh Umbre to Nigdi Pawale Chowk (UP),3,2,65
+pune,pune_576,305B,Nigdi Pawale Chowk to Mindewadi Navlakh Umbre (DOWN),3,2,66
+pune,pune_577,305,Vadgaon Mawal to Nigdi Pawale Chowk (UP),3,20,46
+pune,pune_578,305,Nigdi Pawale Chowk to Vadgaon Mawal (DOWN),3,22,46
+pune,pune_579,306A,Hinjewadi Hills Dattawadi to Dange Chowk (UP),3,3,34
+pune,pune_580,306A,Dange Chowk to Hinjewadi Hills Dattawadi (DOWN),3,4,34
+pune,pune_581,306,Megapolis Phase 3 to Dange Chowk (UP),3,19,29
+pune,pune_582,306,Dange Chowk to Megapolis Phase 3 (DOWN),3,18,27
+pune,pune_583,307,ISKCON Mandir in Shindewasti Ravet to Chinchwadgaon (UP),3,4,20
+pune,pune_584,307,Chinchwadgaon to ISKCON Mandir in Shindewasti Ravet (DOWN),3,5,20
+pune,pune_585,308,Gharkul Vasahat Chikhali to Nigdi Pawale Chowk (UP),3,16,12
+pune,pune_586,308,Nigdi Pawale Chowk to Gharkul Vasahat Chikhali (DOWN),3,17,12
+pune,pune_587,309,Sant Tukaram Maharaj Krida Sankul Dehugaon to Alandi (UP),3,45,46
+pune,pune_588,309,Alandi to Sant Tukaram Maharaj Krida Sankul Dehugaon (DOWN),3,49,46
+pune,pune_589,30,Ghotawade Phata to Marketyard Depot (UP),3,10,66
+pune,pune_590,30,Marketyard Depot to Ghotawade Phata (DOWN),3,12,66
+pune,pune_597,312,Chinchwadgaon to Pune Station Depot (UP),3,17,46
+pune,pune_598,312,Pune Station Depot to Chinchwadgaon (DOWN),3,21,47
+pune,pune_603,313,Chandkhed to Chinchwadgaon (UP),3,13,44
+pune,pune_604,313,Chinchwadgaon to Chandkhed (DOWN),3,21,44
+pune,pune_605,314,Chakan Ambethan Chowk to Nigdi Pawale Chowk (UP),3,24,50
+pune,pune_606,314,Nigdi to Chakan Ambethan Chowk (DOWN),3,32,57
+pune,pune_607,315,Bhosari Pmt Chowk to Pune Station Sassoon Road (UP),3,36,43
+pune,pune_608,315,Pune Station Sassoon Road to Bhosari Pmt Chowk (DOWN),3,45,40
+pune,pune_609,316,Katar Khadak to Chinchwadgaon (UP),3,2,64
+pune,pune_610,316,Chinchwadgaon to Katar Khadak (DOWN),3,2,62
+pune,pune_613,317,Sambhaji Nagar to Pune Station Depot (UP),3,9,49
+pune,pune_614,317,Pune Station Depot to Sambhaji Nagar (DOWN),3,12,51
+pune,pune_623,320,Hinjawadi Maan Phase 3 to Chinchwadgaon (UP),3,3,41
+pune,pune_624,320,Chinchwadgaon to Hinjawadi Maan Phase 3 (DOWN),3,5,37
+pune,pune_625,321,Megapolis Phase 3 to Neilsoft Company infosys Phase 3 (UP),3,12,15
+pune,pune_626,321,Neilsoft Company infosys Phase 3 to Megapolis Phase 3 (DOWN),3,13,15
+pune,pune_627,322A,Akurdi Railway Station to Ganpati Matha (UP),3,6,75
+pune,pune_628,322A,Ganpati Matha to Akurdi Railway Station (DOWN),3,17,72
+pune,pune_629,322,Akurdi Railway Station to Ma Na Pa Main Gate (UP),3,30,55
+pune,pune_630,322,Ma Na Pa Main Gate to Akurdi Railway Station (DOWN),3,51,52
+pune,pune_631,323A,Gharkul Vasahat Chikhali to Ma Na Pa Main Stand (UP),3,3,41
+pune,pune_632,323A,Ma Na Pa Main Stand to Gharkul Vasahat Chikhali (DOWN),3,3,37
+pune,pune_633,323,Nageshwar Vidyalaya Chikhli to Ma Na Pa Main Stand (UP),3,21,48
+pune,pune_634,323,Ma Na Pa Main Stand to Nageshwar Vidyalaya Chikhli (DOWN),3,21,46
+pune,pune_635,324,Hinjawadi Maan Phase 3 to Bhosari Terminal (UP),3,45,44
+pune,pune_636,324,Bhosari Terminal to Hinjawadi Maan Phase 3 (DOWN),3,57,45
+pune,pune_641,326,Nageshwar Vidyalaya Chikhli to Pimprigaon (UP),3,4,26
+pune,pune_642,326,Pimprigaon to Nageshwar Vidyalaya Chikhli (DOWN),3,6,25
+pune,pune_647,327,Hinjawadi Maan Phase 3 to Alandi (UP),3,16,80
+pune,pune_648,327,Alandi to Hinjawadi Maan Phase 3 (DOWN),3,16,86
+pune,pune_654,329,Siddhanta College Sudumbare to Pimpri Road (UP),3,12,48
+pune,pune_655,329,Pimpri Road to Siddhanta College Sudumbare (DOWN),3,8,47
+pune,pune_656,330,Talegaon Dhabhade Maruti Mandir to Sant Tukaram Maharaj Krida Sankul Wadacha Mal Dehugaon (UP),3,7,39
+pune,pune_657,330,Sant Tukaram Maharaj Krida Sankul Dehugaon to Talegaon Dhabhade Maruti Mandir (DOWN),3,9,39
+pune,pune_659,331A,Pimple Saudagar- Mahadev Mandir / Pimple Saudagar to Charholigaon Burde Vasti (UP),3,2,63
+pune,pune_661,331A,Charholigaon Burde Vasti to Pimple Saudagar (DOWN),3,3,60
+pune,pune_662,331B,Pimple Saudagar- Mahadev Mandir / Pimple Saudagar to Charholigaon (UP),3,3,60
+pune,pune_663,331B,Charholigaon to Pimple Saudagar (DOWN),3,2,58
+pune,pune_666,331,Pimple Saudagar- Mahadev Mandir / Pimple Saudagar to Bhosari Gavhane Vasti (UP),3,36,36
+pune,pune_667,331,Bhosari Gavhane Vasti to Pimple Saudagar (DOWN),3,35,35
+pune,pune_1266,332,Tata Motors Bebadohal to Nigdi Pawale Chowk (UP),3,4,37
+pune,pune_1267,332,Nigdi Pawale Chowk to Tata Motors Bebadohal (DOWN),3,5,37
+pune,pune_670,333,Hinjawadi Maan Phase 3 to Pune Station Moledina Stand (UP),3,12,62
+pune,pune_671,333,Pune Station Moledina Stand to Hinjawadi Maan Phase 3 (DOWN),3,16,63
+pune,pune_672,334,Gharkul Vasahat Chikhali to Pimprigaon (UP),3,4,20
+pune,pune_673,334,Pimprigaon to Gharkul Vasahat Chikhali (DOWN),3,4,17
+pune,pune_678,336,Nigdi Bhakti Shakti to Kesnand Phata Wagholi (UP),3,41,57
+pune,pune_679,336,Wagholi Kesnand Phata to Bhakti Shakti Stand (DOWN),3,34,54
+pune,pune_1326,337,Dsk Vishwa to Nigdi Bhakti Shakti Stand (UP),3,4,68
+pune,pune_1327,337,Nigdi Bhakti Shakti Stand to Dsk Vishwa (DOWN),3,5,67
+pune,pune_682,339,Sant Nagar Rto Office to Gujarwadi Pmt Bus Stand (UP),3,2,66
+pune,pune_683,339,Gujarwadi Pmt Bus Stand to Sant Nagar Rto Office (DOWN),3,2,66
+pune,pune_684,340,Alandi to Nigdi Pawale Chowk (UP),3,28,54
+pune,pune_685,340,Nigdi Pawale Chowk to Alandi (DOWN),3,22,55
+pune,pune_686,341,Urse Gaon Vasudev Aashram to Nigdi Pawale Chowk (UP),3,4,47
+pune,pune_687,341,Nigdi Pawale Chowk to Urse Gaon Vasudev Aashram (DOWN),3,5,47
+pune,pune_688,342,Vasudev Aashram Ursegaon to Nigdi Pawale Chowk (UP),3,4,37
+pune,pune_689,342,Nigdi Pawale Chowk to Vasudev Aashram Ursegaon (DOWN),3,5,37
+pune,pune_694,343,Talegaon Dhabhade Maruti Mandir to Chakan Ambethan Chowk (UP),3,30,51
+pune,pune_695,343,Chakan Ambethan Chowk to Talegaon Dhabhade Maruti Mandir (DOWN),3,43,52
+pune,pune_696,344,Baner Depot to Alandi (UP),3,6,78
+pune,pune_697,344,Alandi to Baner Depot (DOWN),3,11,77
+pune,pune_698,345,Hinjawadi Maan Phase 3 to Bhosari Terminal (UP),3,10,41
+pune,pune_699,345,Bhosari Terminal to Hinjawadi Maan Phase 3 (DOWN),3,6,42
+pune,pune_700,346,Bhosari Pmt Chowk to Kesnand Phata Wagholi (UP),3,7,57
+pune,pune_701,346,Wagholi Kesnand Phata to Bhosari Pmt Chowk (DOWN),3,19,58
+pune,pune_704,348,Nigdi Bhakti Shakti to Pune Station Moledina Stand (UP),3,26,50
+pune,pune_705,348,Pune Station Moledina Stand to Nigdi Bhakti Shakti (DOWN),3,42,50
+pune,pune_706,34,Nigdi Pawale Chowk to Aundhgaon (UP),3,15,30
+pune,pune_707,34,Aundhgaon to Nigdi Pawale Chowk (DOWN),3,15,30
+pune,pune_708,350,Sant Tukaram Maharaj Krida Sankul Dehugaon to Nigdi Tilak Chowk (UP),3,50,29
+pune,pune_709,350,Nigdi Tilak Chowk to Sant Tukaram Maharaj Krida Sankul Dehugaon (DOWN),3,59,29
+pune,pune_712,351,Jambe to Alandi (UP),3,2,75
+pune,pune_713,351,Alandi to Jambe (DOWN),3,4,78
+pune,pune_714,352,Rajguru Nagar Low Collage to Pune Station Sassoon Road (UP),3,2,80
+pune,pune_715,352,Pune Station Sassoon Road to Rajguru Nagar Low Collage (DOWN),3,2,82
+pune,pune_722,353,Shikrapur Phata to Chakan Ambethan Chowk (UP),3,9,52
+pune,pune_723,353,Chakan Ambethan Chowk to Shikrapur Phata (DOWN),3,13,51
+pune,pune_726,354,Pimprigaon to Marketyard Depot (UP),3,10,66
+pune,pune_727,354,Marketyard Depot to Pimprigaon (DOWN),3,10,63
+pune,pune_728,355A,Nageshwar Vidyalaya Chikhli to Radha Hotel (UP),3,20,48
+pune,pune_729,355A,Radha Hotel to Nageshwar Vidyalaya Chikhli (DOWN),3,33,51
+pune,pune_730,355,Nageshwar Vidyalaya Chikhli to Radha Hotel (UP),3,24,48
+pune,pune_731,355M,Nageshwar Vidyalaya Chikhli to Dange Chowk (UP),3,3,38
+pune,pune_732,355M,Dange Chowk to Nageshwar Vidyalaya Chikhli (DOWN),3,3,37
+pune,pune_733,355,Radha Hotel to Nageshwar Vidyalaya Chikhli (DOWN),3,24,51
+pune,pune_736,356,Sector no. 12 PM Awas Yojana Bhosari to Nashik Phata Metro Station (UP),3,4,33
+pune,pune_737,356,Nashik Phata Metro Station to Sector no. 12 PM Awas Yojana Bhosari (DOWN),3,4,32
+pune,pune_738,357,Bhosari Terminal to Pune Station Sassoon Road (UP),3,41,31
+pune,pune_739,357,Pune Station Sassoon Road to Bhosari Terminal (DOWN),3,55,33
+pune,pune_740,358A,Bhamchandra Vidhyalay Vasuli to Bhosari Chakan Road (UP),3,27,55
+pune,pune_741,358A,Bhosari Chakan Road to Bhamchandra Vidhyalay Vasuli (DOWN),3,33,55
+pune,pune_746,358,Rajguru Nagar Low Collage to Bhosari Chakan Road (UP),3,34,50
+pune,pune_747,358,Bhosari Chakan Road to Rajguru Nagar Low Collage (DOWN),3,48,50
+pune,pune_748,359A,Rajguru Nagar Low Collage to Pimplegurav (UP),3,2,63
+pune,pune_749,359A,Pimplegurav to Rajguru Nagar Low Collage (DOWN),3,4,63
+pune,pune_752,35,Mukai Chowk to Ma Na Pa Dengle Pul Nadikathi (UP),3,54,35
+pune,pune_757,35,Ma Na Pa Dengle Pul Nadikhathi to Mukai Chowk (DOWN),3,47,33
+pune,pune_758,360A,Aundhgaon to Alandi (UP),3,1,44
+pune,pune_759,360A,Alandi to Aundhgaon (DOWN),3,2,45
+pune,pune_760,360,Bajirao Padale Chowk Mhalunge to Alandi (UP),3,22,84
+pune,pune_761,360,Alandi to Bajirao Padale Chowk Mhalunge (DOWN),3,36,85
+pune,pune_762,361,Bhosari Pmt Chowk to Alandi (UP),3,40,21
+pune,pune_763,361,Alandi to Bhosari Pmt Chowk (DOWN),3,48,21
+pune,pune_766,362,Ycm Hospital to Alandi (UP),3,3,37
+pune,pune_767,362,Alandi to Ycm Hospital (DOWN),3,3,37
+pune,pune_773,363,Samir Lawns Ravet to Pimpri Road (UP),3,26,38
+pune,pune_777,363,Pimpri Road to Samir Lawns Ravet (DOWN),3,24,39
+pune,pune_778,364,Chakan Ambethan Chowk to Alandi (UP),3,3,17
+pune,pune_779,364,Alandi to Chakan Ambethan Chowk (DOWN),3,4,17
+pune,pune_780,366,Nigdi Bhakti Shakti to Pune Station Depot (UP),3,9,40
+pune,pune_781,366,Pune Station Depot to Nigdi Bhakti Shakti (DOWN),3,14,41
+pune,pune_784,367,Mukai Chowk to Bhosari Gavhane Vasti (UP),3,12,50
+pune,pune_785,367M,Mukai Chowk to Bhosari Gavhane Vasti (UP),3,3,50
+pune,pune_786,367M,Bhosari Gavhane Vasti to Mukai Chowk (DOWN),3,4,51
+pune,pune_787,367,Bhosari Gavhane Vasti to Mukai Chowk (DOWN),3,13,51
+pune,pune_788,368,Lonavala Railway Station to Nigdi Pawale Chowk (UP),3,9,91
+pune,pune_789,368,Nigdi Pawale Chowk to Lonavala Railway Station (DOWN),3,16,91
+pune,pune_792,369,Bhamchandra Vidhyalay Vasuli to Nigdi Tilak Chowk (UP),3,25,44
+pune,pune_793,369,Nigdi Tilak Chowk to Bhamchandra Vidhyalay Vasuli (DOWN),3,33,41
+pune,pune_798,370,Davdigaon to Bhosari Chakan Road (UP),3,3,70
+pune,pune_799,370,Bhosari Chakan Road to Davdigaon (DOWN),3,2,70
+pune,pune_800,371,Takve Bhoyregaon to Nigdi Pawale Chowk (UP),3,2,86
+pune,pune_801,371,Nigdi Pawale Chowk to Takve Bhoyregaon (DOWN),3,3,86
+pune,pune_804,372,Megapolis Phase 3 to Nigdi Bhakti Shakti Stand (UP),3,47,47
+pune,pune_805,372M,Megapolis Phase 3 to Nigdi Bhakti Shakti Stand (UP),3,2,47
+pune,pune_806,372M,Nigdi Bhakti Shakti Stand to Megapolis Phase 3 (DOWN),3,3,47
+pune,pune_807,372,Nigdi Bhakti Shakti Stand to Megapolis Phase 3 (DOWN),3,59,47
+pune,pune_810,373,Neilsoft Company infosys Phase 3 to Sangvi Vasantdada Putala (UP),3,2,53
+pune,pune_812,373,Sangvi Vasantdada Putala to Neilsoft Company infosys Phase 3 (DOWN),3,2,54
+pune,pune_813,374A,Gahunjegaon to Nigdi Pawale Chowk (UP),3,8,21
+pune,pune_814,374A,Nigdi Pawale Chowk to Gahunjegaon (DOWN),3,11,21
+pune,pune_815,374,Virbaba Chowk Sai Nagar to Nigdi Pawale Chowk (UP),3,12,20
+pune,pune_816,374,Nigdi Pawale Chowk to Virbaba Chowk Sai Nagar (DOWN),3,16,20
+pune,pune_821,375,Neilsoft Company infosys Phase 3 to Nigdi Pawale Chowk (UP),3,5,69
+pune,pune_822,375,Nigdi Pawale Chowk to Neilsoft Company infosys Phase 3 (DOWN),3,5,74
+pune,pune_823,376,Pimprigaon to Ma Na Pa Main Stand (UP),3,4,44
+pune,pune_824,376,Ma Na Pa Main Stand to Pimprigaon (DOWN),3,6,42
+pune,pune_829,37,Wakdewadi Navin ST Stand to Sahakar Nagar (UP),3,6,23
+pune,pune_830,37,Sahakar Nagar to Wakdewadi Navin ST Stand (DOWN),3,4,23
+pune,pune_831,380,Hinjawadi Maan Phase 3 to Bhosari Terminal (UP),3,2,53
+pune,pune_832,380,Bhosari Terminal to Hinjawadi Maan Phase 3 (DOWN),3,3,53
+pune,pune_833,381,Megapolis Phase 3 to Nageshwar Vidyalaya Chikhli (UP),3,27,52
+pune,pune_834,381,Nageshwar Vidyalaya Chikhli to Megapolis Phase 3 (DOWN),3,37,53
+pune,pune_835,38,Na Ta Wadi to Dhankawadi (UP),3,28,23
+pune,pune_836,38,Dhankawadi to Na Ta Wadi (DOWN),3,29,23
+pune,pune_837,39,Pune Station Jayprakash Stand to Dhankawadi (UP),3,7,27
+pune,pune_838,39,Dhankawadi to Pune Station Jayprakash Stand (DOWN),3,7,27
+pune,pune_840,41,Sangvi Vasantdada Putala to Upper Depot (UP),3,2,56
+pune,pune_841,41,Upper Depot to Sangvi Vasantdada Putala (DOWN),3,2,53
+pune,pune_842,42,Nigdi Bhakti Shakti to Gujarwadi Pmt Bus Stand (UP),3,53,59
+pune,pune_843,42,Gujarwadi Pmt Bus Stand to Nigdi Bhakti Shakti (DOWN),3,52,58
+pune,pune_847,43A,Hinjawadi Maan Phase 3 to Katraj (UP),3,30,53
+pune,pune_849,43A,Katraj to Hinjawadi Maan Phase 3 (DOWN),3,31,55
+pune,pune_850,43,Nigdi Bhakti Shakti Stand to Katraj (UP),3,47,61
+pune,pune_851,43,Katraj to Nigdi Bhakti Shakti (DOWN),3,47,65
+pune,pune_854,44,Akurdi Railway Station to Katraj (UP),3,13,58
+pune,pune_855,44,Katraj to Akurdi Railway Station (DOWN),3,10,64
+pune,pune_858,47,Sanaswadi Nandoshi to Swargate (UP),3,3,40
+pune,pune_859,47,Swargate to Sanaswadi Nandoshi (DOWN),3,3,38
+pune,pune_860,4,Shivaji Nagar to Swargate (UP),3,21,13
+pune,pune_861,4,Swargate to Shivaji Nagar (DOWN),3,23,12
+pune,pune_866,50,Sinhgad to Shaniwarwada Stand (UP),3,12,60
+pune,pune_873,50,Shaniwarwada Stand to Sinhgad (DOWN),3,8,58
+pune,pune_876,51,Dsk Vishwa to Shivaji Nagar (UP),3,21,42
+pune,pune_877,51,Shivaji Nagar to Dsk Vishwa (DOWN),3,22,40
+pune,pune_878,52A,Varasgaon Goradwadi to Swargate (UP),3,4,76
+pune,pune_879,52A,Swargate to Varasgaon Goradwadi (DOWN),3,3,74
+pune,pune_885,52,Khanapur to Swargate (UP),3,16,55
+pune,pune_887,52,Swargate to Khanapur (DOWN),3,17,53
+pune,pune_890,55,Shanipar Stand to Suncity (UP),3,12,24
+pune,pune_891,55,Suncity to Shanipar Stand (DOWN),3,15,23
+pune,pune_894,57,Vadgaon Budruk Stand to Pune Station Jayprakash Stand (UP),3,8,37
+pune,pune_895,57,Pune Station Jayprakash Stand to Vadgaon Budruk Stand (DOWN),3,7,36
+pune,pune_896,58,Gokhale Nagar Police Line to Shanipar Stand (UP),3,18,17
+pune,pune_897,58,Shanipar Stand to Gokhale Nagar Police Line (DOWN),3,18,18
+pune,pune_898,59,Niljyoti Society to Shanipar Stand (UP),3,18,18
+pune,pune_899,59,Shanipar Stand to Niljyoti Society (DOWN),3,18,19
+pune,pune_902,5,Pune Station Moledina Stand to Swargate (UP),3,84,15
+pune,pune_903,5,Swargate to Pune Station Moledina Stand (DOWN),3,91,14
+pune,pune_904,60,Ghule Nagar Vadgaon Budruk to Swargate (UP),3,4,25
+pune,pune_905,60,Swargate to Ghule Nagar Vadgaon Budruk (DOWN),3,4,22
+pune,pune_906,61,Sarola to Balaji Nagar Corner Satara Road (UP),3,11,55
+pune,pune_907,61,Balaji Nagar Corner Satara Road to Sarola (DOWN),3,11,55
+pune,pune_910,64,Nda 10 No. Gate to Bhekrai Nagar (UP),3,40,61
+pune,pune_911,64M,Ganpati Matha to Hadapsar Gadital (UP),3,2,42
+pune,pune_912,64M,Hadapsar Gadital to Ganpati Matha (DOWN),3,2,42
+pune,pune_913,64,Bhekrai Nagar to Nda 10 No. Gate (DOWN),3,46,61
+pune,pune_914,65A,Patas to Hadapsar Gadital Solapur Road (UP),3,31,99
+pune,pune_915,65A,Hadapsar Gadital Solapur Road to Patas (DOWN),3,25,98
+pune,pune_920,66,Thakarwadi to Marketyard Depot (UP),3,4,65
+pune,pune_921,66,Marketyard Depot to Thakarwadi (DOWN),3,2,67
+pune,pune_922,67A,Uruli Kanchan to Swargate (UP),3,6,58
+pune,pune_923,67A,Swargate to Uruli Kanchan (DOWN),3,9,57
+pune,pune_927,67,Uruli Kanchan to Hadapsar Gadital Solapur Road (UP),3,13,41
+pune,pune_929,67,Hadapsar Gadital Solapur Road to Uruli Kanchan (DOWN),3,23,40
+pune,pune_930,68,Upper Depot to Sutardara (UP),3,2,38
+pune,pune_931,68,Sutardara to Upper Depot (DOWN),3,2,39
+pune,pune_934,69,Ghotawadegaon to Marketyard Depot (UP),3,5,67
+pune,pune_935,69,Marketyard Depot to Ghotawadegaon (DOWN),3,5,68
+pune,pune_936,6,Pune Station Moledina Stand to Swargate (UP),3,5,16
+pune,pune_937,6,Swargate to Pune Station Moledina Stand (DOWN),3,5,19
+pune,pune_938,70,Mulshi Gaon to Marketyard Depot (UP),3,5,99
+pune,pune_939,70,Marketyard Depot to Mulshi Gaon (DOWN),3,4,100
+pune,pune_943,72,Nda 10 No. Gate to Sukhsagar Nagar (UP),3,6,54
+pune,pune_944,72,Sukhsagar Nagar to Nda 10 No. Gate (DOWN),3,7,53
+pune,pune_947,73,Gada Modi Chowk Khamgaon to Hadapsar Gadital Solapur Road (UP),3,2,71
+pune,pune_948,73,Hadapsar Gadital Solapur Road to Gada Modi Chowk Khamgaon (DOWN),3,3,70
+pune,pune_951,74,Paud Shashkiy Vishram Gruh to Chinchwadgaon (UP),3,2,71
+pune,pune_952,74,Chinchwadgaon to Paud Shashkiy Vishram Gruh (DOWN),3,2,69
+pune,pune_959,77,Hinjawadi Maan Phase 3 to Ganpati Matha (UP),3,5,70
+pune,pune_960,77,Ganpati Matha to Hinjawadi Maan Phase 3 (DOWN),3,4,70
+pune,pune_961,78,Nda 10 No. Gate to Marketyard Depot (UP),3,2,51
+pune,pune_962,78,Marketyard Depot to Nda 10 No. Gate (DOWN),3,2,51
+pune,pune_970,81,Pune Station Moledina Stand to Kumbare Park (UP),3,2,38
+pune,pune_971,81,Kumbare Park to Pune Station Moledina Stand (DOWN),3,2,37
+pune,pune_979,83,Alandi to Nda 10 No. Gate (UP),3,2,78
+pune,pune_980,83,Nda 10 No. Gate to Alandi (DOWN),3,3,80
+pune,pune_982,84A,Sangrun to Deccan Gymkhana (UP),3,3,55
+pune,pune_983,84A,Deccan Gymkhana to Sangrun (DOWN),3,3,55
+pune,pune_987,84,Mutha Gaon to Deccan Gymkhana (UP),3,3,78
+pune,pune_989,84,Deccan Gymkhana to Mutha Gaon (DOWN),3,5,77
+pune,pune_994,85,Khadewadi to Ma Na Pa Congress Bhavan (UP),3,4,49
+pune,pune_995,85,Ma Na Pa Congress Bhavan to Khadewadi (DOWN),3,4,46
+pune,pune_1000,86,Paud St Stand to Deccan Gymkhana (UP),3,8,59
+pune,pune_1001,86,Deccan Gymkhana to Paud St Stand (DOWN),3,6,59
+pune,pune_1002,87A,Zilla Parishad School Chande to Deccan Gymkhana (UP),3,27,43
+pune,pune_1003,87A,Deccan Gymkhana to Zilla Parishad School Chande (DOWN),3,34,46
+pune,pune_1009,87,Sutarwadi Depot to Deccan Gymkhana (UP),3,11,28
+pune,pune_1013,87,Deccan Gymkhana to Sutarwadi Depot (DOWN),3,11,31
+pune,pune_1020,90,Gokhale Nagar Police Line to Katraj (UP),3,6,33
+pune,pune_1021,90,Katraj to Gokhale Nagar Police Line (DOWN),3,6,31
+pune,pune_1022,91,Isha Nagari to Ma Na Pa Congress Bhavan (UP),3,5,24
+pune,pune_1023,91,Ma Na Pa Congress Bhavan to Isha Nagari (DOWN),3,6,21
+pune,pune_1024,92,Venutai Chavan College to Kothrud Depot (UP),3,2,41
+pune,pune_1025,92,Kothrud Depot to Venutai Chavan College (DOWN),3,2,40
+pune,pune_1028,94,Pune Station Moledina Stand to Matalwadi Bhugaon (UP),3,20,41
+pune,pune_1031,94,Matalwadi Bhugaon to Pune Station Moledina Stand (DOWN),3,20,40
+pune,pune_1032,95,PVPIT College Bawdhan to Deccan Gymkhana (UP),3,6,25
+pune,pune_1033,95,Deccan Gymkhana to PVPIT College Bawdhan (DOWN),3,6,25
+pune,pune_1034,97,Sahakar Nagar to Ganpati Matha (UP),3,2,31
+pune,pune_1035,97,Ganpati Matha to Sahakar Nagar (DOWN),3,2,35
+pune,pune_1040,98,Kesnand Phata Wagholi to Ganpati Matha (UP),3,50,55
+pune,pune_1041,98,Ganpati Matha to Wagholi Kesnand Phata (DOWN),3,43,57
+pune,pune_1044,99,Kekan Gas to Kothrud Depot (UP),3,38,39
+pune,pune_1045,99,Kothrud Depot to Kekan Gas (DOWN),3,50,41
+pune,pune_1048,AP2,Upper Depot to Katraj Kondhwa Road (UP),3,20,12
+pune,pune_1049,AP2,Katraj Kondhwa Road to Upper Depot (DOWN),3,19,12
+pune,pune_1054,B2,DY Patil College Charholi to Alandi (UP),3,5,21
+pune,pune_1055,B2,Alandi to DY Patil College Charholi (DOWN),3,5,21
+pune,pune_1058,H11,Sanket Vihar Lane No 18 to Hadapsar Gadital (UP),3,15,19
+pune,pune_1059,H11,Hadapsar Gadital to Sanket Vihar Lane No 18 (DOWN),3,19,19
+pune,pune_1060,H3,Saswad Road Railway Station to Mantri Market Hadapsar (UP),3,14,15
+pune,pune_1061,H3,Mantri Market Hadapsar to Saswad Road Railway Station (DOWN),3,14,16
+pune,pune_1064,H8,Fursungi to Hadapsar Gadital (UP),3,51,16
+pune,pune_1065,H8,Hadapsar Gadital to Fursungi (DOWN),3,59,16
+pune,pune_1066,H9,Manjari Budruk to Hadapsar Gadital Solapur Road (UP),3,47,15
+pune,pune_1067,H9,Hadapsar Gadital Solapur Road to Manjari Budruk (DOWN),3,56,15
+pune,pune_1072,K11,Katraj to Jambhulwadi (UP),3,19,13
+pune,pune_1073,K11,Jambhulwadi to Katraj (DOWN),3,20,13
+pune,pune_1344,K12A,Katraj to Nandanvan City Narhe (UP),3,11,20
+pune,pune_1345,K12A,Nandanvan City Narhe to Katraj (DOWN),3,14,20
+pune,pune_1076,K12,Katraj to Abhinav Collage Narhe (UP),3,17,16
+pune,pune_1077,K12,Abhinav Collage Narhe to Katraj (DOWN),3,17,16
+pune,pune_1080,K14,Gujarwadi to Katraj (UP),3,16,14
+pune,pune_1081,K14,Katraj to Gujarwadi (DOWN),3,17,14
+pune,pune_1082,K16,Yewalewadi to Katraj (UP),3,14,20
+pune,pune_1083,K16,Katraj Kondhwa Road to Yewalewadi (DOWN),3,15,20
+pune,pune_1084,K18,Katraj to Waghjai Nagar Shivaji Chowk (UP),3,9,12
+pune,pune_1085,K18,Waghjai Nagar Shivaji Chowk to Katraj (DOWN),3,9,12
+pune,pune_1089,K7,Sneha Vihar Dangat Patil Nagar to Deccan Gymkhana (UP),3,3,27
+pune,pune_1090,K7,Deccan Gymkhana to Sneha Vihar Dangat Patil Nagar (DOWN),3,2,27
+pune,pune_1092,METRO SHUTTLE 13,Swargate to Upper Depot (UP),3,9,15
+pune,pune_1094,METRO SHUTTLE 13,Upper Depot to Swargate (DOWN),3,11,15
+pune,pune_1098,METRO SHUTTLE 17,Shivaji Nagar Civil Court Metro Station to Hadapsar Gadital (UP),3,5,22
+pune,pune_1099,METRO SHUTTLE 17,Hadapsar Gadital to Shivaji Nagar Civil Court Metro Station (DOWN),3,6,23
+pune,pune_1108,METRO SHUTTLE 20,PANCHSHIL TOWERS E VON GATE NO. 2 Kharadi to Ramwadi Metro Station (UP),3,17,20
+pune,pune_1109,METRO SHUTTLE 20,Ramwadi Metro Station to PANCHSHIL TOWERS E VON GATE NO. 2 Kharadi (DOWN),3,18,17
+pune,pune_1110,METRO SHUTTLE 2,Ganpati Matha to Deccan Gymkhana (UP),3,7,20
+pune,pune_1111,METRO SHUTTLE 2,Deccan Gymkhana to Ganpati Matha (DOWN),3,7,20
+pune,pune_1112,METRO SHUTTLE 31,Kalewadi Phata to Pimpri Chowk Metro Station (UP),3,12,16
+pune,pune_1113,METRO SHUTTLE 31,Pimpri Chowk Metro Station to Kalewadi Phata (DOWN),3,12,15
+pune,pune_1114,METRO SHUTTLE 32,Nigdi Bhakti Shakti to Nashik Phata (UP),3,6,24
+pune,pune_1115,METRO SHUTTLE 32,Nashik Phata Metro Station to Nigdi Bhakti Shakti (DOWN),3,6,22
+pune,pune_1130,N15,Rupee Nagar to Nigdi Pawale Chowk (UP),3,11,12
+pune,pune_1131,N15,Nigdi Pawale Chowk to Rupee Nagar (DOWN),3,11,13
+pune,pune_1132,N16,Nageshwar Vidyalaya Chikhli to Akurdi Khandoba Maal (UP),3,5,19
+pune,pune_1133,N16,Akurdi Khandoba Maal to Nageshwar Vidyalaya Chikhli (DOWN),3,5,19
+pune,pune_1134,P13,Walhekarwadi to Pimpri Chowk Metro Station (UP),3,5,21
+pune,pune_1135,P13,Pimpri Chowk Metro Station to Walhekarwadi (DOWN),3,5,22
+pune,pune_1136,RATRANI 1,Mariaai Gate Navin St Stand to Katraj (UP),3,4,27
+pune,pune_1137,RATRANI 1,Katraj to Mariaai Gate Navin St Stand (DOWN),3,4,26
+pune,pune_1138,RATRANI 2,Pune Station Moledina Stand to Katraj (UP),3,4,27
+pune,pune_1139,RATRANI 2,Katraj to Pune Station Moledina Stand (DOWN),3,5,26
+pune,pune_1140,RATRANI 3,Hadapsar Gadital to Swargate (UP),3,4,18
+pune,pune_1141,RATRANI 3,Swargate to Hadapsar Gadital (DOWN),3,5,18
+pune,pune_1142,RATRANI 4,Pune Station St. Helena'S Stand to Hadapsar Gadital (UP),3,3,16
+pune,pune_1143,RATRANI 4,Hadapsar Gadital to Pune Station St. Helena'S Stand (DOWN),3,4,18
+pune,pune_1146,RATRANI 7,Nda 10 No. Gate to Pune Station Moledina Stand (UP),3,3,51
+pune,pune_1147,RATRANI 7,Pune Station Moledina Stand to Nda 10 No. Gate (DOWN),3,3,49

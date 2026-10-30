@@ -1,0 +1,272 @@
+city,route_id,route_short_name,route_long_name,route_type,trip_count,stop_count,median_headway_min,min_headway_min,max_headway_min,hw_afternoon_median_min,hw_evening_median_min,hw_morning_median_min,hw_night_median_min,route_length_km,length_method,flag_too_short,flag_too_long,flag_length_review
+rajkot,rajkot_272,R83,Pandit dindayaal Civil Hospital to AIIMS Hospital (DOWN),3,16,20,50.0,50.0,130.0,50.0,50.0,50.0,,12.86424425872331,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_274,R83,AIIMS Hospital to Pandit dindayaal Civil Hospital (UP),3,16,20,50.0,50.0,130.0,50.0,50.0,50.0,,12.864244258723307,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_1,B1,Madhapar Chowk to Gondal Chowk (BRTS) (UP),3,266,19,4.0,3.0,4.0,4.0,4.0,4.0,3.5,10.378953383868009,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_2,B1,Gondal Chowk (BRTS) to Madhapar Chowk (DOWN),3,262,19,4.0,1.0,4.0,4.0,4.0,3.0,,10.378953383868009,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_3,B2,Gondal Chowkdi to Madhapar Chowk (UP),3,22,30,35.0,5.0,75.0,35.0,35.0,35.0,,32.77351285919023,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_268,R36A,Trikon baug to badhinu patiyu (DOWN),3,2,31,30.0,30.0,30.0,,,30.0,,16.55820253216516,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_271,R38A,AjiDam to Madhapar Gaam Gate (UP),3,3,30,400.0,75.0,725.0,,725.0,75.0,,14.40694791205096,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_4,B2,Madhapar Chowk to Gondal Chowkdi (DOWN),3,20,30,35.0,5.0,155.0,32.5,35.0,35.0,,32.773512859190234,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_5,R100,Atal Sarovar to Trikon baug (UP),3,6,22,120.0,120.0,120.0,120.0,120.0,,120.0,9.402092798820748,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_269,R36A,badhinu patiyu to Trikon baug (UP),3,2,31,30.0,30.0,30.0,,30.0,,,16.557893359453914,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_270,R38A,Madhapar Gaam Gate to AjiDam (DOWN),3,4,30,45.0,25.0,755.0,,400.0,25.0,,14.40694791205096,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_6,R100,Trikon baug to Atal Sarovar (DOWN),3,13,22,60.0,60.0,615.0,60.0,60.0,337.5,60.0,9.402092798820748,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_7,R11,Shapar Veraval to Trikon baug (UP),3,13,22,67.5,5.0,135.0,100.0,60.0,60.0,,15.418279486631725,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_8,R11,Trikon baug to Shapar Veraval (DOWN),3,11,22,70.0,25.0,168.0,80.0,70.0,60.0,,15.418279486631723,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_169,R13A,Trikon baug to Kothariya Chowk (UP),3,1,15,,,,,,,,5.240767515781462,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_9,R13,LalBahadur Shastri Township to Kothariya Chowk (UP),3,39,34,25.0,5.0,40.0,25.0,25.0,25.0,,11.980472677552248,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_10,R13,Kothariya Chowk to LalBahadur Shastri Township (DOWN),3,44,34,22.0,5.0,40.0,22.5,22.5,22.0,,11.98188439509233,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_11,R14,Anandpar Gam to Swati Park (UP),3,13,41,62.5,5.0,142.0,65.0,115.0,58.5,,14.115292445340916,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_12,R14,Swati Park to Anandpar Gam (DOWN),3,14,41,60.0,5.0,120.0,35.0,60.0,62.5,,14.115292445340916,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_170,R15A,ITI (Khirasara) to Trikon baug (UP),3,1,34,,,,,,,,17.719573325606447,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_171,R15A,Trikon baug to ITI (Khirasara) (DOWN),3,1,34,,,,,,,,17.719573325606447,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_172,R15B,Kothariya Gam to Trikon baug (DOWN),3,1,22,,,,,,,,7.980111366105136,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_13,R15,ITI (Khirasara) to Kothariya Gam (UP),3,25,55,35.0,5.0,80.0,31.0,30.0,40.0,,25.754554392514176,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_14,R15,Kothariya Gam to ITI (Khirasara) (DOWN),3,25,55,40.0,10.0,80.0,40.0,50.0,35.0,,25.699684691711585,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_173,R16A,B.T.Savani (Kidney) Hospital to Trikon baug (UP),3,1,18,,,,,,,,7.038923642682785,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_174,R16A,Kothariya Gam to B.T.Savani (Kidney) Hospital (DOWN),3,1,39,,,,,,,,15.019035008787924,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_175,R16B,Kothariya Gam to Trikon baug (DOWN),3,1,22,,,,,,,,7.980111366105136,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_15,R16,Saurashtra University to Kothariya Gam (UP),3,10,42,72.0,60.0,95.0,82.5,71.0,70.0,,16.352087799463447,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_16,R16,Kothariya Gam to Saurashtra University (DOWN),3,21,42,47.5,2.0,90.0,37.0,50.0,63.5,,16.352087799463447,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_17,R17,Tramba Village to Saurashtra University (UP),3,26,48,30.0,5.0,70.0,22.5,35.0,20.0,,22.68436857397408,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_18,R17,Saurashtra University to Tramba Village (DOWN),3,24,48,25.0,5.0,95.0,25.0,25.0,25.0,,22.684368573974076,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_176,R18A,shree ram hospital(metoda) to Trikon baug (UP),3,1,41,,,,,,,,20.611018209993944,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_177,R18A,AjiDam to Trikon baug (DOWN),3,1,15,,,,,,,,5.528638580652409,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_19,R18,shree ram hospital(metoda) to AjiDam (UP),3,11,55,95.0,10.0,112.0,55.0,102.5,103.0,,26.139656790646352,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_20,R18,AjiDam to shree ram hospital(metoda) (DOWN),3,20,55,30.0,5.0,185.0,30.0,32.5,65.0,185.0,26.133875506896466,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_178,R19A,131 slum quater. to Trikon baug (UP),3,1,11,,,,,,,,3.1855390530324215,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_179,R19A,Vraj Villa Apartment to Trikon baug (DOWN),3,1,20,,,,,,,,8.630491480975202,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_21,R19,131 slum quater. to Vraj Villa Apartment (UP),3,21,30,45.0,5.0,65.0,45.0,42.5,45.0,,11.816030534007623,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_22,R19,Vraj Villa Apartment to 131 slum quater. (DOWN),3,20,30,50.0,5.0,70.0,40.0,50.0,50.0,,11.816030534007622,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_180,R1A,B.T.Savani (Kidney) Hospital to Trikon baug (UP),3,1,17,,,,,,,,5.515188522442145,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_181,R1A,Trikon baug to B.T.Savani (Kidney) Hospital (DOWN),3,1,17,,,,,,,,5.515188522442145,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_23,R1,Saurashtra University to Trikon baug (UP),3,50,19,15.0,0.0,390.0,17.5,17.5,20.0,0.0,6.63451173486314,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_24,R1,Trikon baug to Saurashtra University (DOWN),3,50,19,20.0,15.0,45.0,17.5,15.0,17.5,35.0,6.63451173486314,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_182,R20A,Shapar Veraval to Trikon baug (UP),3,1,22,,,,,,,,15.418274366417014,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_25,R20,Shapar Veraval to Ghanteshvar S.R.P. Camp (UP),3,7,44,115.0,60.0,230.0,145.0,117.5,110.0,,26.989290251404352,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_26,R20,Ghanteshvar S.R.P. Camp to Shapar Veraval (DOWN),3,8,44,70.0,55.0,230.0,150.0,110.0,60.0,,26.98929025140435,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_27,R21,Shapar Veraval to Santiniketan Avenue(Raiya Gaam) (UP),3,4,42,195.0,170.0,320.0,195.0,320.0,,170.0,23.95885439132972,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_28,R21,Santiniketan Avenue(Raiya Gaam) to Shapar Veraval (DOWN),3,4,42,200.0,190.0,320.0,320.0,190.0,200.0,,23.958854391329723,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_184,R22A,Shapar Veraval to Trikon baug (UP),3,1,22,,,,,,,,15.418274366417014,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_29,R22,Shapar Veraval to Santiniketan Avenue(Raiya Gaam) (UP),3,10,41,130.0,55.0,450.0,100.0,100.0,95.0,170.0,22.86167681893336,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_30,R22,Santiniketan Avenue(Raiya Gaam) to Shapar Veraval (DOWN),3,10,41,70.0,20.0,190.0,100.0,90.0,50.0,,22.861676818933365,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_185,R23A,Trikon baug to Shri Mansukhbhai Chhapia Township (UP),3,3,29,225.0,35.0,415.0,225.0,,,,9.522809813438194,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_186,R23A,Shri Mansukhbhai Chhapia Township to Trikon baug (DOWN),3,3,29,35.0,15.0,55.0,,35.0,,,9.52280981343819,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_187,R23B,H.N.Shukla College to Trikon baug (UP),3,3,15,0.0,0.0,0.0,,,,0.0,7.511453491555513,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_31,R23,H.N.Shukla College to Shri Mansukhbhai Chhapia Township (UP),3,17,43,0.0,0.0,485.0,160.0,15.0,40.0,0.0,17.034263304993704,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_32,R23,Shri Mansukhbhai Chhapia Township to H.N.Shukla College (DOWN),3,18,43,35.0,15.0,110.0,35.0,50.0,35.0,,17.034263304993704,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_188,R24A,K.K.V hall to Metoda Gam (DOWN),3,1,26,,,,,,,,17.208397617360575,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_33,R24,Metoda Gam to Trikon baug (UP),3,14,36,74.0,5.0,145.0,80.0,60.0,70.0,,21.727119307982353,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_34,R24,Trikon baug to Metoda Gam (DOWN),3,32,36,30.0,5.0,45.0,30.0,32.5,21.0,,21.728127947539072,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_189,R25A,Jivraj Park to Trikon baug (UP),3,1,24,,,,,,,,8.394221145007878,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_35,R25,Jivraj Park to 131 slum quater. (UP),3,13,34,55.0,45.0,165.0,60.0,55.0,55.0,,11.575876026233328,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_36,R25,131 slum quater. to Jivraj Park (DOWN),3,13,34,55.0,45.0,180.0,55.0,57.5,55.0,,11.57587602623333,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_37,R26,Shyamji Krushna Varma Township to Aangan residency (UP),3,13,39,50.0,35.0,100.0,50.0,50.0,65.0,,14.200006160538669,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_38,R26,Aangan residency to Shyamji Krushna Varma Township (DOWN),3,13,39,65.0,5.0,100.0,50.0,90.0,60.0,,14.200006160538667,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_39,R27,Raiyadhar Slum Quarter to Trikon baug (UP),3,20,17,35.0,25.0,60.0,35.0,42.5,35.0,,6.100054401626272,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_40,R27,Trikon baug to Raiyadhar Slum Quarter (DOWN),3,20,17,40.0,25.0,55.0,45.0,40.0,35.0,,6.100054401626272,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_41,R28,Jivraj Park to Gujarat Housing Board Quarter/ Sagar Chok (UP),3,16,35,55.0,10.0,135.0,65.0,55.0,55.0,50.0,12.36332819648176,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_42,R28,Gujarat Housing Board Quarter/ Sagar Chok to Jivraj Park (DOWN),3,15,35,56.5,5.0,145.0,60.0,55.0,58.0,,12.363328196481762,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_43,R2,H.N.Shukla College to Atal Sarovar (UP),3,12,41,0.0,0.0,545.0,425.0,,545.0,0.0,19.38201067875422,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_44,R2,Atal Sarovar to H.N.Shukla College (DOWN),3,12,41,0.0,0.0,915.0,495.0,60.0,,0.0,19.38201067875422,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_45,R30CIRCULAR,Trikon baug to Trikon Baug 2 (UP),3,17,23,50.0,35.0,130.0,62.5,52.5,50.0,50.0,9.562068196705136,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_46,R31CIRCULAR,Trikon baug to Trikon baug (UP),3,16,21,55.0,40.0,125.0,65.0,50.0,50.0,,9.513643937358745,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_190,R32A,Trikon baug to Tramba Village (UP),3,1,34,,,,,,,,18.207068350659064,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_191,R32A,Tramba Village to Trikon baug (DOWN),3,2,34,30.0,30.0,30.0,,,30.0,,18.207068350659064,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_192,R32B,Parsananagar to Trikon baug (UP),3,2,8,95.0,95.0,95.0,,95.0,,,3.264913672123355,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_47,R32,Parsananagar to Tramba Village (UP),3,6,41,70.0,5.0,340.0,205.0,,30.0,,21.47198202278242,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_48,R32,Tramba Village to Parsananagar (DOWN),3,6,41,90.0,15.0,345.0,90.0,90.0,15.0,,21.47198202278242,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_193,R34A,Trikon baug to kamdar nurshing collage (UP),3,1,26,,,,,,,,10.729437638917823,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_194,R34A,Trikon baug to H.N.Shukla College (DOWN),3,1,15,,,,,,,,7.511453491555512,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_275,R9A,Ratanpar (ramji mandir) to Saurashtra University (UP),3,1,48,,,,,,,,27.037442509861176,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_276,R9A,Saurashtra University to Ratanpar (ramji mandir) (DOWN),3,1,48,,,,,,,,27.037498873118988,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_195,R34B,H.N.Shukla College to Trikon baug (UP),3,1,15,,,,,,,,7.511453491555513,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_49,R34,H.N.Shukla College to kamdar nurshing collage (UP),3,2,40,935.0,935.0,935.0,935.0,,,,18.240891130473333,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_50,R34,kamdar nurshing collage to H.N.Shukla College (DOWN),3,17,40,0.0,0.0,470.0,62.5,,247.5,0.0,18.240891130473333,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_51,R35,Shapar Veraval to Trikon baug (UP),3,12,24,50.0,15.0,165.0,67.5,67.5,50.0,,15.392475454404154,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_52,R35,Trikon baug to Shapar Veraval (DOWN),3,11,24,60.0,35.0,435.0,60.0,75.0,57.5,,15.392475454404154,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_53,R36,badhinu patiyu to Bhaktinagar Circle (UP),3,18,35,30.0,25.0,155.0,30.0,30.0,32.5,,18.184153104184237,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_54,R36,Bhaktinagar Circle to badhinu patiyu (DOWN),3,18,35,30.0,25.0,115.0,47.5,30.0,30.0,,18.266088300799602,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_55,R37,Bhagini Nivedita Township to Ridhhi Sidhhi Park Crossing (UP),3,15,40,70.0,20.0,70.0,57.5,70.0,70.0,,16.247944831719053,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_56,R37,Ridhhi Sidhhi Park Crossing to Bhagini Nivedita Township (DOWN),3,14,40,70.0,30.0,90.0,70.0,55.0,70.0,,16.247944831719053,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_57,R38,AjiDam to Regional Science centre (UP),3,15,32,45.0,25.0,130.0,45.0,47.5,30.0,,14.82279971312339,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_58,R38,Regional Science centre to AjiDam (DOWN),3,14,32,45.0,25.0,125.0,50.0,45.0,30.0,,14.822799713123391,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_59,R3,Parsana Chowk to Madhapar Chowk (UP),3,9,54,87.5,70.0,100.0,95.0,82.5,80.0,,20.394968900312087,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_60,R3,Madhapar Chowk to Parsana Chowk (DOWN),3,9,54,90.0,80.0,95.0,95.0,85.0,85.0,,20.394968900312094,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_197,R40A,Shivalay Chowk to Jamtower Chowk (UP),3,1,16,,,,,,,,4.89427575714262,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_61,R40,Shivalay Chowk to Saurashtra University (UP),3,14,33,52.0,15.0,75.0,41.0,63.5,52.0,,11.603637481332257,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_62,R40,Saurashtra University to Shivalay Chowk (DOWN),3,14,33,70.0,15.0,80.0,57.5,59.0,70.0,,11.603637481332257,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_63,R41,Nandbhumi Tower to Vinod Nagar (UP),3,14,35,60.0,40.0,150.0,60.0,60.0,60.0,70.0,12.288908554567973,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_64,R41,Vinod Nagar to Nandbhumi Tower (DOWN),3,14,35,60.0,50.0,150.0,60.0,60.0,60.0,,12.288908554567975,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_198,R42A,Trikon baug to Greenland Chowk (UP),3,2,10,525.0,525.0,525.0,525.0,,,,3.8493104053018548,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_199,R42A,Trikon baug to Vasant Vatika (DOWN),3,1,24,,,,,,,,10.873411217939417,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_200,R42B,Vasant Vatika to Trikon baug (UP),3,1,24,,,,,,,,10.873411217939415,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_201,R42B,Greenland Chowk to Trikon baug (DOWN),3,1,10,,,,,,,,3.8493104053018543,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_65,R42,Vasant Vatika to Greenland Chowk (UP),3,12,33,55.0,45.0,245.0,147.5,55.0,55.0,,14.72272162324127,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_66,R42,Greenland Chowk to Vasant Vatika (DOWN),3,13,33,60.0,45.0,165.0,80.0,57.5,60.0,,14.722721623241267,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_202,R43A,Akshar Vatika(Mavadi) to Trikon baug (UP),3,1,20,,,,,,,,6.527610158309834,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_203,R43A,Om Residency (Morbi road Crosing) to Trikon baug (DOWN),3,1,14,,,,,,,,6.081501247597357,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_67,R43,Akshar Vatika(Mavadi) to Om Residency (Morbi road Crosing) (UP),3,41,33,30.0,1.0,34.0,30.0,30.0,30.0,21.0,13.197980138627852,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_68,R43,Om Residency (Morbi road Crosing) to Akshar Vatika(Mavadi) (DOWN),3,21,33,35.0,25.0,85.0,35.0,32.5,35.0,30.0,12.60911140590719,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_204,R44A,AjiDam to Trikon baug (UP),3,1,15,,,,,,,,5.528638580652409,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_205,R44A,Sorathiyawadi Circle to Shree Mohandasbapa Ashram (DOWN),3,1,23,,,,,,,,13.590326562595656,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_69,R44,Shree Mohandasbapa Ashram to Trikon baug (UP),3,12,30,65.0,45.0,95.0,50.0,65.0,72.5,,16.15937449432976,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_70,R44,Trikon baug to Shree Mohandasbapa Ashram (DOWN),3,14,30,60.0,15.0,98.0,48.5,98.0,55.0,,16.159374494329764,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_206,R45A,Marwadi College to Saurashtra University (UP),3,1,38,,,,,,,,17.564728428726866,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_207,R45A,Indira Circle (RMTS) to Marwadi College (DOWN),3,1,30,,,,,,,,14.491725246817307,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_208,R45B,Marwadi College to Trikon baug (UP),3,1,20,,,,,,,,10.93021669386373,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_209,R45B,Saurashtra University to Marwadi College (DOWN),3,1,38,,,,,,,,17.565173530681356,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_210,R45C,Trikon baug to Arpit eng. Collage (DOWN),3,1,26,,,,,,,,18.774912698722435,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_71,R45,Arpit eng. Collage to Saurashtra University (UP),3,12,44,75.0,5.0,145.0,60.0,70.0,80.0,,25.408979331631087,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_72,R45,Saurashtra University to Arpit eng. Collage (DOWN),3,12,44,81.0,5.0,134.0,71.5,45.0,83.0,,25.409424433585574,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_73,R46,shree sardar patel homeopathic collage to Trikon baug (UP),3,10,27,63.0,3.0,160.0,142.0,40.0,63.0,,19.398357232854963,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_74,R46,Trikon baug to shree sardar patel homeopathic collage (DOWN),3,10,27,50.0,20.0,160.0,50.0,65.0,75.0,,19.398357232854963,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_211,R47A,Kothariya Gam to Saurashtra University (DOWN),3,1,44,,,,,,,,16.299399969119587,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_75,R47,Saurashtra University to Kothariya Gam (UP),3,37,36,22.5,5.0,120.0,35.0,65.0,15.0,35.0,13.506124570710929,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_76,R47,huseni chawk (kothariya) to Saurashtra University (DOWN),3,17,48,60.0,5.0,385.0,60.0,57.5,60.0,,18.836248702907103,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_77,R4,G.I.D.C. Gate 3 to AjiDam (UP),3,8,48,100.0,75.0,115.0,110.0,107.5,82.5,,22.19117889839153,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_78,R4,AjiDam to G.I.D.C. Gate 3 (DOWN),3,8,48,95.0,50.0,123.0,109.0,110.0,90.0,,26.10611427749013,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_212,R51A,Punit Nagar (jetco 66 k.v.a.) to Trikon baug (UP),3,1,17,,,,,,,,5.422624730751288,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_79,R51,Punit Nagar (jetco 66 k.v.a.) to Ghanteshvar S.R.P. Camp (G company) (UP),3,11,41,70.0,70.0,155.0,70.0,70.0,70.0,,16.714143215204093,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_80,R51,Ghanteshvar S.R.P. Camp (G company) to Punit Nagar (jetco 66 k.v.a.) (DOWN),3,12,41,70.0,60.0,155.0,70.0,70.0,70.0,,16.71414321520409,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_81,R53,District and Sessions court to Bhaktinagar Station (UP),3,20,21,40.0,35.0,125.0,40.0,40.0,40.0,,10.382375808931764,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_82,R53,Bhaktinagar Station to District and Sessions court (DOWN),3,20,21,40.0,40.0,125.0,40.0,40.0,40.0,,10.382375808931762,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_213,R54A,Radha Park (Kotharia Gam) to Trikon baug (UP),3,1,25,,,,,,,,8.546562980806065,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_83,R54,Radha Park (Kotharia Gam) to Ghanteshvar S.R.P. Camp (UP),3,7,51,95.0,85.0,225.0,160.0,85.0,95.0,,20.67503201282594,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_84,R54,Ghanteshvar S.R.P. Camp to Radha Park (Kotharia Gam) (DOWN),3,19,51,32.5,5.0,95.0,25.0,85.0,30.0,,20.67503201282594,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_214,R55A,Arpit eng. Collage to Trikon baug (UP),3,1,26,,,,,,,,18.774467596767952,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_215,R55A,Trikon baug to Arpit eng. Collage (DOWN),3,1,26,,,,,,,,18.774912698722435,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_85,R55,Arpit eng. Collage to Gondal Chowkdi (UP),3,11,38,92.5,30.0,155.0,50.0,127.5,90.0,,24.61114161706774,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_86,R55,Gondal Chowkdi to Arpit eng. Collage (DOWN),3,7,38,102.5,85.0,140.0,120.0,105.0,92.5,,24.611586719022224,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_216,R56A,Pandit Deendayal Nagar to Trikon baug (UP),3,1,21,,,,,,,,7.966743085690108,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_217,R56A,Trikon baug to Pandit Deendayal Nagar (DOWN),3,1,21,,,,,,,,7.9667430856901085,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_87,R56,Government Engineering College to Trikon baug (UP),3,8,24,120.0,100.0,135.0,117.5,120.0,120.0,,11.025323179251954,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_88,R56,Trikon baug to Government Engineering College (DOWN),3,7,24,120.0,90.0,135.0,127.0,135.0,95.0,,11.025323179251954,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_218,R57A,Mota Mauva to Trikon baug (UP),3,1,17,,,,,,,,6.237398165543036,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_219,R57A,Trikon baug to Everest Park (DOWN),3,1,16,,,,,,,,5.782445177872955,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_89,R57,Government Engineering College to Trikon baug (UP),3,22,26,38.0,5.0,90.0,35.0,35.0,38.0,90.0,11.261446757860883,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_90,R57,Trikon baug to Government Engineering College (DOWN),3,21,26,37.5,10.0,90.0,40.0,45.0,30.0,,11.261446757860883,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_91,R58,AIIMS Hospital to Madhapar Chowk (UP),3,16,12,40.0,40.0,480.0,40.0,40.0,40.0,,8.712463903838016,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_92,R58,Madhapar Chowk to AIIMS Hospital (DOWN),3,16,14,40.0,40.0,440.0,40.0,40.0,40.0,,11.929398777595422,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_220,R5A,Trikon baug to Tramba Village (DOWN),3,1,29,,,,,,,,15.833459076475817,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_93,R5,Tramba Village to RAIYA GAM(Shilpan Onex) (UP),3,10,43,20.0,1.0,104.0,30.0,17.5,,,21.64893160835296,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_94,R5,RAIYA GAM(Shilpan Onex) to Tramba Village (DOWN),3,16,43,26.0,1.0,86.0,26.0,45.0,30.0,,21.64893160835296,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_95,R60,Trikon baug to Golden Green Industrial Park (UP),3,25,42,35.0,10.0,50.0,35.0,35.0,35.0,,21.172313600253233,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_96,R60,Golden Green Industrial Park to Trikon baug (DOWN),3,16,42,35.0,35.0,190.0,35.0,35.0,35.0,,21.172313600253233,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_97,R61,Naranka Gram to Trikon baug (UP),3,8,39,30.0,30.0,210.0,120.0,80.0,30.0,,22.07311021237182,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_98,R61,Trikon baug to Naranka Gram (DOWN),3,8,39,30.0,30.0,210.0,80.0,,30.0,,22.073110212371816,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_99,R62,Shapar Veraval to Trikon baug (UP),3,8,36,40.0,30.0,260.0,150.0,82.5,30.0,,22.276505528316793,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_100,R62,Trikon baug to Shapar Veraval (DOWN),3,8,36,40.0,30.0,260.0,120.0,40.0,30.0,,22.276505528316797,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_101,R63,Rajpath Siesta to Trikon baug (UP),3,16,27,50.0,40.0,130.0,50.0,50.0,50.0,,12.079239848769612,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_102,R63,Trikon baug to Rajpath Siesta (DOWN),3,16,27,50.0,40.0,130.0,50.0,50.0,50.0,,12.079239848769614,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_221,R64A,Bhaktinagar Circle to Arpit eng. Collage (UP),3,2,36,380.0,380.0,380.0,380.0,,,,22.666436837566255,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_222,R64A,Arpit eng. Collage to Bhaktinagar Circle (DOWN),3,2,36,420.0,420.0,420.0,,420.0,,,22.666436837566252,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_223,R64B,150 feet road crossing - kalawad road to Bhaktinagar Circle (UP),3,2,18,350.0,350.0,350.0,350.0,,,,7.425996824130815,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_224,R64B,Bhaktinagar Circle to 150 feet road crossing - kalawad road (DOWN),3,1,18,,,,,,,,7.425996824130815,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_103,R64,150 feet road crossing - kalawad road to Arpit eng. Collage (UP),3,4,53,130.0,115.0,275.0,202.5,,115.0,,30.092433661697072,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_104,R64,Arpit eng. Collage to 150 feet road crossing - kalawad road (DOWN),3,4,53,120.0,70.0,285.0,177.5,,120.0,,30.09243366169707,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_225,R65A,Mahika Gam to Trikon baug (DOWN),3,1,31,,,,,,,,13.242385195849414,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_226,R65B,Trikon baug to Prajapati Chowk (DOWN),3,1,22,,,,,,,,9.266249000795373,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_105,R65,Prajapati Chowk to Mahika Gam (UP),3,8,52,90.0,60.0,170.0,130.0,90.0,90.0,,22.508634196644785,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_106,R65,Mahika Gam to Prajapati Chowk (DOWN),3,8,52,90.0,90.0,210.0,150.0,90.0,90.0,,22.508634196644785,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_107,R66,Aadarsh - Shri Housing Co-operative Service Society to Trikon baug (UP),3,20,24,40.0,30.0,110.0,40.0,40.0,40.0,,8.820547611683049,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_108,R66,Trikon baug to Aadarsh - Shri Housing Co-operative Service Society (DOWN),3,20,24,40.0,30.0,110.0,40.0,40.0,40.0,,8.820547611683047,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_109,R67,KANKOT GAM to Trikon baug (UP),3,32,23,25.0,0.0,440.0,50.0,45.0,50.0,0.0,11.517667090551729,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_110,R67,Trikon baug to KANKOT GAM (DOWN),3,34,23,25.0,20.0,125.0,25.0,20.0,25.0,25.0,11.51766709055173,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_111,R68,Kothariya Solvant fatak to Trikon baug (UP),3,12,21,60.0,50.0,150.0,60.0,60.0,60.0,,9.986106446436299,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_112,R68,Trikon baug to Kothariya Solvant fatak (DOWN),3,12,21,60.0,50.0,150.0,60.0,60.0,60.0,,9.986106446436299,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_113,R69,Trikon baug to Light House (Raiya) (UP),3,16,28,50.0,40.0,120.0,50.0,50.0,50.0,,11.727957628077906,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_114,R69,Light House (Raiya) to Trikon baug (DOWN),3,16,28,50.0,40.0,120.0,50.0,50.0,50.0,,11.955376568176698,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_227,R6A,Shivalay Chowk to Ajidam (UP),3,1,33,,,,,,,,11.753959086255321,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_228,R6A,Ajidam to Shivalay Chowk (DOWN),3,1,33,,,,,,,,11.753959086255321,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_115,R6,Shivalay Chowk to Tramba Village (UP),3,10,47,75.0,40.0,145.0,82.5,130.0,65.0,,22.025382731500454,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_116,R6,Tramba Village to Shivalay Chowk (DOWN),3,12,47,60.0,10.0,125.0,47.5,120.0,62.5,,22.02538273150046,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_229,R70A,Trikon baug to Parapipaliya patiya (UP),3,1,33,,,,,,,,15.171780878225729,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_230,R70A,Trikon baug to Ramvan (DOWN),3,2,25,415.0,415.0,415.0,415.0,,,,11.366916659244312,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_231,R70B,Parapipaliya patiya to Trikon baug (DOWN),3,1,33,,,,,,,,15.171780878225729,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_117,R70,Ramvan to Parapipaliya patiya (UP),3,6,54,100.0,85.0,205.0,152.5,100.0,95.0,,24.358803316788734,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_118,R70,Parapipaliya patiya to Ramvan (DOWN),3,4,57,100.0,85.0,305.0,202.5,,85.0,,26.9262102594016,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_119,R71,Government Engineering College to Kothariya Gam (UP),3,12,39,60.0,50.0,140.0,60.0,60.0,60.0,,14.561171313190409,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_120,R71,Kothariya Gam to Government Engineering College (DOWN),3,12,39,60.0,60.0,420.0,60.0,60.0,60.0,,14.561171313190409,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_232,R72A,Madhapar Chowk to Government Engineering College (DOWN),3,1,29,,,,,,,,12.959095086316099,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_233,R72B,Greenland Chowk to Madhapar Chowk (DOWN),3,1,13,,,,,,,,8.725259454692623,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_121,R72,Government Engineering College to Greenland Chowk (UP),3,17,41,47.5,5.0,130.0,57.5,42.5,45.0,,21.679083715042175,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_122,R72,Greenland Chowk to Government Engineering College (DOWN),3,18,41,35.0,0.0,160.0,35.0,30.0,85.0,,21.68435454100872,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_123,R73,Shreenathji Industries Plot No.155 to Trikon baug (UP),3,8,27,70.0,70.0,200.0,70.0,90.0,70.0,,19.877628190420257,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_124,R73,Trikon baug to Shreenathji Industries Plot No.155 (DOWN),3,8,27,70.0,70.0,180.0,80.0,,70.0,,19.877628190420257,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_125,R74,Kothariya Solvant fatak to Trikon baug (UP),3,14,25,50.0,50.0,140.0,50.0,50.0,50.0,,9.490852519964795,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_126,R74,Trikon baug to Kothariya Solvant fatak (DOWN),3,14,25,50.0,50.0,140.0,50.0,50.0,50.0,,9.490852519964795,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_234,R75A,Parevadi Chowk to matru darshan School (UP),3,1,17,,,,,,,,6.643985741355802,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_235,R75A,Trikon baug to P.G.V.C.L SUB DIVISON MORBI ROAD (DOWN),3,3,18,282.5,60.0,505.0,282.5,,,,6.308940283369923,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_236,R75B,P.G.V.C.L SUB DIVISON MORBI ROAD to Trikon baug (UP),3,3,18,267.5,65.0,470.0,65.0,,,470.0,6.308940283369923,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_237,R75B,matru darshan School to Trikon baug (DOWN),3,1,16,,,,,,,,5.088084295534807,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_127,R75,P.G.V.C.L SUB DIVISON MORBI ROAD to matru darshan School (UP),3,11,33,65.0,55.0,230.0,142.5,65.0,65.0,65.0,11.39702457890473,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_128,R75,matru darshan School to P.G.V.C.L SUB DIVISON MORBI ROAD (DOWN),3,11,33,65.0,65.0,220.0,142.5,65.0,65.0,65.0,11.39702457890473,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_238,R76A,Field Marshal Chowk to Kothariya Gam (UP),3,1,20,,,,,,,,7.366367944134051,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_239,R76A,Field Marshal Chowk to Marwadi College (DOWN),3,2,24,430.0,430.0,430.0,430.0,,,,11.850201037287087,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_240,R76B,Marwadi College to Field Marshal Chowk (UP),3,2,24,450.0,450.0,450.0,,450.0,,,11.85020103728709,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_241,R76B,Kothariya Gam to Field Marshal Chowk (DOWN),3,2,20,470.0,470.0,470.0,,470.0,,,7.366367944134051,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_129,R76,Marwadi College to Kothariya Gam (UP),3,8,43,80.0,70.0,210.0,80.0,90.0,70.0,,19.216568981421137,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_130,R76,Kothariya Gam to Marwadi College (DOWN),3,8,43,80.0,70.0,200.0,80.0,80.0,90.0,,19.216568981421137,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_131,R77,Ribda Railway Station to Gondal Chowkdi (UP),3,12,15,60.0,50.0,120.0,60.0,55.0,60.0,,14.756522395377896,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_132,R77,Gondal Chowkdi to Ribda Railway Station (DOWN),3,12,15,60.0,50.0,120.0,60.0,60.0,60.0,,14.756522395377894,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_242,R78A,Trikon baug to Greenland Chowk (DOWN),3,1,10,,,,,,,,3.8493104053018548,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_133,R78,Greenland Chowk to Dreemland Partyplot (UP),3,14,35,60.0,40.0,420.0,60.0,70.0,60.0,,14.96457619199488,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_134,R78,Dreemland Partyplot to Greenland Chowk (DOWN),3,14,35,60.0,25.0,395.0,60.0,70.0,60.0,,14.96356755243816,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_135,R79,AjiDam to Vardhman Nagar (Maharana pratap Circle) (UP),3,24,34,45.0,10.0,45.0,42.5,45.0,42.5,42.5,14.815843488758174,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_136,R79,Vardhman Nagar (Maharana pratap Circle) to AjiDam (DOWN),3,24,34,45.0,10.0,45.0,42.5,42.5,45.0,,14.815843488758176,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_137,R7,BajrangWadi circle to Bhaktinagar Circle (UP),3,19,24,45.0,10.0,125.0,45.0,45.0,45.0,45.0,8.541256689837342,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_138,R7,Bhaktinagar Circle to BajrangWadi circle (DOWN),3,18,24,45.0,25.0,125.0,45.0,45.0,50.0,80.0,8.541256689837342,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_139,R80,Shapar Veraval to Gondal Chowkdi (UP),3,60,10,15.0,10.0,15.0,15.0,15.0,15.0,12.5,9.581600346117227,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_140,R80,Gondal Chowkdi to Shapar Veraval (DOWN),3,76,10,10.0,5.0,360.0,10.0,10.0,10.0,,9.581600346117227,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_243,R81A,Madhapar Chowk to Swaminarayan vidhyalay (UP),3,1,37,,,,,,,,16.18856141814567,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_244,R81A,Madhapar Gaam to AIIMS Hospital (DOWN),3,1,6,,,,,,,,8.717996967369368,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_245,R81B,Trikon baug to Swaminarayan vidhyalay (UP),3,1,22,,,,,,,,8.381466464123712,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_246,R81B,Swaminarayan vidhyalay to Trikon baug (DOWN),3,1,22,,,,,,,,8.381466437424837,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_247,R81C,AIIMS Hospital to Madhapar Chowk (UP),3,1,7,,,,,,,,9.151178089135298,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_141,R81,AIIMS Hospital to Swaminarayan vidhyalay (UP),3,6,43,85.0,85.0,250.0,167.5,85.0,85.0,,25.339739507280967,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_142,R81,Swaminarayan vidhyalay to AIIMS Hospital (DOWN),3,7,43,85.0,85.0,250.0,167.5,85.0,85.0,,25.3397394805821,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_248,R82A,Madhapar Chowk to Bhaktinagar Circle (UP),3,1,16,,,,,,,,7.070275650213744,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_249,R82B,AIIMS Hospital to Madhapar Chowk (UP),3,1,8,,,,,,,,9.371166418698401,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_143,R82,AIIMS Hospital to Bhaktinagar Circle (UP),3,8,23,90.0,60.0,130.0,130.0,110.0,65.0,,16.441442068912146,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_144,R82,Bhaktinagar Circle to AIIMS Hospital (DOWN),3,11,23,67.5,40.0,90.0,65.0,65.0,67.5,,16.441442068912146,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_250,R85A,Raiya Chowk (RMTS) to Pradhyuman Park (UP),3,1,24,,,,,,,,8.923573251623893,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_251,R85A,Raiya Chowk (RMTS) to Saurashtra University (DOWN),3,1,14,,,,,,,,4.935214690069609,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_252,R85B,Pradhyuman Park to Raiya Chowk (RMTS) (DOWN),3,1,24,,,,,,,,8.923573251623894,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_145,R85,Saurashtra University to Pradhyuman Park (UP),3,11,37,65.0,65.0,80.0,65.0,65.0,65.0,,14.074701240154138,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_146,R85,Pradhyuman Park to Saurashtra University (DOWN),3,14,37,65.0,10.0,80.0,65.0,65.0,65.0,,14.07470124015414,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_253,R86A,Marwadi College to Trikon baug (UP),3,1,16,,,,,,,,8.930629908826866,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_254,R86A,Trikon baug to Marwadi College (DOWN),3,1,16,,,,,,,,8.930629908826868,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_147,R86,Marwadi College to Gondal Chowkdi (UP),3,21,28,50.0,25.0,380.0,50.0,50.0,47.5,50.0,14.767303929126653,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_148,R86,Gondal Chowkdi to Marwadi College (DOWN),3,19,28,50.0,40.0,370.0,50.0,50.0,47.5,,14.767303929126651,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_255,R88A,Arpit eng. Collage to Raiya Chowk (RMTS) (UP),3,1,22,,,,,,,,19.154229479742703,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_256,R88A,Madhapar Chowk to Arpit eng. Collage (DOWN),3,1,17,,,,,,,,15.970274370769793,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_257,R88B,Arpit eng. Collage to Gondal Chowkdi (UP),3,1,54,,,,,,,,32.3205550462561,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_258,R88B,Gondal Chowkdi to Raiya Chowk (RMTS) (DOWN),3,1,33,,,,,,,,13.166325566513404,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_149,R88,Arpit eng. Collage to Gondal Chowkdi (UP),3,6,54,120.0,100.0,130.0,130.0,100.0,100.0,,32.3205550462561,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_150,R88,Gondal Chowkdi to Arpit eng. Collage (DOWN),3,7,54,125.0,35.0,195.0,130.0,100.0,115.0,,32.32010994430163,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_151,R89,Shree Vitthalbhai Radadiya Chowk to Trikon baug (UP),3,16,30,50.0,50.0,150.0,50.0,50.0,50.0,,9.948156302357523,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_152,R89,Trikon baug to Shree Vitthalbhai Radadiya Chowk (DOWN),3,17,30,50.0,20.0,150.0,50.0,50.0,50.0,20.0,9.948156302357523,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_259,R8A,Trikon baug to Labhubhai eng. Collage (UP),3,1,22,,,,,,,,10.194139221837947,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_260,R8A,Trikon baug to Greenland Chowk (DOWN),3,1,10,,,,,,,,3.8493104053018548,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_261,R8B,Greenland Chowk to Trikon baug (UP),3,1,10,,,,,,,,3.8493104053018543,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_262,R8B,Labhubhai eng. Collage to Trikon baug (DOWN),3,1,22,,,,,,,,10.194139221837949,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_153,R8,Greenland Chowk to Labhubhai eng. Collage (UP),3,29,31,30.0,5.0,65.0,35.0,30.0,25.0,60.0,14.043449627139802,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_154,R8,Labhubhai eng. Collage to Greenland Chowk (DOWN),3,29,31,30.0,10.0,385.0,32.5,30.0,30.0,,14.043449627139802,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_263,R91A,Tramba Village to Bhaktinagar Circle (UP),3,1,31,,,,,,,,16.95276738575901,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_264,R91A,Bhaktinagar Circle to Tramba Village (DOWN),3,3,31,220.0,65.0,375.0,220.0,,,,16.952767385759014,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_265,R91B,Tramba Village to AjiDam (UP),3,1,15,,,,,,,,10.304820495823407,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_155,R91,Tramba Village to Vagal Chowkdi (UP),3,6,46,120.0,45.0,265.0,165.0,160.0,82.5,,22.292952895407794,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_156,R91,Vagal Chowkdi to Tramba Village (DOWN),3,5,46,127.5,65.0,255.0,160.0,,127.5,,22.292952895407794,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_157,R92,150 feet Jamnagar road crossing to Trikon baug (UP),3,17,19,50.0,45.0,100.0,55.0,50.0,50.0,,10.394400281731338,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_158,R92,Trikon baug to 150 feet Jamnagar road crossing (DOWN),3,17,19,50.0,45.0,100.0,55.0,45.0,50.0,,10.39440028173134,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_159,R96,Atal Sarovar Entrance Gate to Kothariya Gam (UP),3,5,47,172.5,75.0,210.0,105.0,210.0,,210.0,19.31574252631739,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_160,R96,Kothariya Gam to Atal Sarovar Entrance Gate (DOWN),3,4,47,210.0,210.0,210.0,210.0,210.0,,,19.31574252631739,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_161,R97,Atal Sarovar to AjiDam (UP),3,4,30,180.0,165.0,180.0,180.0,172.5,,,13.99377038808035,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_162,R97,AjiDam to Atal Sarovar (DOWN),3,5,30,180.0,165.0,630.0,180.0,165.0,630.0,,13.99377038808035,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_163,R98,Atal Sarovar Entrance Gate to Gondal Chowkdi (UP),3,4,25,180.0,180.0,180.0,180.0,180.0,,180.0,14.152721158979224,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_164,R98,Gondal Chowkdi to Atal Sarovar Entrance Gate (DOWN),3,5,25,180.0,155.0,645.0,180.0,155.0,645.0,,14.152721158979226,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_165,R99,Atal Sarovar Entrance Gate to Greenland Chowk (UP),3,4,37,180.0,150.0,180.0,180.0,165.0,,,16.480280712147312,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_166,R99,Greenland Chowk to Atal Sarovar Entrance Gate (DOWN),3,4,37,180.0,165.0,180.0,180.0,165.0,,,16.480280712147312,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_167,R9,Arpit eng. Collage to Saurashtra University (UP),3,5,50,120.0,95.0,145.0,135.0,,105.0,,30.042696109710427,stop_straight_line_estimate,False,False,False
+rajkot,rajkot_168,R9,Saurashtra University to Arpit eng. Collage (DOWN),3,5,50,100.0,75.0,135.0,120.0,,80.0,,30.042752472968235,stop_straight_line_estimate,False,False,False

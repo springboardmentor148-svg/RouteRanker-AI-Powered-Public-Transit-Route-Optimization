@@ -214,6 +214,62 @@ trips.service_id ──►  calendar.service_id
 
 ---
 
+## 8. Module 2: Feature Engineering & Route Profiling
+
+Module 2 transforms raw GTFS transit schedules across all 8 Indian cities into a standardized, unified route-level analytical dataset (`processed/route_features.csv`).
+
+### Key Deliverables
+- **Jupyter Notebook**: [`RAW DATASET/module2_feature_engineering.ipynb`](RAW%20DATASET/module2_feature_engineering.ipynb) (all 9 phases executed end-to-end with verified outputs)
+- **Primary Processed Dataset**: [`processed/route_features.csv`](processed/route_features.csv) (9,812 unique routes, 18 numerical and categorical features)
+- **Hourly Profiles & Intermediates**: [`processed/`](processed/) (per-city hourly departure distributions and intermediate step datasets)
+- **Technical Reports**:
+  - [`reports/feature_dictionary.md`](reports/feature_dictionary.md): Comprehensive data dictionary detailing source files, calculation logic, and data types for all 18 features.
+  - [`reports/route_profile_summary.md`](reports/route_profile_summary.md): Per-city transit metrics and concrete route profiles from Delhi, Mumbai, and Bengaluru.
+  - [`reports/data_quality_report.md`](reports/data_quality_report.md): Systematic catalog of data anomalies, missing values, overnight schedules, and handling actions.
+  - [`reports/assumptions_and_limitations.md`](reports/assumptions_and_limitations.md): Methodological boundaries, time bins, headway rules, and explicit distinction between scheduled service and ridership.
+  - [`reports/data_quality_checks.csv`](reports/data_quality_checks.csv): Tabular verification audit across all 8 city feeds.
+
+### Summary of Engineered Route Profile Features
+
+| Feature Name | Type | Origin | Definition |
+|---|---|---|---|
+| `city` | Categorical (String) | Original | Target transit agency / city identifier |
+| `route_id` | Categorical (String) | Derived | Globally unique route identifier (`<city>_<original_id>`) |
+| `original_route_id` | Categorical (String) | Original | Native feed route identifier from `routes.txt` |
+| `route_short_name` | Categorical (String) | Original | Public-facing route number or code |
+| `route_long_name` | Categorical (String) | Original | Descriptive route corridor name or terminus |
+| `trip_count` | Numerical (Integer) | Derived | Total distinct trips scheduled on the route (`nunique(trip_id)`) |
+| `stop_count` | Numerical (Integer) | Derived | Total distinct physical stops served on the route (`nunique(stop_id)`) |
+| `route_length_km` | Numerical (Float) | Derived | Route distance in km via shapes (Haversine) or stop-sequence straight-line |
+| `length_method` | Categorical (String) | Derived | Estimation technique (`shape` or `stop_straight_line_estimate`) |
+| `median_headway_min` | Numerical (Float) | Derived | Median scheduled interval between consecutive departures (same day type) |
+| `morning_trips` | Numerical (Integer) | Derived | Scheduled trip departures in morning window (06:00 - 11:59) |
+| `afternoon_trips` | Numerical (Integer) | Derived | Scheduled trip departures in afternoon window (12:00 - 16:59) |
+| `evening_trips` | Numerical (Integer) | Derived | Scheduled trip departures in evening window (17:00 - 21:59) |
+| `night_trips` | Numerical (Integer) | Derived | Scheduled trip departures in night/early morning window (22:00 - 05:59) |
+| `weekday_trips` | Numerical (Integer) | Derived | Total trips operating on standard Monday–Friday schedules |
+| `weekend_trips` | Numerical (Integer) | Derived | Total trips operating on Saturday–Sunday schedules |
+| `first_departure_hour`| Numerical (Integer) | Derived | Earliest scheduled trip departure hour (0–23) |
+| `last_departure_hour` | Numerical (Integer) | Derived | Latest scheduled trip departure hour (0–27 for overnight schedules) |
+| `service_span_hours`  | Numerical (Float)   | Derived | Operating span in hours between first and last departure |
+| `operating_days`      | Categorical (String) | Derived | Calendar schedule coverage (`daily`, `weekday_only`, `weekend_only`, `custom`) |
+
+---
+
+## 9. Module 2 status
+
+- [x] Phase 1: Environment check and global data load function across all 8 cities
+- [x] Phase 2: Data quality & sanity checks (duplicates, orphaned IDs, >24h times, missing values)
+- [x] Phase 3: Time parsing and temporal feature engineering (24h+ support, time bins, service days)
+- [x] Phase 4: Route-level aggregation (trip counts, stop counts, proof of counting error)
+- [x] Phase 5: Service frequency and headway features (hourly trip wide-table, median headways)
+- [x] Phase 6: Route length estimation (Haversine shape trajectories vs stop-to-stop straight line)
+- [x] Phase 7: Unified route profile table export (`processed/route_features.csv`)
+- [x] Phase 8: Comprehensive technical documentation and reports in `reports/`
+- [x] Phase 9: End-to-end execution, sanity checks, and independent raw data validation
+
+---
+
 ## Team
 
 AYUSH SINGH

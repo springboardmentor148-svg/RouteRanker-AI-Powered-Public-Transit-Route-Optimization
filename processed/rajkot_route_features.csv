@@ -1,0 +1,272 @@
+city,route_id,route_short_name,route_long_name,route_type,trip_count,stop_count
+rajkot,rajkot_272,R83,Pandit dindayaal Civil Hospital to AIIMS Hospital (DOWN),3,16,20
+rajkot,rajkot_274,R83,AIIMS Hospital to Pandit dindayaal Civil Hospital (UP),3,16,20
+rajkot,rajkot_1,B1,Madhapar Chowk to Gondal Chowk (BRTS) (UP),3,266,19
+rajkot,rajkot_2,B1,Gondal Chowk (BRTS) to Madhapar Chowk (DOWN),3,262,19
+rajkot,rajkot_3,B2,Gondal Chowkdi to Madhapar Chowk (UP),3,22,30
+rajkot,rajkot_268,R36A,Trikon baug to badhinu patiyu (DOWN),3,2,31
+rajkot,rajkot_271,R38A,AjiDam to Madhapar Gaam Gate (UP),3,3,30
+rajkot,rajkot_4,B2,Madhapar Chowk to Gondal Chowkdi (DOWN),3,20,30
+rajkot,rajkot_5,R100,Atal Sarovar to Trikon baug (UP),3,6,22
+rajkot,rajkot_269,R36A,badhinu patiyu to Trikon baug (UP),3,2,31
+rajkot,rajkot_270,R38A,Madhapar Gaam Gate to AjiDam (DOWN),3,4,30
+rajkot,rajkot_6,R100,Trikon baug to Atal Sarovar (DOWN),3,13,22
+rajkot,rajkot_7,R11,Shapar Veraval to Trikon baug (UP),3,13,22
+rajkot,rajkot_8,R11,Trikon baug to Shapar Veraval (DOWN),3,11,22
+rajkot,rajkot_169,R13A,Trikon baug to Kothariya Chowk (UP),3,1,15
+rajkot,rajkot_9,R13,LalBahadur Shastri Township to Kothariya Chowk (UP),3,39,34
+rajkot,rajkot_10,R13,Kothariya Chowk to LalBahadur Shastri Township (DOWN),3,44,34
+rajkot,rajkot_11,R14,Anandpar Gam to Swati Park (UP),3,13,41
+rajkot,rajkot_12,R14,Swati Park to Anandpar Gam (DOWN),3,14,41
+rajkot,rajkot_170,R15A,ITI (Khirasara) to Trikon baug (UP),3,1,34
+rajkot,rajkot_171,R15A,Trikon baug to ITI (Khirasara) (DOWN),3,1,34
+rajkot,rajkot_172,R15B,Kothariya Gam to Trikon baug (DOWN),3,1,22
+rajkot,rajkot_13,R15,ITI (Khirasara) to Kothariya Gam (UP),3,25,55
+rajkot,rajkot_14,R15,Kothariya Gam to ITI (Khirasara) (DOWN),3,25,55
+rajkot,rajkot_173,R16A,B.T.Savani (Kidney) Hospital to Trikon baug (UP),3,1,18
+rajkot,rajkot_174,R16A,Kothariya Gam to B.T.Savani (Kidney) Hospital (DOWN),3,1,39
+rajkot,rajkot_175,R16B,Kothariya Gam to Trikon baug (DOWN),3,1,22
+rajkot,rajkot_15,R16,Saurashtra University to Kothariya Gam (UP),3,10,42
+rajkot,rajkot_16,R16,Kothariya Gam to Saurashtra University (DOWN),3,21,42
+rajkot,rajkot_17,R17,Tramba Village to Saurashtra University (UP),3,26,48
+rajkot,rajkot_18,R17,Saurashtra University to Tramba Village (DOWN),3,24,48
+rajkot,rajkot_176,R18A,shree ram hospital(metoda) to Trikon baug (UP),3,1,41
+rajkot,rajkot_177,R18A,AjiDam to Trikon baug (DOWN),3,1,15
+rajkot,rajkot_19,R18,shree ram hospital(metoda) to AjiDam (UP),3,11,55
+rajkot,rajkot_20,R18,AjiDam to shree ram hospital(metoda) (DOWN),3,20,55
+rajkot,rajkot_178,R19A,131 slum quater. to Trikon baug (UP),3,1,11
+rajkot,rajkot_179,R19A,Vraj Villa Apartment to Trikon baug (DOWN),3,1,20
+rajkot,rajkot_21,R19,131 slum quater. to Vraj Villa Apartment (UP),3,21,30
+rajkot,rajkot_22,R19,Vraj Villa Apartment to 131 slum quater. (DOWN),3,20,30
+rajkot,rajkot_180,R1A,B.T.Savani (Kidney) Hospital to Trikon baug (UP),3,1,17
+rajkot,rajkot_181,R1A,Trikon baug to B.T.Savani (Kidney) Hospital (DOWN),3,1,17
+rajkot,rajkot_23,R1,Saurashtra University to Trikon baug (UP),3,50,19
+rajkot,rajkot_24,R1,Trikon baug to Saurashtra University (DOWN),3,50,19
+rajkot,rajkot_182,R20A,Shapar Veraval to Trikon baug (UP),3,1,22
+rajkot,rajkot_25,R20,Shapar Veraval to Ghanteshvar S.R.P. Camp (UP),3,7,44
+rajkot,rajkot_26,R20,Ghanteshvar S.R.P. Camp to Shapar Veraval (DOWN),3,8,44
+rajkot,rajkot_27,R21,Shapar Veraval to Santiniketan Avenue(Raiya Gaam) (UP),3,4,42
+rajkot,rajkot_28,R21,Santiniketan Avenue(Raiya Gaam) to Shapar Veraval (DOWN),3,4,42
+rajkot,rajkot_184,R22A,Shapar Veraval to Trikon baug (UP),3,1,22
+rajkot,rajkot_29,R22,Shapar Veraval to Santiniketan Avenue(Raiya Gaam) (UP),3,10,41
+rajkot,rajkot_30,R22,Santiniketan Avenue(Raiya Gaam) to Shapar Veraval (DOWN),3,10,41
+rajkot,rajkot_185,R23A,Trikon baug to Shri Mansukhbhai Chhapia Township (UP),3,3,29
+rajkot,rajkot_186,R23A,Shri Mansukhbhai Chhapia Township to Trikon baug (DOWN),3,3,29
+rajkot,rajkot_187,R23B,H.N.Shukla College to Trikon baug (UP),3,3,15
+rajkot,rajkot_31,R23,H.N.Shukla College to Shri Mansukhbhai Chhapia Township (UP),3,17,43
+rajkot,rajkot_32,R23,Shri Mansukhbhai Chhapia Township to H.N.Shukla College (DOWN),3,18,43
+rajkot,rajkot_188,R24A,K.K.V hall to Metoda Gam (DOWN),3,1,26
+rajkot,rajkot_33,R24,Metoda Gam to Trikon baug (UP),3,14,36
+rajkot,rajkot_34,R24,Trikon baug to Metoda Gam (DOWN),3,32,36
+rajkot,rajkot_189,R25A,Jivraj Park to Trikon baug (UP),3,1,24
+rajkot,rajkot_35,R25,Jivraj Park to 131 slum quater. (UP),3,13,34
+rajkot,rajkot_36,R25,131 slum quater. to Jivraj Park (DOWN),3,13,34
+rajkot,rajkot_37,R26,Shyamji Krushna Varma Township to Aangan residency (UP),3,13,39
+rajkot,rajkot_38,R26,Aangan residency to Shyamji Krushna Varma Township (DOWN),3,13,39
+rajkot,rajkot_39,R27,Raiyadhar Slum Quarter to Trikon baug (UP),3,20,17
+rajkot,rajkot_40,R27,Trikon baug to Raiyadhar Slum Quarter (DOWN),3,20,17
+rajkot,rajkot_41,R28,Jivraj Park to Gujarat Housing Board Quarter/ Sagar Chok (UP),3,16,35
+rajkot,rajkot_42,R28,Gujarat Housing Board Quarter/ Sagar Chok to Jivraj Park (DOWN),3,15,35
+rajkot,rajkot_43,R2,H.N.Shukla College to Atal Sarovar (UP),3,12,41
+rajkot,rajkot_44,R2,Atal Sarovar to H.N.Shukla College (DOWN),3,12,41
+rajkot,rajkot_45,R30CIRCULAR,Trikon baug to Trikon Baug 2 (UP),3,17,23
+rajkot,rajkot_46,R31CIRCULAR,Trikon baug to Trikon baug (UP),3,16,21
+rajkot,rajkot_190,R32A,Trikon baug to Tramba Village (UP),3,1,34
+rajkot,rajkot_191,R32A,Tramba Village to Trikon baug (DOWN),3,2,34
+rajkot,rajkot_192,R32B,Parsananagar to Trikon baug (UP),3,2,8
+rajkot,rajkot_47,R32,Parsananagar to Tramba Village (UP),3,6,41
+rajkot,rajkot_48,R32,Tramba Village to Parsananagar (DOWN),3,6,41
+rajkot,rajkot_193,R34A,Trikon baug to kamdar nurshing collage (UP),3,1,26
+rajkot,rajkot_194,R34A,Trikon baug to H.N.Shukla College (DOWN),3,1,15
+rajkot,rajkot_275,R9A,Ratanpar (ramji mandir) to Saurashtra University (UP),3,1,48
+rajkot,rajkot_276,R9A,Saurashtra University to Ratanpar (ramji mandir) (DOWN),3,1,48
+rajkot,rajkot_195,R34B,H.N.Shukla College to Trikon baug (UP),3,1,15
+rajkot,rajkot_49,R34,H.N.Shukla College to kamdar nurshing collage (UP),3,2,40
+rajkot,rajkot_50,R34,kamdar nurshing collage to H.N.Shukla College (DOWN),3,17,40
+rajkot,rajkot_51,R35,Shapar Veraval to Trikon baug (UP),3,12,24
+rajkot,rajkot_52,R35,Trikon baug to Shapar Veraval (DOWN),3,11,24
+rajkot,rajkot_53,R36,badhinu patiyu to Bhaktinagar Circle (UP),3,18,35
+rajkot,rajkot_54,R36,Bhaktinagar Circle to badhinu patiyu (DOWN),3,18,35
+rajkot,rajkot_55,R37,Bhagini Nivedita Township to Ridhhi Sidhhi Park Crossing (UP),3,15,40
+rajkot,rajkot_56,R37,Ridhhi Sidhhi Park Crossing to Bhagini Nivedita Township (DOWN),3,14,40
+rajkot,rajkot_57,R38,AjiDam to Regional Science centre (UP),3,15,32
+rajkot,rajkot_58,R38,Regional Science centre to AjiDam (DOWN),3,14,32
+rajkot,rajkot_59,R3,Parsana Chowk to Madhapar Chowk (UP),3,9,54
+rajkot,rajkot_60,R3,Madhapar Chowk to Parsana Chowk (DOWN),3,9,54
+rajkot,rajkot_197,R40A,Shivalay Chowk to Jamtower Chowk (UP),3,1,16
+rajkot,rajkot_61,R40,Shivalay Chowk to Saurashtra University (UP),3,14,33
+rajkot,rajkot_62,R40,Saurashtra University to Shivalay Chowk (DOWN),3,14,33
+rajkot,rajkot_63,R41,Nandbhumi Tower to Vinod Nagar (UP),3,14,35
+rajkot,rajkot_64,R41,Vinod Nagar to Nandbhumi Tower (DOWN),3,14,35
+rajkot,rajkot_198,R42A,Trikon baug to Greenland Chowk (UP),3,2,10
+rajkot,rajkot_199,R42A,Trikon baug to Vasant Vatika (DOWN),3,1,24
+rajkot,rajkot_200,R42B,Vasant Vatika to Trikon baug (UP),3,1,24
+rajkot,rajkot_201,R42B,Greenland Chowk to Trikon baug (DOWN),3,1,10
+rajkot,rajkot_65,R42,Vasant Vatika to Greenland Chowk (UP),3,12,33
+rajkot,rajkot_66,R42,Greenland Chowk to Vasant Vatika (DOWN),3,13,33
+rajkot,rajkot_202,R43A,Akshar Vatika(Mavadi) to Trikon baug (UP),3,1,20
+rajkot,rajkot_203,R43A,Om Residency (Morbi road Crosing) to Trikon baug (DOWN),3,1,14
+rajkot,rajkot_67,R43,Akshar Vatika(Mavadi) to Om Residency (Morbi road Crosing) (UP),3,41,33
+rajkot,rajkot_68,R43,Om Residency (Morbi road Crosing) to Akshar Vatika(Mavadi) (DOWN),3,21,33
+rajkot,rajkot_204,R44A,AjiDam to Trikon baug (UP),3,1,15
+rajkot,rajkot_205,R44A,Sorathiyawadi Circle to Shree Mohandasbapa Ashram (DOWN),3,1,23
+rajkot,rajkot_69,R44,Shree Mohandasbapa Ashram to Trikon baug (UP),3,12,30
+rajkot,rajkot_70,R44,Trikon baug to Shree Mohandasbapa Ashram (DOWN),3,14,30
+rajkot,rajkot_206,R45A,Marwadi College to Saurashtra University (UP),3,1,38
+rajkot,rajkot_207,R45A,Indira Circle (RMTS) to Marwadi College (DOWN),3,1,30
+rajkot,rajkot_208,R45B,Marwadi College to Trikon baug (UP),3,1,20
+rajkot,rajkot_209,R45B,Saurashtra University to Marwadi College (DOWN),3,1,38
+rajkot,rajkot_210,R45C,Trikon baug to Arpit eng. Collage (DOWN),3,1,26
+rajkot,rajkot_71,R45,Arpit eng. Collage to Saurashtra University (UP),3,12,44
+rajkot,rajkot_72,R45,Saurashtra University to Arpit eng. Collage (DOWN),3,12,44
+rajkot,rajkot_73,R46,shree sardar patel homeopathic collage to Trikon baug (UP),3,10,27
+rajkot,rajkot_74,R46,Trikon baug to shree sardar patel homeopathic collage (DOWN),3,10,27
+rajkot,rajkot_211,R47A,Kothariya Gam to Saurashtra University (DOWN),3,1,44
+rajkot,rajkot_75,R47,Saurashtra University to Kothariya Gam (UP),3,37,36
+rajkot,rajkot_76,R47,huseni chawk (kothariya) to Saurashtra University (DOWN),3,17,48
+rajkot,rajkot_77,R4,G.I.D.C. Gate 3 to AjiDam (UP),3,8,48
+rajkot,rajkot_78,R4,AjiDam to G.I.D.C. Gate 3 (DOWN),3,8,48
+rajkot,rajkot_212,R51A,Punit Nagar (jetco 66 k.v.a.) to Trikon baug (UP),3,1,17
+rajkot,rajkot_79,R51,Punit Nagar (jetco 66 k.v.a.) to Ghanteshvar S.R.P. Camp (G company) (UP),3,11,41
+rajkot,rajkot_80,R51,Ghanteshvar S.R.P. Camp (G company) to Punit Nagar (jetco 66 k.v.a.) (DOWN),3,12,41
+rajkot,rajkot_81,R53,District and Sessions court to Bhaktinagar Station (UP),3,20,21
+rajkot,rajkot_82,R53,Bhaktinagar Station to District and Sessions court (DOWN),3,20,21
+rajkot,rajkot_213,R54A,Radha Park (Kotharia Gam) to Trikon baug (UP),3,1,25
+rajkot,rajkot_83,R54,Radha Park (Kotharia Gam) to Ghanteshvar S.R.P. Camp (UP),3,7,51
+rajkot,rajkot_84,R54,Ghanteshvar S.R.P. Camp to Radha Park (Kotharia Gam) (DOWN),3,19,51
+rajkot,rajkot_214,R55A,Arpit eng. Collage to Trikon baug (UP),3,1,26
+rajkot,rajkot_215,R55A,Trikon baug to Arpit eng. Collage (DOWN),3,1,26
+rajkot,rajkot_85,R55,Arpit eng. Collage to Gondal Chowkdi (UP),3,11,38
+rajkot,rajkot_86,R55,Gondal Chowkdi to Arpit eng. Collage (DOWN),3,7,38
+rajkot,rajkot_216,R56A,Pandit Deendayal Nagar to Trikon baug (UP),3,1,21
+rajkot,rajkot_217,R56A,Trikon baug to Pandit Deendayal Nagar (DOWN),3,1,21
+rajkot,rajkot_87,R56,Government Engineering College to Trikon baug (UP),3,8,24
+rajkot,rajkot_88,R56,Trikon baug to Government Engineering College (DOWN),3,7,24
+rajkot,rajkot_218,R57A,Mota Mauva to Trikon baug (UP),3,1,17
+rajkot,rajkot_219,R57A,Trikon baug to Everest Park (DOWN),3,1,16
+rajkot,rajkot_89,R57,Government Engineering College to Trikon baug (UP),3,22,26
+rajkot,rajkot_90,R57,Trikon baug to Government Engineering College (DOWN),3,21,26
+rajkot,rajkot_91,R58,AIIMS Hospital to Madhapar Chowk (UP),3,16,12
+rajkot,rajkot_92,R58,Madhapar Chowk to AIIMS Hospital (DOWN),3,16,14
+rajkot,rajkot_220,R5A,Trikon baug to Tramba Village (DOWN),3,1,29
+rajkot,rajkot_93,R5,Tramba Village to RAIYA GAM(Shilpan Onex) (UP),3,10,43
+rajkot,rajkot_94,R5,RAIYA GAM(Shilpan Onex) to Tramba Village (DOWN),3,16,43
+rajkot,rajkot_95,R60,Trikon baug to Golden Green Industrial Park (UP),3,25,42
+rajkot,rajkot_96,R60,Golden Green Industrial Park to Trikon baug (DOWN),3,16,42
+rajkot,rajkot_97,R61,Naranka Gram to Trikon baug (UP),3,8,39
+rajkot,rajkot_98,R61,Trikon baug to Naranka Gram (DOWN),3,8,39
+rajkot,rajkot_99,R62,Shapar Veraval to Trikon baug (UP),3,8,36
+rajkot,rajkot_100,R62,Trikon baug to Shapar Veraval (DOWN),3,8,36
+rajkot,rajkot_101,R63,Rajpath Siesta to Trikon baug (UP),3,16,27
+rajkot,rajkot_102,R63,Trikon baug to Rajpath Siesta (DOWN),3,16,27
+rajkot,rajkot_221,R64A,Bhaktinagar Circle to Arpit eng. Collage (UP),3,2,36
+rajkot,rajkot_222,R64A,Arpit eng. Collage to Bhaktinagar Circle (DOWN),3,2,36
+rajkot,rajkot_223,R64B,150 feet road crossing - kalawad road to Bhaktinagar Circle (UP),3,2,18
+rajkot,rajkot_224,R64B,Bhaktinagar Circle to 150 feet road crossing - kalawad road (DOWN),3,1,18
+rajkot,rajkot_103,R64,150 feet road crossing - kalawad road to Arpit eng. Collage (UP),3,4,53
+rajkot,rajkot_104,R64,Arpit eng. Collage to 150 feet road crossing - kalawad road (DOWN),3,4,53
+rajkot,rajkot_225,R65A,Mahika Gam to Trikon baug (DOWN),3,1,31
+rajkot,rajkot_226,R65B,Trikon baug to Prajapati Chowk (DOWN),3,1,22
+rajkot,rajkot_105,R65,Prajapati Chowk to Mahika Gam (UP),3,8,52
+rajkot,rajkot_106,R65,Mahika Gam to Prajapati Chowk (DOWN),3,8,52
+rajkot,rajkot_107,R66,Aadarsh - Shri Housing Co-operative Service Society to Trikon baug (UP),3,20,24
+rajkot,rajkot_108,R66,Trikon baug to Aadarsh - Shri Housing Co-operative Service Society (DOWN),3,20,24
+rajkot,rajkot_109,R67,KANKOT GAM to Trikon baug (UP),3,32,23
+rajkot,rajkot_110,R67,Trikon baug to KANKOT GAM (DOWN),3,34,23
+rajkot,rajkot_111,R68,Kothariya Solvant fatak to Trikon baug (UP),3,12,21
+rajkot,rajkot_112,R68,Trikon baug to Kothariya Solvant fatak (DOWN),3,12,21
+rajkot,rajkot_113,R69,Trikon baug to Light House (Raiya) (UP),3,16,28
+rajkot,rajkot_114,R69,Light House (Raiya) to Trikon baug (DOWN),3,16,28
+rajkot,rajkot_227,R6A,Shivalay Chowk to Ajidam (UP),3,1,33
+rajkot,rajkot_228,R6A,Ajidam to Shivalay Chowk (DOWN),3,1,33
+rajkot,rajkot_115,R6,Shivalay Chowk to Tramba Village (UP),3,10,47
+rajkot,rajkot_116,R6,Tramba Village to Shivalay Chowk (DOWN),3,12,47
+rajkot,rajkot_229,R70A,Trikon baug to Parapipaliya patiya (UP),3,1,33
+rajkot,rajkot_230,R70A,Trikon baug to Ramvan (DOWN),3,2,25
+rajkot,rajkot_231,R70B,Parapipaliya patiya to Trikon baug (DOWN),3,1,33
+rajkot,rajkot_117,R70,Ramvan to Parapipaliya patiya (UP),3,6,54
+rajkot,rajkot_118,R70,Parapipaliya patiya to Ramvan (DOWN),3,4,57
+rajkot,rajkot_119,R71,Government Engineering College to Kothariya Gam (UP),3,12,39
+rajkot,rajkot_120,R71,Kothariya Gam to Government Engineering College (DOWN),3,12,39
+rajkot,rajkot_232,R72A,Madhapar Chowk to Government Engineering College (DOWN),3,1,29
+rajkot,rajkot_233,R72B,Greenland Chowk to Madhapar Chowk (DOWN),3,1,13
+rajkot,rajkot_121,R72,Government Engineering College to Greenland Chowk (UP),3,17,41
+rajkot,rajkot_122,R72,Greenland Chowk to Government Engineering College (DOWN),3,18,41
+rajkot,rajkot_123,R73,Shreenathji Industries Plot No.155 to Trikon baug (UP),3,8,27
+rajkot,rajkot_124,R73,Trikon baug to Shreenathji Industries Plot No.155 (DOWN),3,8,27
+rajkot,rajkot_125,R74,Kothariya Solvant fatak to Trikon baug (UP),3,14,25
+rajkot,rajkot_126,R74,Trikon baug to Kothariya Solvant fatak (DOWN),3,14,25
+rajkot,rajkot_234,R75A,Parevadi Chowk to matru darshan School (UP),3,1,17
+rajkot,rajkot_235,R75A,Trikon baug to P.G.V.C.L SUB DIVISON MORBI ROAD (DOWN),3,3,18
+rajkot,rajkot_236,R75B,P.G.V.C.L SUB DIVISON MORBI ROAD to Trikon baug (UP),3,3,18
+rajkot,rajkot_237,R75B,matru darshan School to Trikon baug (DOWN),3,1,16
+rajkot,rajkot_127,R75,P.G.V.C.L SUB DIVISON MORBI ROAD to matru darshan School (UP),3,11,33
+rajkot,rajkot_128,R75,matru darshan School to P.G.V.C.L SUB DIVISON MORBI ROAD (DOWN),3,11,33
+rajkot,rajkot_238,R76A,Field Marshal Chowk to Kothariya Gam (UP),3,1,20
+rajkot,rajkot_239,R76A,Field Marshal Chowk to Marwadi College (DOWN),3,2,24
+rajkot,rajkot_240,R76B,Marwadi College to Field Marshal Chowk (UP),3,2,24
+rajkot,rajkot_241,R76B,Kothariya Gam to Field Marshal Chowk (DOWN),3,2,20
+rajkot,rajkot_129,R76,Marwadi College to Kothariya Gam (UP),3,8,43
+rajkot,rajkot_130,R76,Kothariya Gam to Marwadi College (DOWN),3,8,43
+rajkot,rajkot_131,R77,Ribda Railway Station to Gondal Chowkdi (UP),3,12,15
+rajkot,rajkot_132,R77,Gondal Chowkdi to Ribda Railway Station (DOWN),3,12,15
+rajkot,rajkot_242,R78A,Trikon baug to Greenland Chowk (DOWN),3,1,10
+rajkot,rajkot_133,R78,Greenland Chowk to Dreemland Partyplot (UP),3,14,35
+rajkot,rajkot_134,R78,Dreemland Partyplot to Greenland Chowk (DOWN),3,14,35
+rajkot,rajkot_135,R79,AjiDam to Vardhman Nagar (Maharana pratap Circle) (UP),3,24,34
+rajkot,rajkot_136,R79,Vardhman Nagar (Maharana pratap Circle) to AjiDam (DOWN),3,24,34
+rajkot,rajkot_137,R7,BajrangWadi circle to Bhaktinagar Circle (UP),3,19,24
+rajkot,rajkot_138,R7,Bhaktinagar Circle to BajrangWadi circle (DOWN),3,18,24
+rajkot,rajkot_139,R80,Shapar Veraval to Gondal Chowkdi (UP),3,60,10
+rajkot,rajkot_140,R80,Gondal Chowkdi to Shapar Veraval (DOWN),3,76,10
+rajkot,rajkot_243,R81A,Madhapar Chowk to Swaminarayan vidhyalay (UP),3,1,37
+rajkot,rajkot_244,R81A,Madhapar Gaam to AIIMS Hospital (DOWN),3,1,6
+rajkot,rajkot_245,R81B,Trikon baug to Swaminarayan vidhyalay (UP),3,1,22
+rajkot,rajkot_246,R81B,Swaminarayan vidhyalay to Trikon baug (DOWN),3,1,22
+rajkot,rajkot_247,R81C,AIIMS Hospital to Madhapar Chowk (UP),3,1,7
+rajkot,rajkot_141,R81,AIIMS Hospital to Swaminarayan vidhyalay (UP),3,6,43
+rajkot,rajkot_142,R81,Swaminarayan vidhyalay to AIIMS Hospital (DOWN),3,7,43
+rajkot,rajkot_248,R82A,Madhapar Chowk to Bhaktinagar Circle (UP),3,1,16
+rajkot,rajkot_249,R82B,AIIMS Hospital to Madhapar Chowk (UP),3,1,8
+rajkot,rajkot_143,R82,AIIMS Hospital to Bhaktinagar Circle (UP),3,8,23
+rajkot,rajkot_144,R82,Bhaktinagar Circle to AIIMS Hospital (DOWN),3,11,23
+rajkot,rajkot_250,R85A,Raiya Chowk (RMTS) to Pradhyuman Park (UP),3,1,24
+rajkot,rajkot_251,R85A,Raiya Chowk (RMTS) to Saurashtra University (DOWN),3,1,14
+rajkot,rajkot_252,R85B,Pradhyuman Park to Raiya Chowk (RMTS) (DOWN),3,1,24
+rajkot,rajkot_145,R85,Saurashtra University to Pradhyuman Park (UP),3,11,37
+rajkot,rajkot_146,R85,Pradhyuman Park to Saurashtra University (DOWN),3,14,37
+rajkot,rajkot_253,R86A,Marwadi College to Trikon baug (UP),3,1,16
+rajkot,rajkot_254,R86A,Trikon baug to Marwadi College (DOWN),3,1,16
+rajkot,rajkot_147,R86,Marwadi College to Gondal Chowkdi (UP),3,21,28
+rajkot,rajkot_148,R86,Gondal Chowkdi to Marwadi College (DOWN),3,19,28
+rajkot,rajkot_255,R88A,Arpit eng. Collage to Raiya Chowk (RMTS) (UP),3,1,22
+rajkot,rajkot_256,R88A,Madhapar Chowk to Arpit eng. Collage (DOWN),3,1,17
+rajkot,rajkot_257,R88B,Arpit eng. Collage to Gondal Chowkdi (UP),3,1,54
+rajkot,rajkot_258,R88B,Gondal Chowkdi to Raiya Chowk (RMTS) (DOWN),3,1,33
+rajkot,rajkot_149,R88,Arpit eng. Collage to Gondal Chowkdi (UP),3,6,54
+rajkot,rajkot_150,R88,Gondal Chowkdi to Arpit eng. Collage (DOWN),3,7,54
+rajkot,rajkot_151,R89,Shree Vitthalbhai Radadiya Chowk to Trikon baug (UP),3,16,30
+rajkot,rajkot_152,R89,Trikon baug to Shree Vitthalbhai Radadiya Chowk (DOWN),3,17,30
+rajkot,rajkot_259,R8A,Trikon baug to Labhubhai eng. Collage (UP),3,1,22
+rajkot,rajkot_260,R8A,Trikon baug to Greenland Chowk (DOWN),3,1,10
+rajkot,rajkot_261,R8B,Greenland Chowk to Trikon baug (UP),3,1,10
+rajkot,rajkot_262,R8B,Labhubhai eng. Collage to Trikon baug (DOWN),3,1,22
+rajkot,rajkot_153,R8,Greenland Chowk to Labhubhai eng. Collage (UP),3,29,31
+rajkot,rajkot_154,R8,Labhubhai eng. Collage to Greenland Chowk (DOWN),3,29,31
+rajkot,rajkot_263,R91A,Tramba Village to Bhaktinagar Circle (UP),3,1,31
+rajkot,rajkot_264,R91A,Bhaktinagar Circle to Tramba Village (DOWN),3,3,31
+rajkot,rajkot_265,R91B,Tramba Village to AjiDam (UP),3,1,15
+rajkot,rajkot_155,R91,Tramba Village to Vagal Chowkdi (UP),3,6,46
+rajkot,rajkot_156,R91,Vagal Chowkdi to Tramba Village (DOWN),3,5,46
+rajkot,rajkot_157,R92,150 feet Jamnagar road crossing to Trikon baug (UP),3,17,19
+rajkot,rajkot_158,R92,Trikon baug to 150 feet Jamnagar road crossing (DOWN),3,17,19
+rajkot,rajkot_159,R96,Atal Sarovar Entrance Gate to Kothariya Gam (UP),3,5,47
+rajkot,rajkot_160,R96,Kothariya Gam to Atal Sarovar Entrance Gate (DOWN),3,4,47
+rajkot,rajkot_161,R97,Atal Sarovar to AjiDam (UP),3,4,30
+rajkot,rajkot_162,R97,AjiDam to Atal Sarovar (DOWN),3,5,30
+rajkot,rajkot_163,R98,Atal Sarovar Entrance Gate to Gondal Chowkdi (UP),3,4,25
+rajkot,rajkot_164,R98,Gondal Chowkdi to Atal Sarovar Entrance Gate (DOWN),3,5,25
+rajkot,rajkot_165,R99,Atal Sarovar Entrance Gate to Greenland Chowk (UP),3,4,37
+rajkot,rajkot_166,R99,Greenland Chowk to Atal Sarovar Entrance Gate (DOWN),3,4,37
+rajkot,rajkot_167,R9,Arpit eng. Collage to Saurashtra University (UP),3,5,50
+rajkot,rajkot_168,R9,Saurashtra University to Arpit eng. Collage (DOWN),3,5,50

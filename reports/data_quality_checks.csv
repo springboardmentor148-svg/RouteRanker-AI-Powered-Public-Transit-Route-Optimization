@@ -1,0 +1,9 @@
+city,missing_columns_with_nulls,missing_total_cells,duplicate_rows,duplicate_ids,orphan_trip_route_id,orphan_stoptime_trip_id,orphan_stoptime_stop_id,orphan_trip_service_id,time_missing,time_bad_format,time_gte_24h,coord_missing_lat,coord_missing_lon,coord_bad_lat,coord_bad_lon,cal_parse_errors,cal_end_before_start
+ahmedabad,1,14323,0,0,0,0,0,0,0,0,3988,0,0,0,0,0,0
+bengaluru,5,30368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+davangere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+delhi,3,51626,0,0,0,0,0,0,0,0,6148,0,0,0,0,0,0
+hdbrt,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+mumbai,0,0,0,0,0,0,0,0,0,0,28548,0,0,0,0,0,0
+pune,0,0,0,0,0,0,0,0,0,0,358,0,0,0,0,0,0
+rajkot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
