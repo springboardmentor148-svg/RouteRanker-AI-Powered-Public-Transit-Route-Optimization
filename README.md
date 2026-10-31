@@ -270,6 +270,20 @@ Module 2 transforms raw GTFS transit schedules across all 8 Indian cities into a
 
 ---
 
+## 10. Module 3: Exploratory Data Analysis (EDA) Status
+
+- [x] Phase 1: Dataset ingestion, structural audit & baseline validation (`processed/route_features.csv`)
+- [x] Phase 2: Univariate distribution analysis (skewness, mean vs. median, IQR, boxplots)
+- [x] Phase 3: Temporal 24-hour service patterns & 4 operational time period allocations
+- [x] Phase 4: Route-level comparative profiling, frequency tiers & `reports/route_comparison_summary.csv`
+- [x] Phase 5: Spatial stop coordinate verification, interactive Folium maps & shape availability audit
+- [x] Phase 6: Inverted index stop overlap screening (`reports/candidate_overlapping_routes.csv`) & low-activity candidates (`reports/candidate_low_activity_routes.csv`)
+- [x] Phase 7: Multivariate correlation analysis (Spearman vs. Pearson heatmaps, strongest/weakest pairs, route length vs. trips proof)
+- [x] Phase 8: Data quality audit, root-cause outlier classification & `processed/route_features_flagged.csv`
+- [x] Phase 9: Final deliverable reports (`exploratory_analysis_report.md`, `findings_and_limitations.md`), independent raw GTFS verification & clean kernel run
+
+---
+
 ## Team
 
 AYUSH SINGH

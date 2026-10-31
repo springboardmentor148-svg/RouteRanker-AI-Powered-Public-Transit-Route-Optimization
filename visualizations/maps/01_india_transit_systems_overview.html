@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9045ceade2e5ce91a8882c01742b26c7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9045ceade2e5ce91a8882c01742b26c7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9045ceade2e5ce91a8882c01742b26c7 = L.map(
+                "map_9045ceade2e5ce91a8882c01742b26c7",
+                {
+                    center: [21.5, 78.5],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e24c4eaeeb882af8cbba51d2a7acfd28 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_e24c4eaeeb882af8cbba51d2a7acfd28.addTo(map_9045ceade2e5ce91a8882c01742b26c7);
+        
+    
+            var circle_marker_cc56e6d02d2ed9c24a19c505a83af80a = L.circleMarker(
+                [23.0225, 72.5714],
+                {"bubblingMouseEvents": true, "color": "#2980B9", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2980B9", "fillOpacity": 0.65, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 64, "stroke": true, "weight": 3}
+            ).addTo(map_9045ceade2e5ce91a8882c01742b26c7);
+        
+    
+        var popup_ae20e2ccafa345abb60efce6c6c97ef5 = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_fc87a8cfa6a7599b4fdc303a1a5d411c = $(`<div id="html_fc87a8cfa6a7599b4fdc303a1a5d411c" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 220px; line-height: 1.5;">         <h4 style="margin: 0 0 6px 0; color: #2C3E50;">AHMEDABAD</h4>         <b>Transit Agency:</b> AMTS / Ahmedabad BRTS<br>         <b>Total Physical Stops:</b> 3,235<br>         <b>Total Routes:</b> 978<br>         <b>Coordinates Quality:</b> 100% Complete<br>         <b>Shapes Feed:</b> <span style="color: red; font-weight: bold;">Unavailable</span>     </div>     </div>`)[0];
+                popup_ae20e2ccafa345abb60efce6c6c97ef5.setContent(html_fc87a8cfa6a7599b4fdc303a1a5d411c);
+            
+        
+
+        circle_marker_cc56e6d02d2ed9c24a19c505a83af80a.bindPopup(popup_ae20e2ccafa345abb60efce6c6c97ef5)
+        ;
+
+        
+    
+    
+            circle_marker_cc56e6d02d2ed9c24a19c505a83af80a.bindTooltip(
+                `<div>
+                     AHMEDABAD (3,235 stops)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2257fb79dcd920c5cb3e62925544a37c = L.circleMarker(
+                [12.9716, 77.5946],
+                {"bubblingMouseEvents": true, "color": "#27AE60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27AE60", "fillOpacity": 0.65, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 95, "stroke": true, "weight": 3}
+            ).addTo(map_9045ceade2e5ce91a8882c01742b26c7);
+        
+    
+        var popup_aa5257394464429601f33c8e784187a7 = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_c452790afef344d4bb5bd2d8ee3edcfb = $(`<div id="html_c452790afef344d4bb5bd2d8ee3edcfb" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 220px; line-height: 1.5;">         <h4 style="margin: 0 0 6px 0; color: #2C3E50;">BENGALURU</h4>         <b>Transit Agency:</b> BMTC (Bengaluru)<br>         <b>Total Physical Stops:</b> 9,960<br>         <b>Total Routes:</b> 4,434<br>         <b>Coordinates Quality:</b> 100% Complete<br>         <b>Shapes Feed:</b> <span style="color: green; font-weight: bold;">Available (7,355 shapes)</span>     </div>     </div>`)[0];
+                popup_aa5257394464429601f33c8e784187a7.setContent(html_c452790afef344d4bb5bd2d8ee3edcfb);
+            
+        
+
+        circle_marker_2257fb79dcd920c5cb3e62925544a37c.bindPopup(popup_aa5257394464429601f33c8e784187a7)
+        ;
+
+        
+    
+    
+            circle_marker_2257fb79dcd920c5cb3e62925544a37c.bindTooltip(
+                `<div>
+                     BENGALURU (9,960 stops)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4adc1c83cdd262890042b207b5dd067e = L.circleMarker(
+                [14.4644, 75.9218],
+                {"bubblingMouseEvents": true, "color": "#2980B9", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2980B9", "fillOpacity": 0.65, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 21, "stroke": true, "weight": 3}
+            ).addTo(map_9045ceade2e5ce91a8882c01742b26c7);
+        
+    
+        var popup_235edc1053cf7e2f3172e25efd93e2c1 = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_16e93cb97cc24ee640ec5c288a2963ea = $(`<div id="html_16e93cb97cc24ee640ec5c288a2963ea" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 220px; line-height: 1.5;">         <h4 style="margin: 0 0 6px 0; color: #2C3E50;">DAVANGERE</h4>         <b>Transit Agency:</b> Davangere City Transit<br>         <b>Total Physical Stops:</b> 146<br>         <b>Total Routes:</b> 93<br>         <b>Coordinates Quality:</b> 100% Complete<br>         <b>Shapes Feed:</b> <span style="color: red; font-weight: bold;">Unavailable</span>     </div>     </div>`)[0];
+                popup_235edc1053cf7e2f3172e25efd93e2c1.setContent(html_16e93cb97cc24ee640ec5c288a2963ea);
+            
+        
+
+        circle_marker_4adc1c83cdd262890042b207b5dd067e.bindPopup(popup_235edc1053cf7e2f3172e25efd93e2c1)
+        ;
+
+        
+    
+    
+            circle_marker_4adc1c83cdd262890042b207b5dd067e.bindTooltip(
+                `<div>
+                     DAVANGERE (146 stops)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5cfa49c1e61b3bf93e84372d08d0f744 = L.circleMarker(
+                [28.6139, 77.209],
+                {"bubblingMouseEvents": true, "color": "#2980B9", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2980B9", "fillOpacity": 0.65, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 70, "stroke": true, "weight": 3}
+            ).addTo(map_9045ceade2e5ce91a8882c01742b26c7);
+        
+    
+        var popup_5c9e08e5bec9413853eacbc09088e06b = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_6b09c3ef87ee65986087ec93a1899d6f = $(`<div id="html_6b09c3ef87ee65986087ec93a1899d6f" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 220px; line-height: 1.5;">         <h4 style="margin: 0 0 6px 0; color: #2C3E50;">DELHI</h4>         <b>Transit Agency:</b> DTC / DIMTS<br>         <b>Total Physical Stops:</b> 4,192<br>         <b>Total Routes:</b> 1,270<br>         <b>Coordinates Quality:</b> 100% Complete<br>         <b>Shapes Feed:</b> <span style="color: red; font-weight: bold;">Unavailable</span>     </div>     </div>`)[0];
+                popup_5c9e08e5bec9413853eacbc09088e06b.setContent(html_6b09c3ef87ee65986087ec93a1899d6f);
+            
+        
+
+        circle_marker_5cfa49c1e61b3bf93e84372d08d0f744.bindPopup(popup_5c9e08e5bec9413853eacbc09088e06b)
+        ;
+
+        
+    
+    
+            circle_marker_5cfa49c1e61b3bf93e84372d08d0f744.bindTooltip(
+                `<div>
+                     DELHI (4,192 stops)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7c25e24d65f763c2779092bea306f577 = L.circleMarker(
+                [15.3647, 75.124],
+                {"bubblingMouseEvents": true, "color": "#2980B9", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2980B9", "fillOpacity": 0.65, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 57, "stroke": true, "weight": 3}
+            ).addTo(map_9045ceade2e5ce91a8882c01742b26c7);
+        
+    
+        var popup_7aa1000cd00baa4b60d3cf2cbc32d8f8 = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_da9d0f7b6d41f552fa3011293034f0cc = $(`<div id="html_da9d0f7b6d41f552fa3011293034f0cc" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 220px; line-height: 1.5;">         <h4 style="margin: 0 0 6px 0; color: #2C3E50;">HDBRT</h4>         <b>Transit Agency:</b> HDBRT (Hubballi-Dharwad)<br>         <b>Total Physical Stops:</b> 2,332<br>         <b>Total Routes:</b> 632<br>         <b>Coordinates Quality:</b> 100% Complete<br>         <b>Shapes Feed:</b> <span style="color: red; font-weight: bold;">Unavailable</span>     </div>     </div>`)[0];
+                popup_7aa1000cd00baa4b60d3cf2cbc32d8f8.setContent(html_da9d0f7b6d41f552fa3011293034f0cc);
+            
+        
+
+        circle_marker_7c25e24d65f763c2779092bea306f577.bindPopup(popup_7aa1000cd00baa4b60d3cf2cbc32d8f8)
+        ;
+
+        
+    
+    
+            circle_marker_7c25e24d65f763c2779092bea306f577.bindTooltip(
+                `<div>
+                     HDBRT (2,332 stops)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3df3b5810591f00295f3a1036e12be3a = L.circleMarker(
+                [19.076, 72.8777],
+                {"bubblingMouseEvents": true, "color": "#2980B9", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2980B9", "fillOpacity": 0.65, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 96, "stroke": true, "weight": 3}
+            ).addTo(map_9045ceade2e5ce91a8882c01742b26c7);
+        
+    
+        var popup_ec3b42fa90bdf94437ab592f1248e78c = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_22b9658acbd861421e6ed616cb4120b8 = $(`<div id="html_22b9658acbd861421e6ed616cb4120b8" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 220px; line-height: 1.5;">         <h4 style="margin: 0 0 6px 0; color: #2C3E50;">MUMBAI</h4>         <b>Transit Agency:</b> BEST (Mumbai)<br>         <b>Total Physical Stops:</b> 10,279<br>         <b>Total Routes:</b> 1,609<br>         <b>Coordinates Quality:</b> 100% Complete<br>         <b>Shapes Feed:</b> <span style="color: red; font-weight: bold;">Unavailable</span>     </div>     </div>`)[0];
+                popup_ec3b42fa90bdf94437ab592f1248e78c.setContent(html_22b9658acbd861421e6ed616cb4120b8);
+            
+        
+
+        circle_marker_3df3b5810591f00295f3a1036e12be3a.bindPopup(popup_ec3b42fa90bdf94437ab592f1248e78c)
+        ;
+
+        
+    
+    
+            circle_marker_3df3b5810591f00295f3a1036e12be3a.bindTooltip(
+                `<div>
+                     MUMBAI (10,279 stops)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_de9b71b60a7c3ad5754bfae51bf5675c = L.circleMarker(
+                [18.5204, 73.8567],
+                {"bubblingMouseEvents": true, "color": "#27AE60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27AE60", "fillOpacity": 0.65, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 83, "stroke": true, "weight": 3}
+            ).addTo(map_9045ceade2e5ce91a8882c01742b26c7);
+        
+    
+        var popup_d1f2f97f719d78c5dc88ca5cad6dd7dd = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_51239f7c002b61adbd223ed96915ee67 = $(`<div id="html_51239f7c002b61adbd223ed96915ee67" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 220px; line-height: 1.5;">         <h4 style="margin: 0 0 6px 0; color: #2C3E50;">PUNE</h4>         <b>Transit Agency:</b> PMPML (Pune)<br>         <b>Total Physical Stops:</b> 6,745<br>         <b>Total Routes:</b> 628<br>         <b>Coordinates Quality:</b> 100% Complete<br>         <b>Shapes Feed:</b> <span style="color: green; font-weight: bold;">Available (628 shapes)</span>     </div>     </div>`)[0];
+                popup_d1f2f97f719d78c5dc88ca5cad6dd7dd.setContent(html_51239f7c002b61adbd223ed96915ee67);
+            
+        
+
+        circle_marker_de9b71b60a7c3ad5754bfae51bf5675c.bindPopup(popup_d1f2f97f719d78c5dc88ca5cad6dd7dd)
+        ;
+
+        
+    
+    
+            circle_marker_de9b71b60a7c3ad5754bfae51bf5675c.bindTooltip(
+                `<div>
+                     PUNE (6,745 stops)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_81d52bf1a24d58f28d3cf6a278f9f67a = L.circleMarker(
+                [22.3039, 70.8022],
+                {"bubblingMouseEvents": true, "color": "#2980B9", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2980B9", "fillOpacity": 0.65, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 38, "stroke": true, "weight": 3}
+            ).addTo(map_9045ceade2e5ce91a8882c01742b26c7);
+        
+    
+        var popup_a0085321b1381eb6781d8f009a26c301 = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_63b5520b4ec79ef0c2709740abc76d64 = $(`<div id="html_63b5520b4ec79ef0c2709740abc76d64" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 220px; line-height: 1.5;">         <h4 style="margin: 0 0 6px 0; color: #2C3E50;">RAJKOT</h4>         <b>Transit Agency:</b> Rajkot Rajpath / RMTS<br>         <b>Total Physical Stops:</b> 760<br>         <b>Total Routes:</b> 271<br>         <b>Coordinates Quality:</b> 100% Complete<br>         <b>Shapes Feed:</b> <span style="color: red; font-weight: bold;">Unavailable</span>     </div>     </div>`)[0];
+                popup_a0085321b1381eb6781d8f009a26c301.setContent(html_63b5520b4ec79ef0c2709740abc76d64);
+            
+        
+
+        circle_marker_81d52bf1a24d58f28d3cf6a278f9f67a.bindPopup(popup_a0085321b1381eb6781d8f009a26c301)
+        ;
+
+        
+    
+    
+            circle_marker_81d52bf1a24d58f28d3cf6a278f9f67a.bindTooltip(
+                `<div>
+                     RAJKOT (760 stops)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
