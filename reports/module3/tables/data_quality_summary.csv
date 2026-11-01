@@ -1,0 +1,113 @@
+check,affected_rows,action_or_interpretation
+profiles: exact duplicate rows,0,Recorded; investigate duplicates before interpreting totals.
+profiles.route_id: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.agency_id: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.route_short_name: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.route_long_name: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.route_type: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.scheduled_trip_count: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.distinct_stop_count: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.trips_with_valid_departure: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.first_departure_seconds: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.last_departure_seconds: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.median_scheduled_duration_minutes: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.departure_span_hours: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.first_departure_gtfs: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.last_departure_gtfs: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.trips_with_shape_distance: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.median_trip_shape_length_km: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.min_trip_shape_length_km: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.max_trip_shape_length_km: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.service_date: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.day_of_week: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles.day_type: blank cells,0,Missing values preserved; optional fields may be blank.
+trips: exact duplicate rows,0,Recorded; investigate duplicates before interpreting totals.
+trips.route_id: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.service_id: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.trip_id: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.trip_headsign: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.shape_id: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.departure_time: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.departure_seconds: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.last_arrival_seconds: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.pattern_id: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.service_hour: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.clock_hour: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.minute: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.time_period: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.service_date: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.day_of_week: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.day_type: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.scheduled_duration_minutes: blank cells,0,Missing values preserved; optional fields may be blank.
+trips.estimated_shape_length_km: blank cells,0,Missing values preserved; optional fields may be blank.
+hourly: exact duplicate rows,0,Recorded; investigate duplicates before interpreting totals.
+hourly.route_id: blank cells,0,Missing values preserved; optional fields may be blank.
+hourly.service_hour: blank cells,0,Missing values preserved; optional fields may be blank.
+hourly.scheduled_departures: blank cells,0,Missing values preserved; optional fields may be blank.
+hourly.service_date: blank cells,0,Missing values preserved; optional fields may be blank.
+profiles: repeated keys,0,Must be investigated.
+profiles: blank keys,0,Must be investigated.
+trips: repeated keys,0,Must be investigated.
+trips: blank keys,0,Must be investigated.
+hourly: repeated keys,0,Must be investigated.
+hourly: blank keys,0,Must be investigated.
+profiles.scheduled_trip_count: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.scheduled_trip_count: infinite values,0,Excluded from numerical analysis.
+profiles.scheduled_trip_count: negative values,0,Excluded because these features must be nonnegative.
+profiles.scheduled_trip_count: fractional counts,0,Excluded; counts and hour indices must be integers.
+profiles.distinct_stop_count: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.distinct_stop_count: infinite values,0,Excluded from numerical analysis.
+profiles.distinct_stop_count: negative values,0,Excluded because these features must be nonnegative.
+profiles.distinct_stop_count: fractional counts,0,Excluded; counts and hour indices must be integers.
+profiles.trips_with_valid_departure: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.trips_with_valid_departure: infinite values,0,Excluded from numerical analysis.
+profiles.trips_with_valid_departure: negative values,0,Excluded because these features must be nonnegative.
+profiles.trips_with_valid_departure: fractional counts,0,Excluded; counts and hour indices must be integers.
+profiles.first_departure_seconds: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.first_departure_seconds: infinite values,0,Excluded from numerical analysis.
+profiles.first_departure_seconds: negative values,0,Excluded because these features must be nonnegative.
+profiles.last_departure_seconds: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.last_departure_seconds: infinite values,0,Excluded from numerical analysis.
+profiles.last_departure_seconds: negative values,0,Excluded because these features must be nonnegative.
+profiles.median_scheduled_duration_minutes: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.median_scheduled_duration_minutes: infinite values,0,Excluded from numerical analysis.
+profiles.median_scheduled_duration_minutes: negative values,0,Excluded because these features must be nonnegative.
+profiles.departure_span_hours: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.departure_span_hours: infinite values,0,Excluded from numerical analysis.
+profiles.departure_span_hours: negative values,0,Excluded because these features must be nonnegative.
+profiles.trips_with_shape_distance: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.trips_with_shape_distance: infinite values,0,Excluded from numerical analysis.
+profiles.trips_with_shape_distance: negative values,0,Excluded because these features must be nonnegative.
+profiles.trips_with_shape_distance: fractional counts,0,Excluded; counts and hour indices must be integers.
+profiles.median_trip_shape_length_km: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.median_trip_shape_length_km: infinite values,0,Excluded from numerical analysis.
+profiles.median_trip_shape_length_km: negative values,0,Excluded because these features must be nonnegative.
+profiles.min_trip_shape_length_km: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.min_trip_shape_length_km: infinite values,0,Excluded from numerical analysis.
+profiles.min_trip_shape_length_km: negative values,0,Excluded because these features must be nonnegative.
+profiles.max_trip_shape_length_km: malformed numbers,0,Excluded from numerical analysis; original values retained.
+profiles.max_trip_shape_length_km: infinite values,0,Excluded from numerical analysis.
+profiles.max_trip_shape_length_km: negative values,0,Excluded because these features must be nonnegative.
+trips.departure_seconds: malformed numbers,0,Excluded from numerical analysis; original values retained.
+trips.departure_seconds: infinite values,0,Excluded from numerical analysis.
+trips.departure_seconds: negative values,0,Excluded because these features must be nonnegative.
+trips.service_hour: malformed numbers,0,Excluded from numerical analysis; original values retained.
+trips.service_hour: infinite values,0,Excluded from numerical analysis.
+trips.service_hour: negative values,0,Excluded because these features must be nonnegative.
+trips.service_hour: fractional counts,0,Excluded; counts and hour indices must be integers.
+hourly.service_hour: malformed numbers,0,Excluded from numerical analysis; original values retained.
+hourly.service_hour: infinite values,0,Excluded from numerical analysis.
+hourly.service_hour: negative values,0,Excluded because these features must be nonnegative.
+hourly.service_hour: fractional counts,0,Excluded; counts and hour indices must be integers.
+hourly.scheduled_departures: malformed numbers,0,Excluded from numerical analysis; original values retained.
+hourly.scheduled_departures: infinite values,0,Excluded from numerical analysis.
+hourly.scheduled_departures: negative values,0,Excluded because these features must be nonnegative.
+hourly.scheduled_departures: fractional counts,0,Excluded; counts and hour indices must be integers.
+trips: unknown route/date,0,References must exist in route profiles.
+hourly: unknown route/date,0,References must exist in route profiles.
+Route trip counts disagree with trip table,0,Compare per-route scheduled count against distinct trip records.
+Trips: service hour inconsistent with departure seconds,0,Derived service hour is used for the EDA charts.
+Trips: time-period label mismatch,0,EDA uses categories derived from departure seconds.
+Hourly table differs from trip-derived counts,0,Charts use trip-derived counts; differences remain documented.
+Routes with partial shape coverage,0,Distance summaries may represent only some trips.
+Routes with incomplete stop-pattern coverage,0,Excluded from pairwise shared-stop comparison.

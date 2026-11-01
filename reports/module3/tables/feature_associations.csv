@@ -1,0 +1,11 @@
+feature_1,feature_2,pearson_r,spearman_r,paired_routes
+scheduled_trip_count,distinct_stop_count,-0.10862570257279973,-0.20777770698100012,22
+scheduled_trip_count,median_trip_shape_length_km,-0.26813365798408534,-0.15179809845895262,22
+scheduled_trip_count,median_scheduled_duration_minutes,-0.30461194634182953,-0.33168790525296116,22
+scheduled_trip_count,departure_span_hours,0.5533206807136781,0.7088157035312415,22
+distinct_stop_count,median_trip_shape_length_km,0.4621714279269744,0.6866378349903522,22
+distinct_stop_count,median_scheduled_duration_minutes,0.6102308535414488,0.7856037290322719,22
+distinct_stop_count,departure_span_hours,0.09579882973326165,-0.21698107484624776,22
+median_trip_shape_length_km,median_scheduled_duration_minutes,0.8142077963585125,0.8231969018152862,22
+median_trip_shape_length_km,departure_span_hours,-0.04426589668787831,-0.1262678031543961,22
+median_scheduled_duration_minutes,departure_span_hours,-0.08066049583445821,-0.14434576445244957,22

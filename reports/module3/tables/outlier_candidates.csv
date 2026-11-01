@@ -1,0 +1,4 @@
+route_id,feature,value,lower_fence,upper_fence,action
+1832,scheduled_trip_count,62.0,-17.625,53.375,Retained; investigate source and context.
+1868,distinct_stop_count,13.0,0.0,8.0,Retained; investigate source and context.
+1879,departure_span_hours,8.966666666666667,6.610416666666665,8.893750000000004,Retained; investigate source and context.
