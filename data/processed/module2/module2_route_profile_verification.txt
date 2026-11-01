@@ -1,0 +1,23 @@
+MODULE 2 – ROUTE PROFILE VERIFICATION
+
+Total routes: 9679
+
+Total cities: 5
+
+Duplicate rows: 0
+
+Duplicate route IDs within cities:
+0
+
+Routes without trip features:
+341
+
+City-wise routes without trip features:
+city
+Bangalore     18
+Mumbai       323
+
+Conclusion:
+All five cities are included. The 341 routes without
+trip references have been retained, and their missing
+feature values have not been artificially filled.

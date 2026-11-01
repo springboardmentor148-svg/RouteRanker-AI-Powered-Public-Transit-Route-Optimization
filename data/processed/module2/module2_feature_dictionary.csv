@@ -1,0 +1,32 @@
+feature_name,description,data_type,source
+city,City associated with the GTFS dataset,String,City dataset
+route_id,Unique identifier of a transit route,String,routes.txt
+trip_id,Unique identifier of a scheduled trip,String,trips.txt
+stop_id,Unique identifier of a transit stop,String,stops.txt
+route_long_name,Full name of the transit route,String,routes.txt
+route_short_name,Short name of the transit route,String,routes.txt
+agency_id,Identifier of the transit agency,String,routes.txt
+route_type,Type of transit service,Integer,routes.txt
+service_id,Identifier of the service schedule,String,trips.txt
+direction_id,Direction of travel for a trip,String/Float,trips.txt
+stop_sequence,Order of a stop within a trip,Integer,stop_times.txt
+arrival_time,Scheduled arrival time at a stop,String,stop_times.txt
+departure_time,Scheduled departure time from a stop,String,stop_times.txt
+arrival_hour,Hour extracted from scheduled arrival time,Integer,stop_times.txt
+arrival_minute,Minute extracted from scheduled arrival time,Integer,stop_times.txt
+departure_hour,Hour extracted from scheduled departure time,Integer,stop_times.txt
+departure_minute,Minute extracted from scheduled departure time,Integer,stop_times.txt
+arrival_clock_hour,Clock-hour value extracted from arrival time,Integer,stop_times.txt
+clock_hour,Clock-hour value extracted from departure time,Integer,stop_times.txt
+hour,Hour used for hourly scheduled trip aggregation,Integer,Scheduled time
+minute,Minute component of scheduled departure time,Integer,Scheduled time
+departure_minutes,Scheduled departure time converted into minutes,Integer,stop_times.txt
+time_period,"Category such as morning, afternoon, evening or night",String,Scheduled time
+trip_count,"Number of scheduled trips in a route or hour, depending on the output CSV",Integer,trips.txt / Scheduled time
+service_count,Number of distinct services associated with a route,Integer,trips.txt
+distinct_stop_count,Number of distinct stops associated with a route,Integer,stop_times.txt
+average_stops_per_trip,Average number of stops per trip on a route,Float,stop_times.txt
+departure_count,Number of scheduled departures in a time period,Integer,stop_times.txt
+headway_minutes,Difference in minutes between consecutive scheduled departures within a group,Float,Scheduled departure times
+timepoint,Indicates whether a stop time is a timepoint when supplied,String/Integer,stop_times.txt
+stop_headsign,Text shown to identify the trip destination or direction,String,stop_times.txt

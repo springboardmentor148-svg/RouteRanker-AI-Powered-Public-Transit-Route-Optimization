@@ -1,0 +1,6 @@
+City,Duplicate Route IDs,Duplicate Trip IDs,Duplicate Stop IDs,Missing Values in Routes,Missing Values in Trips,Missing Values in Stops,Invalid Route References,Invalid Trip References,Invalid Stop References,Stop Times Records,Missing Stop Times Values,Missing Stop Times Columns,Rows Involved in Duplicate Trip IDs,Exact Duplicate Extra Rows
+Banglore,0,0,0,0,0,0,0,0,0,1540686,0,,0,0
+Hyderabad,0,0,0,0,0,0,0,0,0,1132807,0,,0,0
+Delhi,0,8,0,0,0,0,0,0,0,3276092,0,,16,8
+Mumbai,0,0,0,0,0,0,0,0,0,2655026,0,,0,0
+Pune,0,0,0,0,0,0,0,0,0,429302,0,,0,0

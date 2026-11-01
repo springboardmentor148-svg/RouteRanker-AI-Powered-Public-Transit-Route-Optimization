@@ -1,0 +1,41 @@
+city,check,status,details
+Banglore,routes.txt required columns,PASS,All required columns available
+Banglore,trips.txt required columns,PASS,All required columns available
+Banglore,stop_times.txt required columns,PASS,All required columns available
+Banglore,stops.txt required columns,PASS,All required columns available
+Banglore,calendar.txt required columns,PASS,All required columns available
+Banglore,Trips reference existing routes,PASS,Unmatched route IDs: 0
+Banglore,Stop times reference existing trips,PASS,Unmatched trip IDs: 0
+Banglore,Stop times reference existing stops,PASS,Unmatched stop IDs: 0
+Delhi,routes.txt required columns,PASS,All required columns available
+Delhi,trips.txt required columns,PASS,All required columns available
+Delhi,stop_times.txt required columns,PASS,All required columns available
+Delhi,stops.txt required columns,PASS,All required columns available
+Delhi,calendar.txt required columns,PASS,All required columns available
+Delhi,Trips reference existing routes,PASS,Unmatched route IDs: 0
+Delhi,Stop times reference existing trips,PASS,Unmatched trip IDs: 0
+Delhi,Stop times reference existing stops,PASS,Unmatched stop IDs: 0
+Hyderabad,routes.txt required columns,PASS,All required columns available
+Hyderabad,trips.txt required columns,PASS,All required columns available
+Hyderabad,stop_times.txt required columns,PASS,All required columns available
+Hyderabad,stops.txt required columns,PASS,All required columns available
+Hyderabad,calendar.txt required columns,PASS,All required columns available
+Hyderabad,Trips reference existing routes,PASS,Unmatched route IDs: 0
+Hyderabad,Stop times reference existing trips,PASS,Unmatched trip IDs: 0
+Hyderabad,Stop times reference existing stops,PASS,Unmatched stop IDs: 0
+Mumbai,routes.txt required columns,PASS,All required columns available
+Mumbai,trips.txt required columns,PASS,All required columns available
+Mumbai,stop_times.txt required columns,PASS,All required columns available
+Mumbai,stops.txt required columns,PASS,All required columns available
+Mumbai,calendar.txt required columns,PASS,All required columns available
+Mumbai,Trips reference existing routes,PASS,Unmatched route IDs: 0
+Mumbai,Stop times reference existing trips,PASS,Unmatched trip IDs: 0
+Mumbai,Stop times reference existing stops,PASS,Unmatched stop IDs: 0
+Pune,routes.txt required columns,PASS,All required columns available
+Pune,trips.txt required columns,PASS,All required columns available
+Pune,stop_times.txt required columns,PASS,All required columns available
+Pune,stops.txt required columns,PASS,All required columns available
+Pune,calendar.txt required columns,PASS,All required columns available
+Pune,Trips reference existing routes,PASS,Unmatched route IDs: 0
+Pune,Stop times reference existing trips,PASS,Unmatched trip IDs: 0
+Pune,Stop times reference existing stops,PASS,Unmatched stop IDs: 0

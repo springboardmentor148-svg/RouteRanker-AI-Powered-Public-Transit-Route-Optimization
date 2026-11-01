@@ -1,0 +1,77 @@
+MODULE 2: FEATURE ENGINEERING
+ASSUMPTIONS AND LIMITATIONS
+
+PROJECT: RouteRanker - AI-Powered Public Transit Route Optimization
+
+1. ASSUMPTIONS
+
+1. GTFS datasets collected for Banglore, Delhi, Hyderabad,
+   Mumbai and Pune represent scheduled public transit services.
+
+2. route_id, trip_id and stop_id are treated as identifiers
+   according to the GTFS structure.
+
+3. Arrival and departure times represent scheduled times,
+   not actual vehicle arrival or departure times.
+
+4. Hourly trip counts are calculated using scheduled GTFS times.
+
+5. Time periods are categorized using predefined time ranges.
+
+6. Route-level trip counts are calculated from trips.txt.
+
+7. Distinct stop counts are calculated using stop_times.txt
+   and route-trip relationships.
+
+8. Headway features are derived from differences between
+   consecutive scheduled trip times, using the grouping and
+   filtering rules implemented in the feature engineering code.
+
+2. LIMITATIONS
+
+1. GTFS scheduled data does not directly provide actual
+   passenger counts or passenger occupancy.
+
+2. Actual traffic congestion and vehicle delays cannot be
+   determined from scheduled GTFS data alone.
+
+3. Some routes listed in routes.txt may not be referenced
+   by any trip in trips.txt.
+
+4. Calendar information may be incomplete. calendar_dates.txt
+   was not available in the collected datasets.
+
+5. Scheduled times may not represent real-world operating
+   conditions.
+
+6. Differences in GTFS data structure between cities may
+   affect comparisons.
+
+7. Missing values and duplicate records may influence
+   feature calculations.
+
+3. DATASET COVERAGE
+
+Cities included:
+- Banglore
+- Delhi
+- Hyderabad
+- Mumbai
+- Pune
+
+Main GTFS files:
+- routes.txt
+- trips.txt
+- stop_times.txt
+- stops.txt
+- calendar.txt
+
+4. CONCLUSION
+
+Module 2 transforms scheduled GTFS data into time-based
+and route-level features for further exploratory data analysis,
+data preprocessing, machine learning and route optimization.
+
+The generated features describe scheduled transit service.
+They should not be interpreted as actual passenger demand,
+traffic congestion or real-time vehicle performance.

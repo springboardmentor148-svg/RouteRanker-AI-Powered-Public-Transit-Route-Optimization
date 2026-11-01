@@ -10,3 +10,36 @@ venv/
 # Large raw GTFS files
 data/raw/
 data/raw/*/stop_times.txt
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+# Large Module 2 detailed datasets - retain locally
+data/processed/module2/all_cities_arrival_time_features.csv
+data/processed/module2/all_cities_departure_time_features.csv
+
+# Dictionary backup
+data/processed/module2/module2_feature_dictionary_backup.csv

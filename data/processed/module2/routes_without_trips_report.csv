@@ -1,0 +1,3 @@
+city,routes_without_trips,Issue
+Bangalore,18,Routes listed in routes.txt but absent from trips.txt
+Mumbai,323,Routes listed in routes.txt but absent from trips.txt

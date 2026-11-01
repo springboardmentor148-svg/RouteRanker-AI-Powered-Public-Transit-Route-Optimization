@@ -1,0 +1,6 @@
+City,Total GTFS Files Available,Required Files Available,Required Files Missing,Calendar Available,Total Records in Stop Times,Total File Size (MB)
+Banglore,7,4,0,YES,1540686,191.89
+Hyderabad,8,4,0,YES,1132807,95.86
+Delhi,7,4,0,YES,3276092,228.3
+Mumbai,8,4,0,YES,2655026,258.71
+Pune,8,4,0,YES,429302,23.38

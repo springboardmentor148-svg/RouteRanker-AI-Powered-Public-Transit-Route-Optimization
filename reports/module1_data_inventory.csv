@@ -1,0 +1,56 @@
+City,File Name,Requirement,Availability,Records,Number of Columns,Column Names,File Size (MB),Status
+Banglore,routes.txt,Required,AVAILABLE,4434,5,"route_long_name, route_short_name, agency_id, route_type, route_id",0.27,LOADED
+Banglore,trips.txt,Required,AVAILABLE,57836,6,"route_id, service_id, trip_headsign, direction_id, shape_id, trip_id",2.65,LOADED
+Banglore,stop_times.txt,Required,AVAILABLE,1540686,6,"trip_id, arrival_time, departure_time, stop_id, stop_sequence, stop_headsign",79.08,LOADED
+Banglore,stops.txt,Required,AVAILABLE,9960,9,"stop_name, parent_station, zone_id, stop_id, stop_desc, stop_lat, stop_lon, location_type, platform_code",0.89,LOADED
+Banglore,calendar.txt,Calendar alternative,AVAILABLE,1,10,"monday, tuesday, wednesday, thursday, friday, saturday, sunday, start_date, end_date, service_id",0.0,LOADED
+Banglore,calendar_dates.txt,Calendar alternative,NOT PROVIDED,0,0,,0.0,MISSING
+Banglore,agency.txt,Optional,AVAILABLE,1,7,"agency_fare_url, agency_id, agency_lang, agency_name, agency_phone, agency_timezone, agency_url",0.0,LOADED
+Banglore,shapes.txt,Optional,AVAILABLE,2492304,5,"shape_id, shape_pt_lat, shape_pt_lon, shape_pt_sequence, shape_dist_traveled",109.0,LOADED
+Banglore,frequencies.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Banglore,transfers.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Banglore,feed_info.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Hyderabad,routes.txt,Required,AVAILABLE,1031,4,"route_id, route_long_name, agency_id, route_type",0.02,LOADED
+Hyderabad,trips.txt,Required,AVAILABLE,44892,5,"route_id, trip_id, service_id, direction_id, trip_short_name",2.58,LOADED
+Hyderabad,stop_times.txt,Required,AVAILABLE,1132807,6,"trip_id, stop_sequence, stop_id, departure_time, arrival_time, timepoint",44.77,LOADED
+Hyderabad,stops.txt,Required,AVAILABLE,5028,6,"stop_id, stop_name, zone_id, stop_lat, stop_lon, stop_desc",0.49,LOADED
+Hyderabad,calendar.txt,Calendar alternative,AVAILABLE,1,10,"service_id, start_date, end_date, monday, tuesday, wednesday, thursday, friday, saturday, sunday",0.0,LOADED
+Hyderabad,calendar_dates.txt,Calendar alternative,NOT PROVIDED,0,0,,0.0,MISSING
+Hyderabad,agency.txt,Optional,AVAILABLE,1,5,"agency_id, agency_name, agency_url, agency_timezone, agency_lang",0.0,LOADED
+Hyderabad,shapes.txt,Optional,AVAILABLE,1132807,4,"shape_id, shape_pt_lat, shape_pt_lon, shape_pt_sequence",48.0,LOADED
+Hyderabad,frequencies.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Hyderabad,transfers.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Hyderabad,feed_info.txt,Optional,AVAILABLE,1,8,"feed_publisher_name, feed_publisher_url, feed_contact_email, feed_contact_url, feed_lang, feed_start_date, feed_end_date, feed_version",0.0,LOADED
+Delhi,routes.txt,Required,AVAILABLE,2964,5,"agency_id, route_id, route_long_name, route_short_name, route_type",0.06,LOADED
+Delhi,trips.txt,Required,AVAILABLE,78515,4,"route_id, service_id, trip_id, shape_id",1.45,LOADED
+Delhi,stop_times.txt,Required,AVAILABLE,3276092,5,"trip_id, arrival_time, departure_time, stop_id, stop_sequence",116.06,LOADED
+Delhi,stops.txt,Required,AVAILABLE,6342,6,"stop_id, stop_code, stop_name, stop_lat, stop_lon, zone_id",0.36,LOADED
+Delhi,calendar.txt,Calendar alternative,AVAILABLE,1,10,"start_date, end_date, monday, tuesday, wednesday, thursday, friday, saturday, sunday, service_id",0.0,LOADED
+Delhi,calendar_dates.txt,Calendar alternative,NOT PROVIDED,0,0,,0.0,MISSING
+Delhi,agency.txt,Optional,AVAILABLE,2,7,"agency_id, agency_name, agency_url, agency_timezone, agency_lang, agency_phone, agency_fare_url",0.0,LOADED
+Delhi,shapes.txt,Optional,AVAILABLE,3276092,4,"shape_id, shape_pt_lat, shape_pt_lon, shape_pt_sequence",110.37,LOADED
+Delhi,frequencies.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Delhi,transfers.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Delhi,feed_info.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Mumbai,routes.txt,Required,AVAILABLE,935,5,"route_id, agency_id, route_short_name, route_long_name, route_type",0.06,LOADED
+Mumbai,trips.txt,Required,AVAILABLE,99080,5,"route_id, service_id, trip_id, trip_headsign, direction_id",6.36,LOADED
+Mumbai,stop_times.txt,Required,AVAILABLE,2655026,6,"trip_id, arrival_time, departure_time, stop_id, stop_sequence, timepoint",136.77,LOADED
+Mumbai,stops.txt,Required,AVAILABLE,7506,4,"stop_id, stop_name, stop_lat, stop_lon",0.38,LOADED
+Mumbai,calendar.txt,Calendar alternative,AVAILABLE,1,10,"service_id, monday, tuesday, wednesday, thursday, friday, saturday, sunday, start_date, end_date",0.0,LOADED
+Mumbai,calendar_dates.txt,Calendar alternative,NOT PROVIDED,0,0,,0.0,MISSING
+Mumbai,agency.txt,Optional,AVAILABLE,4,6,"agency_id, agency_name, agency_url, agency_timezone, agency_phone, agency_email",0.0,LOADED
+Mumbai,shapes.txt,Optional,AVAILABLE,2655026,4,"shape_id, shape_pt_lat, shape_pt_lon, shape_pt_sequence",115.14,LOADED
+Mumbai,frequencies.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Mumbai,transfers.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Mumbai,feed_info.txt,Optional,AVAILABLE,1,6,"feed_publisher_name, feed_publisher_url, feed_lang, feed_start_date, feed_end_date, feed_contact_url",0.0,LOADED
+Pune,routes.txt,Required,AVAILABLE,315,5,"route_id, agency_id, route_short_name, route_long_name, route_type",0.02,LOADED
+Pune,trips.txt,Required,AVAILABLE,10128,6,"route_id, service_id, trip_id, trip_headsign, direction_id, shape_id",0.48,LOADED
+Pune,stop_times.txt,Required,AVAILABLE,429302,6,"trip_id, arrival_time, departure_time, stop_id, stop_sequence, timepoint",16.32,LOADED
+Pune,stops.txt,Required,AVAILABLE,6745,4,"stop_id, stop_name, stop_lat, stop_lon",0.31,LOADED
+Pune,calendar.txt,Calendar alternative,AVAILABLE,1,10,"service_id, monday, tuesday, wednesday, thursday, friday, saturday, sunday, start_date, end_date",0.0,LOADED
+Pune,calendar_dates.txt,Calendar alternative,NOT PROVIDED,0,0,,0.0,MISSING
+Pune,agency.txt,Optional,AVAILABLE,1,6,"agency_id, agency_name, agency_url, agency_timezone, agency_phone, agency_email",0.0,LOADED
+Pune,shapes.txt,Optional,AVAILABLE,256823,4,"shape_id, shape_pt_lat, shape_pt_lon, shape_pt_sequence",6.25,LOADED
+Pune,frequencies.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Pune,transfers.txt,Optional,NOT PROVIDED,0,0,,0.0,MISSING
+Pune,feed_info.txt,Optional,AVAILABLE,1,6,"feed_publisher_name, feed_publisher_url, feed_lang, feed_start_date, feed_end_date, feed_contact_url",0.0,LOADED
