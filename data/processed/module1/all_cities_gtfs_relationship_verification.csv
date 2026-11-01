@@ -1,0 +1,16 @@
+City,Relationship,Status
+Banglore,Trips route IDs,PASS
+Banglore,Stop times trip IDs,PASS
+Banglore,Stop times stop IDs,PASS
+Delhi,Trips route IDs,PASS
+Delhi,Stop times trip IDs,PASS
+Delhi,Stop times stop IDs,PASS
+Hyderabad,Trips route IDs,PASS
+Hyderabad,Stop times trip IDs,PASS
+Hyderabad,Stop times stop IDs,PASS
+Mumbai,Trips route IDs,PASS
+Mumbai,Stop times trip IDs,PASS
+Mumbai,Stop times stop IDs,PASS
+Pune,Trips route IDs,PASS
+Pune,Stop times trip IDs,PASS
+Pune,Stop times stop IDs,PASS
