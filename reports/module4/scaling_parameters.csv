@@ -1,0 +1,4 @@
+output_feature,training_mean,scale_used
+scheduled_trip_count,21.647058823529413,14.812320692270253
+distinct_stop_count,4.470588235294118,1.5384349212496495
+departure_span_hours,7.741176470588235,0.5425706678787982

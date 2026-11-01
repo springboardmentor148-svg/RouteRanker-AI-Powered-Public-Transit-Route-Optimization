@@ -1,0 +1,4 @@
+feature,source_blank_values,invalid_nonblank_values,missing_before_imputation,included,training_median
+scheduled_trip_count,0,0,0,True,21.0
+distinct_stop_count,0,0,0,True,5.0
+departure_span_hours,0,0,0,True,7.466666666666667

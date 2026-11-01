@@ -1,0 +1,3 @@
+feature,training_unique_values,values,decision
+route_type,1,3,Excluded: constant in training data.
+day_type,1,Weekend,Excluded: constant in training data.
