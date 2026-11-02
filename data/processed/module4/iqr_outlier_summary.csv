@@ -1,0 +1,4 @@
+feature,lower_limit,upper_limit,potential_outliers,decision
+trip_count,-37.0,67.0,1128,"Preserve; high values require context, not automatic removal."
+distinct_stop_count,-29.5,118.5,275,Preserve; investigated high values were verified against original GTFS.
+average_stops_per_trip,-18.875,82.792,47,Preserve; investigated high values were verified against original GTFS.

@@ -1,0 +1,7 @@
+city,route_id,original_trip_count,module2_trip_count,original_distinct_stop_count,decision
+Delhi,5428,29,28,169,Verified; preserve. One trip missing in Module 2.
+Delhi,5895,96,95,169,Verified; preserve. One trip missing in Module 2.
+Hyderabad,219,2087,2087,795,Verified against original GTFS; preserve.
+Hyderabad,300,1314,1314,496,Verified against original GTFS; preserve.
+Mumbai,306-2,20,20,137,Verified against original GTFS; preserve.
+Pune,213,17,17,167,Verified against original GTFS; preserve.

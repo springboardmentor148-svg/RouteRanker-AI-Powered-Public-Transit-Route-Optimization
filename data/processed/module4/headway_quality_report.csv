@@ -1,0 +1,8 @@
+Quality_Check,Count
+Total headway records,266597
+Missing headway values,12573
+Negative headway values,0
+Zero headway values,0
+Headways above 60 minutes,17048
+Headways above 120 minutes,8184
+Headways above 1440 minutes,14

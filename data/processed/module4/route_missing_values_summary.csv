@@ -1,0 +1,6 @@
+city,missing_routes,handling_method
+Bangalore,18,Preserve missing values; exclude from models requiring trip statistics
+Mumbai,323,Preserve missing values; exclude from models requiring trip statistics
+Hyderabad,0,No missing trip statistics
+Delhi,0,No missing trip statistics
+Pune,0,No missing trip statistics

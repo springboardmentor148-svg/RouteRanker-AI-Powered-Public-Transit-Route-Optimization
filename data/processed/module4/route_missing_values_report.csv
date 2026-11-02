@@ -1,0 +1,11 @@
+column_name,missing_count,missing_percentage,handling_decision
+route_long_name,0,0.0,No action required
+route_short_name,3995,41.27,Keep missing - optional GTFS field
+agency_id,0,0.0,No action required
+route_type,0,0.0,No action required
+route_id,0,0.0,No action required
+trip_count,341,3.52,Do not impute - investigate unavailable trip data
+service_count,341,3.52,Do not impute - investigate unavailable trip data
+distinct_stop_count,341,3.52,Do not impute - investigate unavailable trip data
+average_stops_per_trip,341,3.52,Do not impute - investigate unavailable trip data
+city,0,0.0,No action required

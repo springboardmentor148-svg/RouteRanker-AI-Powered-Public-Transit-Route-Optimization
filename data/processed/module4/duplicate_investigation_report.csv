@@ -1,0 +1,7 @@
+metric,value,decision
+Total processed route records,9338,Retain
+Exact duplicate feature rows,3038,Retain: different routes can share identical features
+Rows involved in repeated feature combinations,4227,Retain
+Distinct routes in repeated combinations,4227,Retain distinct city-route identifiers
+Missing values,0,No missing values
+Rows with exactly one city,9338,City encoding verified

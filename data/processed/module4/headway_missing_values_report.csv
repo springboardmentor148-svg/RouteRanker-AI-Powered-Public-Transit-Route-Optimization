@@ -1,0 +1,17 @@
+column_name,missing_count,missing_percentage,handling_decision
+trip_id,0,0.0,No action required
+arrival_time,0,0.0,No action required
+departure_time,0,0.0,No action required
+stop_id,0,0.0,No action required
+stop_sequence,0,0.0,No action required
+stop_headsign,216236,81.11,Keep missing - optional descriptive field
+route_id,0,0.0,No action required
+service_id,0,0.0,No action required
+direction_id,75543,28.34,Keep missing - direction may not be supplied
+hour,0,0.0,No action required
+minute,0,0.0,No action required
+departure_minutes,0,0.0,No action required
+headway_minutes,12573,4.72,Investigate before handling
+city,0,0.0,No action required
+timepoint,125904,47.23,Keep missing - do not assume a value
+departure_hour_check,0,0.0,No action required
