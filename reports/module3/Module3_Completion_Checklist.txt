@@ -1,0 +1,33 @@
+
+ROUTERANKER - MODULE 3: EXPLORATORY DATA ANALYSIS
+
+1. DATASETS
+[ ] Bangalore
+[ ] Delhi
+[ ] Hyderabad
+[ ] Mumbai
+[ ] Pune
+
+2. CSV OUTPUTS
+[ ] city_route_summary.csv
+[ ] route_hourly_summary.csv
+[ ] top_10_routes_by_city.csv
+[ ] top_10_stops_by_city.csv
+[ ] hourly_arrival_summary.csv
+[ ] route_feature_correlation.csv
+[ ] city_wise_correlations.csv
+[ ] final_eda_summary.csv
+
+3. VISUALIZATIONS
+[ ] Distributions
+[ ] Hourly patterns
+[ ] Route comparisons
+[ ] Geographic stop maps
+[ ] Correlation heatmaps
+
+4. REPORT
+[ ] Module3_EDA_Report.txt
+
+IMPORTANT:
+Geographic maps must be opened and visually checked.
+A saved HTML file alone does not confirm that a map displays.
