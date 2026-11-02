@@ -1,0 +1,59 @@
+
+ROUTERANKER
+MODULE 3: EXPLORATORY DATA ANALYSIS (EDA)
+=========================================
+
+1. OBJECTIVE
+To explore the GTFS public transportation datasets and identify
+patterns in scheduled trips, routes, stops, and service timings.
+
+2. CITIES ANALYZED
+- Bangalore
+- Delhi
+- Hyderabad
+- Mumbai
+- Pune
+
+3. ANALYSIS PERFORMED
+- City-wise route analysis
+- Scheduled trip distribution
+- Hourly trip patterns
+- Time-period analysis
+- Route-wise hourly comparison
+- Top 10 busiest routes per city
+- Top 10 stops by scheduled arrivals
+- Headway analysis
+- Correlation analysis
+- Geographic stop mapping
+
+4. OUTPUTS
+- City route summary
+- Route hourly summary
+- Top 10 routes by city
+- Top 10 stops by city
+- Hourly arrival summary
+- Route feature correlation
+- City-wise correlations
+- Final EDA summary
+
+5. CITY-WISE SUMMARY
+     city  total_routes  total_scheduled_trips  average_trips_per_route  average_stops_per_route
+Bangalore          4434                57836.0                13.096920                47.594429
+    Delhi          2964                78507.0                26.486842                39.802632
+Hyderabad          1031                44892.0                43.542192                63.855480
+   Mumbai           935                99080.0               161.895425                48.258170
+     Pune           315                10128.0                32.152381                82.085714
+
+6. CONCLUSION
+The EDA stage provides an overview of scheduled public transit
+services across the five selected cities. It helps identify
+differences in route structures, scheduled service frequency,
+stop distribution, and timing patterns.
+
+These findings provide a foundation for further data preprocessing,
+feature analysis, and route optimization.
+
+NOTE:
+GTFS scheduled trips and arrivals do not directly measure passenger
+ridership or actual vehicle operations. Further data is required
+to establish actual route utilization or redundancy.

@@ -1,0 +1,6 @@
+city,route_count,total_scheduled_trips,average_trips_per_route,median_trips_per_route,maximum_trips_on_a_route
+Bangalore,4416,57836.0,13.096920289855072,3.0,398.0
+Delhi,2964,78507.0,26.486842105263158,18.0,170.0
+Hyderabad,1031,44892.0,43.54219204655674,8.0,2087.0
+Mumbai,612,99080.0,161.8954248366013,116.0,930.0
+Pune,315,10128.0,32.15238095238095,22.0,175.0
