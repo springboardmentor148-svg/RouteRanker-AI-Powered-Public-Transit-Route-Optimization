@@ -1,0 +1,3 @@
+Model,Number_of_Clusters,Noise_Points
+K-Means,3,0
+DBSCAN,2,126
