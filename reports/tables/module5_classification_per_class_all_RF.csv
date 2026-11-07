@@ -1,0 +1,7 @@
+class,precision,recall,f1,support
+ahmedabad,0.939,0.692,0.797,224
+bengaluru,0.993,1.0,0.997,882
+chennai,0.913,0.979,0.945,726
+delhi,0.987,0.997,0.992,612
+kochi,1.0,0.988,0.994,86
+pune,1.0,0.929,0.963,70

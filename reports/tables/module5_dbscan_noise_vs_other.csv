@@ -1,0 +1,13 @@
+,noise routes (median),other routes (median)
+n_trips,4.0,6.0
+n_unique_stops,5.0,36.0
+length_km,5.0,19.26
+service_span_h,8.08,10.42
+trips_per_active_hour,1.5,1.0
+median_headway_min,20.0,52.5
+avg_speed_kmh,13.49,17.9
+max_stop_overlap,0.46,0.67
+mean_routes_per_stop,17.0,56.83
+share_morning,0.35,0.43
+share_afternoon,0.26,0.29
+share_evening,0.0,0.2
