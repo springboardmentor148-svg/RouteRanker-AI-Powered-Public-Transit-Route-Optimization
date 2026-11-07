@@ -1,0 +1,7313 @@
+route_id,route_short_name,city,Cluster
+101sh,101sh,ahmedabad,0
+103-1,103,ahmedabad,0
+103-2,103,ahmedabad,0
+103-3,103,ahmedabad,0
+105,105,ahmedabad,0
+107,107,ahmedabad,0
+109-1,109,ahmedabad,0
+109-2,109,ahmedabad,0
+109-3,109,ahmedabad,0
+109-4,109,ahmedabad,0
+109-5,109,ahmedabad,0
+111/2,111/2,ahmedabad,0
+116-1,116,ahmedabad,0
+116-2,116,ahmedabad,0
+117-1,117,ahmedabad,0
+117/1-1,117/1,ahmedabad,0
+117/1-2,117/1,ahmedabad,0
+12,12,ahmedabad,0
+123-1,123,ahmedabad,0
+123-2,123,ahmedabad,0
+123-3,123,ahmedabad,0
+123/1,123/1,ahmedabad,0
+123sh-1,123sh,ahmedabad,0
+123sh-2,123sh,ahmedabad,0
+124,124,ahmedabad,0
+125-1,125,ahmedabad,0
+125-2,125,ahmedabad,0
+125/2,125/2,ahmedabad,0
+125sh,125sh,ahmedabad,0
+126,126,ahmedabad,0
+127-1,127,ahmedabad,0
+128-1,128,ahmedabad,0
+128-2,128,ahmedabad,0
+128-3,128,ahmedabad,0
+128-4,128,ahmedabad,0
+13/1-1,13/1,ahmedabad,0
+13/1-2,13/1,ahmedabad,0
+13/1-3,13/1,ahmedabad,0
+13/1-4,13/1,ahmedabad,0
+130/4-1,130/4,ahmedabad,0
+130sh-1,130sh,ahmedabad,0
+133,133,ahmedabad,0
+135-1,135,ahmedabad,0
+135-2,135,ahmedabad,0
+135-3,135,ahmedabad,0
+135-4,135,ahmedabad,0
+135-5,135,ahmedabad,0
+136-1,136,ahmedabad,0
+136-2,136,ahmedabad,0
+137/1-1,137/1,ahmedabad,0
+137/1-2,137/1,ahmedabad,0
+137sh-1,137sh,ahmedabad,0
+138-1,138,ahmedabad,0
+138-2,138,ahmedabad,0
+138-3,138,ahmedabad,0
+14-1,14,ahmedabad,0
+14-2,14,ahmedabad,0
+14-3,14,ahmedabad,0
+14/1-1,14/1,ahmedabad,0
+14/1-2,14/1,ahmedabad,0
+142-1,142,ahmedabad,0
+142sh-1,142sh,ahmedabad,0
+142sh-2,142sh,ahmedabad,0
+143,143,ahmedabad,0
+143sh-1,143sh,ahmedabad,0
+144-1,144,ahmedabad,0
+144/1-1,144/1,ahmedabad,0
+146/1-1,146/1,ahmedabad,0
+146/1-2,146/1,ahmedabad,0
+146/1-3,146/1,ahmedabad,0
+147,147,ahmedabad,0
+147/1-1,147/1,ahmedabad,0
+147/2-1,147/2,ahmedabad,0
+148-1,148,ahmedabad,0
+148/1,148/1,ahmedabad,0
+149-1,149,ahmedabad,0
+149/1,149/1,ahmedabad,0
+15,15,ahmedabad,0
+15/1,15/1,ahmedabad,0
+15/3,15/3,ahmedabad,0
+15/3sh,15/3sh,ahmedabad,0
+150-1,150,ahmedabad,0
+150-2,150,ahmedabad,0
+151-1,151,ahmedabad,0
+151/2-1,151/2,ahmedabad,0
+151/4-1,151/4,ahmedabad,0
+151sh,151sh,ahmedabad,0
+152/1-1,152/1,ahmedabad,0
+152/1-2,152/1,ahmedabad,0
+152Sh,152Sh,ahmedabad,0
+16-1,16,ahmedabad,0
+16-2,16,ahmedabad,0
+16-3,16,ahmedabad,0
+16-4,16,ahmedabad,0
+16-5,16,ahmedabad,0
+160-1,160,ahmedabad,0
+17-1,17,ahmedabad,0
+204,204,ahmedabad,0
+205,205,ahmedabad,0
+22/1-1,22/1,ahmedabad,0
+22sh,22sh,ahmedabad,0
+23,23,ahmedabad,0
+28-1,28,ahmedabad,0
+28-2,28,ahmedabad,0
+28sh,28sh,ahmedabad,0
+29,29,ahmedabad,0
+30-1,30,ahmedabad,0
+30-2,30,ahmedabad,0
+30/3-1,30/3,ahmedabad,0
+30/3-2,30/3,ahmedabad,0
+31-1,31,ahmedabad,0
+31-2,31,ahmedabad,0
+31-3,31,ahmedabad,0
+31/1,31/1,ahmedabad,0
+31/4,31/4,ahmedabad,0
+31/4sh-1,31/4sh,ahmedabad,0
+31/4sh-2,31/4sh,ahmedabad,0
+31/5-1,31/5,ahmedabad,0
+32-1,32,ahmedabad,0
+32-2,32,ahmedabad,0
+33-1,33,ahmedabad,0
+33-2,33,ahmedabad,0
+33/1sh-1,33/1sh,ahmedabad,0
+33/1sh-2,33/1sh,ahmedabad,0
+33/1sh-3,33/1sh,ahmedabad,0
+34/3,34/3,ahmedabad,0
+34/4-1,34/4,ahmedabad,0
+34/5-1,34/5,ahmedabad,0
+35-1,35,ahmedabad,0
+35-2,35,ahmedabad,0
+35-3,35,ahmedabad,0
+36/1,36/1,ahmedabad,0
+37sh-1,37sh,ahmedabad,0
+37sh-2,37sh,ahmedabad,0
+39/3-1,39/3,ahmedabad,0
+39/3-2,39/3,ahmedabad,0
+40,40,ahmedabad,0
+40/2-1,40/2,ahmedabad,0
+40/2-2,40/2,ahmedabad,0
+40/2-3,40/2,ahmedabad,0
+40/2-4,40/2,ahmedabad,0
+40/3,40/3,ahmedabad,0
+400,400,ahmedabad,0
+401-1,401,ahmedabad,0
+401-2,401,ahmedabad,0
+42-1,42,ahmedabad,0
+42-2,42,ahmedabad,0
+43-1,43,ahmedabad,0
+50-1,50,ahmedabad,0
+500,500,ahmedabad,0
+501-1,501,ahmedabad,0
+501-2,501,ahmedabad,0
+503-1,503,ahmedabad,0
+50-2,50,ahmedabad,0
+51Ri-1,51Ri,ahmedabad,0
+51Ri-2,51Ri,ahmedabad,0
+51T-1,51T,ahmedabad,0
+51sh-1,51sh,ahmedabad,0
+52,52,ahmedabad,0
+52/2-1,52/2,ahmedabad,0
+53,53,ahmedabad,0
+54,54,ahmedabad,0
+56/1-1,56/1,ahmedabad,0
+56/1-2,56/1,ahmedabad,0
+58-1,58,ahmedabad,0
+63-1,63,ahmedabad,0
+63-2,63,ahmedabad,0
+63/1-1,63/1,ahmedabad,0
+63/1-2,63/1,ahmedabad,0
+64-1,64,ahmedabad,0
+64-2,64,ahmedabad,0
+64/1,64/1,ahmedabad,0
+64/2-1,64/2,ahmedabad,0
+64/2-2,64/2,ahmedabad,0
+64/3,64/3,ahmedabad,0
+65,65,ahmedabad,0
+65/1,65/1,ahmedabad,0
+65/2,65/2,ahmedabad,0
+66-1,66,ahmedabad,0
+66-2,66,ahmedabad,0
+66/1-1,66/1,ahmedabad,0
+66/1-2,66/1,ahmedabad,0
+66/3-1,66/3,ahmedabad,0
+66/3sh-1,66/3sh,ahmedabad,0
+66/4,66/4,ahmedabad,0
+69-1,69,ahmedabad,0
+69-2,69,ahmedabad,0
+69-D-KSP(O),69-D-KSP(O),ahmedabad,0
+69-3,69,ahmedabad,0
+69-U-SP(OG)C,69-U-SP(OG)C,ahmedabad,0
+69-4,69,ahmedabad,0
+70-1,70,ahmedabad,0
+70-2,70,ahmedabad,0
+70-3,70,ahmedabad,0
+70/1,70/1,ahmedabad,0
+70/2,70/2,ahmedabad,0
+72-1,72,ahmedabad,0
+72-2,72,ahmedabad,0
+72-3,72,ahmedabad,0
+72-4,72,ahmedabad,0
+74-1,74,ahmedabad,0
+74-2,74,ahmedabad,0
+74/1-1,74/1,ahmedabad,0
+74/1-2,74/1,ahmedabad,0
+75-1,75,ahmedabad,0
+75-2,75,ahmedabad,0
+75-3,75,ahmedabad,0
+76-1,76,ahmedabad,0
+76-2,76,ahmedabad,0
+77-1,77,ahmedabad,0
+77-2,77,ahmedabad,0
+77-3,77,ahmedabad,0
+79-1,79,ahmedabad,0
+79-2,79,ahmedabad,0
+79-3,79,ahmedabad,0
+79-4,79,ahmedabad,0
+79-5,79,ahmedabad,0
+79-6,79,ahmedabad,0
+79-7,79,ahmedabad,0
+79-8,79,ahmedabad,0
+82-1,82,ahmedabad,0
+82-2,82,ahmedabad,0
+83,83,ahmedabad,0
+84/1-1,84/1,ahmedabad,0
+85sh-1,85sh,ahmedabad,0
+85sh-2,85sh,ahmedabad,0
+87-1,87,ahmedabad,0
+87-2,87,ahmedabad,0
+89/1-1,89/1,ahmedabad,0
+89/1sh-1,89/1sh,ahmedabad,0
+89/2-1,89/2,ahmedabad,0
+89/2-2,89/2,ahmedabad,0
+89/3-1,89/3,ahmedabad,0
+89/3-2,89/3,ahmedabad,0
+90sh-1,90sh,ahmedabad,0
+90sh-2,90sh,ahmedabad,0
+90sh-3,90sh,ahmedabad,0
+90sh-4,90sh,ahmedabad,0
+90sh-5,90sh,ahmedabad,0
+96,96,ahmedabad,0
+999/1,999/1,ahmedabad,0
+142-2,142,ahmedabad,0
+14sh-1,14sh,ahmedabad,0
+14sh-2,14sh,ahmedabad,0
+14sh-3,14sh,ahmedabad,0
+22-1,22,ahmedabad,0
+37sh-3,37sh,ahmedabad,0
+70/3,70/3,ahmedabad,0
+89/3-3,89/3,ahmedabad,0
+106,106,ahmedabad,0
+112-1,112,ahmedabad,0
+112-2,112,ahmedabad,0
+127-2,127,ahmedabad,0
+71/1sh-1,71/1sh,ahmedabad,0
+71/1sh-2,71/1sh,ahmedabad,0
+146/6,146/6,ahmedabad,0
+AB1,AB1,ahmedabad,0
+Metro1,Metro1,ahmedabad,0
+Metro11,Metro11,ahmedabad,0
+Metro13,Metro13,ahmedabad,0
+Metro14,Metro14,ahmedabad,0
+Metro2,Metro2,ahmedabad,0
+Metro3,Metro3,ahmedabad,0
+Metro4,Metro4,ahmedabad,0
+Metro5,Metro5,ahmedabad,0
+Metro6,Metro6,ahmedabad,0
+Metro7,Metro7,ahmedabad,0
+Metro8,Metro8,ahmedabad,0
+ML1-1,ML1,ahmedabad,0
+ML1-2,ML1,ahmedabad,0
+ML1-3,ML1,ahmedabad,0
+PF1,PF1,ahmedabad,0
+RFEx1C,RFEx1C,ahmedabad,0
+RFEx1C-VP,RFEx1C-VP,ahmedabad,0
+RFEW-AM,RFEW-AM,ahmedabad,0
+71/1-1,71/1,ahmedabad,0
+84/1-2,84/1,ahmedabad,0
+109-6,109,ahmedabad,0
+71/1-2,71/1,ahmedabad,0
+74-3,74,ahmedabad,0
+130sh-2,130sh,ahmedabad,0
+503-2,503,ahmedabad,0
+147/2-2,147/2,ahmedabad,0
+147/2-3,147/2,ahmedabad,0
+14sh-4,14sh,ahmedabad,0
+31/5-2,31/5,ahmedabad,0
+51/1-1,51/1,ahmedabad,0
+85/1-1,85/1,ahmedabad,0
+85/1-2,85/1,ahmedabad,0
+89/3-4,89/3,ahmedabad,0
+Metro10,Metro10,ahmedabad,0
+Metro9,Metro9,ahmedabad,0
+RFEW-MA,RFEW-MA,ahmedabad,0
+RFEW,RFEW,ahmedabad,0
+503-3,503,ahmedabad,0
+31/5-3,31/5,ahmedabad,0
+51/1-2,51/1,ahmedabad,0
+66/3-2,66/3,ahmedabad,0
+69-B-D-SP(O),69-B-D-SP(O),ahmedabad,0
+69-U-SP(OG)K,69-U-SP(OG)K,ahmedabad,0
+70-4,70,ahmedabad,0
+70-5,70,ahmedabad,0
+70-6,70,ahmedabad,0
+70-7,70,ahmedabad,0
+72-5,72,ahmedabad,0
+72-6,72,ahmedabad,0
+72-7,72,ahmedabad,0
+66/3sh-2,66/3sh,ahmedabad,0
+66/3sh-3,66/3sh,ahmedabad,0
+31/5-4,31/5,ahmedabad,0
+22/1-2,22/1,ahmedabad,0
+32-3,32,ahmedabad,0
+34/5-2,34/5,ahmedabad,0
+49/2-1,49/2,ahmedabad,0
+50-3,50,ahmedabad,0
+50-4,50,ahmedabad,0
+58-2,58,ahmedabad,0
+58-3,58,ahmedabad,0
+60sh,60sh,ahmedabad,0
+72-8,72,ahmedabad,0
+89/1-2,89/1,ahmedabad,0
+89/1sh-2,89/1sh,ahmedabad,0
+89/2-3,89/2,ahmedabad,0
+89/2-4,89/2,ahmedabad,0
+109sh,109sh,ahmedabad,0
+130sh-3,130sh,ahmedabad,0
+138/1-1,138/1,ahmedabad,0
+144/1-2,144/1,ahmedabad,0
+144sh,144sh,ahmedabad,0
+147/1-2,147/1,ahmedabad,0
+150sh-1,150sh,ahmedabad,0
+150sh-2,150sh,ahmedabad,0
+150sh-3,150sh,ahmedabad,0
+151/3-1,151/3,ahmedabad,0
+151/4-2,151/4,ahmedabad,0
+151/4-3,151/4,ahmedabad,0
+151/4-4,151/4,ahmedabad,0
+200/300sh,200/300sh,ahmedabad,0
+151/2-2,151/2,ahmedabad,0
+33-3,33,ahmedabad,0
+33-4,33,ahmedabad,0
+84-1,84,ahmedabad,0
+300-1,300,ahmedabad,0
+503-4,503,ahmedabad,0
+142-3,142,ahmedabad,0
+35-4,35,ahmedabad,0
+35-5,35,ahmedabad,0
+503-5,503,ahmedabad,0
+51T-2,51T,ahmedabad,0
+300-2,300,ahmedabad,0
+300-3,300,ahmedabad,0
+151-2,151,ahmedabad,0
+130sh-4,130sh,ahmedabad,0
+51sh-2,51sh,ahmedabad,0
+38sh,38sh,ahmedabad,0
+22-2,22,ahmedabad,0
+49sh-1,49sh,ahmedabad,0
+49/1,49/1,ahmedabad,0
+151-3,151,ahmedabad,0
+142sh-3,142sh,ahmedabad,0
+102-1,102,ahmedabad,0
+149-2,149,ahmedabad,0
+22-3,22,ahmedabad,0
+22-4,22,ahmedabad,0
+40/1-1,40/1,ahmedabad,0
+40/1-2,40/1,ahmedabad,0
+40/1-3,40/1,ahmedabad,0
+40/1-4,40/1,ahmedabad,0
+49/2-2,49/2,ahmedabad,0
+49/2-3,49/2,ahmedabad,0
+52/2-2,52/2,ahmedabad,0
+130sh-5,130sh,ahmedabad,0
+130sh-6,130sh,ahmedabad,0
+151/3-2,151/3,ahmedabad,0
+34/5-3,34/5,ahmedabad,0
+150-3,150,ahmedabad,0
+49sh-2,49sh,ahmedabad,0
+50-5,50,ahmedabad,0
+999-1,999,ahmedabad,0
+999-2,999,ahmedabad,0
+999-3,999,ahmedabad,0
+49sh-3,49sh,ahmedabad,0
+28-3,28,ahmedabad,0
+34/5-4,34/5,ahmedabad,0
+34/5-5,34/5,ahmedabad,0
+37/4,37/4,ahmedabad,0
+146/1-4,146/1,ahmedabad,0
+17-2,17,ahmedabad,0
+33-5,33,ahmedabad,0
+39/3-3,39/3,ahmedabad,0
+42-3,42,ahmedabad,0
+43-2,43,ahmedabad,0
+45-1,45,ahmedabad,0
+45-2,45,ahmedabad,0
+45/1-1,45/1,ahmedabad,0
+45/1-2,45/1,ahmedabad,0
+49-1,49,ahmedabad,0
+49-2,49,ahmedabad,0
+49-3,49,ahmedabad,0
+49-4,49,ahmedabad,0
+49-5,49,ahmedabad,0
+55,55,ahmedabad,0
+56-1,56,ahmedabad,0
+56-2,56,ahmedabad,0
+56-3,56,ahmedabad,0
+56/1-3,56/1,ahmedabad,0
+3,3,ahmedabad,0
+401-3,401,ahmedabad,0
+401-4,401,ahmedabad,0
+800-1,800,ahmedabad,0
+42-4,42,ahmedabad,0
+51T-3,51T,ahmedabad,0
+142-4,142,ahmedabad,0
+144-2,144,ahmedabad,0
+149-3,149,ahmedabad,0
+137M-1,137M,ahmedabad,0
+137M-2,137M,ahmedabad,0
+137M-3,137M,ahmedabad,0
+137M-4,137M,ahmedabad,0
+137M-5,137M,ahmedabad,0
+137M-6,137M,ahmedabad,0
+137M-7,137M,ahmedabad,0
+RFEx1A-1,RFEx1A,ahmedabad,0
+RFEx1A-2,RFEx1A,ahmedabad,0
+138/1-2,138/1,ahmedabad,0
+146/1-5,146/1,ahmedabad,0
+125/1-1,125/1,ahmedabad,0
+125/1-2,125/1,ahmedabad,0
+123sh-3,123sh,ahmedabad,0
+130/4-2,130/4,ahmedabad,0
+89/1-3,89/1,ahmedabad,0
+84-2,84,ahmedabad,0
+148-2,148,ahmedabad,0
+152,152,ahmedabad,0
+160-2,160,ahmedabad,0
+401sh,401sh,ahmedabad,0
+51sh-3,51sh,ahmedabad,0
+88,88,ahmedabad,0
+102-2,102,ahmedabad,0
+102-3,102,ahmedabad,0
+89/2-5,89/2,ahmedabad,0
+89/3-5,89/3,ahmedabad,0
+89/3sh-1,89/3sh,ahmedabad,0
+89/3sh-2,89/3sh,ahmedabad,0
+200-1,200,ahmedabad,0
+200-2,200,ahmedabad,0
+200-3,200,ahmedabad,0
+800-2,800,ahmedabad,0
+900,900,ahmedabad,0
+136-3,136,ahmedabad,0
+136-4,136,ahmedabad,0
+136-5,136,ahmedabad,0
+202-1,202,ahmedabad,0
+202-2,202,ahmedabad,0
+202-3,202,ahmedabad,0
+70-8,70,ahmedabad,0
+40/1-5,40/1,ahmedabad,0
+123sh-4,123sh,ahmedabad,0
+16-6,16,ahmedabad,0
+117-2,117,ahmedabad,0
+117-3,117,ahmedabad,0
+Feeder-8,Feeder-8,ahmedabad,0
+Feeder-9,Feeder-9,ahmedabad,0
+66/3-3,66/3,ahmedabad,0
+66/3-4,66/3,ahmedabad,0
+34/4-2,34/4,ahmedabad,0
+151-4,151,ahmedabad,0
+137sh-2,137sh,ahmedabad,0
+125-3,125,ahmedabad,0
+150-4,150,ahmedabad,0
+150-5,150,ahmedabad,0
+143sh-2,143sh,ahmedabad,0
+134/1-1,134/1,ahmedabad,0
+134/1-2,134/1,ahmedabad,0
+1D,1D,ahmedabad,0
+1E-GK,1E-GK,ahmedabad,0
+1E-MS,1E-MS,ahmedabad,0
+1S-CG,1S-CG,ahmedabad,0
+1S-SM,1S-SM,ahmedabad,0
+1U,1U,ahmedabad,0
+11D-OL,11D-OL,ahmedabad,0
+11U-AO,11U-AO,ahmedabad,0
+11U-LO,11U-LO,ahmedabad,0
+11U-LS,11U-LS,ahmedabad,0
+12D-PR,12D-PR,ahmedabad,0
+12D-RR,12D-RR,ahmedabad,0
+12U-RL,12U-RL,ahmedabad,0
+12U-RP,12U-RP,ahmedabad,0
+14D-OS,14D-OS,ahmedabad,0
+14D-SS,14D-SS,ahmedabad,0
+14U-SO,14U-SO,ahmedabad,0
+14U-SS,14U-SS,ahmedabad,0
+15D,15D,ahmedabad,0
+15D-IA,15D-IA,ahmedabad,0
+15E-AS,15E-AS,ahmedabad,0
+15E-IJ,15E-IJ,ahmedabad,0
+15E-RS,15E-RS,ahmedabad,0
+15S-JI,15S-JI,ahmedabad,0
+15S-PA,15S-PA,ahmedabad,0
+15S-PR,15S-PR,ahmedabad,0
+15U,15U,ahmedabad,0
+15U-AI,15U-AI,ahmedabad,0
+16D-NS,16D-NS,ahmedabad,0
+16E,16E,ahmedabad,0
+16E-SJ,16E-SJ,ahmedabad,0
+16S,16S,ahmedabad,0
+16S-JS,16S-JS,ahmedabad,0
+16U-SN,16U-SN,ahmedabad,0
+17D,17D,ahmedabad,0
+17E,17E,ahmedabad,0
+17E-BJ,17E-BJ,ahmedabad,0
+17S,17S,ahmedabad,0
+17S-JB,17S-JB,ahmedabad,0
+17U,17U,ahmedabad,0
+2D-OI,2D-OI,ahmedabad,0
+2D-SL,2D-SL,ahmedabad,0
+2U-IO,2U-IO,ahmedabad,0
+2U-LS,2U-LS,ahmedabad,0
+3D,3D,ahmedabad,0
+3U,3U,ahmedabad,0
+4D-LA,4D-LA,ahmedabad,0
+4D-LZ,4D-LZ,ahmedabad,0
+4E-ZS,4E-ZS,ahmedabad,0
+4S-PZ,4S-PZ,ahmedabad,0
+4U-AL,4U-AL,ahmedabad,0
+4U-ZL,4U-ZL,ahmedabad,0
+5D-NV,5D-NV,ahmedabad,0
+5E-HW,5E-HW,ahmedabad,0
+5E-VK,5E-VK,ahmedabad,0
+5E-VR,5E-VR,ahmedabad,0
+5S-CV,5S-CV,ahmedabad,0
+5S-RV,5S-RV,ahmedabad,0
+5S-WH,5S-WH,ahmedabad,0
+5U-VN,5U-VN,ahmedabad,0
+6D,6D,ahmedabad,0
+6E-NR,6E-NR,ahmedabad,0
+6E-SC,6E-SC,ahmedabad,0
+6S-CS,6S-CS,ahmedabad,0
+6S-RN,6S-RN,ahmedabad,0
+6U,6U,ahmedabad,0
+7D-NS,7D-NS,ahmedabad,0
+7D-SZ,7D-SZ,ahmedabad,0
+7U-SN,7U-SN,ahmedabad,0
+7U-ZS,7U-ZS,ahmedabad,0
+8D-HB,8D-HB,ahmedabad,0
+8D-NB,8D-NB,ahmedabad,0
+8E-BJ,8E-BJ,ahmedabad,0
+8E-NC,8E-NC,ahmedabad,0
+8S-CN,8S-CN,ahmedabad,0
+8S-JB,8S-JB,ahmedabad,0
+8S-SN,8S-SN,ahmedabad,0
+8U-BH,8U-BH,ahmedabad,0
+8U-BN,8U-BN,ahmedabad,0
+9D-LV,9D-LV,ahmedabad,0
+9D-MV,9D-MV,ahmedabad,0
+9E-MJ,9E-MJ,ahmedabad,0
+9E-VJ,9E-VJ,ahmedabad,0
+9S-JL,9S-JL,ahmedabad,0
+9S-JM,9S-JM,ahmedabad,0
+9S-JV,9S-JV,ahmedabad,0
+9U-VL,9U-VL,ahmedabad,0
+9U-VM,9U-VM,ahmedabad,0
+101-C,101-C,ahmedabad,0
+8U-BS,8U-BS,ahmedabad,0
+8D-SB,8D-SB,ahmedabad,0
+9E-MB,9E-MB,ahmedabad,0
+7D-SM,7D-SM,ahmedabad,0
+7D-RD,7D-RD,ahmedabad,0
+7U-DR,7U-DR,ahmedabad,0
+7U-SM,7U-SM,ahmedabad,0
+12D-OR,12D-OR,ahmedabad,0
+101U-NR,101U-NR,ahmedabad,0
+101S-RM,101S-RM,ahmedabad,0
+4S-RA,4S-RA,ahmedabad,0
+4S-OL,4S-OL,ahmedabad,0
+4E-LO,4E-LO,ahmedabad,0
+9S-BG,9S-BG,ahmedabad,0
+4D-RA,4D-RA,ahmedabad,0
+4E-AR,4E-AR,ahmedabad,0
+5E-HO,5E-HO,ahmedabad,0
+4E-ARa,4E-ARa,ahmedabad,0
+4E-DRa,4E-DRa,ahmedabad,0
+4S-PA,4S-PA,ahmedabad,0
+4U-RL,4U-RL,ahmedabad,0
+4U-ZR,4U-ZR,ahmedabad,0
+12U-RO,12U-RO,ahmedabad,0
+3E-MO,3E-MO,ahmedabad,0
+8E-NO,8E-NO,ahmedabad,0
+8S-ON,8S-ON,ahmedabad,0
+7E-NR,7E-NR,ahmedabad,0
+7E-SA,7E-SA,ahmedabad,0
+7S-RN,7S-RN,ahmedabad,0
+7S-AS,7S-AS,ahmedabad,0
+9D-ML,9D-ML,ahmedabad,0
+9D-SM,9D-SM,ahmedabad,0
+9E-LO,9E-LO,ahmedabad,0
+9S-OS,9S-OS,ahmedabad,0
+4E-AS,4E-AS,ahmedabad,0
+9E-MO,9E-MO,ahmedabad,0
+8D-NG,8D-NG,ahmedabad,0
+8U-GN,8U-GN,ahmedabad,0
+8U-PN,8U-PN,ahmedabad,0
+8E-HO,8E-HO,ahmedabad,0
+4E-LK,4E-LK,ahmedabad,0
+4S-CL,4S-CL,ahmedabad,0
+101-C-PR,101-C-PR,ahmedabad,0
+101-C-RS,101-C-RS,ahmedabad,0
+4D-NZ,4D-NZ,ahmedabad,0
+4D-CZ,4D-CZ,ahmedabad,0
+2E-IK,2E-IK,ahmedabad,0
+2S-CI,2S-CI,ahmedabad,0
+12S-PR,12S-PR,ahmedabad,0
+12E-RS,12E-RS,ahmedabad,0
+5S-OV,5S-OV,ahmedabad,0
+14D-CS,14D-CS,ahmedabad,0
+14U-SK,14U-SK,ahmedabad,0
+16U-CN,16U-CN,ahmedabad,0
+3S-SM,3S-SM,ahmedabad,0
+16U-SK,16U-SK,ahmedabad,0
+5U-NH,5U-NH,ahmedabad,0
+5D-HN,5D-HN,ahmedabad,0
+1S-CM,1S-CM,ahmedabad,0
+1E-MK,1E-MK,ahmedabad,0
+Chandkheda To Pathikashram,Chandkheda To Pathikashram,ahmedabad,0
+Chiloda To Pathikashram,Chiloda To Pathikashram,ahmedabad,0
+Kalol To Pathikashram Via Dhamasana,Kalol To Pathikashram Via Dhamasana,ahmedabad,0
+Pathikashram To Chandkheda,Pathikashram To Chandkheda,ahmedabad,0
+Pathikashram To Chiloda,Pathikashram To Chiloda,ahmedabad,0
+Pathikashram To Kalol Via Dhamasana,Pathikashram To Kalol Via Dhamasana,ahmedabad,0
+Pathikashram To Pethapur,Pathikashram To Pethapur,ahmedabad,0
+Pathikashram To Unava,Pathikashram To Unava,ahmedabad,0
+Pethapur To Pathikashram,Pethapur To Pathikashram,ahmedabad,0
+Unava To Pathikashram,Unava To Pathikashram,ahmedabad,0
+MTC-18751,29A,chennai,0
+MTC-18750,12G,chennai,0
+MTC-23728,11 R,chennai,0
+MTC-18753,22 CT,chennai,0
+MTC-20494,15 CT8,chennai,0
+MTC-23729,13 R,chennai,0
+MTC-18755,29A CT,chennai,0
+MTC-18756,29D,chennai,0
+MTC-18758,40A CT,chennai,0
+MTC-4946,579K,chennai,0
+MTC-20496,21 CT1,chennai,0
+MTC-18762,T23C,chennai,0
+MTC-10684,104T,chennai,0
+MTC-23732,154 R1,chennai,0
+MTC-23733,154 R,chennai,0
+MTC-15885,570Et,chennai,0
+MTC-17675,579K,chennai,0
+MTC-18764,12X,chennai,0
+MTC-19805,S90,chennai,0
+MTC-12581,70H,chennai,0
+MTC-11791,549,chennai,0
+MTC-17676,170Tx,chennai,0
+MTC-16303,170Tx,chennai,0
+MTC-15127,19C,chennai,0
+MTC-17957,95X,chennai,0
+MTC-13298,S25,chennai,0
+MTC-13301,S25,chennai,0
+MTC-3516,95X,chennai,0
+MTC-13304,S25,chennai,0
+MTC-18769,88CEt,chennai,0
+MTC-23735,154P,chennai,0
+MTC-18770,88CEt,chennai,0
+MTC-23736,154P,chennai,0
+MTC-11788,549,chennai,0
+MTC-11789,549,chennai,0
+MTC-11790,549,chennai,0
+MTC-17956,99X,chennai,0
+MTC-17679,579C,chennai,0
+MTC-18783,129C,chennai,0
+MTC-18787,29B CT,chennai,0
+MTC-18788,29B CT,chennai,0
+MTC-18789,29C CT,chennai,0
+MTC-18790,29CEt CT1,chennai,0
+MTC-18794,T29C CT,chennai,0
+MTC-19820,147C,chennai,0
+MTC-18797,19 CT4,chennai,0
+MTC-11724,523,chennai,0
+MTC-11725,523,chennai,0
+MTC-18804,500W,chennai,0
+MTC-11735,523A,chennai,0
+MTC-11739,523A,chennai,0
+MTC-11741,523A,chennai,0
+MTC-11745,523A,chennai,0
+MTC-12738,70F,chennai,0
+MTC-12820,77V,chennai,0
+MTC-12824,77V,chennai,0
+MTC-10579,104G,chennai,0
+MTC-18808,27D,chennai,0
+MTC-18816,45BEt,chennai,0
+MTC-19821,147C,chennai,0
+MTC-18817,45B CT,chennai,0
+MTC-17501,3,chennai,0
+MTC-16552,3,chennai,0
+MTC-18818,45B CT1,chennai,0
+MTC-18821,45B CT2,chennai,0
+MTC-20519,102K CT2,chennai,0
+MTC-18826,12B CT1,chennai,0
+MTC-20520,102K CT3,chennai,0
+MTC-20521,102K CT4,chennai,0
+MTC-18827,41D CT,chennai,0
+MTC-18832,95XCt R,chennai,0
+MTC-13387,S41,chennai,0
+MTC-13388,S41,chennai,0
+MTC-13389,S41,chennai,0
+MTC-18837,2B CT,chennai,0
+MTC-17697,S58,chennai,0
+MTC-20527,102K CT10,chennai,0
+MTC-22449,72 CT8,chennai,0
+MTC-17340,565,chennai,0
+MTC-18841,2B CT1,chennai,0
+MTC-17338,565,chennai,0
+MTC-9953,547,chennai,0
+MTC-9596,S22,chennai,0
+MTC-17705,79V,chennai,0
+MTC-12477,66K,chennai,0
+MTC-17704,297,chennai,0
+MTC-18859,101 CT3,chennai,0
+MTC-12855,79V,chennai,0
+MTC-12857,79V,chennai,0
+MTC-12858,79V,chennai,0
+MTC-9986,580,chennai,0
+MTC-9992,580,chennai,0
+MTC-18863,1D,chennai,0
+MTC-9955,547,chennai,0
+MTC-13104,D70X,chennai,0
+MTC-13106,D70X,chennai,0
+MTC-13110,D70X,chennai,0
+MTC-17967,570,chennai,0
+MTC-17330,566,chennai,0
+MTC-12489,66K,chennai,0
+MTC-10415,166K,chennai,0
+MTC-17329,566,chennai,0
+MTC-17331,566,chennai,0
+MTC-9783,166K,chennai,0
+MTC-18870,4 CT,chennai,0
+MTC-23764,CU2 CT3,chennai,0
+MTC-18872,46 CT,chennai,0
+MTC-18876,46G CT,chennai,0
+MTC-23765,5B,chennai,0
+MTC-15773,147C,chennai,0
+MTC-18877,70E CT,chennai,0
+MTC-18878,70E,chennai,0
+MTC-23766,5B,chennai,0
+MTC-17712,45A,chennai,0
+MTC-23768,G18,chennai,0
+MTC-20536,7H CT1,chennai,0
+MTC-23769,G18,chennai,0
+MTC-17713,M88 ct1,chennai,0
+MTC-23770,M51,chennai,0
+MTC-23771,597A R1,chennai,0
+MTC-15096,29E,chennai,0
+MTC-18884,S17,chennai,0
+MTC-18885,49K CT,chennai,0
+MTC-17715,515A,chennai,0
+MTC-11610,515A,chennai,0
+MTC-18887,46G CT3,chennai,0
+MTC-20541,7H CT5,chennai,0
+MTC-18888,46G,chennai,0
+MTC-18889,57X CT1,chennai,0
+MTC-10517,188K,chennai,0
+MTC-18893,57X CT3,chennai,0
+MTC-15108,29A,chennai,0
+MTC-18895,57X CT4,chennai,0
+MTC-11619,515A,chennai,0
+MTC-17719,579A,chennai,0
+MTC-10526,104A,chennai,0
+MTC-15890,120A,chennai,0
+MTC-11690,51X,chennai,0
+MTC-12154,579A,chennai,0
+MTC-10515,188K,chennai,0
+MTC-15895,57M,chennai,0
+MTC-17288,142,chennai,0
+MTC-12156,579A,chennai,0
+MTC-13072,J51,chennai,0
+MTC-11083,31A,chennai,0
+MTC-12165,579A,chennai,0
+MTC-18905,70G,chennai,0
+MTC-23774,19A R2,chennai,0
+MTC-23775,104C R2,chennai,0
+MTC-10522,104A,chennai,0
+MTC-10520,188K,chennai,0
+MTC-23776,104C R1,chennai,0
+MTC-23777,19BEt,chennai,0
+MTC-17724,170Tx,chennai,0
+MTC-17725,77T,chennai,0
+MTC-10525,188K,chennai,0
+MTC-19832,1C CT1,chennai,0
+MTC-18911,147A,chennai,0
+MTC-20549,7M CT6,chennai,0
+MTC-11698,51X,chennai,0
+MTC-11700,51X,chennai,0
+MTC-15109,29A,chennai,0
+MTC-23779,147C CT4,chennai,0
+MTC-23780,147C CT2,chennai,0
+MTC-10529,104A,chennai,0
+MTC-18916,29E,chennai,0
+MTC-17730,B70Ct,chennai,0
+MTC-13315,S26,chennai,0
+MTC-13317,S26,chennai,0
+MTC-13318,S26,chennai,0
+MTC-13371,S36,chennai,0
+MTC-13372,S36,chennai,0
+MTC-13373,S36,chennai,0
+MTC-17263,66,chennai,0
+MTC-16268,70V,chennai,0
+MTC-13321,S20,chennai,0
+MTC-23783,18A CT13,chennai,0
+MTC-17739,570,chennai,0
+MTC-23784,18A CT13,chennai,0
+MTC-17431,102CT,chennai,0
+MTC-17261,66,chennai,0
+MTC-13310,S19,chennai,0
+MTC-13313,S19,chennai,0
+MTC-13254,S166,chennai,0
+MTC-19846,1C,chennai,0
+MTC-17742,570,chennai,0
+MTC-11945,557M,chennai,0
+MTC-11952,557M,chennai,0
+MTC-11953,557M,chennai,0
+MTC-11955,557M,chennai,0
+MTC-11957,557M,chennai,0
+MTC-13341,S45,chennai,0
+MTC-13344,S45,chennai,0
+MTC-23787,102X R4,chennai,0
+MTC-20556,7M CT,chennai,0
+MTC-13157,M19B,chennai,0
+MTC-13162,M19B,chennai,0
+MTC-15058,M19B,chennai,0
+MTC-18939,147A CT,chennai,0
+MTC-18940,147B CT,chennai,0
+MTC-23788,57F CT20,chennai,0
+MTC-23790,57F CT22,chennai,0
+MTC-18941,147B,chennai,0
+MTC-18945,147V,chennai,0
+MTC-18947,47DCt,chennai,0
+MTC-23789,57F CT21,chennai,0
+MTC-18942,147C,chennai,0
+MTC-23795,104C CT11,chennai,0
+MTC-23796,104C CT12,chennai,0
+MTC-13236,S1,chennai,0
+MTC-13241,S1,chennai,0
+MTC-17970,63,chennai,0
+MTC-23797,109 CT3,chennai,0
+MTC-23794,91V R1,chennai,0
+MTC-23799,11G CT2,chennai,0
+MTC-18951,A47,chennai,0
+MTC-13235,S1,chennai,0
+MTC-10489,188A,chennai,0
+MTC-17238,63,chennai,0
+MTC-17234,63,chennai,0
+MTC-13275,S169,chennai,0
+MTC-13278,S169,chennai,0
+MTC-15803,170Tx,chennai,0
+MTC-23801,18A CT14,chennai,0
+MTC-10492,188A,chennai,0
+MTC-13349,S48,chennai,0
+MTC-13350,S48,chennai,0
+MTC-3159,66K,chennai,0
+MTC-3147,D70Ct,chennai,0
+MTC-23802,18A CT15,chennai,0
+MTC-23803,21P CT1,chennai,0
+MTC-11965,558A,chennai,0
+MTC-11960,558A,chennai,0
+MTC-23805,72 R1,chennai,0
+MTC-23806,72 R,chennai,0
+MTC-23807,72 CT,chennai,0
+MTC-16365,70ACt,chennai,0
+MTC-12645,70ACt,chennai,0
+MTC-12648,70ACt,chennai,0
+MTC-12650,70ACt,chennai,0
+MTC-12651,70ACt,chennai,0
+MTC-12653,70ACt,chennai,0
+MTC-12655,70ACt,chennai,0
+MTC-12657,70ACt,chennai,0
+MTC-23808,72 CT1,chennai,0
+MTC-23809,51A,chennai,0
+MTC-20561,221 CT2,chennai,0
+MTC-23810,51A,chennai,0
+MTC-11954,568B,chennai,0
+MTC-23811,49A,chennai,0
+MTC-23812,49A,chennai,0
+MTC-23813,49A,chennai,0
+MTC-12799,77FCt,chennai,0
+MTC-23814,49A,chennai,0
+MTC-18958,5E,chennai,0
+MTC-17233,70,chennai,0
+MTC-15813,45ACt,chennai,0
+MTC-12380,593Ct,chennai,0
+MTC-23816,597 R1,chennai,0
+MTC-11943,566B,chennai,0
+MTC-11949,566B,chennai,0
+MTC-11951,566B,chennai,0
+MTC-12993,95XCt,chennai,0
+MTC-20565,221 RE1,chennai,0
+MTC-12800,77Ct,chennai,0
+MTC-20566,221 CT6,chennai,0
+MTC-13325,S27,chennai,0
+MTC-23817,597 R,chennai,0
+MTC-12952,B70Ct,chennai,0
+MTC-12954,B70Ct,chennai,0
+MTC-23818,113,chennai,0
+MTC-12756,76B,chennai,0
+MTC-14952,76B,chennai,0
+MTC-7317,70J,chennai,0
+MTC-3290,202,chennai,0
+MTC-18964,51AX ct2,chennai,0
+MTC-15804,170T,chennai,0
+MTC-16328,SM1Ct,chennai,0
+MTC-23819,CU2 CT2,chennai,0
+MTC-16379,SM1Ct,chennai,0
+MTC-12885,89TCt,chennai,0
+MTC-18965,51AX R1,chennai,0
+MTC-23820,113,chennai,0
+MTC-3460,515M,chennai,0
+MTC-18966,51AX ct1,chennai,0
+MTC-12420,597CEt,chennai,0
+MTC-23821,17D R1,chennai,0
+MTC-3177,70G,chennai,0
+MTC-13345,S47,chennai,0
+MTC-18967,51AX R,chennai,0
+MTC-13346,S47,chennai,0
+MTC-15067,D70,chennai,0
+MTC-3503,95X,chennai,0
+MTC-11899,55DEt,chennai,0
+MTC-18972,104F,chennai,0
+MTC-9021,M51VC,chennai,0
+MTC-18974,51X,chennai,0
+MTC-23824,170C R1,chennai,0
+MTC-18975,118Et,chennai,0
+MTC-11905,55DEt,chennai,0
+MTC-23825,11M R1,chennai,0
+MTC-12435,61R,chennai,0
+MTC-23826,11M R,chennai,0
+MTC-12413,61E,chennai,0
+MTC-3513,95X,chennai,0
+MTC-12028,55B,chennai,0
+MTC-12436,61R,chennai,0
+MTC-12040,55B,chennai,0
+MTC-12422,61E,chennai,0
+MTC-12425,61E,chennai,0
+MTC-12426,61E,chennai,0
+MTC-12019,55A,chennai,0
+MTC-11984,558C,chennai,0
+MTC-11988,558C,chennai,0
+MTC-11989,558C,chennai,0
+MTC-11991,558C,chennai,0
+MTC-12022,55A,chennai,0
+MTC-12024,55A,chennai,0
+MTC-20577,57 CT2,chennai,0
+MTC-23827,101X CT7,chennai,0
+MTC-12839,88L,chennai,0
+MTC-12025,55A,chennai,0
+MTC-12026,55A,chennai,0
+MTC-12027,55A,chennai,0
+MTC-12411,61C,chennai,0
+MTC-18978,118N,chennai,0
+MTC-12407,61C,chennai,0
+MTC-20578,57 R1,chennai,0
+MTC-20579,57 CT3,chennai,0
+MTC-12400,61A,chennai,0
+MTC-12398,61A,chennai,0
+MTC-12428,61K,chennai,0
+MTC-12438,61R,chennai,0
+MTC-23828,154 CT,chennai,0
+MTC-12005,558P,chennai,0
+MTC-12007,558P,chennai,0
+MTC-2743,579C,chennai,0
+MTC-12008,558P,chennai,0
+MTC-23829,154 CT,chennai,0
+MTC-12009,558P,chennai,0
+MTC-20580,57 R2,chennai,0
+MTC-12012,558P,chennai,0
+MTC-17939,57,chennai,0
+MTC-12013,558P,chennai,0
+MTC-12014,558P,chennai,0
+MTC-12015,558P,chennai,0
+MTC-19862,35 CT1,chennai,0
+MTC-20581,32B R,chennai,0
+MTC-23830,164 CT3,chennai,0
+MTC-17942,57,chennai,0
+MTC-20582,32B R1,chennai,0
+MTC-19863,35 CT2,chennai,0
+MTC-22450,7M CT2,chennai,0
+MTC-18986,101 CT,chennai,0
+MTC-12432,61K,chennai,0
+MTC-23831,202 CT3,chennai,0
+MTC-18989,V51CT,chennai,0
+MTC-23832,21C CT6,chennai,0
+MTC-11974,558B,chennai,0
+MTC-12433,61K,chennai,0
+MTC-11980,558B,chennai,0
+MTC-11970,558B,chennai,0
+MTC-11976,558B,chennai,0
+MTC-11979,558B,chennai,0
+MTC-23833,21G CT11,chennai,0
+MTC-23834,21G CT12,chennai,0
+MTC-18991,V51CT,chennai,0
+MTC-23835,21P CT2,chennai,0
+MTC-23836,242 CT2,chennai,0
+MTC-18992,V51CT,chennai,0
+MTC-23837,242 CT6,chennai,0
+MTC-12417,597C,chennai,0
+MTC-18995,V51 CT,chennai,0
+MTC-23838,25 CT,chennai,0
+MTC-12418,597C,chennai,0
+MTC-23839,25 CT,chennai,0
+MTC-23840,26 CT1,chennai,0
+MTC-23841,26 CT15,chennai,0
+MTC-23842,26 CT16,chennai,0
+MTC-23843,26 CT4,chennai,0
+MTC-23844,26 CT9,chennai,0
+MTC-23845,49X,chennai,0
+MTC-23847,49X,chennai,0
+MTC-17770,M88 CT,chennai,0
+MTC-17772,65G,chennai,0
+MTC-17774,45ACt,chennai,0
+MTC-17775,45ACt,chennai,0
+MTC-23848,51 CT20,chennai,0
+MTC-17780,M88 CT,chennai,0
+MTC-17074,57,chennai,0
+MTC-16672,37,chennai,0
+MTC-17201,73,chennai,0
+MTC-17202,73,chennai,0
+MTC-23851,51 CT27,chennai,0
+MTC-23852,51 CT5,chennai,0
+MTC-23853,51 CT6,chennai,0
+MTC-11471,48B,chennai,0
+MTC-11473,48B,chennai,0
+MTC-11476,48B,chennai,0
+MTC-16661,37,chennai,0
+MTC-16663,37,chennai,0
+MTC-15960,19A,chennai,0
+MTC-17787,159,chennai,0
+MTC-17790,159,chennai,0
+MTC-17789,22,chennai,0
+MTC-11477,48B,chennai,0
+MTC-11930,557C,chennai,0
+MTC-11939,557C,chennai,0
+MTC-11940,557C,chennai,0
+MTC-11941,557C,chennai,0
+MTC-23854,54 CT1,chennai,0
+MTC-19031,583A CT1,chennai,0
+MTC-11248,37Ct,chennai,0
+MTC-11243,37Ct,chennai,0
+MTC-11246,37Ct,chennai,0
+MTC-23855,54 CT1,chennai,0
+MTC-23856,578 CT,chennai,0
+MTC-18085,109,chennai,0
+MTC-16604,26,chennai,0
+MTC-17409,159,chennai,0
+MTC-23857,578 CT,chennai,0
+MTC-15982,s24,chennai,0
+MTC-23858,583 CT1,chennai,0
+MTC-8580,19T,chennai,0
+MTC-12592,70LCt,chennai,0
+MTC-17791,159,chennai,0
+MTC-19038,66P CT5,chennai,0
+MTC-10580,104G,chennai,0
+MTC-23859,583 CT2,chennai,0
+MTC-19039,66P CT6,chennai,0
+MTC-23860,597A CT2,chennai,0
+MTC-23861,62 CT12,chennai,0
+MTC-17793,22,chennai,0
+MTC-23862,62 CT7,chennai,0
+MTC-17800,114,chennai,0
+MTC-17798,15,chennai,0
+MTC-23863,62 CT8,chennai,0
+MTC-19882,S75 CT1,chennai,0
+MTC-23864,66P CT1,chennai,0
+MTC-17803,19D,chennai,0
+MTC-23865,66P CT2,chennai,0
+MTC-23866,91 CT10,chennai,0
+MTC-12469,66P,chennai,0
+MTC-23867,91 CT8,chennai,0
+MTC-23868,91V CT3,chennai,0
+MTC-23869,A1 CT11,chennai,0
+MTC-10736,109C,chennai,0
+MTC-10738,109C,chennai,0
+MTC-11464,48C,chennai,0
+MTC-11465,48C,chennai,0
+MTC-23870,A1 CT2,chennai,0
+MTC-23871,CU2 CT1,chennai,0
+MTC-10590,27B,chennai,0
+MTC-23873,P570S CT,chennai,0
+MTC-10568,104F,chennai,0
+MTC-10900,121M,chennai,0
+MTC-23874,P570S CT1,chennai,0
+MTC-23875,P91 CT,chennai,0
+MTC-23876,P91 CT1,chennai,0
+MTC-23877,P91 CT3,chennai,0
+MTC-10272,153P,chennai,0
+MTC-17312,153,chennai,0
+MTC-23878,P91 CT4,chennai,0
+MTC-23881,5C CT3,chennai,0
+MTC-23882,5C CT7,chennai,0
+MTC-12783,77K,chennai,0
+MTC-23883,5C CT10,chennai,0
+MTC-23884,5C CT10,chennai,0
+MTC-11611,515A,chennai,0
+MTC-11612,515A,chennai,0
+MTC-11613,515A,chennai,0
+MTC-23885,21G R3,chennai,0
+MTC-17806,29D,chennai,0
+MTC-23886,21G R5,chennai,0
+MTC-23887,70A R1,chennai,0
+MTC-23888,70A R,chennai,0
+MTC-23889,102X CT5,chennai,0
+MTC-23890,500Et CT3,chennai,0
+MTC-19089,70V CT3,chennai,0
+MTC-23892,60H R1,chennai,0
+MTC-23893,60H R4,chennai,0
+MTC-23895,10A CT1,chennai,0
+MTC-23896,10A CT,chennai,0
+MTC-19099,54E,chennai,0
+MTC-19100,54E,chennai,0
+MTC-19101,54E CT,chennai,0
+MTC-10303,154E,chennai,0
+MTC-10304,154E,chennai,0
+MTC-10305,154E,chennai,0
+MTC-19102,54E,chennai,0
+MTC-19885,S75 CT2,chennai,0
+MTC-23897,10A R,chennai,0
+MTC-19886,S75 CT2,chennai,0
+MTC-12841,88L,chennai,0
+MTC-19889,48B,chennai,0
+MTC-19888,48B CT6,chennai,0
+MTC-17818,57,chennai,0
+MTC-10578,104F,chennai,0
+MTC-12540,65B,chennai,0
+MTC-12538,65B,chennai,0
+MTC-4465,202,chennai,0
+MTC-17824,114S,chennai,0
+MTC-17825,120A,chennai,0
+MTC-23898,10A R1,chennai,0
+MTC-23899,10E CT2,chennai,0
+MTC-17823,57,chennai,0
+MTC-19119,54S CT3,chennai,0
+MTC-23901,111 CT,chennai,0
+MTC-12372,592V,chennai,0
+MTC-23902,111,chennai,0
+MTC-23903,111,chennai,0
+MTC-23904,11G R,chennai,0
+MTC-17826,114S,chennai,0
+MTC-19120,54S CT4,chennai,0
+MTC-19891,547A,chennai,0
+MTC-23905,11G R1,chennai,0
+MTC-19121,54S CT2,chennai,0
+MTC-23906,11G CT1,chennai,0
+MTC-17834,114S,chennai,0
+MTC-23908,12G R1,chennai,0
+MTC-10600,27B,chennai,0
+MTC-4942,95X,chennai,0
+MTC-18093,592V,chennai,0
+MTC-10400,26B,chennai,0
+MTC-23909,12G R,chennai,0
+MTC-12784,77A,chennai,0
+MTC-23910,153A R,chennai,0
+MTC-23911,153A CT7,chennai,0
+MTC-18091,592V,chennai,0
+MTC-18092,592V,chennai,0
+MTC-17837,120A,chennai,0
+MTC-10176,147V,chennai,0
+MTC-17839,T29C,chennai,0
+MTC-23912,153A R1,chennai,0
+MTC-23913,18ACT R1,chennai,0
+MTC-19892,547A CT2,chennai,0
+MTC-18098,592V,chennai,0
+MTC-19893,547A CT1,chennai,0
+MTC-17840,T29C,chennai,0
+MTC-19124,553K,chennai,0
+MTC-10604,27B,chennai,0
+MTC-23914,18ACT R,chennai,0
+MTC-17847,29CEt CT,chennai,0
+MTC-23915,18K R1,chennai,0
+MTC-19125,553K,chennai,0
+MTC-23916,18K R,chennai,0
+MTC-12301,5S,chennai,0
+MTC-17489,566,chennai,0
+MTC-11278,38C,chennai,0
+MTC-19130,578Et CT2,chennai,0
+MTC-10934,121Ct,chennai,0
+MTC-12302,5S,chennai,0
+MTC-12303,5S,chennai,0
+MTC-12304,5S,chennai,0
+MTC-19131,578Et CT2,chennai,0
+MTC-23917,570Et,chennai,0
+MTC-12785,77A,chennai,0
+MTC-17864,19D,chennai,0
+MTC-23918,570Et,chennai,0
+MTC-23919,70V R1,chennai,0
+MTC-17865,19D,chennai,0
+MTC-12488,66K,chennai,0
+MTC-23920,70V R,chennai,0
+MTC-17870,170Tx,chennai,0
+MTC-19150,3 CT1,chennai,0
+MTC-19151,3 CT3,chennai,0
+MTC-12111,572A,chennai,0
+MTC-23921,88D R1,chennai,0
+MTC-11137,29AEX,chennai,0
+MTC-17873,170Tx,chennai,0
+MTC-12112,572A,chennai,0
+MTC-23922,88D R,chennai,0
+MTC-12113,572A,chennai,0
+MTC-12115,572A,chennai,0
+MTC-17874,170Tx,chennai,0
+MTC-12787,77A,chennai,0
+MTC-12490,66K,chennai,0
+MTC-23923,M70 CT1,chennai,0
+MTC-19160,66P CT8,chennai,0
+MTC-19163,95X CT1,chennai,0
+MTC-10933,121Ct,chennai,0
+MTC-23924,M70 R,chennai,0
+MTC-12782,77K,chennai,0
+MTC-19164,95X CT,chennai,0
+MTC-23925,M70 R1,chennai,0
+MTC-20614,102X CT8,chennai,0
+MTC-19905,51B,chennai,0
+MTC-11713,523,chennai,0
+MTC-19906,51B R,chennai,0
+MTC-19175,121A CT,chennai,0
+MTC-19176,121C CT,chennai,0
+MTC-23929,102X CT10,chennai,0
+MTC-18103,37Ct,chennai,0
+MTC-19177,121D CT,chennai,0
+MTC-11729,523,chennai,0
+MTC-19178,159K CT,chennai,0
+MTC-19179,46G CT1,chennai,0
+MTC-19180,49F CT2,chennai,0
+MTC-17087,78,chennai,0
+MTC-19181,49F CT1,chennai,0
+MTC-17093,78,chennai,0
+MTC-11087,31B,chennai,0
+MTC-10595,27B,chennai,0
+MTC-12494,66A,chennai,0
+MTC-16226,T29C,chennai,0
+MTC-17100,78,chennai,0
+MTC-17104,78,chennai,0
+MTC-17089,78,chennai,0
+MTC-17096,78,chennai,0
+MTC-17105,78,chennai,0
+MTC-15089,29Et,chennai,0
+MTC-10597,27B,chennai,0
+MTC-12724,70E,chennai,0
+MTC-12725,70E,chennai,0
+MTC-19188,S26 CT1,chennai,0
+MTC-19190,19 CT,chennai,0
+MTC-23931,5C CT1,chennai,0
+MTC-23932,102S CT1,chennai,0
+MTC-23933,102S CT3,chennai,0
+MTC-18117,101,chennai,0
+MTC-18116,104,chennai,0
+MTC-23934,102S CT2,chennai,0
+MTC-12726,70E,chennai,0
+MTC-11172,29C,chennai,0
+MTC-19191,C56CEt CT,chennai,0
+MTC-18120,164 CT,chennai,0
+MTC-23935,553W,chennai,0
+MTC-23936,553W,chennai,0
+MTC-18129,57A,chennai,0
+MTC-18130,51X CT,chennai,0
+MTC-12788,77A,chennai,0
+MTC-11093,31M,chennai,0
+MTC-6810,51A,chennai,0
+MTC-23937,78,chennai,0
+MTC-19202,525 R1,chennai,0
+MTC-17051,89,chennai,0
+MTC-17060,89,chennai,0
+MTC-17056,89,chennai,0
+MTC-23938,78,chennai,0
+MTC-12537,65CCt,chennai,0
+MTC-12796,77Ct,chennai,0
+MTC-12798,77Ct,chennai,0
+MTC-23939,F70,chennai,0
+MTC-10602,27B,chennai,0
+MTC-17052,89,chennai,0
+MTC-17053,89,chennai,0
+MTC-17058,89,chennai,0
+MTC-19204,525 CT,chennai,0
+MTC-23940,F70,chennai,0
+MTC-19205,525 CT2,chennai,0
+MTC-23941,S18K,chennai,0
+MTC-18141,101,chennai,0
+MTC-16678,114,chennai,0
+MTC-11467,48BX,chennai,0
+MTC-11468,48BX,chennai,0
+MTC-16686,114,chennai,0
+MTC-19206,525 R2,chennai,0
+MTC-12159,580,chennai,0
+MTC-19207,18A CT,chennai,0
+MTC-19209,18A CT,chennai,0
+MTC-16684,114,chennai,0
+MTC-23942,S20,chennai,0
+MTC-19223,S26 CT,chennai,0
+MTC-19224,S43 CT,chennai,0
+MTC-23943,S26,chennai,0
+MTC-18147,153,chennai,0
+MTC-18157,20P,chennai,0
+MTC-18158,20P,chennai,0
+MTC-11469,48BX,chennai,0
+MTC-19232,578P,chennai,0
+MTC-19233,4 CT,chennai,0
+MTC-19234,55K CT1,chennai,0
+MTC-19235,570 CT,chennai,0
+MTC-19242,64K CT1,chennai,0
+MTC-19240,11M CT1,chennai,0
+MTC-19241,11M CT3,chennai,0
+MTC-19243,102X CT1,chennai,0
+MTC-10605,27D,chennai,0
+MTC-23950,S80 R1,chennai,0
+MTC-9320,40N,chennai,0
+MTC-19244,19 CT5,chennai,0
+MTC-12508,62Ct,chennai,0
+MTC-12507,65K,chennai,0
+MTC-17438,159,chennai,0
+MTC-23951,S80 R3,chennai,0
+MTC-19246,55K CT1,chennai,0
+MTC-10938,121C,chennai,0
+MTC-19247,55K CT3,chennai,0
+MTC-19248,55N,chennai,0
+MTC-19250,570 CT,chennai,0
+MTC-11356,40L,chennai,0
+MTC-19251,95XCt CT,chennai,0
+MTC-23952,S80 CT2,chennai,0
+MTC-23953,S80 CT,chennai,0
+MTC-11358,40L,chennai,0
+MTC-19253,95X CT2,chennai,0
+MTC-20631,40L CT1,chennai,0
+MTC-18168,266,chennai,0
+MTC-18169,266,chennai,0
+MTC-19258,70V CT1,chennai,0
+MTC-12786,77K,chennai,0
+MTC-19936,25K CT5,chennai,0
+MTC-19260,V51 CT1,chennai,0
+MTC-19937,25K CT4,chennai,0
+MTC-15996,S25,chennai,0
+MTC-19261,109T CT,chennai,0
+MTC-23957,101 CT12,chennai,0
+MTC-10868,12G,chennai,0
+MTC-19262,114 CT1,chennai,0
+MTC-23958,101 CT12,chennai,0
+MTC-17875,170Tx,chennai,0
+MTC-16286,170Tx,chennai,0
+MTC-15802,170Tx,chennai,0
+MTC-12793,77B,chennai,0
+MTC-18176,37,chennai,0
+MTC-19263,114,chennai,0
+MTC-12377,593Ct,chennai,0
+MTC-8032,48B,chennai,0
+MTC-18179,49F,chennai,0
+MTC-18180,49F,chennai,0
+MTC-12381,593Ct,chennai,0
+MTC-17269,66,chennai,0
+MTC-19264,170T,chennai,0
+MTC-20638,A51,chennai,0
+MTC-23959,56P CT6,chennai,0
+MTC-12384,593Ct,chennai,0
+MTC-19265,29E CT,chennai,0
+MTC-12492,66A,chennai,0
+MTC-19266,72 CT4,chennai,0
+MTC-23960,56P CT10,chennai,0
+MTC-19268,114 CT,chennai,0
+MTC-19269,104 CT,chennai,0
+MTC-19270,121D,chennai,0
+MTC-18192,53G,chennai,0
+MTC-12382,593Ct,chennai,0
+MTC-18193,53G,chennai,0
+MTC-18194,53G,chennai,0
+MTC-18195,53G,chennai,0
+MTC-19272,121D CT,chennai,0
+MTC-11915,55K,chennai,0
+MTC-23961,1C CT5,chennai,0
+MTC-19946,25K CT1,chennai,0
+MTC-23962,1C CT3,chennai,0
+MTC-12163,580,chennai,0
+MTC-23963,21G CT,chennai,0
+MTC-19949,25K,chennai,0
+MTC-19950,25K,chennai,0
+MTC-12797,77FCt,chennai,0
+MTC-23965,S35,chennai,0
+MTC-12848,88R,chennai,0
+MTC-9052,154E,chennai,0
+MTC-19951,25K,chennai,0
+MTC-10642,104K,chennai,0
+MTC-19279,V51 CT,chennai,0
+MTC-23967,S35,chennai,0
+MTC-19280,V51 CT1,chennai,0
+MTC-19952,25K,chennai,0
+MTC-19282,11M CT4,chennai,0
+MTC-19283,142 CT,chennai,0
+MTC-19284,57X CT2,chennai,0
+MTC-18212,54K,chennai,0
+MTC-18213,54K,chennai,0
+MTC-23968,S86,chennai,0
+MTC-23969,S86,chennai,0
+MTC-19287,66P CT6,chennai,0
+MTC-23970,S97,chennai,0
+MTC-23971,S97,chennai,0
+MTC-19955,114 CT3,chennai,0
+MTC-19956,114 CUT,chennai,0
+MTC-23973,70C R,chennai,0
+MTC-23974,70C R1,chennai,0
+MTC-10937,114E,chennai,0
+MTC-23975,70C CT14,chennai,0
+MTC-12850,88R,chennai,0
+MTC-23976,70C CT20,chennai,0
+MTC-11284,38D,chennai,0
+MTC-19957,114 CT5,chennai,0
+MTC-23978,MAA2,chennai,0
+MTC-18224,54VCt,chennai,0
+MTC-18225,54VCt,chennai,0
+MTC-19958,114 CT2,chennai,0
+MTC-12803,77P,chennai,0
+MTC-17488,95,chennai,0
+MTC-23980,113A,chennai,0
+MTC-12789,77K,chennai,0
+MTC-12502,62B,chennai,0
+MTC-16562,22,chennai,0
+MTC-19305,104 CT,chennai,0
+MTC-8341,6D,chennai,0
+MTC-8342,6D,chennai,0
+MTC-23981,113A,chennai,0
+MTC-16250,297,chennai,0
+MTC-23982,70CCt R,chennai,0
+MTC-23985,37D R,chennai,0
+MTC-23984,70CCt R1,chennai,0
+MTC-23986,37D R,chennai,0
+MTC-12505,62B,chennai,0
+MTC-10942,121A,chennai,0
+MTC-23990,99C,chennai,0
+MTC-19307,36V,chennai,0
+MTC-23991,99C,chennai,0
+MTC-23992,102X R,chennai,0
+MTC-23993,102X R2,chennai,0
+MTC-12790,77B,chennai,0
+MTC-10780,202,chennai,0
+MTC-23994,555S,chennai,0
+MTC-12791,77K,chennai,0
+MTC-23995,95XCt,chennai,0
+MTC-23996,95XCt R1,chennai,0
+MTC-10730,19D,chennai,0
+MTC-9750,19D,chennai,0
+MTC-9753,19D,chennai,0
+MTC-2935,S19,chennai,0
+MTC-24002,119G R,chennai,0
+MTC-20650,88K CT3,chennai,0
+MTC-19309,114 R1,chennai,0
+MTC-11347,45A,chennai,-1
+MTC-24003,119G R,chennai,0
+MTC-24004,21G ct7,chennai,0
+MTC-10781,202,chennai,0
+MTC-12792,77B,chennai,0
+MTC-24006,570,chennai,0
+MTC-12794,77K,chennai,0
+MTC-24007,570,chennai,0
+MTC-16360,19D,chennai,0
+MTC-10737,19D,chennai,0
+MTC-24008,570 CT2,chennai,0
+MTC-24009,570 CT2,chennai,0
+MTC-24010,570 CT6,chennai,0
+MTC-24011,570 CT1,chennai,0
+MTC-24012,570 CT1,chennai,0
+MTC-24013,99A,chennai,0
+MTC-24014,99A,chennai,0
+MTC-24017,99A CT3,chennai,0
+MTC-19313,V51CT,chennai,0
+MTC-24018,99A CT3,chennai,0
+MTC-10943,121A,chennai,0
+MTC-10879,129C,chennai,0
+MTC-24020,99A CT1,chennai,0
+MTC-20654,88K CT5,chennai,0
+MTC-24021,P570S R1,chennai,0
+MTC-24022,P570S R,chennai,0
+MTC-11382,45B,chennai,0
+MTC-10731,19D,chennai,0
+MTC-24023,99A,chennai,0
+MTC-19318,19A CT,chennai,0
+MTC-19319,95XCt CT2,chennai,0
+MTC-12547,64M,chennai,0
+MTC-11359,40L,chennai,0
+MTC-24024,99A CT2,chennai,0
+MTC-19321,555S,chennai,0
+MTC-11437,47CX,chennai,0
+MTC-19329,578P,chennai,0
+MTC-24025,99 R,chennai,0
+MTC-12805,77P,chennai,0
+MTC-24026,99 R,chennai,0
+MTC-19337,4 CT1,chennai,0
+MTC-19338,23V CT,chennai,0
+MTC-19340,170T,chennai,0
+MTC-19341,170T,chennai,0
+MTC-19342,55N,chennai,0
+MTC-19343,24AX,chennai,0
+MTC-10784,202X,chennai,0
+MTC-11807,555G,chennai,0
+MTC-24027,99 CT1,chennai,0
+MTC-19345,36V,chennai,0
+MTC-10944,121A,chennai,0
+MTC-10945,121A,chennai,0
+MTC-24028,99 CT2,chennai,0
+MTC-19348,19 CT5,chennai,0
+MTC-11809,555G,chennai,0
+MTC-19352,66 CT5,chennai,0
+MTC-19353,66 CT6,chennai,0
+MTC-24029,99 CT,chennai,0
+MTC-19356,597CEt CT3,chennai,0
+MTC-24030,99 CT,chennai,0
+MTC-24031,MAA1 CT3,chennai,0
+MTC-24032,MAA1 CT2,chennai,0
+MTC-9312,27B,chennai,0
+MTC-15753,170C,chennai,0
+MTC-11483,48A,chennai,0
+MTC-11486,48A,chennai,0
+MTC-11487,48A,chennai,0
+MTC-16267,70V,chennai,0
+MTC-15757,170C,chennai,0
+MTC-24033,MAA1 R,chennai,0
+MTC-12795,77B,chennai,0
+MTC-10946,121A,chennai,0
+MTC-19357,597CEt CT1,chennai,0
+MTC-11088,28B,chennai,0
+MTC-24034,MAA1 R,chennai,0
+MTC-24035,MAA2 CT,chennai,0
+MTC-11245,37Ct,chennai,0
+MTC-24036,MAA2 CT,chennai,0
+MTC-11175,31P,chennai,0
+MTC-16990,95,chennai,0
+MTC-11360,40N,chennai,0
+MTC-11351,45A,chennai,0
+MTC-12548,64M,chennai,0
+MTC-24037,MAA2 R,chennai,0
+MTC-12527,65H,chennai,0
+MTC-11086,28B,chennai,0
+MTC-16994,95,chennai,0
+MTC-24038,MAA2 R1,chennai,0
+MTC-19361,597CEt CT4,chennai,0
+MTC-24039,MAA2 CT1,chennai,0
+MTC-24040,MAA2 CT1,chennai,0
+MTC-10948,121A,chennai,0
+MTC-22661,101X CT13,chennai,0
+MTC-11176,31P,chennai,0
+MTC-10885,121MEt,chennai,0
+MTC-11089,28B,chennai,0
+MTC-17904,12B,chennai,0
+MTC-12530,65G,chennai,0
+MTC-11147,29D,chennai,0
+MTC-19363,597CEt CT5,chennai,0
+MTC-11090,31G,chennai,0
+MTC-24041,95X R1,chennai,0
+MTC-11247,37Ct,chennai,0
+MTC-16998,95,chennai,0
+MTC-11341,40H,chennai,0
+MTC-24042,95X R,chennai,0
+MTC-24043,95X CT3,chennai,0
+MTC-19364,597CEt,chennai,0
+MTC-7307,48K,chennai,0
+MTC-24044,95X CT2,chennai,0
+MTC-11091,31G,chennai,0
+MTC-24045,95X CT3,chennai,0
+MTC-15798,66PX,chennai,0
+MTC-24046,95X CT,chennai,0
+MTC-24047,102E,chennai,0
+MTC-19368,72 CT3,chennai,0
+MTC-19369,29E CT,chennai,0
+MTC-11453,48P,chennai,0
+MTC-12517,62M,chennai,0
+MTC-24048,102E,chennai,0
+MTC-12513,62M,chennai,0
+MTC-12514,62M,chennai,0
+MTC-24049,102E CT2,chennai,0
+MTC-19373,19 CT7,chennai,0
+MTC-11150,29D,chennai,0
+MTC-19374,19A CT,chennai,0
+MTC-11027,114S,chennai,0
+MTC-11454,48P,chennai,0
+MTC-19375,V51 CT2,chennai,0
+MTC-18252,99X,chennai,0
+MTC-24050,102E CT1,chennai,0
+MTC-10951,114E,chennai,0
+MTC-24051,19 R,chennai,0
+MTC-24052,19,chennai,0
+MTC-19377,19AX,chennai,0
+MTC-24053,19 CT,chennai,0
+MTC-12536,65CCt,chennai,0
+MTC-19380,19BEt CT,chennai,0
+MTC-19381,3 CT,chennai,0
+MTC-19383,19 CT2,chennai,0
+MTC-19384,72 CT6,chennai,0
+MTC-24054,19 CT6,chennai,0
+MTC-19388,38D CT,chennai,0
+MTC-11275,38C,chennai,0
+MTC-19385,72 CT7,chennai,0
+MTC-20671,2A R,chennai,0
+MTC-19391,36M CT,chennai,0
+MTC-19392,114 CT,chennai,0
+MTC-19394,55K CT4,chennai,0
+MTC-18269,588,chennai,0
+MTC-24055,19 CT1,chennai,0
+MTC-18268,S3X,chennai,0
+MTC-18270,104G,chennai,0
+MTC-10890,114C,chennai,0
+MTC-11094,31M,chennai,0
+MTC-19395,55K CT5,chennai,0
+MTC-10889,121MEt,chennai,0
+MTC-11482,48AEt,chennai,0
+MTC-19396,S43 CT,chennai,0
+MTC-24056,19 CT1,chennai,0
+MTC-24057,555S CT,chennai,0
+MTC-19397,3 CT4,chennai,0
+MTC-19398,36M CT,chennai,0
+MTC-11121,29AEt,chennai,0
+MTC-15106,29B,chennai,0
+MTC-20672,2A R1,chennai,0
+MTC-19402,MAA1,chennai,0
+MTC-10668,104M,chennai,0
+MTC-10996,120A,chennai,0
+MTC-12801,77Ct,chennai,0
+MTC-11030,114S,chennai,0
+MTC-13171,M27,chennai,0
+MTC-13172,M27,chennai,0
+MTC-11031,114S,chennai,0
+MTC-19404,S79,chennai,0
+MTC-10670,104M,chennai,0
+MTC-10892,114C,chennai,0
+MTC-11276,38C,chennai,0
+MTC-24058,555S CT,chennai,0
+MTC-19409,70M CT,chennai,0
+MTC-19412,47A,chennai,0
+MTC-16257,77T,chennai,0
+MTC-24059,555S CT7,chennai,0
+MTC-11406,46G,chennai,0
+MTC-11252,37ECt,chennai,0
+MTC-10672,104M,chennai,0
+MTC-11154,29CEX,chennai,0
+MTC-12668,70C,chennai,0
+MTC-16046,46G,chennai,0
+MTC-24060,555S CT6,chennai,0
+MTC-11277,38C,chennai,0
+MTC-19431,37 CT4,chennai,0
+MTC-19984,51 CT14,chennai,0
+MTC-12804,77E,chennai,0
+MTC-12852,88R,chennai,0
+MTC-24061,102P R4,chennai,0
+MTC-12552,64KEt,chennai,0
+MTC-19442,V51 CT2,chennai,0
+MTC-12354,58V,chennai,0
+MTC-24062,102P R2,chennai,0
+MTC-22454,S11 CT4,chennai,0
+MTC-11530,500W,chennai,0
+MTC-11533,500W,chennai,0
+MTC-24063,119G CT2,chennai,0
+MTC-10674,104M,chennai,0
+MTC-24064,119G CT4,chennai,0
+MTC-19451,C56CEt CT,chennai,0
+MTC-19452,4 CT6,chennai,0
+MTC-11355,40L,chennai,0
+MTC-11345,40H,chennai,0
+MTC-11157,29CEt,chennai,0
+MTC-19455,3 CT7,chennai,0
+MTC-11143,29B,chennai,0
+MTC-19454,66PX,chennai,0
+MTC-24065,3,chennai,0
+MTC-19460,66P ct2,chennai,0
+MTC-11151,29B,chennai,0
+MTC-19461,70C CT2,chennai,0
+MTC-17836,29B,chennai,0
+MTC-10899,114C,chennai,0
+MTC-17856,29B,chennai,0
+MTC-19462,2B,chennai,0
+MTC-19463,C33,chennai,0
+MTC-10962,114E,chennai,0
+MTC-10678,104P,chennai,0
+MTC-11158,29B,chennai,0
+MTC-24066,3,chennai,0
+MTC-11085,31B,chennai,0
+MTC-11129,29AEt,chennai,0
+MTC-10902,114CCt,chennai,0
+MTC-19467,121M CT,chennai,0
+MTC-11102,29A,chennai,0
+MTC-9560,19T,chennai,0
+MTC-19469,66PX,chennai,0
+MTC-12324,583A,chennai,0
+MTC-19468,55K CT2,chennai,0
+MTC-24067,3 CT,chennai,0
+MTC-24068,3 CT3,chennai,0
+MTC-24069,3 CT1,chennai,0
+MTC-10903,121M,chennai,0
+MTC-24070,3 CT2,chennai,0
+MTC-19471,MAA2 CT3,chennai,0
+MTC-9634,104K,chennai,0
+MTC-10681,104T,chennai,0
+MTC-20685,A1 R,chennai,0
+MTC-10904,121M,chennai,0
+MTC-11133,29AEX,chennai,0
+MTC-11679,51B,chennai,0
+MTC-19474,V51,chennai,0
+MTC-24072,91,chennai,0
+MTC-19475,70V CT2,chennai,0
+MTC-10907,114CCt,chennai,0
+MTC-18292,51B,chennai,0
+MTC-10905,121M,chennai,0
+MTC-17833,120A,chennai,0
+MTC-19476,37E,chennai,0
+MTC-11011,114G,chennai,0
+MTC-24073,91 R,chennai,0
+MTC-19480,4 CT7,chennai,0
+MTC-9666,S27,chennai,0
+MTC-24074,91 CT3,chennai,0
+MTC-18293,120A,chennai,0
+MTC-12722,73C,chennai,0
+MTC-17835,119,chennai,0
+MTC-12808,77P,chennai,0
+MTC-24075,91 CT5,chennai,0
+MTC-19483,70C CT3,chennai,0
+MTC-19485,70C CT4,chennai,0
+MTC-19487,37E,chennai,0
+MTC-19489,33L CT,chennai,0
+MTC-16662,118,chennai,0
+MTC-19490,70M CT,chennai,0
+MTC-12723,73C,chennai,0
+MTC-10694,105A,chennai,0
+MTC-11013,114G,chennai,0
+MTC-9455,77E,chennai,0
+MTC-9456,77E,chennai,0
+MTC-19491,114P CT,chennai,0
+MTC-24077,91 CT2,chennai,0
+MTC-16660,118,chennai,0
+MTC-11014,114G,chennai,0
+MTC-10915,114CCt,chennai,0
+MTC-11534,505,chennai,0
+MTC-11535,505,chennai,0
+MTC-11537,505,chennai,0
+MTC-24078,91 CT1,chennai,0
+MTC-19494,170C CT,chennai,0
+MTC-19496,70A CT,chennai,0
+MTC-12727,73Ct,chennai,0
+MTC-19497,121A CT,chennai,0
+MTC-10696,19B,chennai,0
+MTC-12811,77P,chennai,0
+MTC-24079,102,chennai,0
+MTC-19498,121C,chennai,0
+MTC-11015,114G,chennai,0
+MTC-9981,40H,chennai,0
+MTC-9982,40H,chennai,0
+MTC-11538,505,chennai,0
+MTC-19499,121D CT1,chennai,0
+MTC-19500,46G CT,chennai,0
+MTC-10697,19B,chennai,0
+MTC-11540,505,chennai,0
+MTC-11543,505,chennai,0
+MTC-22456,7M CT2,chennai,0
+MTC-22457,S11 CT2,chennai,0
+MTC-10084,12X,chennai,0
+MTC-10090,12X,chennai,0
+MTC-12729,70E,chennai,0
+MTC-24080,102 R,chennai,0
+MTC-24081,102 CT10,chennai,0
+MTC-17131,62,chennai,0
+MTC-10956,114E,chennai,0
+MTC-10138,142B,chennai,0
+MTC-10152,147B,chennai,0
+MTC-10701,105A,chennai,0
+MTC-10894,114C,chennai,0
+MTC-10895,121M,chennai,0
+MTC-10160,147C,chennai,0
+MTC-24082,102 CT14,chennai,0
+MTC-24083,102 CT8,chennai,0
+MTC-10898,121M,chennai,0
+MTC-19509,MAA2 CT3,chennai,0
+MTC-11254,37ECt,chennai,0
+MTC-10917,114CCt,chennai,0
+MTC-18298,515M,chennai,0
+MTC-24084,102 CT13,chennai,0
+MTC-10248,102A,chennai,0
+MTC-19513,142 CT,chennai,0
+MTC-12554,64KEt,chennai,0
+MTC-19515,33L CT,chennai,0
+MTC-19987,51 CT7,chennai,0
+MTC-24087,104P,chennai,0
+MTC-19519,S79,chennai,0
+MTC-19521,555S CT1,chennai,0
+MTC-24089,29CEX,chennai,0
+MTC-19526,66P ct,chennai,0
+MTC-19528,578PCt,chennai,0
+MTC-10919,114CCt,chennai,0
+MTC-24090,29Et CT1,chennai,0
+MTC-10416,166K,chennai,0
+MTC-18303,65G,chennai,0
+MTC-19532,47T,chennai,0
+MTC-13925,51AX,chennai,0
+MTC-24091,29Et,chennai,0
+MTC-12718,72M,chennai,0
+MTC-10467,170K,chennai,0
+MTC-11544,505,chennai,0
+MTC-11545,505,chennai,0
+MTC-12630,70A,chennai,0
+MTC-16734,46,chennai,0
+MTC-16736,46,chennai,0
+MTC-16737,46,chennai,0
+MTC-10683,104T,chennai,0
+MTC-19547,C64 CT,chennai,0
+MTC-24092,170K,chennai,0
+MTC-11082,31A,chennai,0
+MTC-19551,54T CT,chennai,0
+MTC-11016,114G,chennai,0
+MTC-19552,38C CT1,chennai,0
+MTC-19553,47T,chennai,0
+MTC-12854,88R,chennai,0
+MTC-12730,73Ct,chennai,0
+MTC-16739,46,chennai,0
+MTC-16742,46,chennai,0
+MTC-19559,66PX,chennai,0
+MTC-19557,54T CT1,chennai,0
+MTC-19558,66 CT,chennai,0
+MTC-19560,24AX CT6,chennai,0
+MTC-12731,70F,chennai,0
+MTC-24093,170C,chennai,0
+MTC-11547,505,chennai,0
+MTC-19561,65B CT,chennai,0
+MTC-19563,597CEt CT2,chennai,0
+MTC-12807,77E,chennai,0
+MTC-24094,66P CT21,chennai,0
+MTC-15930,58V,chennai,0
+MTC-12928,91A,chennai,0
+MTC-17914,170CE,chennai,0
+MTC-12732,70F,chennai,0
+MTC-11414,47A,chennai,0
+MTC-19568,99C,chennai,0
+MTC-19570,592V CT4,chennai,0
+MTC-19571,101 CT1,chennai,0
+MTC-12816,77T,chennai,0
+MTC-17996,M51VC,chennai,0
+MTC-18305,M51VC,chennai,0
+MTC-19996,23C,chennai,0
+MTC-14855,580,chennai,0
+MTC-12930,91A,chennai,0
+MTC-19573,70V CT1,chennai,0
+MTC-19574,54L CT5,chennai,0
+MTC-11430,47C,chennai,0
+MTC-24095,170C CT1,chennai,0
+MTC-11431,47C,chennai,0
+MTC-20711,17E CT,chennai,0
+MTC-11012,114G,chennai,0
+MTC-19580,54T CT,chennai,0
+MTC-12809,77P,chennai,0
+MTC-19581,53E CT1,chennai,0
+MTC-24096,66P R,chennai,0
+MTC-11434,47C,chennai,0
+MTC-16743,46,chennai,0
+MTC-24097,66P R1,chennai,0
+MTC-19582,51C,chennai,0
+MTC-11436,47CX,chennai,0
+MTC-24098,66P CT22,chennai,0
+MTC-24099,170C CT1,chennai,0
+MTC-19583,597C,chennai,0
+MTC-12042,55C,chennai,0
+MTC-24100,142,chennai,0
+MTC-24101,29NEt CT,chennai,0
+MTC-11451,48P,chennai,0
+MTC-11452,48P,chennai,0
+MTC-12606,70T,chennai,0
+MTC-24102,42M R1,chennai,0
+MTC-24103,42M CT,chennai,0
+MTC-19585,49F CT,chennai,0
+MTC-24104,29CEX,chennai,0
+MTC-11456,48K,chennai,0
+MTC-11457,48K,chennai,0
+MTC-11458,48K,chennai,0
+MTC-11459,48K,chennai,0
+MTC-11460,48K,chennai,0
+MTC-19588,578Et CT,chennai,0
+MTC-19589,583A CT,chennai,0
+MTC-20715,17E,chennai,0
+MTC-19586,54C,chennai,0
+MTC-10916,114CCt,chennai,0
+MTC-12043,55C,chennai,0
+MTC-19591,62M CT,chennai,0
+MTC-18309,580,chennai,0
+MTC-12044,55C,chennai,0
+MTC-24105,29NEt,chennai,0
+MTC-19590,597A CT,chennai,0
+MTC-19592,65A CT2,chennai,0
+MTC-19593,66P CT3,chennai,0
+MTC-19597,51C,chennai,0
+MTC-11470,48BX,chennai,0
+MTC-17912,580,chennai,0
+MTC-24106,70T,chennai,0
+MTC-11479,48AEt,chennai,0
+MTC-19600,72 CT1,chennai,0
+MTC-19601,72M CT,chennai,0
+MTC-24107,29Et,chennai,0
+MTC-24108,29AEX,chennai,0
+MTC-24109,104T,chennai,0
+MTC-19602,51C,chennai,0
+MTC-10698,19B,chennai,0
+MTC-24110,37B,chennai,0
+MTC-19603,57 CT,chennai,0
+MTC-18311,S55,chennai,0
+MTC-11596,514Et,chennai,0
+MTC-11597,514Et,chennai,0
+MTC-11598,514Et,chennai,0
+MTC-19604,37 CT5,chennai,0
+MTC-24111,142B,chennai,0
+MTC-10083,12X,chennai,0
+MTC-20004,572K CT,chennai,0
+MTC-19607,154,chennai,0
+MTC-11515,500E,chennai,0
+MTC-11423,49K,chennai,0
+MTC-11517,500E,chennai,0
+MTC-11428,49K,chennai,0
+MTC-14868,49K,chennai,0
+MTC-19608,49A CT,chennai,0
+MTC-19609,597 CT1,chennai,0
+MTC-24112,142 CT1,chennai,0
+MTC-19615,62 CT2,chennai,0
+MTC-19614,54K CT,chennai,0
+MTC-24113,142P,chennai,0
+MTC-24114,42B CT4,chennai,0
+MTC-11528,500R,chennai,0
+MTC-11529,500R,chennai,0
+MTC-24115,42B CT6,chennai,0
+MTC-24116,242 CT12,chennai,0
+MTC-19619,62 CT,chennai,0
+MTC-18317,101,chennai,0
+MTC-18316,101,chennai,0
+MTC-24117,42C CT3,chennai,0
+MTC-12734,70F,chennai,0
+MTC-12582,70H,chennai,0
+MTC-10145,147A,chennai,0
+MTC-11541,505,chennai,0
+MTC-20719,A1 R1,chennai,0
+MTC-19621,70V CT3,chennai,0
+MTC-19623,54P CT,chennai,0
+MTC-16691,114,chennai,0
+MTC-24118,42C R1,chennai,0
+MTC-24119,42D,chennai,0
+MTC-11630,515M,chennai,0
+MTC-11631,515M,chennai,0
+MTC-16687,114,chennai,0
+MTC-10702,105A,chennai,0
+MTC-11584,512,chennai,0
+MTC-24120,142B CT1,chennai,0
+MTC-24121,42D,chennai,0
+MTC-11638,517K,chennai,0
+MTC-18322,57A,chennai,0
+MTC-16693,114,chennai,0
+MTC-19626,54L CT,chennai,0
+MTC-19627,583A CT,chennai,0
+MTC-19628,597A CT,chennai,0
+MTC-19630,101 CT6,chennai,0
+MTC-24122,142 CT3,chennai,0
+MTC-19633,54K CT6,chennai,0
+MTC-11883,557,chennai,0
+MTC-19631,54,chennai,0
+MTC-19634,62 CT3,chennai,0
+MTC-19635,597C,chennai,0
+MTC-19638,109T CT4,chennai,0
+MTC-11680,51B,chennai,0
+MTC-19641,54T CT4,chennai,0
+MTC-24123,142 R1,chennai,0
+MTC-19644,51A CT5,chennai,0
+MTC-19645,3 ct4,chennai,0
+MTC-16765,111,chennai,0
+MTC-19646,54S CT,chennai,0
+MTC-20013,552K CT2,chennai,0
+MTC-19647,49A CT,chennai,0
+MTC-11615,515A,chennai,0
+MTC-11618,515A,chennai,0
+MTC-18326,51X CT,chennai,0
+MTC-10349,159E,chennai,0
+MTC-24124,42B R1,chennai,0
+MTC-10350,159E,chennai,0
+MTC-18327,101,chennai,0
+MTC-16767,111,chennai,0
+MTC-24125,242 R1,chennai,0
+MTC-11616,51A,chennai,0
+MTC-11617,51A,chennai,0
+MTC-19648,597 CT2,chennai,0
+MTC-19650,54P CT1,chennai,0
+MTC-17927,580,chennai,0
+MTC-11620,515A,chennai,0
+MTC-17928,580,chennai,0
+MTC-11627,515K,chennai,0
+MTC-19654,72M CT4,chennai,0
+MTC-17929,512,chennai,0
+MTC-17930,514Et CT,chennai,0
+MTC-19655,72 CT2,chennai,0
+MTC-19656,50M CT,chennai,0
+MTC-24126,164 CT1,chennai,0
+MTC-19658,66P CT3,chennai,0
+MTC-19665,66 CT3,chennai,0
+MTC-12817,77T,chennai,0
+MTC-19659,65B CT1,chennai,0
+MTC-20016,552K CT3,chennai,0
+MTC-19661,549 CT1,chennai,0
+MTC-19660,54C,chennai,0
+MTC-19664,65B,chennai,0
+MTC-10705,105A,chennai,0
+MTC-19668,591 CT3,chennai,0
+MTC-19670,54S CT1,chennai,0
+MTC-19671,597CEt CT2,chennai,0
+MTC-19663,66PX,chennai,0
+MTC-11665,51AX,chennai,0
+MTC-11674,51B,chennai,0
+MTC-24127,170C R,chennai,0
+MTC-19677,57F CT3,chennai,0
+MTC-19678,142 CT1,chennai,0
+MTC-19682,53G CT2,chennai,0
+MTC-12586,70J,chennai,0
+MTC-11657,51A,chennai,0
+MTC-19683,109T CT2,chennai,0
+MTC-19674,578M,chennai,0
+MTC-24128,597T R,chennai,0
+MTC-17953,101,chennai,0
+MTC-19685,66M,chennai,0
+MTC-19686,28B CT4,chennai,0
+MTC-17948,523,chennai,0
+MTC-17952,523,chennai,0
+MTC-10482,17E,chennai,0
+MTC-17951,523A,chennai,0
+MTC-17949,70F,chennai,0
+MTC-17950,77V,chennai,0
+MTC-19687,53P CT1,chennai,0
+MTC-19688,51A CT1,chennai,0
+MTC-11886,557,chennai,0
+MTC-11888,557,chennai,0
+MTC-12587,70J,chennai,0
+MTC-24129,597T R1,chennai,0
+MTC-19689,54S CT,chennai,0
+MTC-12588,70K,chennai,0
+MTC-12589,70K,chennai,0
+MTC-19690,62 CT1,chennai,0
+MTC-19693,S55W,chennai,0
+MTC-24130,597T CT,chennai,0
+MTC-10355,159K,chennai,0
+MTC-19695,51C,chennai,0
+MTC-11384,45B,chennai,0
+MTC-11391,45BEt,chennai,0
+MTC-12591,70K,chennai,0
+MTC-13028,A1,chennai,0
+MTC-19699,18A CT4,chennai,0
+MTC-19700,70V CT5,chennai,0
+MTC-17981,99A CT,chennai,0
+MTC-24131,597T CT1,chennai,0
+MTC-17995,M70 CT,chennai,0
+MTC-14871,49K,chennai,0
+MTC-11405,46Et,chennai,0
+MTC-17998,S1 CT1,chennai,0
+MTC-17999,S18D CT,chennai,0
+MTC-11621,515B,chennai,0
+MTC-19991,23C,chennai,0
+MTC-19993,23C,chennai,0
+MTC-11622,515B,chennai,0
+MTC-23731,51 R,chennai,0
+MTC-18005,S30K,chennai,0
+MTC-19705,515,chennai,0
+MTC-18000,S18D CT,chennai,0
+MTC-18001,S30Ct,chennai,0
+MTC-18002,S30K,chennai,0
+MTC-18003,S30K,chennai,0
+MTC-18004,S30K,chennai,0
+MTC-11426,49K,chennai,0
+MTC-18007,S35,chennai,0
+MTC-24132,55X CT2,chennai,0
+MTC-12594,70LCt,chennai,0
+MTC-12595,70LCt,chennai,0
+MTC-17983,583A,chennai,0
+MTC-18010,54B CT1,chennai,0
+MTC-24133,55X CT1,chennai,0
+MTC-18008,54B CT,chennai,0
+MTC-18009,54B CT,chennai,0
+MTC-18011,S55W,chennai,0
+MTC-18013,54B CT1,chennai,0
+MTC-18014,121M CT,chennai,0
+MTC-19710,583 CT,chennai,0
+MTC-19711,66P CT7,chennai,0
+MTC-12822,77V,chennai,0
+MTC-17975,63,chennai,0
+MTC-11831,555P,chennai,0
+MTC-11832,555P,chennai,0
+MTC-11833,555P,chennai,0
+MTC-11834,555P,chennai,0
+MTC-11484,48A,chennai,0
+MTC-19714,578Et CT1,chennai,0
+MTC-15116,21G,chennai,0
+MTC-18330,101,chennai,0
+MTC-11864,54VCt,chennai,0
+MTC-17976,95X,chennai,0
+MTC-19719,591 CT2,chennai,0
+MTC-19716,62M CT1,chennai,0
+MTC-19717,S59 CT1,chennai,0
+MTC-19718,66,chennai,0
+MTC-19721,65B,chennai,0
+MTC-19722,154B CT,chennai,0
+MTC-19723,154B,chennai,0
+MTC-11942,566B,chennai,0
+MTC-19725,MAA1,chennai,0
+MTC-11946,566B,chennai,0
+MTC-11947,566B,chennai,0
+MTC-11925,55X,chennai,0
+MTC-11542,505,chennai,0
+MTC-11927,55X,chennai,0
+MTC-11910,55G,chennai,0
+MTC-11911,55G,chennai,0
+MTC-12596,70M,chennai,0
+MTC-11664,51D,chennai,0
+MTC-19724,53G CT3,chennai,0
+MTC-19727,38C CT2,chennai,0
+MTC-18020,153,chennai,0
+MTC-19732,V51 CT3,chennai,0
+MTC-11948,557M,chennai,0
+MTC-11950,557M,chennai,0
+MTC-18019,S74,chennai,0
+MTC-19733,28B CT1,chennai,0
+MTC-17980,99A CT,chennai,0
+MTC-12597,70M,chennai,0
+MTC-12598,70M,chennai,0
+MTC-19736,65A CT2,chennai,0
+MTC-13030,A1,chennai,0
+MTC-19742,S165 CT4,chennai,0
+MTC-19879,47A,chennai,0
+MTC-12920,88C,chennai,0
+MTC-11422,47A,chennai,0
+MTC-18025,1C CT,chennai,0
+MTC-18023,S64,chennai,0
+MTC-11663,51D,chennai,0
+MTC-11641,51T,chennai,0
+MTC-11642,51T,chennai,0
+MTC-11643,51T,chennai,0
+MTC-11645,51T,chennai,0
+MTC-11687,51X,chennai,0
+MTC-12599,70M,chennai,0
+MTC-12989,A51,chennai,0
+MTC-16249,T23C,chennai,0
+MTC-12600,70M,chennai,0
+MTC-11005,114Et,chennai,0
+MTC-11006,114Et,chennai,0
+MTC-10968,114Et,chennai,0
+MTC-11007,114Et,chennai,0
+MTC-17040,91,chennai,0
+MTC-12590,70K,chennai,0
+MTC-12601,70M,chennai,0
+MTC-18034,157 CT,chennai,0
+MTC-12866,89A,chennai,0
+MTC-16259,505K,chennai,0
+MTC-12740,70F,chennai,0
+MTC-12825,77V,chennai,0
+MTC-12826,77V,chennai,0
+MTC-13058,J66,chennai,0
+MTC-12884,89TCt,chennai,0
+MTC-18333,51X CT1,chennai,0
+MTC-10003,505K,chennai,0
+MTC-11548,505K,chennai,0
+MTC-11549,505K,chennai,0
+MTC-10970,114Et,chennai,0
+MTC-11550,505K,chennai,0
+MTC-18336,12B CT,chennai,0
+MTC-11727,523,chennai,0
+MTC-18337,1C CT,chennai,0
+MTC-19749,102P CT12,chennai,0
+MTC-12108,570V,chennai,0
+MTC-11551,505K,chennai,0
+MTC-18339,51X CT1,chennai,0
+MTC-12603,70N,chennai,0
+MTC-12827,77VEt,chennai,0
+MTC-19753,47T,chennai,0
+MTC-12133,57M,chennai,0
+MTC-19756,46G CT1,chennai,0
+MTC-19757,54V CT1,chennai,0
+MTC-19758,54V CT2,chennai,0
+MTC-19759,S59 CT,chennai,0
+MTC-19750,12G,chennai,0
+MTC-19760,578P,chennai,0
+MTC-18342,78 CT,chennai,0
+MTC-12749,70G,chennai,0
+MTC-12605,70N,chennai,0
+MTC-18343,78 CT,chennai,0
+MTC-18341,78 CT,chennai,0
+MTC-12888,8B,chennai,0
+MTC-12140,578A,chennai,0
+MTC-12141,578A,chennai,0
+MTC-11889,557,chennai,0
+MTC-11890,557,chennai,0
+MTC-11892,557,chennai,0
+MTC-12828,77VEt,chennai,0
+MTC-18346,78 CT1,chennai,0
+MTC-18347,78 CT2,chennai,0
+MTC-8134,114D,chennai,0
+MTC-9023,M51VC,chennai,0
+MTC-9025,M51VC,chennai,0
+MTC-9022,M51VC,chennai,0
+MTC-19762,578M,chennai,0
+MTC-12185,57CCt,chennai,0
+MTC-12186,57CCt,chennai,0
+MTC-9929,114D,chennai,0
+MTC-10926,114D,chennai,0
+MTC-19764,S30Ct,chennai,0
+MTC-12166,579C,chennai,0
+MTC-12171,579C,chennai,0
+MTC-18354,70J CT,chennai,0
+MTC-19766,53P CT1,chennai,0
+MTC-12829,77VEt,chennai,0
+MTC-18359,66P ct,chennai,0
+MTC-13060,J66,chennai,0
+MTC-11932,557C,chennai,0
+MTC-11934,557C,chennai,0
+MTC-11936,557C,chennai,0
+MTC-11938,557C,chennai,0
+MTC-18361,66P CT1,chennai,0
+MTC-18364,583K CT,chennai,0
+MTC-12265,54P,chennai,0
+MTC-12753,76B,chennai,0
+MTC-18365,583K CT,chennai,0
+MTC-12266,54P,chennai,0
+MTC-11963,558A,chennai,0
+MTC-12924,88CEt,chennai,0
+MTC-13061,J51,chennai,0
+MTC-13034,99X,chennai,0
+MTC-18372,SM1CT,chennai,0
+MTC-18374,SM1CT,chennai,0
+MTC-12300,5G,chennai,0
+MTC-11822,555N,chennai,0
+MTC-18375,M51DCT,chennai,0
+MTC-11824,555N,chennai,0
+MTC-11826,555N,chennai,0
+MTC-11830,555N,chennai,0
+MTC-19773,S165 CT,chennai,0
+MTC-18385,S13,chennai,0
+MTC-18387,M51DCt,chennai,0
+MTC-11819,555M,chennai,0
+MTC-11813,555M,chennai,0
+MTC-18386,S13,chennai,0
+MTC-11815,555M,chennai,0
+MTC-11817,555M,chennai,0
+MTC-19774,S35,chennai,0
+MTC-13069,D70,chennai,0
+MTC-18393,45A CT,chennai,0
+MTC-18394,51M CT,chennai,0
+MTC-18395,9M CT,chennai,0
+MTC-18396,9M CT,chennai,0
+MTC-18397,S18D CT1,chennai,0
+MTC-18398,S18D,chennai,0
+MTC-13095,D70Ct,chennai,0
+MTC-13097,D70Ct,chennai,0
+MTC-13099,D70Ct,chennai,0
+MTC-13101,D70Ct,chennai,0
+MTC-19775,S90,chennai,0
+MTC-11587,514,chennai,0
+MTC-11588,514,chennai,0
+MTC-11589,514,chennai,0
+MTC-11590,514,chennai,0
+MTC-11594,514,chennai,0
+MTC-11595,514,chennai,0
+MTC-12194,57E,chennai,0
+MTC-12195,57E,chennai,0
+MTC-19777,597CEt CT6,chennai,0
+MTC-13152,M19B,chennai,0
+MTC-15428,46G,chennai,0
+MTC-12162,579A,chennai,0
+MTC-13154,M19B,chennai,0
+MTC-13156,M19B,chennai,0
+MTC-18408,72 CT5,chennai,0
+MTC-18409,55P,chennai,0
+MTC-13194,M51D,chennai,0
+MTC-13196,M51D,chennai,0
+MTC-13176,M27,chennai,0
+MTC-13178,M27,chennai,0
+MTC-13180,M27,chennai,0
+MTC-18412,70C CT1,chennai,0
+MTC-13189,M51,chennai,0
+MTC-17151,62,chennai,0
+MTC-18410,55P,chennai,0
+MTC-18413,70C CT1,chennai,0
+MTC-13183,M88,chennai,0
+MTC-18418,48B,chennai,0
+MTC-9632,12G,chennai,0
+MTC-13237,S15,chennai,0
+MTC-12245,95X,chennai,0
+MTC-13252,S166,chennai,0
+MTC-18429,109A CT,chennai,0
+MTC-14865,M88,chennai,0
+MTC-13256,S166,chennai,0
+MTC-13259,S166,chennai,0
+MTC-18077,121MEt CT,chennai,0
+MTC-13284,S22,chennai,0
+MTC-13285,S22,chennai,0
+MTC-13295,S25,chennai,0
+MTC-13290,s24,chennai,0
+MTC-13309,S19,chennai,0
+MTC-12271,580A,chennai,0
+MTC-12272,580A,chennai,0
+MTC-12274,580A,chennai,0
+MTC-12276,580A,chennai,0
+MTC-15929,57B,chennai,0
+MTC-13330,S30,chennai,0
+MTC-13331,S30,chennai,0
+MTC-13311,S26,chennai,0
+MTC-8728,M88,chennai,0
+MTC-13314,S26,chennai,0
+MTC-12181,57B,chennai,0
+MTC-12182,57B,chennai,0
+MTC-13179,M88,chennai,0
+MTC-12184,57B,chennai,0
+MTC-18431,121G CT,chennai,0
+MTC-16376,SM1Ct,chennai,0
+MTC-13381,S40,chennai,0
+MTC-13382,S40,chennai,0
+MTC-13363,S31,chennai,0
+MTC-13364,S31,chennai,0
+MTC-13374,S36,chennai,0
+MTC-18432,121G CT,chennai,0
+MTC-15832,188K,chennai,0
+MTC-13396,S52,chennai,0
+MTC-13398,S52,chennai,0
+MTC-13384,S40,chennai,0
+MTC-13385,S40,chennai,0
+MTC-18780,27D,chennai,0
+MTC-18782,27D,chennai,0
+MTC-19783,50M CT,chennai,0
+MTC-17146,62,chennai,0
+MTC-19784,49F CT,chennai,0
+MTC-15835,24A,chennai,0
+MTC-13560,37E,chennai,0
+MTC-15833,66K,chennai,0
+MTC-13561,37E,chennai,0
+MTC-15764,505,chennai,0
+MTC-16256,579K,chennai,0
+MTC-12173,579K,chennai,0
+MTC-12175,579K,chennai,0
+MTC-12176,579K,chennai,0
+MTC-15767,558C,chennai,0
+MTC-18082,65A CT,chennai,0
+MTC-18083,65A CT1,chennai,0
+MTC-18079,S15,chennai,0
+MTC-18080,S15,chennai,0
+MTC-18081,65A CT,chennai,0
+MTC-15771,55P,chennai,0
+MTC-16349,54VCt,chennai,0
+MTC-16353,188A,chennai,0
+MTC-16352,188A,chennai,0
+MTC-16350,24AX,chennai,0
+MTC-12122,578,chennai,0
+MTC-12135,578,chennai,0
+MTC-16412,S94,chennai,0
+MTC-16415,S94,chennai,0
+MTC-16414,S94,chennai,0
+MTC-12767,77M,chennai,0
+MTC-15302,12X,chennai,0
+MTC-16356,109C,chennai,0
+MTC-12128,57J,chennai,0
+MTC-16282,99C,chennai,0
+MTC-16348,77M,chennai,0
+MTC-16443,77M,chennai,0
+MTC-12771,77M,chennai,0
+MTC-12772,77M,chennai,0
+MTC-12775,77M,chennai,0
+MTC-12777,77M,chennai,0
+MTC-20801,M51R CT1,chennai,0
+MTC-13234,S15,chennai,0
+MTC-20802,M51R CT,chennai,0
+MTC-16361,514,chennai,0
+MTC-11019,114P,chennai,0
+MTC-11023,114P,chennai,0
+MTC-11024,114P,chennai,0
+MTC-20804,M51R CT2,chennai,0
+MTC-19789,578 CT1,chennai,0
+MTC-15863,104K,chennai,0
+MTC-16363,159K,chennai,0
+MTC-11026,114P,chennai,0
+MTC-14953,76B,chennai,0
+MTC-14954,76B,chennai,0
+MTC-15866,47DCt,chennai,0
+MTC-16331,114P,chennai,0
+MTC-18459,S67 CT,chennai,0
+MTC-18460,S67,chennai,0
+MTC-18461,S67,chennai,0
+MTC-18462,S23,chennai,0
+MTC-20805,M51R CT1,chennai,0
+MTC-19791,578 CT3,chennai,0
+MTC-14956,76B,chennai,0
+MTC-19667,54C,chennai,0
+MTC-18206,54C,chennai,0
+MTC-18207,54C,chennai,0
+MTC-19786,54C,chennai,0
+MTC-19331,578P,chennai,0
+MTC-16537,568B,chennai,0
+MTC-11637,51A,chennai,0
+MTC-17932,51A,chennai,0
+MTC-14974,66K,chennai,0
+MTC-15246,121M,chennai,0
+MTC-18464,55K CT,chennai,0
+MTC-18463,S23,chennai,0
+MTC-18465,55K CT,chennai,0
+MTC-18466,500P,chennai,0
+MTC-15303,41D,chennai,0
+MTC-18467,500P,chennai,0
+MTC-15800,170A,chennai,0
+MTC-19788,47T,chennai,0
+MTC-19550,96,chennai,0
+MTC-19649,154,chennai,0
+MTC-20809,18R CT,chennai,0
+MTC-12584,70J,chennai,0
+MTC-17934,70J,chennai,0
+MTC-11649,51M,chennai,0
+MTC-11653,51M,chennai,0
+MTC-19712,96,chennai,0
+MTC-11565,51A,chennai,0
+MTC-11568,51A,chennai,0
+MTC-12608,70T,chennai,0
+MTC-14460,70T,chennai,0
+MTC-11632,51A,chennai,0
+MTC-17933,51A,chennai,0
+MTC-11640,51A,chennai,0
+MTC-11644,51A,chennai,0
+MTC-11647,51A,chennai,0
+MTC-15872,70J,chennai,0
+MTC-18486,102CT,chennai,0
+MTC-20813,119 CT1,chennai,0
+MTC-15770,55P,chennai,0
+MTC-15772,557M,chennai,0
+MTC-11805,555G,chennai,0
+MTC-938,583,chennai,0
+MTC-14990,583,chennai,0
+MTC-14988,583,chennai,0
+MTC-15778,512,chennai,0
+MTC-15780,558B,chennai,0
+MTC-18487,555G,chennai,0
+MTC-15781,512,chennai,0
+MTC-13687,114D,chennai,0
+MTC-13688,114D,chennai,0
+MTC-18488,570,chennai,0
+MTC-16547,3,chennai,0
+MTC-15782,558A,chennai,0
+MTC-13926,51AX,chennai,0
+MTC-13920,51AX,chennai,0
+MTC-13924,51AX,chennai,0
+MTC-16285,170Tx,chennai,0
+MTC-16389,SC1,chennai,0
+MTC-12493,62A,chennai,0
+MTC-12495,62A,chennai,0
+MTC-12497,62A,chennai,0
+MTC-12499,62A,chennai,0
+MTC-11523,500P,chennai,0
+MTC-11524,500P,chennai,0
+MTC-11526,500P,chennai,0
+MTC-11527,500P,chennai,0
+MTC-16740,46,chennai,0
+MTC-16374,S18D,chennai,0
+MTC-20817,119 CT5,chennai,0
+MTC-15799,66PX,chennai,0
+MTC-15867,47DCt,chennai,0
+MTC-20819,113 CT,chennai,0
+MTC-18489,500P,chennai,0
+MTC-12326,583C,chennai,0
+MTC-12327,583C,chennai,0
+MTC-12328,583C,chennai,0
+MTC-15869,48K,chennai,0
+MTC-18491,D70Ct CT,chennai,0
+MTC-15801,170A,chennai,0
+MTC-12414,597A,chennai,0
+MTC-16304,170Tx,chennai,0
+MTC-20821,113 CT,chennai,0
+MTC-12331,583D,chennai,0
+MTC-12332,583D,chennai,0
+MTC-12041,55C,chennai,0
+MTC-12401,597,chennai,0
+MTC-18507,19 CT2,chennai,0
+MTC-18508,19 CT3,chennai,0
+MTC-18510,19 CT3,chennai,0
+MTC-12397,597,chennai,0
+MTC-16305,29A,chennai,0
+MTC-20837,M1 CT1,chennai,0
+MTC-20035,597A CT2,chennai,0
+MTC-6532,583K,chennai,0
+MTC-6533,583K,chennai,0
+MTC-12333,583K,chennai,0
+MTC-15011,51M,chennai,0
+MTC-12339,583K,chennai,0
+MTC-10913,121G,chennai,0
+MTC-10914,121G,chennai,0
+MTC-12341,583K,chennai,0
+MTC-15877,70A,chennai,0
+MTC-14515,51A,chennai,0
+MTC-14461,70T,chennai,0
+MTC-14455,48C,chennai,0
+MTC-16936,S63,chennai,0
+MTC-20840,M1 CT2,chennai,0
+MTC-15816,45ACt,chennai,0
+MTC-15066,G18,chennai,0
+MTC-20841,M1 CT3,chennai,0
+MTC-12366,592,chennai,0
+MTC-12368,592,chennai,0
+MTC-10219,23V,chennai,0
+MTC-18560,S11 CT,chennai,0
+MTC-10224,23V,chennai,0
+MTC-15085,29NEt,chennai,0
+MTC-15091,29Et,chennai,0
+MTC-10225,23V,chennai,0
+MTC-13109,D70X,chennai,0
+MTC-12365,592,chennai,0
+MTC-12367,592,chennai,0
+MTC-13390,S41,chennai,0
+MTC-14354,S165,chennai,0
+MTC-14356,S165,chennai,0
+MTC-13131,M18G,chennai,0
+MTC-13133,M18G,chennai,0
+MTC-13118,M18C,chennai,-1
+MTC-18577,170C CT3,chennai,0
+MTC-14564,55H,chennai,0
+MTC-18580,51A CT,chennai,0
+MTC-20845,M1 CT2,chennai,0
+MTC-11918,55K,chennai,0
+MTC-15995,588,chennai,0
+MTC-15093,29E,chennai,0
+MTC-15094,29E,chennai,0
+MTC-20083,62 CT14,chennai,0
+MTC-11701,52C,chennai,0
+MTC-12344,588,chennai,0
+MTC-12347,588,chennai,0
+MTC-11702,52C,chennai,0
+MTC-13124,M18C,chennai,-1
+MTC-13127,M18C,chennai,0
+MTC-20081,62 CT13,chennai,0
+MTC-11715,52H,chennai,0
+MTC-13129,M18C,chennai,0
+MTC-20087,62 CT3,chennai,0
+MTC-20088,62,chennai,0
+MTC-11718,52H,chennai,0
+MTC-12851,79V,chennai,0
+MTC-20089,62,chennai,0
+MTC-15064,G18,chennai,0
+MTC-12847,79A,chennai,0
+MTC-16917,101,chennai,0
+MTC-20096,23C CT3,chennai,0
+MTC-12845,79A,chennai,0
+MTC-10147,147A,chennai,0
+MTC-20100,23C CT7,chennai,0
+MTC-20106,23C CT4,chennai,0
+MTC-20107,S43 R,chennai,0
+MTC-12363,591C,chennai,0
+MTC-17242,63,chennai,0
+MTC-20109,S43 R,chennai,0
+MTC-12562,64D,chennai,0
+MTC-5426,60G,chennai,0
+MTC-364,S17,chennai,0
+MTC-13283,S17,chennai,0
+MTC-16752,34,chennai,0
+MTC-16757,47,chennai,0
+MTC-16759,47,chennai,0
+MTC-12360,591,chennai,0
+MTC-16926,101,chennai,0
+MTC-18145,101,chennai,0
+MTC-16881,S64,chennai,0
+MTC-16894,S64,chennai,0
+MTC-20118,91 CT,chennai,0
+MTC-20119,91 CT,chennai,0
+MTC-16901,S64,chennai,0
+MTC-16884,S64,chennai,0
+MTC-16888,S64,chennai,0
+MTC-16655,37,chennai,0
+MTC-16924,S63,chennai,0
+MTC-20870,M1A R,chennai,0
+MTC-16502,S69,chennai,0
+MTC-16500,S69,chennai,0
+MTC-12351,58V,chennai,0
+MTC-12353,58V,chennai,0
+MTC-20871,M1A R,chennai,0
+MTC-16501,S69,chennai,0
+MTC-15128,S3X,chennai,0
+MTC-20126,23C,chennai,0
+MTC-16499,S69,chennai,0
+MTC-16949,101,chennai,0
+MTC-16966,99,chennai,0
+MTC-16969,99,chennai,0
+MTC-16396,S98,chennai,0
+MTC-16395,S98,chennai,0
+MTC-16397,S98,chennai,0
+MTC-20133,M70 CT9,chennai,0
+MTC-16394,S98,chennai,0
+MTC-13697,57A,chennai,0
+MTC-12178,57A,chennai,0
+MTC-12179,57A,chennai,0
+MTC-20149,147C CT9,chennai,0
+MTC-20152,147C CT10,chennai,0
+MTC-16403,S97,chennai,0
+MTC-17088,78,chennai,0
+MTC-17098,78,chennai,0
+MTC-17097,59,chennai,0
+MTC-17122,62,chennai,0
+MTC-20155,147C CT5,chennai,0
+MTC-16400,S97,chennai,0
+MTC-17095,59,chennai,0
+MTC-17092,59,chennai,0
+MTC-15023,37,chennai,0
+MTC-16407,S95,chennai,0
+MTC-16408,S95,chennai,0
+MTC-16409,S95,chennai,0
+MTC-16410,S95,chennai,0
+MTC-20158,147C CT6,chennai,0
+MTC-16671,37,chennai,0
+MTC-16665,37,chennai,0
+MTC-20159,147C CT7,chennai,0
+MTC-16425,S88A,chennai,0
+MTC-16427,S88A,chennai,0
+MTC-16428,S88A,chennai,0
+MTC-18170,37,chennai,0
+MTC-18171,37,chennai,0
+MTC-18175,37,chennai,0
+MTC-16426,S88A,chennai,0
+MTC-11261,37G,chennai,0
+MTC-15324,37G,chennai,0
+MTC-17099,59,chennai,0
+MTC-11055,118P,chennai,0
+MTC-11061,118P,chennai,0
+MTC-2658,118P,chennai,0
+MTC-18226,553K,chennai,0
+MTC-11884,554B,chennai,0
+MTC-11887,554B,chennai,0
+MTC-16577,554B,chennai,0
+MTC-16438,S86,chennai,0
+MTC-16440,S86,chennai,0
+MTC-17211,72,chennai,0
+MTC-17220,72,chennai,0
+MTC-16573,25,chennai,0
+MTC-11856,54V,chennai,0
+MTC-16453,S82,chennai,0
+MTC-16454,S82,chennai,0
+MTC-11858,54V,chennai,0
+MTC-17186,62,chennai,0
+MTC-19657,25,chennai,0
+MTC-20161,25 CT1,chennai,0
+MTC-20162,25 CT2,chennai,0
+MTC-12881,89T,chennai,0
+MTC-12883,89T,chennai,0
+MTC-18148,153,chennai,0
+MTC-17372,157,chennai,0
+MTC-20163,25 R,chennai,0
+MTC-11053,118N,chennai,0
+MTC-20164,25 CT3,chennai,0
+MTC-18582,64K CT,chennai,0
+MTC-17373,157,chennai,0
+MTC-13277,S14M,chennai,0
+MTC-20165,25 CT4,chennai,0
+MTC-20166,25 CT5,chennai,0
+MTC-17236,63,chennai,0
+MTC-8868,500P,chennai,0
+MTC-20167,25 R1,chennai,0
+MTC-18596,66K CT,chennai,0
+MTC-20168,25 CT6,chennai,0
+MTC-18598,66K CT2,chennai,0
+MTC-20169,25 CT7,chennai,0
+MTC-20170,25 CT8,chennai,0
+MTC-18606,91R CT,chennai,0
+MTC-20890,121MEt,chennai,0
+MTC-18607,M18C CT,chennai,0
+MTC-18605,S14M CT,chennai,0
+MTC-18610,12M,chennai,0
+MTC-18612,S30Ct,chennai,0
+MTC-11509,500D,chennai,0
+MTC-11510,500D,chennai,0
+MTC-10577,104F,chennai,0
+MTC-18625,M88 CT1,chennai,0
+MTC-18626,M88 CT2,chennai,0
+MTC-11435,49F,chennai,0
+MTC-11438,49F,chennai,0
+MTC-17525,166,chennai,0
+MTC-17522,111,chennai,0
+MTC-17526,170Tx,chennai,0
+MTC-18627,M88 R,chennai,0
+MTC-18628,M88 R1,chennai,0
+MTC-18631,95X CT1,chennai,0
+MTC-17528,166,chennai,0
+MTC-17532,S25,chennai,0
+MTC-17527,170Tx,chennai,0
+MTC-17540,166,chennai,0
+MTC-17538,121Ct,chennai,0
+MTC-18640,40H CT,chennai,0
+MTC-18641,40H,chennai,0
+MTC-17541,166,chennai,0
+MTC-18645,40N,chennai,0
+MTC-17508,51B,chennai,0
+MTC-17637,114A,chennai,0
+MTC-17543,T29C,chennai,0
+MTC-17544,5G,chennai,0
+MTC-20172,70 R,chennai,0
+MTC-16835,104,chennai,0
+MTC-18682,40H CT,chennai,0
+MTC-18683,40H,chennai,0
+MTC-18684,7M CT,chennai,0
+MTC-18690,147B  CT,chennai,0
+MTC-20176,70 R1,chennai,0
+MTC-18691,147B,chennai,0
+MTC-18692,147C,chennai,0
+MTC-18695,147V CT,chennai,0
+MTC-18696,147V,chennai,0
+MTC-18698,34,chennai,0
+MTC-18699,40A CT,chennai,0
+MTC-18700,40N,chennai,0
+MTC-18703,47DCt,chennai,0
+MTC-20178,70 CT6,chennai,0
+MTC-20179,121M,chennai,0
+MTC-20180,547A,chennai,0
+MTC-17642,S75 CT,chennai,0
+MTC-18714,A47,chennai,0
+MTC-18717,29B,chennai,0
+MTC-18718,6D CT1,chennai,0
+MTC-18726,72M,chennai,0
+MTC-20181,170CE,chennai,0
+MTC-18734,M27,chennai,0
+MTC-18738,29NEt CT,chennai,0
+MTC-18744,27B CT,chennai,0
+MTC-18746,27B CT2,chennai,0
+MTC-18747,27B CT3,chennai,0
+MTC-18748,27B CT,chennai,0
+MTC-16240,T29,chennai,0
+MTC-16239,T29,chennai,0
+MTC-20183,157E,chennai,0
+MTC-20184,121C,chennai,0
+MTC-17650,114D,chennai,0
+MTC-17652,C64,chennai,0
+MTC-17653,62B,chennai,0
+MTC-20534,21G,chennai,0
+MTC-17655,S1 CT,chennai,0
+MTC-20193,154 CT7,chennai,0
+MTC-17657,M88Et,chennai,0
+MTC-20535,21G,chennai,0
+MTC-17659,C64,chennai,0
+MTC-17663,72 CT,chennai,0
+MTC-20203,M70 CT2,chennai,0
+MTC-20205,M70 CT3,chennai,0
+MTC-20207,72 CT9,chennai,0
+MTC-20209,72 CT10,chennai,0
+MTC-20210,70V CT6,chennai,0
+MTC-20211,70V CT7,chennai,0
+MTC-16490,S73,chennai,0
+MTC-16450,S83,chennai,0
+MTC-16449,S83,chennai,0
+MTC-20213,70V CT11,chennai,0
+MTC-20214,70V CT12,chennai,0
+MTC-20216,70V CT13,chennai,0
+MTC-16444,S84,chennai,0
+MTC-20219,583A CT2,chennai,0
+MTC-16446,S84,chennai,0
+MTC-20220,583A CT4,chennai,0
+MTC-20222,159 CT1,chennai,0
+MTC-20224,159 CT3,chennai,0
+MTC-20225,159 R1,chennai,0
+MTC-20226,16K R,chennai,0
+MTC-20227,16K CT1,chennai,0
+MTC-20228,16K R1,chennai,0
+MTC-20229,16K CT2,chennai,0
+MTC-20230,16J R,chennai,0
+MTC-20231,16J R1,chennai,0
+MTC-20233,104G,chennai,0
+MTC-20235,70V CT5,chennai,0
+MTC-16842,S66,chennai,0
+MTC-16845,S66,chennai,0
+MTC-17135,62,chennai,0
+MTC-17140,62,chennai,0
+MTC-14451,48C,chennai,0
+MTC-14453,48C,chennai,0
+MTC-11466,48C,chennai,0
+MTC-20891,1D,chennai,0
+MTC-17163,S59,chennai,0
+MTC-22470,42D CT,chennai,0
+MTC-22471,38G CT,chennai,0
+MTC-17170,S59,chennai,0
+MTC-16495,S70K,chennai,0
+MTC-20252,153A CT1,chennai,0
+MTC-20253,153A CT2,chennai,0
+MTC-20254,153A CT3,chennai,0
+MTC-20255,153A CT4,chennai,0
+MTC-17143,62,chennai,0
+MTC-16496,S70K,chennai,0
+MTC-20257,153A CT6,chennai,0
+MTC-20265,597 CT10,chennai,0
+MTC-20272,70C CT10,chennai,0
+MTC-20266,597 CT11,chennai,0
+MTC-17008,S60,chennai,0
+MTC-17004,S60,chennai,0
+MTC-17021,S60,chennai,0
+MTC-17037,S60,chennai,0
+MTC-20273,70C CT11,chennai,0
+MTC-20274,70C CT12,chennai,0
+MTC-20276,70C CT13,chennai,0
+MTC-20278,70C CT15,chennai,0
+MTC-17249,S58,chennai,0
+MTC-20281,70C CT18,chennai,0
+MTC-20282,70C CT19,chennai,0
+MTC-20285,572K,chennai,0
+MTC-20286,572K CT2,chennai,0
+MTC-20287,572K,chennai,0
+MTC-13403,S53,chennai,0
+MTC-20898,S11 CT1,chennai,0
+MTC-20294,46Et,chennai,0
+MTC-20295,T29C CT,chennai,0
+MTC-13405,S53,chennai,0
+MTC-13431,S55,chennai,0
+MTC-13433,S55,chennai,0
+MTC-17482,S55,chennai,0
+MTC-20296,47A CT2,chennai,0
+MTC-20297,47A R,chennai,0
+MTC-20298,47A CT3,chennai,0
+MTC-20299,47A R1,chennai,0
+MTC-20302,29C CT1,chennai,0
+MTC-20303,29C CT3,chennai,0
+MTC-20304,51 CT21,chennai,0
+MTC-20305,51 CT22,chennai,0
+MTC-20306,51 CT22,chennai,0
+MTC-20308,51 CT27,chennai,0
+MTC-20311,27D,chennai,0
+MTC-20312,12X,chennai,0
+MTC-16153,19,chennai,0
+MTC-20317,101X CT,chennai,0
+MTC-20318,101X CT,chennai,0
+MTC-20319,101X CT1,chennai,0
+MTC-16139,19,chennai,0
+MTC-16143,19,chennai,0
+MTC-16152,19,chennai,0
+MTC-20321,101X CT2,chennai,0
+MTC-20324,101X CT3,chennai,0
+MTC-20325,101X CT4,chennai,0
+MTC-20329,101X CT8,chennai,0
+MTC-20331,147C CT1,chennai,0
+MTC-20332,147C CT3,chennai,0
+MTC-20333,14A,chennai,0
+MTC-20334,14A,chennai,0
+MTC-20335,154 CT4,chennai,0
+MTC-20337,48B CT5,chennai,0
+MTC-20338,49X,chennai,0
+MTC-20339,49X,chennai,0
+MTC-20342,51 CT24,chennai,0
+MTC-20343,51 CT29,chennai,0
+MTC-20344,101 CT11,chennai,0
+MTC-16168,20,chennai,0
+MTC-15095,29E,chennai,0
+MTC-20345,51 CT4,chennai,0
+MTC-20346,101 CT9,chennai,0
+MTC-20347,T23C CT3,chennai,0
+MTC-14565,55H,chennai,0
+MTC-15101,29C,chennai,0
+MTC-14566,55H,chennai,0
+MTC-361,S17,chennai,0
+MTC-20348,51 CT7,chennai,0
+MTC-16166,20,chennai,0
+MTC-20349,T23C CT2,chennai,0
+MTC-14567,55H,chennai,0
+MTC-362,S17,chennai,0
+MTC-363,S17,chennai,0
+MTC-20350,597 CT9,chennai,0
+MTC-10712,19BEt,chennai,0
+MTC-10510,26M,chennai,0
+MTC-11985,558C,chennai,0
+MTC-20352,M51V CT1,chennai,0
+MTC-15888,121Ct,chennai,0
+MTC-20355,M51V CT2,chennai,0
+MTC-12362,591,chennai,0
+MTC-10715,19C,chennai,0
+MTC-10514,188K,chennai,0
+MTC-15891,120A,chennai,0
+MTC-13335,S30Ct,chennai,0
+MTC-12364,591C,chennai,0
+MTC-20357,S75 ct4,chennai,0
+MTC-20915,M1A CT3,chennai,0
+MTC-20917,M1A CT6,chennai,0
+MTC-15100,29CEt,chennai,0
+MTC-20359,555S CT4,chennai,0
+MTC-20360,M70 CT3,chennai,0
+MTC-20361,M70 CT8,chennai,0
+MTC-20919,8B,chennai,0
+MTC-10519,104A,chennai,0
+MTC-20364,S46,chennai,0
+MTC-16313,S22,chennai,0
+MTC-17623,159,chennai,0
+MTC-12765,77M,chennai,0
+MTC-12958,B70Ct,chennai,0
+MTC-12390,60H,chennai,0
+MTC-10999,120A,chennai,0
+MTC-15957,597A,chennai,0
+MTC-16841,104,chennai,0
+MTC-16846,104,chennai,0
+MTC-20939,56D CT,chennai,0
+MTC-15105,29B,chennai,0
+MTC-20375,70 CT5,chennai,0
+MTC-11692,51X,chennai,0
+MTC-11693,51X,chennai,0
+MTC-11694,51X,chennai,0
+MTC-20941,56D CT2,chennai,0
+MTC-20379,70 CT1,chennai,0
+MTC-10154,147B,chennai,0
+MTC-20381,70CCt CT2,chennai,0
+MTC-20943,56D CT5,chennai,0
+MTC-20382,70CCt CT1,chennai,0
+MTC-12806,77P,chennai,0
+MTC-20384,555S CT9,chennai,0
+MTC-20385,70C CT17,chennai,0
+MTC-20944,56D CT6,chennai,0
+MTC-20389,597 CT6,chennai,0
+MTC-20391,70C CT16,chennai,0
+MTC-20394,70 CT2,chennai,0
+MTC-20395,M70 CT7,chennai,0
+MTC-13361,S50,chennai,0
+MTC-16378,SM1Ct,chennai,0
+MTC-16211,V51,chennai,0
+MTC-16212,V51,chennai,0
+MTC-20945,56D CT7,chennai,0
+MTC-20405,23C CT9,chennai,0
+MTC-20407,23C CT5,chennai,0
+MTC-20403,23C CT9,chennai,0
+MTC-20408,154 CT3,chennai,0
+MTC-20409,154 CT6,chennai,0
+MTC-20406,23C CT1,chennai,0
+MTC-20412,S75 CT6,chennai,0
+MTC-20413,S75 ct5,chennai,0
+MTC-20417,S46,chennai,0
+MTC-16221,T29C,chennai,0
+MTC-20416,S46,chennai,0
+MTC-16230,T29C,chennai,0
+MTC-20422,24AX CT,chennai,0
+MTC-20424,35 CT6,chennai,0
+MTC-20427,51B CT1,chennai,0
+MTC-16222,T29C,chennai,0
+MTC-20429,552K CT,chennai,0
+MTC-20430,552K CT1,chennai,0
+MTC-20431,597 CT7,chennai,0
+MTC-16223,T29C,chennai,0
+MTC-20436,M88 CT4,chennai,0
+MTC-20953,56P CT5,chennai,0
+MTC-20437,M88 CT3,chennai,0
+MTC-20956,56P R1,chennai,0
+MTC-22472,42D CT1,chennai,0
+MTC-22476,38G,chennai,0
+MTC-22477,53E R1,chennai,0
+MTC-16658,118,chennai,0
+MTC-16654,118,chennai,0
+MTC-16656,118,chennai,0
+MTC-20443,21EEt CT1,chennai,0
+MTC-20444,21EEt CT3,chennai,0
+MTC-20446,47A R1,chennai,0
+MTC-16664,118,chennai,0
+MTC-20447,47A R2,chennai,0
+MTC-16683,159K,chennai,0
+MTC-12379,593Ct,chennai,0
+MTC-20453,28B CT3,chennai,0
+MTC-20450,2B,chennai,0
+MTC-20452,4 CT6,chennai,0
+MTC-20454,28B CT,chennai,0
+MTC-20455,38D,chennai,0
+MTC-20456,159 CT,chennai,0
+MTC-20961,56P CT13,chennai,0
+MTC-20461,28B CT1,chennai,0
+MTC-20963,57X R,chennai,0
+MTC-20964,57X R1,chennai,0
+MTC-20468,549 CT,chennai,0
+MTC-16719,113,chennai,0
+MTC-20470,578P,chennai,0
+MTC-20471,578P CT,chennai,0
+MTC-20473,500W,chennai,0
+MTC-20475,578P CT1,chennai,0
+MTC-20478,515 CT1,chennai,0
+MTC-16725,113,chennai,0
+MTC-20479,583 CT,chennai,0
+MTC-20480,63 CT,chennai,0
+MTC-20481,63 CT,chennai,0
+MTC-20966,1C CT2,chennai,0
+MTC-12769,77M,chennai,0
+MTC-12406,61C,chennai,0
+MTC-12632,70A,chennai,0
+MTC-20482,578M,chennai,0
+MTC-20483,515 CT,chennai,0
+MTC-11253,37ECt,chennai,0
+MTC-11251,37ECt,chennai,0
+MTC-11017,114P,chennai,0
+MTC-20485,578M,chennai,0
+MTC-20486,578PCt,chennai,0
+MTC-20488,101X CT10,chennai,0
+MTC-20489,101X CT6,chennai,0
+MTC-20490,578P,chennai,0
+MTC-20491,578PCt,chennai,0
+MTC-20967,1C CT7,chennai,0
+MTC-15932,104CX,chennai,0
+MTC-3478,104CX,chennai,0
+MTC-3480,104CX,chennai,0
+MTC-16769,111,chennai,0
+MTC-20970,56K R,chennai,0
+MTC-12646,70ACt,chennai,0
+MTC-22486,142B R,chennai,0
+MTC-22488,142B R,chennai,0
+MTC-10846,111Et,chennai,0
+MTC-20972,56K R1,chennai,0
+MTC-15933,104CX,chennai,0
+MTC-11021,114P,chennai,0
+MTC-20973,56J R,chennai,0
+MTC-20974,56J R1,chennai,0
+MTC-16821,105,chennai,0
+MTC-20975,56J CT1,chennai,0
+MTC-20976,56J CT2,chennai,0
+MTC-20977,56J CT5,chennai,0
+MTC-20978,56J CT8,chennai,0
+MTC-12988,95XCt,chennai,0
+MTC-20980,37 CT1,chennai,0
+MTC-15926,45B,chennai,0
+MTC-12409,61C,chennai,0
+MTC-22492,42D,chennai,0
+MTC-20982,8ACT,chennai,0
+MTC-16843,104,chennai,0
+MTC-20984,8ACT,chennai,0
+MTC-10922,121D,chennai,0
+MTC-20987,595 CT1,chennai,0
+MTC-20988,595 CT2,chennai,0
+MTC-20989,595 R,chennai,0
+MTC-10732,109C,chennai,0
+MTC-10925,121D,chennai,0
+MTC-3180,70G,chennai,0
+MTC-16073,4,chennai,0
+MTC-16078,4,chennai,0
+MTC-16077,4,chennai,0
+MTC-20991,S56 R,chennai,0
+MTC-12430,61K,chennai,0
+MTC-20992,S56 CT,chennai,0
+MTC-20993,S56 R1,chennai,0
+MTC-20994,S56 CT1,chennai,0
+MTC-20995,SC1 R,chennai,0
+MTC-12199,57G,chennai,0
+MTC-12196,57G,chennai,0
+MTC-12197,57G,chennai,0
+MTC-12198,57G,chennai,0
+MTC-20996,SC1 CT,chennai,0
+MTC-20997,SC1 CT1,chennai,0
+MTC-21007,109X CT,chennai,0
+MTC-21008,21G Cut1,chennai,0
+MTC-21009,E18 CT,chennai,0
+MTC-13305,S18K,chennai,0
+MTC-21010,E18 CT2,chennai,0
+MTC-10873,12B,chennai,0
+MTC-21011,G18 CT,chennai,0
+MTC-10875,12B,chennai,0
+MTC-13720,12B,chennai,0
+MTC-21012,G18 CT,chennai,0
+MTC-3492,95X,chennai,0
+MTC-11592,514,chennai,0
+MTC-12434,61R,chennai,0
+MTC-21013,A1Et CT2,chennai,0
+MTC-21014,A1Et CT,chennai,0
+MTC-21015,M1 CT,chennai,0
+MTC-21026,202 R,chennai,0
+MTC-13362,S50,chennai,0
+MTC-21018,102K CT8,chennai,0
+MTC-21019,102K CT11,chennai,0
+MTC-21022,M1A CT1,chennai,0
+MTC-21023,M1A CT,chennai,0
+MTC-21025,202A R,chennai,0
+MTC-15222,C64,chennai,0
+MTC-13268,S167,chennai,0
+MTC-13266,S167,chennai,0
+MTC-13270,S167,chennai,0
+MTC-13273,S167,chennai,0
+MTC-21028,202A R1,chennai,0
+MTC-21029,E18 CT3,chennai,0
+MTC-10561,104F,chennai,0
+MTC-21030,E18 CT6,chennai,0
+MTC-13333,S44,chennai,0
+MTC-9862,S44,chennai,0
+MTC-13336,S44,chennai,0
+MTC-13338,S44,chennai,0
+MTC-21034,102K CT7,chennai,0
+MTC-21035,102P CT9,chennai,0
+MTC-16965,S62,chennai,0
+MTC-16957,S62,chennai,0
+MTC-16983,S62,chennai,0
+MTC-16970,S62,chennai,0
+MTC-9378,570P,chennai,0
+MTC-9377,570P,chennai,0
+MTC-16064,111Et,chennai,0
+MTC-16065,111Et,chennai,0
+MTC-21045,32B CT5,chennai,0
+MTC-10842,111Et,chennai,0
+MTC-10843,111Et,chennai,0
+MTC-10845,111Et,chennai,0
+MTC-22496,142B CT1,chennai,0
+MTC-13150,M88Et,chennai,0
+MTC-13151,M88Et,chennai,0
+MTC-13155,M88Et,chennai,0
+MTC-21053,157 CT3,chennai,0
+MTC-21054,157 CT1,chennai,0
+MTC-11906,55Et,chennai,0
+MTC-11907,55Et,chennai,0
+MTC-9379,570P,chennai,0
+MTC-11908,55Et,chennai,0
+MTC-11909,55Et,chennai,0
+MTC-12102,570P,chennai,0
+MTC-12103,570P,chennai,0
+MTC-21057,157 CT6,chennai,0
+MTC-21056,157 CT4,chennai,0
+MTC-21061,159 CT5,chennai,0
+MTC-21058,157 CT5,chennai,0
+MTC-21059,159 CT3,chennai,0
+MTC-21060,159 CT6,chennai,0
+MTC-21062,159 CT4,chennai,0
+MTC-21063,159 CT7,chennai,0
+MTC-21067,159  R3,chennai,0
+MTC-21070,28A R2,chennai,0
+MTC-21071,28A CT1,chennai,0
+MTC-21072,28A CT2,chennai,0
+MTC-21073,28A CT3,chennai,0
+MTC-21074,28A CT4,chennai,0
+MTC-21077,28B R1,chennai,0
+MTC-15923,M52Et,chennai,0
+MTC-16187,V51,chennai,0
+MTC-5527,M52Et,chennai,0
+MTC-13211,M52Et,chennai,0
+MTC-11850,556,chennai,0
+MTC-11861,556,chennai,0
+MTC-11863,556,chennai,0
+MTC-11866,556,chennai,0
+MTC-21083,104 R,chennai,0
+MTC-21084,104 R1,chennai,0
+MTC-21085,C56C R,chennai,0
+MTC-21088,C56C CT1,chennai,0
+MTC-21089,C56C CT3,chennai,0
+MTC-21093,15BEt CT1,chennai,0
+MTC-21094,15BEt CT3,chennai,0
+MTC-21095,15BEt R1,chennai,0
+MTC-21096,15BEt R,chennai,0
+MTC-21100,6DET CT,chennai,0
+MTC-21101,6DET CT1,chennai,0
+MTC-21102,6DEt CT2,chennai,0
+MTC-21103,6DEt R,chennai,0
+MTC-21104,6DEt CT4,chennai,0
+MTC-21105,6DEt R1,chennai,0
+MTC-21106,580 R,chennai,0
+MTC-10884,114A,chennai,0
+MTC-21107,580 R1,chennai,0
+MTC-21112,40A R,chennai,0
+MTC-13212,M52Et,chennai,0
+MTC-13214,M52Et,chennai,0
+MTC-21114,102C R,chennai,0
+MTC-21118,102K R2,chennai,0
+MTC-21119,102K CT8,chennai,0
+MTC-3206,M52Et,chennai,0
+MTC-14485,M52Et,chennai,0
+MTC-13216,M52Et,chennai,0
+MTC-13218,M52Et,chennai,0
+MTC-13219,M52Et,chennai,0
+MTC-13353,S5,chennai,0
+MTC-13359,S5,chennai,0
+MTC-16281,S5,chennai,0
+MTC-2746,M52Et,chennai,0
+MTC-13057,D51Et,chennai,0
+MTC-13352,S5,chennai,0
+MTC-13354,S5,chennai,0
+MTC-13356,S5,chennai,0
+MTC-13357,S5,chennai,0
+MTC-13358,S5,chennai,0
+MTC-21120,102K R1,chennai,0
+MTC-12000,558L,chennai,0
+MTC-12003,558L,chennai,0
+MTC-11996,558L,chennai,0
+MTC-11998,558L,chennai,0
+MTC-13207,M60,chennai,0
+MTC-13200,M60,chennai,0
+MTC-13202,M60,chennai,0
+MTC-13203,M60,chennai,0
+MTC-21122,102K CT9,chennai,0
+MTC-21123,45B R,chennai,0
+MTC-21126,102P CT16,chennai,0
+MTC-16486,S74,chennai,0
+MTC-16484,S74,chennai,0
+MTC-16485,S74,chennai,0
+MTC-21129,50Et RE1,chennai,0
+MTC-21133,45B R,chennai,0
+MTC-21137,50Et RE2,chennai,0
+MTC-21141,109X R,chennai,0
+MTC-21136,109,chennai,0
+MTC-21143,109X R,chennai,0
+MTC-21144,109X,chennai,0
+MTC-21150,53E R,chennai,0
+MTC-21152,40A R,chennai,0
+MTC-21153,40A R1,chennai,0
+MTC-21154,40H R,chennai,0
+MTC-21155,40A R1,chennai,0
+MTC-21148,5C,chennai,0
+MTC-11332,40A,chennai,0
+MTC-10392,266,chennai,0
+MTC-10394,266,chennai,0
+MTC-21170,18A R1,chennai,0
+MTC-21172,18E R,chennai,0
+MTC-21173,18E R1,chennai,0
+MTC-21174,18P CT3,chennai,0
+MTC-21175,18E CT1,chennai,0
+MTC-11893,55D,chennai,0
+MTC-11895,55D,chennai,0
+MTC-11896,55D,chennai,0
+MTC-21176,18R CT,chennai,0
+MTC-21177,18RX CT,chennai,0
+MTC-21178,N45B CT1,chennai,0
+MTC-21179,M51R CT8,chennai,0
+MTC-21180,18E CT,chennai,0
+MTC-21181,18P CT,chennai,0
+MTC-21182,18R CT2,chennai,0
+MTC-21183,18RX CT,chennai,0
+MTC-21185,40H R,chennai,0
+MTC-22511,38G CT,chennai,0
+MTC-22517,17D CT1,chennai,0
+MTC-22516,38G,chennai,0
+MTC-22518,17D CT2,chennai,0
+MTC-21186,18P R,chennai,0
+MTC-21187,M51R R,chennai,0
+MTC-21188,18P R1,chennai,0
+MTC-21189,M51R R,chennai,0
+MTC-21190,M51R CT,chennai,0
+MTC-21191,18RX R,chennai,0
+MTC-21192,18RX R,chennai,0
+MTC-21193,M51R CT2,chennai,0
+MTC-21194,102K CT5,chennai,0
+MTC-21197,21G CT8,chennai,0
+MTC-21209,21G ct8,chennai,0
+MTC-21232,18R CT5,chennai,0
+MTC-21225,S84,chennai,0
+MTC-21236,A1 CT7,chennai,0
+MTC-21218,S84,chennai,0
+MTC-21219,S83,chennai,0
+MTC-21220,S82,chennai,0
+MTC-21221,S82,chennai,0
+MTC-21222,S83,chennai,0
+MTC-21227,E18 CT1,chennai,0
+MTC-21228,E18 CT3,chennai,0
+MTC-21229,E18 R,chennai,0
+MTC-21230,E18 R1,chennai,0
+MTC-21231,18R R,chennai,0
+MTC-21233,6 R,chennai,0
+MTC-21239,E18 CT4,chennai,0
+MTC-21242,E18 CT7,chennai,0
+MTC-21244,21C CT5,chennai,0
+MTC-16419,S90,chennai,0
+MTC-15793,66M,chennai,0
+MTC-15792,66M,chennai,0
+MTC-17485,66M,chennai,0
+MTC-21246,21C CT7,chennai,0
+MTC-21249,56C CT4,chennai,0
+MTC-21251,56C CT5,chennai,0
+MTC-10783,202A,chennai,0
+MTC-10782,202A,chennai,0
+MTC-21252,45B CT2,chennai,0
+MTC-21253,88K CT4,chennai,0
+MTC-21257,18R CT1,chennai,0
+MTC-21259,18R CT1,chennai,0
+MTC-21260,70N CT,chennai,0
+MTC-21261,70N CT,chennai,0
+MTC-21262,21 CT5,chennai,0
+MTC-21263,N45B R,chennai,0
+MTC-21264,A45B CT2,chennai,0
+MTC-21265,N45B R,chennai,0
+MTC-21266,A1 CT4,chennai,0
+MTC-21272,102K CT5,chennai,0
+MTC-13055,D51Et,chennai,0
+MTC-21275,M51R CT6,chennai,0
+MTC-21276,N45B CT,chennai,0
+MTC-21278,18E CT,chennai,0
+MTC-21279,18E CT1,chennai,0
+MTC-21280,18E CT7,chennai,0
+MTC-21281,37B,chennai,0
+MTC-21282,56C CT1,chennai,0
+MTC-21284,56C CT3,chennai,0
+MTC-21285,40H R1,chennai,0
+MTC-21286,40H R1,chennai,0
+MTC-21287,45B CT,chennai,0
+MTC-21288,88K R1,chennai,0
+MTC-21292,N45B CT,chennai,0
+MTC-21293,N45B CT1,chennai,0
+MTC-21295,45BEt CT2,chennai,0
+MTC-15221,C33,chennai,0
+MTC-21296,45BEt CT,chennai,0
+MTC-21299,56P CT12,chennai,0
+MTC-21300,56P CT4,chennai,0
+MTC-22522,188C R,chennai,0
+MTC-22523,C56CEt R,chennai,0
+MTC-22524,C56CEt R,chennai,0
+MTC-22525,188C R,chennai,0
+MTC-22526,188Et R,chennai,0
+MTC-22527,188Et R,chennai,0
+MTC-21301,A1 CT1,chennai,0
+MTC-21302,A1 CT5,chennai,0
+MTC-13016,A1Et,chennai,0
+MTC-15784,S23,chennai,0
+MTC-15785,S23,chennai,0
+MTC-21303,A1 CT3,chennai,0
+MTC-16818,S67,chennai,0
+MTC-21304,88K CT1,chennai,0
+MTC-13014,A1Et,chennai,0
+MTC-12941,88KEt,chennai,0
+MTC-12945,88KEt,chennai,0
+MTC-21305,A1Et CT1,chennai,0
+MTC-16406,578PC,chennai,0
+MTC-16423,578PC,chennai,0
+MTC-16371,578PC,chennai,0
+MTC-16370,578PC,chennai,0
+MTC-12864,89A,chennai,0
+MTC-12871,89A,chennai,0
+MTC-12873,89A,chennai,0
+MTC-21307,88K CT6,chennai,0
+MTC-21308,88K CT,chennai,0
+MTC-11328,40A,chennai,0
+MTC-13323,S27,chennai,0
+MTC-10865,S27,chennai,0
+MTC-9782,166K,chennai,0
+MTC-12148,578PCt,chennai,0
+MTC-21326,A1Et CT,chennai,0
+MTC-21330,A1 CT6,chennai,0
+MTC-21331,597 CT5,chennai,0
+MTC-21332,56P CT8,chennai,0
+MTC-21333,56P CT11,chennai,0
+MTC-21325,5C,chennai,0
+MTC-21329,5C,chennai,0
+MTC-21334,21G ct1,chennai,0
+MTC-15892,170CE,chennai,0
+MTC-10458,170CE,chennai,0
+MTC-13383,S51,chennai,0
+MTC-13386,S51,chennai,0
+MTC-13391,S51,chennai,0
+MTC-13392,S51,chennai,0
+MTC-21339,56P CT1,chennai,0
+MTC-21340,6D CT2,chennai,0
+MTC-21341,18N CT2,chennai,0
+MTC-21342,18N CT6,chennai,0
+MTC-21343,18N CT7,chennai,0
+MTC-21344,18N CT3,chennai,0
+MTC-21345,18N CT4,chennai,0
+MTC-21346,18N CT,chennai,0
+MTC-21347,18N CT5,chennai,0
+MTC-15896,580M,chennai,0
+MTC-15897,580M,chennai,0
+MTC-12526,65H,chennai,0
+MTC-12531,65G,chennai,0
+MTC-21348,18N CT8,chennai,0
+MTC-22528,88KEt R,chennai,0
+MTC-21352,56P CT7,chennai,0
+MTC-21354,A54C R1,chennai,0
+MTC-21355,A54C R,chennai,0
+MTC-21356,102X CT2,chennai,0
+MTC-22529,18X R,chennai,0
+MTC-22530,88KEt R,chennai,0
+MTC-22531,18X R1,chennai,0
+MTC-22532,64KEt R,chennai,0
+MTC-22534,64KEt R,chennai,0
+MTC-22535,26G R,chennai,0
+MTC-22536,26G R,chennai,0
+MTC-22537,64D R,chennai,0
+MTC-22538,26K R,chennai,0
+MTC-21357,159 R5,chennai,0
+MTC-21358,18M,chennai,0
+MTC-21359,18M,chennai,0
+MTC-16468,S75,chennai,0
+MTC-16477,S75,chennai,0
+MTC-16469,S75,chennai,0
+MTC-16476,S75,chennai,0
+MTC-16475,S75,chennai,0
+MTC-21367,101CT,chennai,0
+MTC-13347,S47M,chennai,0
+MTC-16316,S47M,chennai,0
+MTC-13393,S42,chennai,0
+MTC-13394,S42,chennai,0
+MTC-13395,S42,chennai,0
+MTC-13397,S42,chennai,0
+MTC-13326,S28,chennai,0
+MTC-13328,S28,chennai,0
+MTC-13306,S25A,chennai,0
+MTC-13308,S25A,chennai,0
+MTC-13248,S100,chennai,0
+MTC-13242,S100,chennai,0
+MTC-13246,S100,chennai,0
+MTC-13261,S12,chennai,0
+MTC-15805,S12,chennai,0
+MTC-3421,S12,chennai,0
+MTC-3423,S12,chennai,0
+MTC-21370,102K CT18,chennai,0
+MTC-13143,M88T,chennai,0
+MTC-13144,M88T,chennai,0
+MTC-13146,M88T,chennai,0
+MTC-13148,M88T,chennai,0
+MTC-21371,102K CT14,chennai,0
+MTC-21373,102K CT16,chennai,0
+MTC-21375,102K CT17,chennai,0
+MTC-21376,102K CT19,chennai,0
+MTC-21377,102K CT20,chennai,0
+MTC-21382,102K CT22,chennai,0
+MTC-21391,102K CT25,chennai,0
+MTC-21386,101X CT10,chennai,0
+MTC-21389,102K CT23,chennai,0
+MTC-21393,102K CT26,chennai,0
+MTC-21395,102K CT26,chennai,0
+MTC-15988,M51V,chennai,0
+MTC-13225,M51V,chennai,0
+MTC-13227,M51V,chennai,0
+MTC-13230,M51V,chennai,0
+MTC-21401,102K CT28,chennai,0
+MTC-21402,102K CT29,chennai,0
+MTC-13232,M51V,chennai,0
+MTC-3643,M51V,chennai,0
+MTC-21403,102K CT30,chennai,0
+MTC-21416,101X CT7,chennai,0
+MTC-21412,102K CT31,chennai,0
+MTC-21415,102K CT34,chennai,0
+MTC-21419,101X,chennai,0
+MTC-22539,64D R,chennai,0
+MTC-22540,26K R,chennai,0
+MTC-21424,102P CT19,chennai,0
+MTC-21426,102P CT21,chennai,0
+MTC-21429,102P CT23,chennai,0
+MTC-21433,102CT CT2,chennai,0
+MTC-21428,102CT CT,chennai,0
+MTC-21435,102P CT26,chennai,0
+MTC-21439,102P CT5,chennai,0
+MTC-21440,102CT CT3,chennai,0
+MTC-21441,102P CT11,chennai,0
+MTC-13045,9M,chennai,0
+MTC-13049,9M,chennai,0
+MTC-21443,102CT CT4,chennai,0
+MTC-12946,91R,chennai,0
+MTC-12937,91R,chennai,0
+MTC-12942,91R,chennai,0
+MTC-21446,102P CT2,chennai,0
+MTC-21447,102CT CT6,chennai,0
+MTC-12844,88M,chennai,0
+MTC-12846,88M,chennai,0
+MTC-21451,102CT CT8,chennai,0
+MTC-12501,62B,chennai,0
+MTC-15884,62Ct,chennai,0
+MTC-11604,514Et,chennai,0
+MTC-11605,514Et,chennai,0
+MTC-11606,514Et,chennai,0
+MTC-11599,514Et,chennai,0
+MTC-12511,62Ct,chennai,0
+MTC-12512,62Ct,chennai,0
+MTC-21445,102CT CT5,chennai,0
+MTC-11601,514Et,chennai,0
+MTC-11603,514Et,chennai,0
+MTC-11042,118Et,chennai,0
+MTC-11010,114Et,chennai,0
+MTC-12925,88CEt,chennai,0
+MTC-21453,102CT CT8,chennai,0
+MTC-21456,102CT CT10,chennai,0
+MTC-21463,102CT CT12,chennai,0
+MTC-21457,102CT11,chennai,0
+MTC-21464,102P CT6,chennai,0
+MTC-22541,26M R,chennai,0
+MTC-22542,60E R,chennai,0
+MTC-22543,26M R,chennai,0
+MTC-22544,60E R,chennai,0
+MTC-22545,26R R,chennai,0
+MTC-22546,26R R,chennai,0
+MTC-22547,56F CT,chennai,0
+MTC-22548,56F R,chennai,0
+MTC-22549,33B R,chennai,0
+MTC-12091,570Et,chennai,0
+MTC-12092,570Et,chennai,0
+MTC-12093,570Et,chennai,0
+MTC-22550,33B R,chennai,0
+MTC-22551,56F R1,chennai,0
+MTC-22553,33L R,chennai,0
+MTC-22554,33L R,chennai,0
+MTC-22556,4M R,chennai,0
+MTC-22557,4M R,chennai,0
+MTC-15088,29NEt,chennai,0
+MTC-21462,102P CT34,chennai,0
+MTC-21460,102CT CT11,chennai,0
+MTC-21461,102P CT33,chennai,0
+MTC-11480,48AEt,chennai,0
+MTC-11481,48AEt,chennai,0
+MTC-12427,597CEt,chennai,0
+MTC-21472,102 CT2,chennai,0
+MTC-21473,102 CT4,chennai,0
+MTC-21475,102 CT6,chennai,0
+MTC-21476,102 CT7,chennai,0
+MTC-21479,102 CT9,chennai,0
+MTC-21481,102 CT11,chennai,0
+MTC-21482,102 CT12,chennai,0
+MTC-21485,102 CT12,chennai,0
+MTC-21489,102 CT15,chennai,0
+MTC-21504,11M CT9,chennai,0
+MTC-21506,11M CT2,chennai,0
+MTC-21508,21 CT3,chennai,0
+MTC-21511,11M CT,chennai,0
+MTC-21512,21 CT6,chennai,0
+MTC-21515,21 CT7,chennai,0
+MTC-21516,21 R1,chennai,0
+MTC-21518,21 R1,chennai,0
+MTC-21519,21 R,chennai,0
+MTC-22567,64KEt CT1,chennai,0
+MTC-22560,54G R,chennai,0
+MTC-22561,51D R,chennai,0
+MTC-22562,51D R,chennai,0
+MTC-22565,54G R,chennai,0
+MTC-22566,26G CT,chennai,0
+MTC-21524,71E,chennai,0
+MTC-22569,26K CT1,chennai,0
+MTC-22570,26K CT2,chennai,0
+MTC-22571,26R CT,chennai,0
+MTC-22572,26R CT,chennai,0
+MTC-22573,33B CT1,chennai,0
+MTC-22574,33B CT2,chennai,0
+MTC-22575,33BCT3,chennai,0
+MTC-22576,33B CT4,chennai,0
+MTC-22577,64D CT4,chennai,0
+MTC-22578,4M CT1,chennai,0
+MTC-22579,64D CT3,chennai,0
+MTC-22580,4M CT2,chennai,0
+MTC-22581,51 CT9,chennai,0
+MTC-21533,20 R,chennai,0
+MTC-21534,20 R,chennai,0
+MTC-21535,33C R,chennai,0
+MTC-21536,109T,chennai,0
+MTC-21537,33C R,chennai,0
+MTC-21540,35 R,chennai,0
+MTC-21541,35 R,chennai,0
+MTC-21544,4 R,chennai,0
+MTC-21556,54,chennai,0
+MTC-22588,15F R,chennai,0
+MTC-22589,38G R,chennai,0
+MTC-22590,5E CT,chennai,0
+MTC-22582,54G CT1,chennai,0
+MTC-22583,54G CT,chennai,0
+MTC-22584,54L CT1,chennai,0
+MTC-22585,54L CT2,chennai,0
+MTC-22586,56F CT1,chennai,0
+MTC-22587,38G,chennai,0
+MTC-22592,5E CT1,chennai,0
+MTC-22593,42D,chennai,0
+MTC-22594,50M,chennai,0
+MTC-22595,50M,chennai,0
+MTC-22596,5E CT,chennai,0
+MTC-22598,5E CT1,chennai,0
+MTC-22599,11M CT7,chennai,0
+MTC-22602,57J,chennai,0
+MTC-22603,15 R,chennai,0
+MTC-22604,57J,chennai,0
+MTC-21561,54,chennai,0
+MTC-21574,15G CT,chennai,0
+MTC-21576,15G CT1,chennai,0
+MTC-21569,54,chennai,0
+MTC-21570,54,chennai,0
+MTC-21579,54,chennai,0
+MTC-21580,54,chennai,0
+MTC-21583,54,chennai,0
+MTC-21587,26 CT,chennai,0
+MTC-21586,54,chennai,0
+MTC-21588,26 CT1,chennai,0
+MTC-21590,26 CT2,chennai,0
+MTC-21592,26 CT4,chennai,0
+MTC-21594,26 CT3,chennai,0
+MTC-21601,44 CT,chennai,0
+MTC-21602,242 CT,chennai,0
+MTC-21603,242 CT1,chennai,0
+MTC-21605,44 CT1,chennai,0
+MTC-21606,242 CT2,chennai,0
+MTC-21608,44,chennai,0
+MTC-21609,44,chennai,0
+MTC-21611,242 CT4,chennai,0
+MTC-21612,242 CT5,chennai,0
+MTC-21613,242 CT6,chennai,0
+MTC-21618,242 CT10,chennai,0
+MTC-21617,242 CT8,chennai,0
+MTC-21619,242 CT11,chennai,0
+MTC-21624,44CT,chennai,0
+MTC-21626,44Ct,chennai,0
+MTC-21627,44Ct,chennai,0
+MTC-21628,242 CT3,chennai,0
+MTC-22605,579A,chennai,0
+MTC-22606,15 R1,chennai,0
+MTC-22607,15F R,chennai,0
+MTC-22608,15F CT3,chennai,0
+MTC-22609,57M,chennai,0
+MTC-22610,57M,chennai,0
+MTC-22611,142 CT2,chennai,0
+MTC-22614,E51 CT2,chennai,0
+MTC-22615,24A CT,chennai,0
+MTC-22619,64KEt CT3,chennai,0
+MTC-22620,24A CT4,chennai,0
+MTC-22622,57J,chennai,0
+MTC-22623,57F CT5,chennai,0
+MTC-22624,38G CT1,chennai,0
+MTC-22625,38H CT1,chennai,0
+MTC-22626,57F CT4,chennai,0
+MTC-22627,51J CT1,chennai,0
+MTC-22628,51J CT4,chennai,0
+MTC-22629,57F CT2,chennai,0
+MTC-22631,53E CT,chennai,0
+MTC-22632,57F CT,chennai,0
+MTC-16413,S94,chennai,0
+MTC-21634,S4,chennai,0
+MTC-21635,S4,chennai,0
+MTC-21636,66K R,chennai,0
+MTC-21639,66K R1,chennai,0
+MTC-21643,157 R1,chennai,0
+MTC-21644,28A R1,chennai,0
+MTC-21646,157 R,chennai,0
+MTC-21649,S81,chennai,0
+MTC-21650,S81,chennai,0
+MTC-21651,S100,chennai,0
+MTC-21652,56C R,chennai,0
+MTC-21653,583C,chennai,0
+MTC-21654,56C R2,chennai,0
+MTC-21656,52H,chennai,0
+MTC-21657,52H,chennai,0
+MTC-21666,517K,chennai,0
+MTC-21669,64C CT3,chennai,0
+MTC-21671,118,chennai,0
+MTC-21672,64C CT4,chennai,0
+MTC-21673,118,chennai,0
+MTC-21674,500D,chennai,0
+MTC-21675,500D,chennai,0
+MTC-21676,105,chennai,0
+MTC-21677,500A,chennai,0
+MTC-21678,500A,chennai,0
+MTC-21680,29CEX,chennai,0
+MTC-21689,29NEt,chennai,0
+MTC-21691,70T,chennai,0
+MTC-21692,29Et,chennai,0
+MTC-21694,29CEt,chennai,0
+MTC-21695,29CEt,chennai,0
+MTC-21700,29AEX,chennai,0
+MTC-21710,129C,chennai,0
+MTC-21709,T29,chennai,0
+MTC-21711,T29,chennai,0
+MTC-21712,129C,chennai,0
+MTC-21730,57F CT6,chennai,0
+MTC-21738,57F CT8,chennai,0
+MTC-21728,57F CT3,chennai,0
+MTC-21729,57F CT5,chennai,0
+MTC-21733,101X CT14,chennai,0
+MTC-21734,57F CT8,chennai,0
+MTC-21736,57F CT7,chennai,0
+MTC-21739,57F CT9,chennai,0
+MTC-21740,57F CT9,chennai,0
+MTC-21741,57F CT10,chennai,0
+MTC-21742,102K CT27,chennai,0
+MTC-21752,102P CT27,chennai,0
+MTC-21744,57F CT10,chennai,0
+MTC-21745,57F CT11,chennai,0
+MTC-21746,11 CT4,chennai,0
+MTC-21748,11,chennai,0
+MTC-21755,13,chennai,0
+MTC-21757,102P CT28,chennai,0
+MTC-21758,13,chennai,0
+MTC-21759,102P CT31,chennai,0
+MTC-21762,15 CT1,chennai,0
+MTC-21763,15F CT2,chennai,0
+MTC-21765,15F CT6,chennai,0
+MTC-22635,57D,chennai,0
+MTC-21771,15 CT1,chennai,0
+MTC-21773,17D CT,chennai,0
+MTC-21780,109A,chennai,0
+MTC-22637,18H,chennai,0
+MTC-22634,57D CT,chennai,0
+MTC-22638,18H,chennai,0
+MTC-22639,22,chennai,0
+MTC-21786,29E R,chennai,0
+MTC-21788,142P,chennai,0
+MTC-21792,170K,chennai,0
+MTC-21795,170K,chennai,0
+MTC-21800,46,chennai,0
+MTC-21802,29AEt,chennai,0
+MTC-21803,46,chennai,0
+MTC-21805,29C R1,chennai,0
+MTC-21806,21L CT,chennai,0
+MTC-21809,29AEt,chennai,0
+MTC-21811,21L CT2,chennai,0
+MTC-21812,42 R,chennai,0
+MTC-21815,42 R,chennai,0
+MTC-21821,46Et,chennai,0
+MTC-21824,46Et,chennai,0
+MTC-21827,88C CT1,chennai,0
+MTC-21828,26B,chennai,0
+MTC-21835,64C R,chennai,0
+MTC-21836,60A,chennai,0
+MTC-21837,18D CT2,chennai,0
+MTC-21845,64K R,chennai,0
+MTC-21846,38H R1,chennai,0
+MTC-21840,38H R,chennai,0
+MTC-21842,64C R,chennai,0
+MTC-21847,38H CT2,chennai,0
+MTC-21848,64K R,chennai,0
+MTC-21851,38H CT3,chennai,0
+MTC-21853,18D CT3,chennai,0
+MTC-21855,18D CT4,chennai,0
+MTC-21857,1C CT4,chennai,0
+MTC-21869,102K CT21,chennai,0
+MTC-21870,8B R,chennai,0
+MTC-21871,8B R,chennai,0
+MTC-21872,102K CT24,chennai,0
+MTC-21873,102K CT28,chennai,0
+MTC-21874,32B CT1,chennai,0
+MTC-21875,32B CT7,chennai,0
+MTC-21876,32B CT9,chennai,0
+MTC-21877,102P CT29,chennai,0
+MTC-21879,102P CT32,chennai,0
+MTC-21883,11M CT4,chennai,0
+MTC-21884,42 CT,chennai,0
+MTC-21885,102P CT22,chennai,0
+MTC-21886,102P CT29,chennai,0
+MTC-21887,42 CT,chennai,0
+MTC-21888,11M CT6,chennai,0
+MTC-21890,44CT1,chennai,0
+MTC-21891,11M CT8,chennai,0
+MTC-21892,15 CT3,chennai,0
+MTC-21893,15F CT8,chennai,0
+MTC-21894,17E CT,chennai,0
+MTC-21895,21 CT5,chennai,0
+MTC-21896,18A CT1,chennai,0
+MTC-21903,242 CT7,chennai,0
+MTC-21898,18A CT3,chennai,0
+MTC-21900,18R CT3,chennai,0
+MTC-21901,21 CT1,chennai,0
+MTC-21904,242 CT9,chennai,0
+MTC-22643,104K,chennai,0
+MTC-22645,55X,chennai,0
+MTC-22647,55X,chennai,0
+MTC-22653,101 CT,chennai,0
+MTC-21921,50Et CT,chennai,0
+MTC-21907,26 CT6,chennai,0
+MTC-21908,21 CT8,chennai,0
+MTC-21915,21G CT1,chennai,0
+MTC-21916,4 CT1,chennai,0
+MTC-21917,4 CT2,chennai,0
+MTC-21919,50Et CT,chennai,0
+MTC-21920,50Et CT1,chennai,0
+MTC-21922,50Et CT3,chennai,0
+MTC-21923,7H CT3,chennai,0
+MTC-21924,7H CT2,chennai,0
+MTC-21927,56P CT7,chennai,0
+MTC-21928,64C CT,chennai,0
+MTC-21929,64C CT1,chennai,0
+MTC-21930,64C CT1,chennai,0
+MTC-21931,64C CT2,chennai,0
+MTC-21932,A54C CT,chennai,0
+MTC-21933,A54C CT2,chennai,0
+MTC-21935,A45B CT1,chennai,0
+MTC-21937,9MEt,chennai,0
+MTC-21938,9MEt CT,chennai,0
+MTC-21944,E51 CT1,chennai,0
+MTC-21948,E51,chennai,0
+MTC-21949,E51 CT3,chennai,0
+MTC-21950,E51 CT4,chennai,0
+MTC-21955,120F CT,chennai,0
+MTC-21956,120F,chennai,0
+MTC-21967,71H,chennai,0
+MTC-21968,71H CT,chennai,0
+MTC-21969,71H,chennai,0
+MTC-21966,71H CT1,chennai,0
+MTC-21992,57H CT1,chennai,0
+MTC-21975,57H CT,chennai,0
+MTC-21980,57H CT4,chennai,0
+MTC-21989,57H,chennai,0
+MTC-21985,57H CT3,chennai,0
+MTC-21986,57H CT6,chennai,0
+MTC-21990,57H CT2,chennai,0
+MTC-21993,57H CT5,chennai,0
+MTC-22002,52B,chennai,0
+MTC-22004,52B,chennai,0
+MTC-22006,120G CT,chennai,0
+MTC-22007,120G CT,chennai,0
+MTC-22008,120G,chennai,0
+MTC-22010,120G CT2,chennai,0
+MTC-22011,120G,chennai,0
+MTC-22000,142B,chennai,0
+MTC-22030,44C CT1,chennai,0
+MTC-22031,44C CT,chennai,0
+MTC-22037,57D CT1,chennai,0
+MTC-22038,57D CT2,chennai,0
+MTC-22041,35 CT,chennai,0
+MTC-22042,35 CT,chennai,0
+MTC-22043,60 CT,chennai,0
+MTC-22044,60 R,chennai,0
+MTC-22045,60 CT1,chennai,0
+MTC-22046,60 CT2,chennai,0
+MTC-22047,60 R1,chennai,0
+MTC-22048,60 CT3,chennai,0
+MTC-22049,35C,chennai,0
+MTC-21994,142B,chennai,0
+MTC-22051,35C,chennai,0
+MTC-22054,42B CT1,chennai,0
+MTC-22055,42B CT2,chennai,0
+MTC-22062,35C,chennai,0
+MTC-22063,35C,chennai,0
+MTC-22064,53 CT,chennai,0
+MTC-22065,53 CT1,chennai,0
+MTC-22067,53 CT2,chennai,0
+MTC-22068,53 R,chennai,0
+MTC-22069,53 CT2,chennai,0
+MTC-22070,53 R1,chennai,0
+MTC-22072,50 CT,chennai,0
+MTC-22073,50 R,chennai,0
+MTC-22074,50 CT1,chennai,0
+MTC-22075,50 CT2,chennai,0
+MTC-22076,50 R1,chennai,0
+MTC-22077,50 CT4,chennai,0
+MTC-22083,17K CT,chennai,0
+MTC-22085,17K CT1,chennai,0
+MTC-22086,17K R1,chennai,0
+MTC-22087,18B,chennai,0
+MTC-22089,18B CT3,chennai,0
+MTC-22090,18B,chennai,0
+MTC-22091,18B CT3,chennai,0
+MTC-22097,18ACT CT2,chennai,0
+MTC-22098,18ACT CT3,chennai,0
+MTC-22100,18ACT CT4,chennai,0
+MTC-22102,18ACT CT5,chennai,0
+MTC-22104,18ACT CT7,chennai,0
+MTC-22106,38A R,chennai,0
+MTC-22107,38A CT,chennai,0
+MTC-22108,38A CT2,chennai,0
+MTC-22109,38A CT1,chennai,0
+MTC-22110,38A CT3,chennai,0
+MTC-22111,38A R1,chennai,0
+MTC-22115,42C CT,chennai,0
+MTC-22116,42C R,chennai,0
+MTC-22118,42C CT1,chennai,0
+MTC-22119,42C CT2,chennai,0
+MTC-22123,42M R,chennai,0
+MTC-22124,154 CT1,chennai,0
+MTC-22127,42M CT1,chennai,0
+MTC-22128,154 CT2,chennai,0
+MTC-22130,49 CT,chennai,0
+MTC-22135,49 CT3,chennai,0
+MTC-22136,49 R1,chennai,0
+MTC-22140,154 CT5,chennai,0
+MTC-22142,7E R,chennai,0
+MTC-22146,7E CT,chennai,0
+MTC-22149,7E CT3,chennai,0
+MTC-22151,7E CT2,chennai,0
+MTC-22153,7E CT4,chennai,0
+MTC-22158,7MEt CT,chennai,0
+MTC-22160,7MEt CT1,chennai,0
+MTC-22161,7MEt R,chennai,0
+MTC-22162,7MEt R1,chennai,0
+MTC-22166,77 CT,chennai,0
+MTC-22168,77 CT1,chennai,0
+MTC-22169,77 R1,chennai,0
+MTC-22178,51J CT2,chennai,0
+MTC-22173,51J R1,chennai,0
+MTC-22174,51J CT7,chennai,0
+MTC-22180,51J R3,chennai,0
+MTC-22181,7K CT,chennai,0
+MTC-22183,52K R,chennai,0
+MTC-22184,7K CT1,chennai,0
+MTC-22185,52K CT,chennai,0
+MTC-22186,7K R,chennai,0
+MTC-22187,52K R1,chennai,0
+MTC-22188,7K R1,chennai,0
+MTC-22189,52K CT1,chennai,0
+MTC-22190,52K CT3,chennai,0
+MTC-22191,52K CT4,chennai,0
+MTC-22199,20A CT,chennai,0
+MTC-22200,20A R,chennai,0
+MTC-22202,20A,chennai,0
+MTC-22207,20A CT2,chennai,0
+MTC-22205,20A R1,chennai,0
+MTC-22206,20A CT1,chennai,0
+MTC-22208,20D CT,chennai,0
+MTC-22209,20D R,chennai,0
+MTC-22210,20D CT,chennai,0
+MTC-22211,20D R,chennai,0
+MTC-22224,20D CT1,chennai,0
+MTC-22216,71D CT,chennai,0
+MTC-22217,71D CT1,chennai,0
+MTC-22218,71D CT3,chennai,0
+MTC-22219,71D CT2,chennai,0
+MTC-22220,71D CT4,chennai,0
+MTC-22227,120Ct R,chennai,0
+MTC-22222,71D CT6,chennai,0
+MTC-22223,20D CT1,chennai,0
+MTC-22225,120Ct CT,chennai,0
+MTC-22226,120Ct CT1,chennai,0
+MTC-22228,120Ct R1,chennai,0
+MTC-22229,120E CT,chennai,0
+MTC-22230,120E CT1,chennai,0
+MTC-22231,120E CT2,chennai,0
+MTC-22232,120E CT3,chennai,0
+MTC-22233,120E R,chennai,0
+MTC-22234,120E R1,chennai,0
+MTC-22235,120K CT,chennai,0
+MTC-22236,120K CT1,chennai,0
+MTC-22237,120K R,chennai,0
+MTC-22238,120K R1,chennai,0
+MTC-22239,120KEt CT,chennai,0
+MTC-22240,120KEt CT1,chennai,0
+MTC-22241,120KEt R,chennai,0
+MTC-22242,120KEt R1,chennai,0
+MTC-22243,150 R,chennai,0
+MTC-22244,150 R1,chennai,0
+MTC-22245,155A CT,chennai,0
+MTC-22246,71V CT,chennai,0
+MTC-22248,71V R,chennai,0
+MTC-22655,515T,chennai,0
+MTC-22656,515T,chennai,0
+MTC-22658,515K,chennai,0
+MTC-22660,555S,chennai,0
+MTC-22249,71V CT1,chennai,0
+MTC-22250,71V R1,chennai,0
+MTC-22251,155A CT,chennai,0
+MTC-22253,155A R,chennai,0
+MTC-22254,155A R,chennai,0
+MTC-22256,500Et R,chennai,0
+MTC-22258,500Et CT,chennai,0
+MTC-22261,52G CT,chennai,0
+MTC-22263,52G CT1,chennai,0
+MTC-22265,52G R,chennai,0
+MTC-22266,52G CT,chennai,0
+MTC-22268,52G CT1,chennai,0
+MTC-22273,56K CT1,chennai,0
+MTC-22271,52G R,chennai,0
+MTC-22274,56K CT3,chennai,0
+MTC-22276,E51 R,chennai,0
+MTC-22278,E51 R,chennai,0
+MTC-22280,D51Et R,chennai,0
+MTC-22282,D51Et R,chennai,0
+MTC-22283,11 R,chennai,0
+MTC-22284,120F CT,chennai,0
+MTC-22285,88C R,chennai,0
+MTC-22286,88C R,chennai,0
+MTC-22287,120F R,chennai,0
+MTC-22288,71H R,chennai,0
+MTC-22289,71H R,chennai,0
+MTC-22290,120G R,chennai,0
+MTC-22291,60A R,chennai,0
+MTC-22292,60A R,chennai,0
+MTC-22294,57H R,chennai,0
+MTC-22295,57H R,chennai,0
+MTC-22297,13 R,chennai,0
+MTC-22298,57F,chennai,0
+MTC-22299,57F R,chennai,0
+MTC-22300,57D R,chennai,0
+MTC-22301,57D R,chennai,0
+MTC-22302,53P R,chennai,0
+MTC-22303,53P R,chennai,0
+MTC-22304,52B R,chennai,0
+MTC-22305,21EEt R,chennai,0
+MTC-22306,52B R,chennai,0
+MTC-22307,21EEt R,chennai,0
+MTC-22309,26B R,chennai,0
+MTC-22311,26B R,chennai,0
+MTC-22313,101X,chennai,0
+MTC-22314,53P CT2,chennai,0
+MTC-22316,53P CT2,chennai,0
+MTC-22317,101X CT11,chennai,0
+MTC-22318,S75 CT8,chennai,0
+MTC-22320,26G CT,chennai,0
+MTC-22325,5E,chennai,0
+MTC-22327,120F CT1,chennai,0
+MTC-22332,120G CT1,chennai,0
+MTC-22344,S74 CT,chennai,0
+MTC-22347,S74 CT,chennai,0
+MTC-22349,120G CT3,chennai,0
+MTC-22356,18X CT,chennai,0
+MTC-22357,18X,chennai,0
+MTC-22358,18X CT,chennai,0
+MTC-22359,154 C12,chennai,0
+MTC-22361,155A CT1,chennai,0
+MTC-22363,18X CT,chennai,0
+MTC-22364,155A CT1,chennai,0
+MTC-22369,MAA2,chennai,0
+MTC-22370,18ACT CT1,chennai,0
+MTC-22372,49 CT2,chennai,0
+MTC-22374,18B CT,chennai,0
+MTC-22375,49 CT1,chennai,0
+MTC-22378,44C CT1,chennai,0
+MTC-22381,35C CT,chennai,0
+MTC-22382,18B CT1,chennai,0
+MTC-22383,18B CT2,chennai,0
+MTC-22385,18B CT4,chennai,0
+MTC-22388,18D CT1,chennai,0
+MTC-22389,35C CT,chennai,0
+MTC-22391,E51 CT,chennai,0
+MTC-22392,18D CT3,chennai,0
+MTC-22395,E51 CT2,chennai,0
+MTC-22397,21EEt CT2,chennai,0
+MTC-22401,E51 CT5,chennai,0
+MTC-22404,21EEt CT4,chennai,0
+MTC-22422,E51 CT1,chennai,0
+MTC-22406,44C CT,chennai,0
+MTC-22408,E51 CT6,chennai,0
+MTC-22416,24A CT1,chennai,0
+MTC-22417,57H CT7,chennai,0
+MTC-22418,E51 CT,chennai,0
+MTC-22421,597A CT4,chennai,0
+MTC-22423,597A CT3,chennai,0
+MTC-22427,60A CT,chennai,0
+MTC-22429,64C CT2,chennai,0
+MTC-22430,64C CT3,chennai,0
+MTC-22433,57F CT6,chennai,0
+MTC-22438,71H CT2,chennai,0
+MTC-22443,72 CT11,chennai,0
+MTC-22444,88C CT1,chennai,0
+MTC-22445,88C CT,chennai,0
+MTC-22663,583K,chennai,0
+MTC-22664,101X CT12,chennai,0
+MTC-22667,101X CT3,chennai,0
+MTC-22668,202X,chennai,0
+MTC-22670,206,chennai,0
+MTC-22671,206,chennai,0
+MTC-22686,500E R,chennai,0
+MTC-22679,109A,chennai,0
+MTC-22680,109A,chennai,0
+MTC-22682,V51 R1,chennai,0
+MTC-22684,V51 R,chennai,0
+MTC-22685,500E R,chennai,0
+MTC-22687,S90,chennai,0
+MTC-22688,519T,chennai,0
+MTC-22689,118T,chennai,0
+MTC-22691,118T,chennai,0
+MTC-22692,21G CT5,chennai,0
+MTC-22693,118P CT,chennai,0
+MTC-22694,519T,chennai,0
+MTC-22703,55DEt,chennai,0
+MTC-22708,S6,chennai,0
+MTC-22711,55M,chennai,0
+MTC-22698,500,chennai,0
+MTC-22699,500,chennai,0
+MTC-22700,55V,chennai,0
+MTC-22701,55V,chennai,0
+MTC-22702,55DEt,chennai,0
+MTC-22704,515,chennai,0
+MTC-22705,515,chennai,0
+MTC-22706,202 R1,chennai,0
+MTC-22707,S6,chennai,0
+MTC-22712,55M,chennai,0
+MTC-22713,55C R,chennai,0
+MTC-22714,21L CT1,chennai,0
+MTC-22716,55C R,chennai,0
+MTC-22717,515B,chennai,0
+MTC-22730,118G,chennai,0
+MTC-22719,515B,chennai,0
+MTC-22720,515CT,chennai,0
+MTC-22722,21L R,chennai,0
+MTC-22723,515CT,chennai,0
+MTC-22729,118G,chennai,0
+MTC-22732,55G,chennai,0
+MTC-22734,55G,chennai,0
+MTC-22737,55D,chennai,0
+MTC-22738,55D,chennai,0
+MTC-22740,568B,chennai,0
+MTC-22741,568B,chennai,0
+MTC-22747,153T,chennai,0
+MTC-22748,153T,chennai,0
+MTC-22749,154B,chennai,0
+MTC-22750,154B,chennai,0
+MTC-20398,120,chennai,0
+MTC-20399,120,chennai,0
+MTC-22754,54K,chennai,0
+MTC-22755,120 R,chennai,0
+MTC-22759,54K,chennai,0
+MTC-22758,120 R1,chennai,0
+MTC-22763,18A R,chennai,0
+MTC-22765,54L R,chennai,0
+MTC-22766,54L R,chennai,0
+MTC-22767,54T,chennai,0
+MTC-22768,54T,chennai,0
+MTC-22771,553K,chennai,0
+MTC-22772,553K,chennai,0
+MTC-22774,553K R,chennai,0
+MTC-22775,553K R,chennai,0
+MTC-22777,578Et,chennai,0
+MTC-22779,583A R1,chennai,0
+MTC-22780,597A R,chennai,0
+MTC-22784,S75,chennai,0
+MTC-22785,65A CT3,chennai,0
+MTC-22786,S75,chennai,0
+MTC-22787,65A CT1,chennai,0
+MTC-22791,D70Ct,chennai,0
+MTC-22795,21G CT5,chennai,0
+MTC-22798,101CT,chennai,0
+MTC-22800,27B R,chennai,0
+MTC-22802,27B R1,chennai,0
+MTC-22803,104A,chennai,0
+MTC-22805,104A,chennai,0
+MTC-22806,40A,chennai,0
+MTC-22809,40A,chennai,0
+MTC-22810,572,chennai,0
+MTC-22811,572,chennai,0
+MTC-22814,572K,chennai,0
+MTC-22817,572K,chennai,0
+MTC-22832,54,chennai,0
+MTC-22823,580M,chennai,0
+MTC-22830,S46,chennai,0
+MTC-22825,580M,chennai,0
+MTC-22826,65E,chennai,0
+MTC-22827,65E,chennai,0
+MTC-22828,77E,chennai,0
+MTC-22829,77E,chennai,0
+MTC-22833,73A,chennai,0
+MTC-22834,73A,chennai,0
+MTC-22835,65K,chennai,0
+MTC-22837,S49,chennai,0
+MTC-22838,S49,chennai,0
+MTC-22843,65D,chennai,0
+MTC-22844,65D,chennai,0
+MTC-22846,15 ct4,chennai,0
+MTC-22850,18A R,chennai,0
+MTC-22852,18A R1,chennai,0
+MTC-22856,76,chennai,0
+MTC-22857,76,chennai,0
+MTC-22848,A51,chennai,0
+MTC-21558,54,chennai,0
+MTC-22836,54,chennai,0
+MTC-21926,54,chennai,0
+MTC-21521,71E,chennai,0
+MTC-21522,71E,chennai,0
+MTC-21520,71E,chennai,0
+MTC-22863,102K CT13,chennai,0
+MTC-22868,142 R,chennai,0
+MTC-22870,26 R1,chennai,0
+MTC-22871,26 CT8,chennai,0
+MTC-22872,26 CT7,chennai,0
+MTC-22873,26 R,chennai,0
+MTC-22876,A1 CT2,chennai,0
+MTC-22877,A45B CT2,chennai,0
+MTC-22887,S2 R1,chennai,0
+MTC-22879,A45B CT,chennai,0
+MTC-22880,1C CT9,chennai,0
+MTC-22882,A45B R1,chennai,0
+MTC-22884,A45B R,chennai,0
+MTC-22885,28B R,chennai,0
+MTC-22886,S2 R,chennai,0
+MTC-22889,A51 CT,chennai,0
+MTC-22890,A51 CT1,chennai,0
+MTC-22892,A51 CT2,chennai,0
+MTC-22893,A51 R1,chennai,0
+MTC-22894,A51 CT3,chennai,0
+MTC-22899,23C,chennai,0
+MTC-22900,17K R,chennai,0
+MTC-22901,17E R,chennai,0
+MTC-22906,88K R1,chennai,0
+MTC-22915,102P CT20,chennai,0
+MTC-22909,583A R,chennai,0
+MTC-22910,23C R3,chennai,0
+MTC-22913,102P CT1,chennai,0
+MTC-22923,24A R1,chennai,0
+MTC-22917,102P CT24,chennai,0
+MTC-22919,102P CT25,chennai,0
+MTC-22920,102P CT7,chennai,0
+MTC-22921,24A CT6,chennai,0
+MTC-22922,24A CT3,chennai,0
+MTC-22924,24A,chennai,0
+MTC-22925,24AX,chennai,0
+MTC-22926,24AX,chennai,0
+MTC-22929,109 CT,chennai,0
+MTC-22930,109 R1,chennai,0
+MTC-22931,109 CT1,chennai,0
+MTC-22932,109 CT2,chennai,0
+MTC-22933,109 CT3,chennai,0
+MTC-22934,15G R1,chennai,0
+MTC-22935,15G R,chennai,0
+MTC-22936,7H R,chennai,0
+MTC-22937,7H R,chennai,0
+MTC-22938,104CX R,chennai,0
+MTC-22939,104CX R,chennai,0
+MTC-22940,153P,chennai,0
+MTC-22941,77VEt,chennai,0
+MTC-22942,63 R,chennai,0
+MTC-22948,7E R1,chennai,0
+MTC-22944,47C,chennai,0
+MTC-22945,120G R,chennai,0
+MTC-22946,47CX,chennai,0
+MTC-22947,47CX,chennai,0
+MTC-22949,70LCt,chennai,0
+MTC-22950,S73,chennai,0
+MTC-22956,71E R,chennai,0
+MTC-22957,71E R1,chennai,0
+MTC-22960,41D CT2,chennai,0
+MTC-22962,41D R,chennai,0
+MTC-22963,41D CT5,chennai,0
+MTC-22965,41D R1,chennai,0
+MTC-22966,M1 R,chennai,0
+MTC-22967,M1 R,chennai,0
+MTC-22971,5C CT1,chennai,0
+MTC-22969,5C CT,chennai,0
+MTC-22970,5C R,chennai,0
+MTC-22972,5C R1,chennai,0
+MTC-22975,A51 CT8,chennai,0
+MTC-22976,A51 R3,chennai,0
+MTC-22977,119 CT7,chennai,0
+MTC-22982,18R R1,chennai,0
+MTC-22984,109T,chennai,0
+MTC-22985,109T,chennai,0
+MTC-22986,121 R1,chennai,0
+MTC-22987,121 R,chennai,0
+MTC-22988,36K,chennai,0
+MTC-22989,36K,chennai,0
+MTC-22990,36M,chennai,0
+MTC-22991,36M,chennai,0
+MTC-22992,36V,chennai,0
+MTC-22993,36V,chennai,0
+MTC-22995,37 R,chennai,0
+MTC-22996,37 R1,chennai,0
+MTC-22997,38D,chennai,0
+MTC-22998,38D,chennai,0
+MTC-22999,44,chennai,0
+MTC-23000,44,chennai,0
+MTC-23001,44C R,chennai,0
+MTC-23002,578,chennai,0
+MTC-23003,44C R,chennai,0
+MTC-23004,44CT R,chennai,0
+MTC-23005,44CT R,chennai,0
+MTC-23006,556 CT,chennai,0
+MTC-23007,578Et,chennai,0
+MTC-23008,556 CT,chennai,0
+MTC-23011,595 R1,chennai,0
+MTC-23016,10E CT2,chennai,0
+MTC-23018,119 CT8,chennai,0
+MTC-23019,120 CT1,chennai,0
+MTC-23020,120 CT2,chennai,0
+MTC-23021,17D CT,chennai,0
+MTC-23022,18A CT11,chennai,0
+MTC-23023,18A CT12,chennai,0
+MTC-23024,18A CT9,chennai,0
+MTC-23025,41D CT3,chennai,0
+MTC-23026,41D CT4,chennai,0
+MTC-23028,5C CT2,chennai,0
+MTC-23029,5C CT2,chennai,0
+MTC-23030,71E CT1,chennai,0
+MTC-23031,71E CT2,chennai,0
+MTC-23032,91 CT11,chennai,0
+MTC-23033,91 CT7,chennai,0
+MTC-23035,A51 CT4,chennai,0
+MTC-23036,A51 CT5,chennai,0
+MTC-23037,M1 CT7,chennai,0
+MTC-23038,MAA2 CT2,chennai,0
+MTC-23039,S73T R1,chennai,0
+MTC-23040,S73T R,chennai,0
+MTC-23048,18S,chennai,0
+MTC-23049,9M,chennai,0
+MTC-23050,9M,chennai,0
+MTC-23065,S13,chennai,0
+MTC-23052,S18D,chennai,0
+MTC-23053,S18D,chennai,0
+MTC-23054,18S,chennai,0
+MTC-23055,45A,chennai,0
+MTC-23056,45A,chennai,0
+MTC-23059,51M,chennai,0
+MTC-23060,51M,chennai,0
+MTC-23061,552K,chennai,0
+MTC-23062,552K,chennai,0
+MTC-23063,91R,chennai,0
+MTC-23064,91R,chennai,0
+MTC-23066,S13,chennai,0
+MTC-23067,D70,chennai,0
+MTC-23068,D70,chennai,0
+MTC-23069,J51 CT,chennai,0
+MTC-23071,J51 CT,chennai,0
+MTC-23072,J51,chennai,0
+MTC-23073,J51,chennai,0
+MTC-23074,M18C,chennai,0
+MTC-23075,91 R1,chennai,0
+MTC-23076,91 R1,chennai,0
+MTC-23078,9MEt,chennai,0
+MTC-23079,9MEt,chennai,0
+MTC-23080,18D,chennai,0
+MTC-23081,18D,chennai,0
+MTC-23082,21G CT6,chennai,0
+MTC-23083,56A R,chennai,0
+MTC-23085,56A R1,chennai,0
+MTC-23087,104C,chennai,0
+MTC-23090,121 ct1,chennai,0
+MTC-23095,515A cut,chennai,0
+MTC-23098,S44 ct,chennai,0
+MTC-23101,4 R,chennai,0
+MTC-23103,157E,chennai,0
+MTC-23108,S18K,chennai,0
+MTC-23109,29AEt CT,chennai,0
+MTC-23110,56ACt R,chennai,0
+MTC-23111,56ACt R1,chennai,0
+MTC-23112,C56C R1,chennai,0
+MTC-23113,102M,chennai,0
+MTC-23115,19C,chennai,0
+MTC-23116,19C,chennai,0
+MTC-23117,19T,chennai,0
+MTC-23118,19T,chennai,0
+MTC-23119,T29C,chennai,0
+MTC-23120,T29C,chennai,0
+MTC-23121,29C R,chennai,0
+MTC-23122,47,chennai,0
+MTC-23123,47,chennai,0
+MTC-23124,109Ct,chennai,0
+MTC-23125,109Ct,chennai,0
+MTC-23126,96 R,chennai,0
+MTC-23127,96 R1,chennai,0
+MTC-23131,19 CT6,chennai,0
+MTC-23132,19 CT4,chennai,0
+MTC-23136,95 CT,chennai,0
+MTC-23137,95,chennai,0
+MTC-23138,95 R,chennai,0
+MTC-23140,102 CT16,chennai,0
+MTC-23142,119 R1,chennai,0
+MTC-23143,119 CT2,chennai,0
+MTC-23144,119 CT4,chennai,0
+MTC-23146,221 CT1,chennai,0
+MTC-23147,221 CT7,chennai,0
+MTC-23148,221 RE1,chennai,0
+MTC-23149,523 CT,chennai,0
+MTC-23151,570 CT4,chennai,0
+MTC-23152,570 CT3,chennai,0
+MTC-23155,102A,chennai,0
+MTC-23156,102C R2,chennai,0
+MTC-23161,102CT R1,chennai,0
+MTC-23154,570 CT3,chennai,0
+MTC-23162,102 CT1,chennai,0
+MTC-23163,102CT CT7,chennai,0
+MTC-23165,102 CT3,chennai,0
+MTC-23168,102M,chennai,0
+MTC-23169,102P CT30,chennai,0
+MTC-23171,102P CT4,chennai,0
+MTC-23172,102P CT5,chennai,0
+MTC-23173,102P CT8,chennai,0
+MTC-23174,102P CT15,chennai,0
+MTC-23175,102S,chennai,0
+MTC-23179,102X CT,chennai,0
+MTC-23180,102X CT3,chennai,0
+MTC-23181,102X CT7,chennai,0
+MTC-23185,19AX,chennai,0
+MTC-23186,19B,chennai,0
+MTC-23189,19BEt CT,chennai,0
+MTC-23190,19D,chennai,0
+MTC-23191,19D CT1,chennai,0
+MTC-23192,19D CT,chennai,0
+MTC-23193,23C CT,chennai,0
+MTC-23194,523A,chennai,0
+MTC-23195,523A CT,chennai,0
+MTC-23196,570P CT,chennai,0
+MTC-23197,570P CT,chennai,0
+MTC-23198,570P CT1,chennai,0
+MTC-23199,570V,chennai,0
+MTC-23212,101 R,chennai,0
+MTC-23202,99X,chennai,0
+MTC-23204,M51DCT,chennai,0
+MTC-23207,19A CT1,chennai,0
+MTC-23208,19A R,chennai,0
+MTC-23210,101 R1,chennai,0
+MTC-23213,101 CT7,chennai,0
+MTC-23215,101 CT5,chennai,0
+MTC-23216,101 CT2,chennai,0
+MTC-23223,119 R,chennai,0
+MTC-23224,119 CT,chennai,0
+MTC-23236,56P CT9,chennai,0
+MTC-23229,6D R1,chennai,0
+MTC-23245,1C R1,chennai,0
+MTC-23232,6D CT2,chennai,0
+MTC-23233,56P R,chennai,0
+MTC-23234,56P R2,chennai,0
+MTC-23235,56P CT14,chennai,0
+MTC-23242,101E,chennai,0
+MTC-23241,101E,chennai,0
+MTC-23243,159B,chennai,0
+MTC-23244,159B,chennai,0
+MTC-23246,1C R,chennai,0
+MTC-23250,56D R1,chennai,0
+MTC-23253,56D R,chennai,0
+MTC-23263,17D R,chennai,0
+MTC-23268,B18,chennai,0
+MTC-23269,B18,chennai,0
+MTC-23266,32A,chennai,0
+MTC-23280,157T,chennai,0
+MTC-23281,157T,chennai,0
+MTC-23283,32A,chennai,0
+MTC-23295,500Et R1,chennai,0
+MTC-23296,52 CT1,chennai,0
+MTC-23304,60D R1,chennai,0
+MTC-23298,52 CT,chennai,0
+MTC-23294,60H R3,chennai,0
+MTC-23299,52 CT3,chennai,0
+MTC-23302,52 CT2,chennai,0
+MTC-23303,60D CT,chennai,0
+MTC-23305,60D R2,chennai,0
+MTC-23308,60D CT1,chennai,0
+MTC-23340,52 R1,chennai,0
+MTC-23327,6D CT,chennai,0
+MTC-23335,10E R1,chennai,0
+MTC-23336,10E R,chennai,0
+MTC-23338,26 R1,chennai,0
+MTC-23339,26 R2,chennai,0
+MTC-23342,52 R2,chennai,0
+MTC-23343,60D R3,chennai,0
+MTC-23344,60D R4,chennai,0
+MTC-23345,60D R3,chennai,0
+MTC-23346,60D R4,chennai,0
+MTC-23347,60G R1,chennai,0
+MTC-23348,60G R2,chennai,0
+MTC-23349,60H R,chennai,0
+MTC-23350,60H R1,chennai,0
+MTC-23351,109 CT,chennai,0
+MTC-23352,142B CT,chennai,0
+MTC-23354,27B CT1,chennai,0
+MTC-23355,27B CT4,chennai,0
+MTC-23356,27B CT7,chennai,0
+MTC-23357,4 CT5,chennai,0
+MTC-23358,54L CT1,chennai,0
+MTC-23360,101 CT3,chennai,0
+MTC-23361,101 CT1,chennai,0
+MTC-23365,104 CT1,chennai,0
+MTC-23364,102CT CT1,chennai,0
+MTC-23366,104 CT1,chennai,0
+MTC-23370,104C CT1,chennai,0
+MTC-23376,40L CT1,chennai,0
+MTC-23377,27B CT8,chennai,0
+MTC-23378,27B CT9,chennai,0
+MTC-23379,105 CT,chennai,0
+MTC-23387,114 CT6,chennai,0
+MTC-23385,109T CT,chennai,0
+MTC-23386,114 CT3,chennai,0
+MTC-23388,114 CT7,chennai,0
+MTC-23389,114P CT,chennai,0
+MTC-23390,114P CT1,chennai,0
+MTC-23392,118 CT,chennai,0
+MTC-23393,118 CT,chennai,0
+MTC-23395,121 CT,chennai,0
+MTC-23396,121C CT1,chennai,0
+MTC-23397,121C CT,chennai,0
+MTC-23400,121G,chennai,0
+MTC-23401,121G CT1,chennai,0
+MTC-23402,121G,chennai,0
+MTC-23403,153,chennai,0
+MTC-23404,153P,chennai,0
+MTC-23405,153P,chennai,0
+MTC-23408,159 CT,chennai,0
+MTC-23409,159 CT2,chennai,0
+MTC-23416,16J CT1,chennai,0
+MTC-23417,16J CT,chennai,0
+MTC-23421,170A,chennai,0
+MTC-23423,42B R,chennai,0
+MTC-23425,170C CT,chennai,0
+MTC-23426,170C CT2,chennai,0
+MTC-23427,19T CT,chennai,0
+MTC-23428,19T CT,chennai,0
+MTC-23431,27B CT1,chennai,0
+MTC-23432,27B CT2,chennai,0
+MTC-23435,28B CT,chennai,0
+MTC-23438,3 CT5,chennai,0
+MTC-23439,3 CT6,chennai,0
+MTC-23440,3 CT8,chennai,0
+MTC-23443,36K CT,chennai,0
+MTC-23444,36K CT,chennai,0
+MTC-23445,37 CT,chennai,0
+MTC-23446,38C CT,chennai,0
+MTC-23447,38C CT,chennai,0
+MTC-23448,4 CT3,chennai,0
+MTC-23449,4 CT2,chennai,0
+MTC-23459,47 CT,chennai,0
+MTC-23457,46G CT4,chennai,0
+MTC-23458,95 R2,chennai,0
+MTC-23460,48BX CT,chennai,0
+MTC-23461,48C CT,chennai,0
+MTC-23462,500A CT,chennai,0
+MTC-23463,517K CT,chennai,0
+MTC-23464,51A CT,chennai,0
+MTC-23467,52C CT,chennai,0
+MTC-23468,52C CT,chennai,0
+MTC-23469,52H CT,chennai,0
+MTC-23470,52H CT,chennai,0
+MTC-23473,553W,chennai,0
+MTC-23474,553W,chennai,0
+MTC-23476,554B CT,chennai,0
+MTC-23478,17E R,chennai,0
+MTC-23487,CU2,chennai,0
+MTC-23497,555N CT,chennai,0
+MTC-23499,555N CT,chennai,0
+MTC-23500,556 CT1,chennai,0
+MTC-23501,556 CT1,chennai,0
+MTC-23502,570 CT4,chennai,0
+MTC-23503,570 CT5,chennai,0
+MTC-23504,588 CT,chennai,0
+MTC-23505,588 CT,chennai,0
+MTC-23506,5B,chennai,0
+MTC-23512,62M,chennai,0
+MTC-23513,64M,chennai,0
+MTC-23514,64M,chennai,0
+MTC-23516,70H,chennai,0
+MTC-23517,70H,chennai,0
+MTC-23519,76 CT1,chennai,0
+MTC-23521,76 CT1,chennai,0
+MTC-23522,77,chennai,0
+MTC-23523,77 CT,chennai,0
+MTC-23524,78 CT1,chennai,0
+MTC-23528,89TCt,chennai,0
+MTC-23529,89TCt,chennai,0
+MTC-23530,8ACT,chennai,0
+MTC-23531,8ACT,chennai,0
+MTC-23532,91A,chennai,0
+MTC-23533,91A CT,chennai,0
+MTC-23534,95 CT,chennai,0
+MTC-23536,95 CT1,chennai,0
+MTC-23538,95X CT4,chennai,0
+MTC-23540,95X CT5,chennai,0
+MTC-23544,F70,chennai,0
+MTC-23546,S35 CT,chennai,0
+MTC-23549,V51 CT3,chennai,0
+MTC-23557,129C CT,chennai,0
+MTC-23558,129C CT,chennai,0
+MTC-23555,102S R1,chennai,0
+MTC-23556,102S R2,chennai,0
+MTC-23560,29CEX CT,chennai,0
+MTC-23561,29CEX CT,chennai,0
+MTC-23562,29Et CT,chennai,0
+MTC-23563,29Et CT,chennai,0
+MTC-23564,29NEt CT1,chennai,0
+MTC-23565,29NEt CT1,chennai,0
+MTC-23566,114 CT1,chennai,0
+MTC-23568,114D CT,chennai,0
+MTC-23569,114D CT,chennai,0
+MTC-23570,114E CT,chennai,0
+MTC-23571,114E CT,chennai,0
+MTC-23573,48BX CT,chennai,0
+MTC-23574,48C CT,chennai,0
+MTC-23575,505 CT,chennai,0
+MTC-23576,512 CT,chennai,0
+MTC-23577,512 CT,chennai,0
+MTC-23579,547 CT,chennai,0
+MTC-23580,547 CT1,chennai,0
+MTC-23586,547 R,chennai,0
+MTC-23587,547 R,chennai,0
+MTC-23589,242 R,chennai,0
+MTC-23591,7M R,chennai,0
+MTC-23600,109 R,chennai,0
+MTC-23601,109,chennai,0
+MTC-23608,51B CT2,chennai,0
+MTC-23596,6D R,chennai,0
+MTC-23597,21G R,chennai,0
+MTC-23598,6 R,chennai,0
+MTC-23609,51B CT12,chennai,0
+MTC-23612,583 R1,chennai,0
+MTC-23613,583 R2,chennai,0
+MTC-23614,583 CT2,chennai,0
+MTC-23615,583 CT5,chennai,0
+MTC-23617,77 R,chennai,0
+MTC-23618,7M RE,chennai,0
+MTC-23619,114 R2,chennai,0
+MTC-23620,114 R4,chennai,0
+MTC-23621,114 CT8,chennai,0
+MTC-23622,114 CT9,chennai,0
+MTC-23624,164 R1,chennai,0
+MTC-23625,164 CT2,chennai,0
+MTC-23626,164 R2,chennai,0
+MTC-23630,21P R,chennai,0
+MTC-23631,21P R1,chennai,0
+MTC-23636,P91,chennai,0
+MTC-23638,P91,chennai,0
+MTC-23655,P570S CT2,chennai,0
+MTC-23656,P570S CT3,chennai,0
+MTC-23660,202 CT2,chennai,0
+MTC-23669,202 CT4,chennai,0
+MTC-23666,202 CT5,chennai,0
+MTC-23667,202 R5,chennai,0
+MTC-23668,202 R6,chennai,0
+MTC-23672,91V CT2,chennai,0
+MTC-23674,91V CT1,chennai,0
+MTC-23719,21C R,chennai,0
+MTC-23720,21C CT8,chennai,0
+MTC-23721,21C CT4,chennai,0
+MTC-23722,21C CT1,chennai,0
+MTC-23723,21C CT3,chennai,0
+MTC-23724,66,chennai,0
+MTC-23726,12M,chennai,0
+MTC-23711,578,chennai,0
+MTC-23693,51 CT2,chennai,0
+MTC-23708,91V R9,chennai,0
+MTC-23709,91V  R,chennai,0
+MTC-23718,21C R,chennai,0
+CMRL-141142,SWN-SAP,chennai,1
+CMRL-109117,SAP-SWN,chennai,1
+CMRL-23214,SMM-SCC,chennai,1
+CMRL-2201,SCC-SAP,chennai,1
+CMRL-23117,SAP-SCC,chennai,1
+CMRL-102146,SAP-SWN,chennai,1
+CMRL-1108,SWN-SAP,chennai,1
+CMRL-29117,SAP-SCM,chennai,1
+CMRL-2214,SCC-SAP,chennai,1
+CMRL-1104,SWN-SAP,chennai,1
+CMRL-17210,SCC-SMM,chennai,1
+CMRL-24217,SMM-SCC,chennai,1
+CMRL-17201,SCC-SMM,chennai,1
+CMRL-109114,SAP-SWN,chennai,1
+CMRL-2206,SCC-SAP,chennai,1
+CMRL-102101,SAP-SWN,chennai,1
+CMRL-24209,SMM-SCC,chennai,1
+CMRL-23203,SMM-SCC,chennai,1
+CMRL-1101,SWN-SAP,chennai,1
+CMRL-1114,SWN-SAP,chennai,1
+CMRL-109108,SAP-SWN,chennai,1
+CMRL-109160,SAP-SWN,chennai,1
+CMRL-1211,SCC-SAP,chennai,1
+CMRL-23258,SMM-SCC,chennai,1
+CMRL-17211,SCC-SMM,chennai,1
+CMRL-18201,SCC-SMM,chennai,1
+CMRL-29217,SMM-SCM,chennai,1
+CMRL-102103,SAP-SWN,chennai,1
+SRR-40001,40001,chennai,1
+SRR-40002,40002,chennai,1
+SRR-40003,40003,chennai,1
+SRR-40004,40004,chennai,1
+SRR-40005,40005,chennai,1
+SRR-40006,40006,chennai,1
+SRR-40007,40007,chennai,1
+SRR-40008,40008,chennai,1
+SRR-40009,40009,chennai,1
+SRR-40010,40010,chennai,1
+SRR-40011,40011,chennai,1
+SRR-40012,40012,chennai,1
+SRR-40013,40013,chennai,1
+SRR-40014,40014,chennai,1
+SRR-40015,40015,chennai,1
+SRR-40016,40016,chennai,1
+SRR-40017,40017,chennai,1
+SRR-40018,40018,chennai,1
+SRR-40019,40019,chennai,1
+SRR-40020,40020,chennai,1
+SRR-40021,40021,chennai,1
+SRR-40022,40022,chennai,1
+SRR-40024,40024,chennai,1
+SRR-40025,40025,chennai,1
+SRR-40026,40026,chennai,1
+SRR-40027,40027,chennai,1
+SRR-40028,40028,chennai,1
+SRR-40029,40029,chennai,1
+SRR-40030,40030,chennai,1
+SRR-40031,40031,chennai,1
+SRR-40032,40032,chennai,1
+SRR-40033,40033,chennai,1
+SRR-40034,40034,chennai,1
+SRR-40035,40035,chennai,1
+SRR-40036,40036,chennai,1
+SRR-40037,40037,chennai,1
+SRR-40038,40038,chennai,1
+SRR-40039,40039,chennai,1
+SRR-40040,40040,chennai,1
+SRR-40041,40041,chennai,1
+SRR-40042,40042,chennai,1
+SRR-40043,40043,chennai,1
+SRR-40044,40044,chennai,1
+SRR-40045,40045,chennai,1
+SRR-40046,40046,chennai,1
+SRR-40047,40047,chennai,1
+SRR-40049,40049,chennai,1
+SRR-40050,40050,chennai,1
+SRR-40051,40051,chennai,1
+SRR-40052,40052,chennai,1
+SRR-40053,40053,chennai,1
+SRR-40054,40054,chennai,1
+SRR-40055,40055,chennai,1
+SRR-40056,40056,chennai,1
+SRR-40057,40057,chennai,1
+SRR-40058,40058,chennai,1
+SRR-40059,40059,chennai,1
+SRR-40060,40060,chennai,1
+SRR-40061,40061,chennai,1
+SRR-40062,40062,chennai,1
+SRR-40063,40063,chennai,1
+SRR-40064,40064,chennai,1
+SRR-40065,40065,chennai,1
+SRR-40066,40066,chennai,1
+SRR-40067,40067,chennai,1
+SRR-40068,40068,chennai,1
+SRR-40069,40069,chennai,1
+SRR-40070,40070,chennai,1
+SRR-40071,40071,chennai,1
+SRR-40072,40072,chennai,1
+SRR-40073,40073,chennai,1
+SRR-40074,40074,chennai,1
+SRR-40075,40075,chennai,1
+SRR-40076,40076,chennai,1
+SRR-40077,40077,chennai,1
+SRR-40078,40078,chennai,1
+SRR-40079,40079,chennai,1
+SRR-40080,40080,chennai,1
+SRR-40081,40081,chennai,1
+SRR-40082,40082,chennai,1
+SRR-40083,40083,chennai,1
+SRR-40084,40084,chennai,1
+SRR-40085,40085,chennai,1
+SRR-40086,40086,chennai,1
+SRR-40087,40087,chennai,1
+SRR-40088,40088,chennai,1
+SRR-40089,40089,chennai,1
+SRR-40090,40090,chennai,1
+SRR-40091,40091,chennai,1
+SRR-40092,40092,chennai,1
+SRR-40093,40093,chennai,1
+SRR-40094,40094,chennai,1
+SRR-40096,40096,chennai,1
+SRR-40201,40201,chennai,1
+SRR-40202,40202,chennai,1
+SRR-40203,40203,chennai,1
+SRR-40204,40204,chennai,1
+SRR-40205,40205,chennai,1
+SRR-40206,40206,chennai,1
+SRR-40207,40207,chennai,1
+SRR-40208,40208,chennai,1
+SRR-40209,40209,chennai,1
+SRR-40251,40251,chennai,2
+SRR-40252,40252,chennai,2
+SRR-40253,40253,chennai,2
+SRR-40254,40254,chennai,2
+SRR-40255,40255,chennai,2
+SRR-40256,40256,chennai,2
+SRR-40257,40257,chennai,2
+SRR-40258,40258,chennai,2
+SRR-40259,40259,chennai,2
+SRR-40260,40260,chennai,2
+SRR-40301,40301,chennai,2
+SRR-40302,40302,chennai,2
+SRR-40303,40303,chennai,2
+SRR-40304,40304,chennai,2
+SRR-40305,40305,chennai,2
+SRR-40306,40306,chennai,2
+SRR-40307,40307,chennai,2
+SRR-40308,40308,chennai,2
+SRR-40309,40309,chennai,2
+SRR-40310,40310,chennai,2
+SRR-40311,40311,chennai,2
+SRR-40312,40312,chennai,2
+SRR-40313,40313,chennai,2
+SRR-40314,40314,chennai,2
+SRR-40315,40315,chennai,2
+SRR-40316,40316,chennai,2
+SRR-40317,40317,chennai,2
+SRR-40318,40318,chennai,2
+SRR-40319,40319,chennai,2
+SRR-40320,40320,chennai,2
+SRR-40321,40321,chennai,2
+SRR-40322,40322,chennai,2
+SRR-40323,40323,chennai,2
+SRR-40324,40324,chennai,2
+SRR-40325,40325,chennai,2
+SRR-40326,40326,chennai,2
+SRR-40327,40327,chennai,2
+SRR-40328,40328,chennai,2
+SRR-40329,40329,chennai,2
+SRR-40330,40330,chennai,2
+SRR-40331,40331,chennai,2
+SRR-40332,40332,chennai,2
+SRR-40333,40333,chennai,2
+SRR-40334,40334,chennai,2
+SRR-40335,40335,chennai,2
+SRR-40336,40336,chennai,2
+SRR-40337,40337,chennai,2
+SRR-40338,40338,chennai,2
+SRR-40339,40339,chennai,2
+SRR-40340,40340,chennai,2
+SRR-40341,40341,chennai,2
+SRR-40342,40342,chennai,2
+SRR-40343,40343,chennai,2
+SRR-40344,40344,chennai,2
+SRR-40345,40345,chennai,2
+SRR-40346,40346,chennai,2
+SRR-40347,40347,chennai,2
+SRR-40348,40348,chennai,2
+SRR-40349,40349,chennai,2
+SRR-40350,40350,chennai,2
+SRR-40351,40351,chennai,2
+SRR-40352,40352,chennai,2
+SRR-40353,40353,chennai,2
+SRR-40354,40354,chennai,2
+SRR-40355,40355,chennai,2
+SRR-40356,40356,chennai,2
+SRR-40357,40357,chennai,2
+SRR-40358,40358,chennai,2
+SRR-40359,40359,chennai,2
+SRR-40360,40360,chennai,2
+SRR-40361,40361,chennai,2
+SRR-40362,40362,chennai,2
+SRR-40363,40363,chennai,2
+SRR-40364,40364,chennai,2
+SRR-40365,40365,chennai,2
+SRR-40366,40366,chennai,2
+SRR-40367,40367,chennai,2
+SRR-40368,40368,chennai,2
+SRR-40369,40369,chennai,2
+SRR-40370,40370,chennai,2
+SRR-40371,40371,chennai,2
+SRR-40372,40372,chennai,2
+SRR-40373,40373,chennai,2
+SRR-40374,40374,chennai,2
+SRR-40375,40375,chennai,2
+SRR-40376,40376,chennai,2
+SRR-40377,40377,chennai,2
+SRR-40378,40378,chennai,2
+SRR-40379,40379,chennai,2
+SRR-40380,40380,chennai,2
+SRR-40381,40381,chennai,2
+SRR-40382,40382,chennai,2
+SRR-40383,40383,chennai,2
+SRR-40384,40384,chennai,2
+SRR-40385,40385,chennai,2
+SRR-40386,40386,chennai,2
+SRR-40388,40388,chennai,2
+SRR-40390,40390,chennai,2
+SRR-40392,40392,chennai,2
+SRR-40394,40394,chennai,2
+SRR-40396,40396,chennai,2
+SRR-40501,40501,chennai,1
+SRR-40502,40502,chennai,1
+SRR-40503,40503,chennai,1
+SRR-40504,40504,chennai,1
+SRR-40505,40505,chennai,1
+SRR-40506,40506,chennai,1
+SRR-40507,40507,chennai,1
+SRR-40508,40508,chennai,1
+SRR-40509,40509,chennai,1
+SRR-40510,40510,chennai,1
+SRR-40511,40511,chennai,1
+SRR-40512,40512,chennai,1
+SRR-40513,40513,chennai,1
+SRR-40514,40514,chennai,1
+SRR-40515,40515,chennai,1
+SRR-40516,40516,chennai,1
+SRR-40517,40517,chennai,1
+SRR-40518,40518,chennai,1
+SRR-40519,40519,chennai,1
+SRR-40520,40520,chennai,1
+SRR-40521,40521,chennai,1
+SRR-40522,40522,chennai,1
+SRR-40523,40523,chennai,1
+SRR-40524,40524,chennai,1
+SRR-40525,40525,chennai,1
+SRR-40526,40526,chennai,1
+SRR-40527,40527,chennai,1
+SRR-40528,40528,chennai,1
+SRR-40529,40529,chennai,1
+SRR-40530,40530,chennai,1
+SRR-40531,40531,chennai,1
+SRR-40532,40532,chennai,1
+SRR-40533,40533,chennai,1
+SRR-40534,40534,chennai,1
+SRR-40535,40535,chennai,1
+SRR-40536,40536,chennai,1
+SRR-40537,40537,chennai,1
+SRR-40538,40538,chennai,1
+SRR-40539,40539,chennai,1
+SRR-40540,40540,chennai,1
+SRR-40541,40541,chennai,1
+SRR-40542,40542,chennai,1
+SRR-40543,40543,chennai,1
+SRR-40544,40544,chennai,1
+SRR-40545,40545,chennai,1
+SRR-40546,40546,chennai,1
+SRR-40547,40547,chennai,1
+SRR-40548,40548,chennai,1
+SRR-40549,40549,chennai,1
+SRR-40550,40550,chennai,1
+SRR-40551,40551,chennai,1
+SRR-40552,40552,chennai,1
+SRR-40553,40553,chennai,1
+SRR-40554,40554,chennai,1
+SRR-40555,40555,chennai,1
+SRR-40556,40556,chennai,1
+SRR-40557,40557,chennai,1
+SRR-40558,40558,chennai,1
+SRR-40559,40559,chennai,1
+SRR-40560,40560,chennai,1
+SRR-40561,40561,chennai,1
+SRR-40562,40562,chennai,1
+SRR-40563,40563,chennai,1
+SRR-40564,40564,chennai,1
+SRR-40565,40565,chennai,1
+SRR-40566,40566,chennai,1
+SRR-40567,40567,chennai,1
+SRR-40568,40568,chennai,1
+SRR-40569,40569,chennai,1
+SRR-40570,40570,chennai,1
+SRR-40571,40571,chennai,1
+SRR-40572,40572,chennai,1
+SRR-40581,40581,chennai,1
+SRR-40582,40582,chennai,1
+SRR-40592,40592,chennai,1
+SRR-40601,40601,chennai,2
+SRR-40602,40602,chennai,2
+SRR-40603,40603,chennai,2
+SRR-40604,40604,chennai,2
+SRR-40605,40605,chennai,2
+SRR-40606,40606,chennai,2
+SRR-40607,40607,chennai,2
+SRR-40608,40608,chennai,2
+SRR-40609,40609,chennai,2
+SRR-40610,40610,chennai,2
+SRR-40611,40611,chennai,2
+SRR-40612,40612,chennai,2
+SRR-40613,40613,chennai,2
+SRR-40614,40614,chennai,2
+SRR-40615,40615,chennai,2
+SRR-40616,40616,chennai,2
+SRR-40617,40617,chennai,2
+SRR-40618,40618,chennai,2
+SRR-40619,40619,chennai,2
+SRR-40620,40620,chennai,2
+SRR-40621,40621,chennai,2
+SRR-40622,40622,chennai,2
+SRR-40623,40623,chennai,2
+SRR-40624,40624,chennai,2
+SRR-40625,40625,chennai,2
+SRR-40626,40626,chennai,2
+SRR-40627,40627,chennai,2
+SRR-40628,40628,chennai,2
+SRR-40629,40629,chennai,2
+SRR-40630,40630,chennai,2
+SRR-40631,40631,chennai,2
+SRR-40632,40632,chennai,2
+SRR-40633,40633,chennai,2
+SRR-40634,40634,chennai,2
+SRR-40635,40635,chennai,2
+SRR-40636,40636,chennai,2
+SRR-40637,40637,chennai,2
+SRR-40638,40638,chennai,2
+SRR-40639,40639,chennai,2
+SRR-40640,40640,chennai,2
+SRR-40641,40641,chennai,2
+SRR-40642,40642,chennai,2
+SRR-40643,40643,chennai,2
+SRR-40644,40644,chennai,2
+SRR-40645,40645,chennai,2
+SRR-40646,40646,chennai,2
+SRR-40647,40647,chennai,2
+SRR-40648,40648,chennai,2
+SRR-40649,40649,chennai,2
+SRR-40650,40650,chennai,2
+SRR-40651,40651,chennai,2
+SRR-40652,40652,chennai,2
+SRR-40653,40653,chennai,2
+SRR-40654,40654,chennai,2
+SRR-40655,40655,chennai,2
+SRR-40656,40656,chennai,2
+SRR-40657,40657,chennai,2
+SRR-40658,40658,chennai,2
+SRR-40659,40659,chennai,2
+SRR-40660,40660,chennai,2
+SRR-40661,40661,chennai,2
+SRR-40662,40662,chennai,2
+SRR-40701,40701,chennai,1
+SRR-40702,40702,chennai,1
+SRR-40703,40703,chennai,1
+SRR-40704,40704,chennai,1
+SRR-40751,40751,chennai,2
+SRR-40752,40752,chennai,2
+SRR-40753,40753,chennai,2
+SRR-40754,40754,chennai,2
+SRR-40801,40801,chennai,1
+SRR-40802,40802,chennai,1
+SRR-40803,40803,chennai,1
+SRR-40804,40804,chennai,1
+SRR-40805,40805,chennai,1
+SRR-40806,40806,chennai,1
+SRR-40851,40851,chennai,2
+SRR-40852,40852,chennai,2
+SRR-40853,40853,chennai,2
+SRR-40854,40854,chennai,2
+SRR-40855,40855,chennai,2
+SRR-40856,40856,chennai,2
+SRR-40901,40901,chennai,1
+SRR-40902,40902,chennai,1
+SRR-40903,40903,chennai,1
+SRR-40904,40904,chennai,1
+SRR-40905,40905,chennai,1
+SRR-40906,40906,chennai,1
+SRR-40951,40951,chennai,2
+SRR-40952,40952,chennai,2
+SRR-40953,40953,chennai,2
+SRR-40954,40954,chennai,2
+SRR-40955,40955,chennai,2
+SRR-40956,40956,chennai,2
+SRR-41001,41001,chennai,3
+SRR-41002,41002,chennai,3
+SRR-41003,41003,chennai,3
+SRR-41004,41004,chennai,3
+SRR-41005,41005,chennai,3
+SRR-41006,41006,chennai,3
+SRR-41007,41007,chennai,3
+SRR-41008,41008,chennai,3
+SRR-41009,41009,chennai,3
+SRR-41010,41010,chennai,3
+SRR-41011,41011,chennai,3
+SRR-41012,41012,chennai,3
+SRR-41013,41013,chennai,3
+SRR-41014,41014,chennai,3
+SRR-41015,41015,chennai,3
+SRR-41016,41016,chennai,3
+SRR-41017,41017,chennai,3
+SRR-41018,41018,chennai,3
+SRR-41019,41019,chennai,3
+SRR-41020,41020,chennai,3
+SRR-41021,41021,chennai,3
+SRR-41022,41022,chennai,3
+SRR-41023,41023,chennai,3
+SRR-41024,41024,chennai,3
+SRR-41025,41025,chennai,3
+SRR-41026,41026,chennai,3
+SRR-41027,41027,chennai,3
+SRR-41028,41028,chennai,3
+SRR-41029,41029,chennai,3
+SRR-41030,41030,chennai,3
+SRR-41031,41031,chennai,3
+SRR-41032,41032,chennai,3
+SRR-41033,41033,chennai,3
+SRR-41034,41034,chennai,3
+SRR-41035,41035,chennai,3
+SRR-41036,41036,chennai,3
+SRR-41037,41037,chennai,3
+SRR-41038,41038,chennai,3
+SRR-41039,41039,chennai,3
+SRR-41040,41040,chennai,3
+SRR-41041,41041,chennai,3
+SRR-41042,41042,chennai,3
+SRR-41043,41043,chennai,3
+SRR-41044,41044,chennai,3
+SRR-41045,41045,chennai,3
+SRR-41046,41046,chennai,3
+SRR-41047,41047,chennai,3
+SRR-41048,41048,chennai,3
+SRR-41049,41049,chennai,3
+SRR-41050,41050,chennai,3
+SRR-41051,41051,chennai,3
+SRR-41052,41052,chennai,3
+SRR-41053,41053,chennai,3
+SRR-41054,41054,chennai,3
+SRR-41055,41055,chennai,3
+SRR-41056,41056,chennai,3
+SRR-41057,41057,chennai,3
+SRR-41058,41058,chennai,3
+SRR-41059,41059,chennai,3
+SRR-41060,41060,chennai,3
+SRR-41061,41061,chennai,3
+SRR-41062,41062,chennai,3
+SRR-41063,41063,chennai,3
+SRR-41064,41064,chennai,3
+SRR-41065,41065,chennai,3
+SRR-41066,41066,chennai,3
+SRR-41067,41067,chennai,3
+SRR-41068,41068,chennai,3
+SRR-41069,41069,chennai,3
+SRR-41070,41070,chennai,3
+SRR-41071,41071,chennai,3
+SRR-41072,41072,chennai,3
+SRR-41073,41073,chennai,3
+SRR-41074,41074,chennai,3
+SRR-41075,41075,chennai,3
+SRR-41076,41076,chennai,3
+SRR-41077,41077,chennai,3
+SRR-41078,41078,chennai,3
+SRR-41079,41079,chennai,3
+SRR-41080,41080,chennai,3
+SRR-41081,41081,chennai,3
+SRR-41082,41082,chennai,3
+SRR-41083,41083,chennai,3
+SRR-41084,41084,chennai,3
+SRR-41085,41085,chennai,3
+SRR-41086,41086,chennai,3
+SRR-42001,42001,chennai,3
+SRR-42002,42002,chennai,3
+SRR-42003,42003,chennai,3
+SRR-42004,42004,chennai,3
+SRR-42005,42005,chennai,3
+SRR-42006,42006,chennai,3
+SRR-42007,42007,chennai,3
+SRR-42008,42008,chennai,3
+SRR-42009,42009,chennai,3
+SRR-42010,42010,chennai,3
+SRR-42011,42011,chennai,3
+SRR-42012,42012,chennai,3
+SRR-42013,42013,chennai,3
+SRR-42014,42014,chennai,3
+SRR-42015,42015,chennai,3
+SRR-42016,42016,chennai,3
+SRR-42017,42017,chennai,3
+SRR-42018,42018,chennai,3
+SRR-42019,42019,chennai,3
+SRR-42020,42020,chennai,3
+SRR-42021,42021,chennai,3
+SRR-42022,42022,chennai,3
+SRR-42023,42023,chennai,3
+SRR-42024,42024,chennai,3
+SRR-42025,42025,chennai,3
+SRR-42026,42026,chennai,3
+SRR-42027,42027,chennai,3
+SRR-42028,42028,chennai,3
+SRR-42029,42029,chennai,3
+SRR-42030,42030,chennai,3
+SRR-42031,42031,chennai,3
+SRR-42032,42032,chennai,3
+SRR-42033,42033,chennai,3
+SRR-42034,42034,chennai,3
+SRR-42035,42035,chennai,3
+SRR-42036,42036,chennai,3
+SRR-42037,42037,chennai,3
+SRR-42038,42038,chennai,3
+SRR-42040,42040,chennai,3
+SRR-42042,42042,chennai,3
+SRR-42301,42301,chennai,3
+SRR-42302,42302,chennai,3
+SRR-42401,42401,chennai,3
+SRR-42402,42402,chennai,3
+SRR-42403,42403,chennai,3
+SRR-42404,42404,chennai,3
+SRR-42406,42406,chennai,3
+SRR-42407,42407,chennai,3
+SRR-42408,42408,chennai,3
+SRR-42410,42410,chennai,3
+SRR-42411,42411,chennai,3
+SRR-42413,42413,chennai,3
+SRR-42414,42414,chennai,3
+SRR-42415,42415,chennai,3
+SRR-42416,42416,chennai,3
+SRR-42418,42418,chennai,3
+SRR-42419,42419,chennai,3
+SRR-42421,42421,chennai,3
+SRR-42422,42422,chennai,3
+SRR-42423,42423,chennai,3
+SRR-42425,42425,chennai,3
+SRR-42427,42427,chennai,3
+SRR-42501,42501,chennai,1
+SRR-42502,42502,chennai,1
+SRR-42521,42521,chennai,1
+SRR-42522,42522,chennai,1
+SRR-42601,42601,chennai,3
+SRR-42602,42602,chennai,3
+SRR-42603,42603,chennai,3
+SRR-42604,42604,chennai,3
+SRR-42605,42605,chennai,3
+SRR-42606,42606,chennai,3
+SRR-42607,42607,chennai,3
+SRR-42608,42608,chennai,3
+SRR-42609,42609,chennai,3
+SRR-42610,42610,chennai,3
+SRR-42611,42611,chennai,3
+SRR-42613,42613,chennai,3
+SRR-42701,42701,chennai,3
+SRR-42702,42702,chennai,3
+SRR-42802,42802,chennai,3
+SRR-42804,42804,chennai,3
+SRR-43001,43001,chennai,3
+SRR-43002,43002,chennai,3
+SRR-43003,43003,chennai,3
+SRR-43005,43005,chennai,3
+SRR-43006,43006,chennai,3
+SRR-43007,43007,chennai,3
+SRR-43009,43009,chennai,3
+SRR-43010,43010,chennai,3
+SRR-43011,43011,chennai,3
+SRR-43012,43012,chennai,3
+SRR-43013,43013,chennai,3
+SRR-43014,43014,chennai,3
+SRR-43016,43016,chennai,3
+SRR-43101,43101,chennai,3
+SRR-43102,43102,chennai,3
+SRR-43103,43103,chennai,3
+SRR-43104,43104,chennai,3
+SRR-43105,43105,chennai,3
+SRR-43106,43106,chennai,3
+SRR-43107,43107,chennai,3
+SRR-43108,43108,chennai,3
+SRR-43109,43109,chennai,3
+SRR-43110,43110,chennai,3
+SRR-43111,43111,chennai,3
+SRR-43112,43112,chennai,3
+SRR-43113,43113,chennai,3
+SRR-43114,43114,chennai,3
+SRR-43115,43115,chennai,3
+SRR-43116,43116,chennai,3
+SRR-43117,43117,chennai,3
+SRR-43118,43118,chennai,3
+SRR-43119,43119,chennai,3
+SRR-43120,43120,chennai,3
+SRR-43121,43121,chennai,3
+SRR-43122,43122,chennai,3
+SRR-43123,43123,chennai,3
+SRR-43124,43124,chennai,3
+SRR-43126,43126,chennai,3
+SRR-43201,43201,chennai,3
+SRR-43202,43202,chennai,3
+SRR-43203,43203,chennai,3
+SRR-43204,43204,chennai,3
+SRR-43205,43205,chennai,3
+SRR-43206,43206,chennai,3
+SRR-43207,43207,chennai,3
+SRR-43208,43208,chennai,3
+SRR-43209,43209,chennai,3
+SRR-43210,43210,chennai,3
+SRR-43211,43211,chennai,3
+SRR-43212,43212,chennai,3
+SRR-43213,43213,chennai,3
+SRR-43214,43214,chennai,3
+SRR-43215,43215,chennai,3
+SRR-43216,43216,chennai,3
+SRR-43217,43217,chennai,3
+SRR-43218,43218,chennai,3
+SRR-43219,43219,chennai,3
+SRR-43220,43220,chennai,3
+SRR-43221,43221,chennai,3
+SRR-43222,43222,chennai,3
+SRR-43223,43223,chennai,3
+SRR-43224,43224,chennai,3
+SRR-43225,43225,chennai,3
+SRR-43226,43226,chennai,3
+SRR-43227,43227,chennai,3
+SRR-43228,43228,chennai,3
+SRR-43229,43229,chennai,3
+SRR-43230,43230,chennai,3
+SRR-43231,43231,chennai,3
+SRR-43232,43232,chennai,3
+SRR-43233,43233,chennai,3
+SRR-43234,43234,chennai,3
+SRR-43235,43235,chennai,3
+SRR-43236,43236,chennai,3
+SRR-43237,43237,chennai,3
+SRR-43238,43238,chennai,3
+SRR-43239,43239,chennai,3
+SRR-43240,43240,chennai,3
+SRR-43241,43241,chennai,3
+SRR-43242,43242,chennai,3
+SRR-43243,43243,chennai,3
+SRR-43244,43244,chennai,3
+SRR-43245,43245,chennai,3
+SRR-43246,43246,chennai,3
+SRR-43247,43247,chennai,3
+SRR-43248,43248,chennai,3
+SRR-43249,43249,chennai,3
+SRR-43250,43250,chennai,3
+SRR-43251,43251,chennai,3
+SRR-43252,43252,chennai,3
+SRR-43253,43253,chennai,3
+SRR-43254,43254,chennai,3
+SRR-43401,43401,chennai,3
+SRR-43402,43402,chennai,3
+SRR-43403,43403,chennai,3
+SRR-43404,43404,chennai,3
+SRR-43407,43407,chennai,3
+SRR-43408,43408,chennai,3
+SRR-43409,43409,chennai,3
+SRR-43410,43410,chennai,3
+SRR-43411,43411,chennai,3
+SRR-43412,43412,chennai,3
+SRR-43413,43413,chennai,3
+SRR-43414,43414,chennai,3
+SRR-43415,43415,chennai,3
+SRR-43417,43417,chennai,3
+SRR-43418,43418,chennai,3
+SRR-43420,43420,chennai,3
+SRR-43421,43421,chennai,3
+SRR-43422,43422,chennai,3
+SRR-43423,43423,chennai,3
+SRR-43424,43424,chennai,3
+SRR-43425,43425,chennai,3
+SRR-43426,43426,chennai,3
+SRR-43427,43427,chennai,3
+SRR-43428,43428,chennai,3
+SRR-43429,43429,chennai,3
+SRR-43432,43432,chennai,3
+SRR-43433,43433,chennai,3
+SRR-43434,43434,chennai,3
+SRR-43435,43435,chennai,3
+SRR-43438,43438,chennai,3
+SRR-43439,43439,chennai,3
+SRR-43440,43440,chennai,3
+SRR-43441,43441,chennai,3
+SRR-43442,43442,chennai,3
+SRR-43501,43501,chennai,3
+SRR-43502,43502,chennai,3
+SRR-43503,43503,chennai,3
+SRR-43504,43504,chennai,3
+SRR-43505,43505,chennai,3
+SRR-43506,43506,chennai,3
+SRR-43507,43507,chennai,3
+SRR-43509,43509,chennai,3
+SRR-43510,43510,chennai,3
+SRR-43511,43511,chennai,3
+SRR-43512,43512,chennai,3
+SRR-43513,43513,chennai,3
+SRR-43514,43514,chennai,3
+SRR-43515,43515,chennai,3
+SRR-43516,43516,chennai,3
+SRR-43517,43517,chennai,3
+SRR-43518,43518,chennai,3
+SRR-43519,43519,chennai,3
+SRR-43520,43520,chennai,3
+SRR-43522,43522,chennai,3
+SRR-43524,43524,chennai,3
+SRR-43601,43601,chennai,3
+SRR-43602,43602,chennai,3
+SRR-43603,43603,chennai,3
+SRR-43604,43604,chennai,3
+SRR-43605,43605,chennai,3
+SRR-43606,43606,chennai,3
+SRR-43607,43607,chennai,3
+SRR-43608,43608,chennai,3
+SRR-43609,43609,chennai,3
+SRR-43610,43610,chennai,3
+SRR-43611,43611,chennai,3
+SRR-43612,43612,chennai,3
+SRR-43613,43613,chennai,3
+SRR-43614,43614,chennai,3
+SRR-43616,43616,chennai,3
+SRR-43618,43618,chennai,3
+SRR-43620,43620,chennai,3
+SRR-43622,43622,chennai,3
+SRR-43624,43624,chennai,3
+SRR-43701,43701,chennai,3
+SRR-43702,43702,chennai,3
+SRR-43703,43703,chennai,3
+SRR-43704,43704,chennai,3
+SRR-43705,43705,chennai,3
+SRR-43706,43706,chennai,3
+SRR-43707,43707,chennai,3
+SRR-43708,43708,chennai,3
+SRR-43709,43709,chennai,3
+SRR-43710,43710,chennai,3
+SRR-43711,43711,chennai,3
+SRR-43712,43712,chennai,3
+SRR-43713,43713,chennai,3
+SRR-43715,43715,chennai,3
+SRR-43717,43717,chennai,3
+SRR-43719,43719,chennai,3
+SRR-43751,43751,chennai,3
+SRR-43752,43752,chennai,3
+SRR-43753,43753,chennai,3
+SRR-43754,43754,chennai,3
+SRR-43755,43755,chennai,3
+SRR-43757,43757,chennai,3
+SRR-43801,43801,chennai,3
+SRR-43802,43802,chennai,3
+SRR-43803,43803,chennai,3
+SRR-43804,43804,chennai,1
+SRR-43805,43805,chennai,1
+SRR-43806,43806,chennai,3
+SRR-43808,43808,chennai,3
+SRR-43820,43820,chennai,3
+SRR-43821,43821,chennai,3
+SRR-43823,43823,chennai,3
+SRR-43832,43832,chennai,3
+SRR-43834,43834,chennai,3
+SRR-43836,43836,chennai,3
+SRR-43841,43841,chennai,3
+SRR-43851,43851,chennai,3
+SRR-43852,43852,chennai,3
+SRR-43861,43861,chennai,3
+SRR-43862,43862,chennai,3
+SRR-43871,43871,chennai,3
+SRR-43872,43872,chennai,3
+SRR-43882,43882,chennai,3
+SRR-43892,43892,chennai,3
+SRR-43901,43901,chennai,3
+SRR-43902,43902,chennai,3
+SRR-43912,43912,chennai,3
+SRR-43921,43921,chennai,3
+SRR-44001,44001,chennai,3
+SRR-44002,44002,chennai,3
+SRR-44003,44003,chennai,3
+SRR-44004,44004,chennai,3
+SRR-49009,49009,chennai,2
+1,Unknown,hyderabad,0
+10,Unknown,hyderabad,0
+100/299,Unknown,hyderabad,0
+100B,Unknown,hyderabad,0
+100G,Unknown,hyderabad,0
+100G/L,Unknown,hyderabad,0
+100G/S,Unknown,hyderabad,0
+100H,Unknown,hyderabad,0
+100L,Unknown,hyderabad,0
+100M,Unknown,hyderabad,0
+100M/K,Unknown,hyderabad,0
+100SS,Unknown,hyderabad,0
+100V,Unknown,hyderabad,0
+100V/208,Unknown,hyderabad,0
+100X,Unknown,hyderabad,0
+102,Unknown,hyderabad,0
+102/253C,Unknown,hyderabad,0
+102/277,Unknown,hyderabad,0
+102B,Unknown,hyderabad,0
+102J,Unknown,hyderabad,0
+102K,Unknown,hyderabad,0
+102M,Unknown,hyderabad,0
+103,Unknown,hyderabad,0
+104A,Unknown,hyderabad,0
+104A/218,Unknown,hyderabad,0
+104R,Unknown,hyderabad,0
+104R/102,Unknown,hyderabad,0
+104R/127K,Unknown,hyderabad,0
+104R/218,Unknown,hyderabad,0
+105/218,Unknown,hyderabad,0
+107,Unknown,hyderabad,0
+107JL,Unknown,hyderabad,0
+107JS,Unknown,hyderabad,0
+107M,Unknown,hyderabad,0
+107R,Unknown,hyderabad,0
+107R/300A,Unknown,hyderabad,0
+107VG,Unknown,hyderabad,0
+107VL,Unknown,hyderabad,0
+107VR,Unknown,hyderabad,0
+107V/S,Unknown,hyderabad,0
+107VS,Unknown,hyderabad,0
+10A/S,Unknown,hyderabad,0
+10F/V,Unknown,hyderabad,0
+10H,Unknown,hyderabad,0
+10H/220,Unknown,hyderabad,0
+10HW,Unknown,hyderabad,0
+10JB,Unknown,hyderabad,0
+10J/P,Unknown,hyderabad,0
+10JP,Unknown,hyderabad,0
+10K,Unknown,hyderabad,0
+10KH,Unknown,hyderabad,0
+10K/J,Unknown,hyderabad,0
+10KJ,Unknown,hyderabad,0
+10KM,Unknown,hyderabad,0
+10KM/224G,Unknown,hyderabad,0
+10K/S,Unknown,hyderabad,0
+10MN,Unknown,hyderabad,0
+10S/K,Unknown,hyderabad,0
+10W,Unknown,hyderabad,0
+10Y/F,Unknown,hyderabad,0
+10YF,Unknown,hyderabad,0
+113F,Unknown,hyderabad,0
+113F/KP,Unknown,hyderabad,0
+113I/A,Unknown,hyderabad,0
+113I/M,Unknown,hyderabad,0
+113K,Unknown,hyderabad,0
+113K/L,Unknown,hyderabad,0
+113KP,Unknown,hyderabad,0
+113M,Unknown,hyderabad,0
+113M/217,Unknown,hyderabad,0
+113M/G,Unknown,hyderabad,0
+113M/W,Unknown,hyderabad,0
+113T/L,Unknown,hyderabad,0
+113T/M,Unknown,hyderabad,0
+113V,Unknown,hyderabad,0
+113Y/H,Unknown,hyderabad,0
+113Y/K,Unknown,hyderabad,0
+113Z/IM,Unknown,hyderabad,0
+113Z/M,Unknown,hyderabad,0
+115,Unknown,hyderabad,0
+115/280,Unknown,hyderabad,0
+115C,Unknown,hyderabad,0
+115R,Unknown,hyderabad,0
+115RR,Unknown,hyderabad,0
+116,Unknown,hyderabad,0
+116/220K,Unknown,hyderabad,0
+116G,Unknown,hyderabad,0
+116G/220K,Unknown,hyderabad,0
+116N,Unknown,hyderabad,0
+116N/220K,Unknown,hyderabad,0
+116N/L,Unknown,hyderabad,0
+117,Unknown,hyderabad,0
+117B,Unknown,hyderabad,0
+117M,Unknown,hyderabad,0
+118X,Unknown,hyderabad,0
+120,Unknown,hyderabad,0
+120M,Unknown,hyderabad,0
+1/25S,Unknown,hyderabad,0
+126/300D,Unknown,hyderabad,0
+126/300L,Unknown,hyderabad,0
+126M,Unknown,hyderabad,0
+127K,Unknown,hyderabad,0
+127K/H,Unknown,hyderabad,0
+127K/L,Unknown,hyderabad,0
+127KL,Unknown,hyderabad,0
+127K/V,Unknown,hyderabad,0
+127M,Unknown,hyderabad,0
+127N,Unknown,hyderabad,0
+127R/K,Unknown,hyderabad,0
+137,Unknown,hyderabad,0
+142S,Unknown,hyderabad,0
+142Y,Unknown,hyderabad,0
+1/458,Unknown,hyderabad,0
+147,Unknown,hyderabad,0
+14P,Unknown,hyderabad,0
+152,Unknown,hyderabad,0
+156/202T,Unknown,hyderabad,0
+156/206,Unknown,hyderabad,0
+156/299,Unknown,hyderabad,0
+156/505,Unknown,hyderabad,0
+156D,Unknown,hyderabad,0
+156H/217,Unknown,hyderabad,0
+156L,Unknown,hyderabad,0
+156L/217,Unknown,hyderabad,0
+156S/M,Unknown,hyderabad,0
+156V,Unknown,hyderabad,0
+156V/505,Unknown,hyderabad,0
+158F,Unknown,hyderabad,0
+158F/R,Unknown,hyderabad,0
+158H/F,Unknown,hyderabad,0
+158V/272G,Unknown,hyderabad,0
+158V/F,Unknown,hyderabad,0
+15D,Unknown,hyderabad,0
+15H,Unknown,hyderabad,0
+15H/20,Unknown,hyderabad,0
+16/20,Unknown,hyderabad,0
+16A,Unknown,hyderabad,0
+16A/20P,Unknown,hyderabad,0
+16A/219,Unknown,hyderabad,0
+16A/250X,Unknown,hyderabad,0
+16A/281,Unknown,hyderabad,0
+16A/47L,Unknown,hyderabad,0
+16A/47W,Unknown,hyderabad,0
+16A/5K,Unknown,hyderabad,0
+16AB/5K,Unknown,hyderabad,0
+16AD/5K,Unknown,hyderabad,0
+16AK,Unknown,hyderabad,0
+16C,Unknown,hyderabad,0
+16C/250X,Unknown,hyderabad,0
+16C/281,Unknown,hyderabad,0
+16C/49M,Unknown,hyderabad,0
+16C/5K,Unknown,hyderabad,0
+16CD/5K,Unknown,hyderabad,0
+16C/R,Unknown,hyderabad,0
+16CR,Unknown,hyderabad,0
+16D,Unknown,hyderabad,0
+16D/24B,Unknown,hyderabad,0
+16E,Unknown,hyderabad,0
+16ES,Unknown,hyderabad,0
+16H,Unknown,hyderabad,0
+16H/49M,Unknown,hyderabad,0
+16HP,Unknown,hyderabad,0
+16NY,Unknown,hyderabad,0
+16P,Unknown,hyderabad,0
+16R/20P,Unknown,hyderabad,0
+16R/8,Unknown,hyderabad,0
+171,Unknown,hyderabad,0
+171/219,Unknown,hyderabad,0
+171/9X,Unknown,hyderabad,0
+171B,Unknown,hyderabad,0
+171BK,Unknown,hyderabad,0
+171D,Unknown,hyderabad,0
+171DB,Unknown,hyderabad,0
+171JK,Unknown,hyderabad,0
+171 JY,Unknown,hyderabad,0
+171K,Unknown,hyderabad,0
+171KJ,Unknown,hyderabad,0
+171KP,Unknown,hyderabad,0
+171L,Unknown,hyderabad,0
+171SM,Unknown,hyderabad,0
+171Y,Unknown,hyderabad,0
+178G,Unknown,hyderabad,0
+17D,Unknown,hyderabad,0
+17DS,Unknown,hyderabad,0
+17H,Unknown,hyderabad,0
+17H/219,Unknown,hyderabad,0
+17H/250X,Unknown,hyderabad,0
+17H/29B,Unknown,hyderabad,0
+17H/47W,Unknown,hyderabad,0
+17HB,Unknown,hyderabad,0
+17HC,Unknown,hyderabad,0
+17H/ECIL,Unknown,hyderabad,0
+17HN,Unknown,hyderabad,0
+17HN/290,Unknown,hyderabad,0
+17S,Unknown,hyderabad,0
+17SC,Unknown,hyderabad,0
+18,Unknown,hyderabad,0
+18/10K/J,Unknown,hyderabad,0
+18/272G,Unknown,hyderabad,0
+183A/272G,Unknown,hyderabad,0
+183B,Unknown,hyderabad,0
+183MA,Unknown,hyderabad,0
+183S,Unknown,hyderabad,0
+183X,Unknown,hyderabad,0
+18/47,Unknown,hyderabad,0
+186,Unknown,hyderabad,0
+187,Unknown,hyderabad,0
+188,Unknown,hyderabad,0
+188/251,Unknown,hyderabad,0
+188/49M/250,Unknown,hyderabad,0
+188A/49M,Unknown,hyderabad,0
+188B,Unknown,hyderabad,0
+188K,Unknown,hyderabad,0
+188R,Unknown,hyderabad,0
+189M,Unknown,hyderabad,0
+189M/272G,Unknown,hyderabad,0
+189M/272I,Unknown,hyderabad,0
+189MQ,Unknown,hyderabad,0
+189QM,Unknown,hyderabad,0
+18B,Unknown,hyderabad,0
+18C,Unknown,hyderabad,0
+18C/30,Unknown,hyderabad,0
+18C/30S,Unknown,hyderabad,0
+18C/R,Unknown,hyderabad,0
+18CR,Unknown,hyderabad,0
+18CR/251,Unknown,hyderabad,0
+18J,Unknown,hyderabad,0
+18R,Unknown,hyderabad,0
+18V,Unknown,hyderabad,0
+18V/J,Unknown,hyderabad,0
+18X,Unknown,hyderabad,0
+18X/U,Unknown,hyderabad,0
+195,Unknown,hyderabad,0
+195G,Unknown,hyderabad,0
+195G/S,Unknown,hyderabad,0
+195JW,Unknown,hyderabad,0
+195KG,Unknown,hyderabad,0
+195L,Unknown,hyderabad,0
+195P,Unknown,hyderabad,0
+195SP,Unknown,hyderabad,0
+195W,Unknown,hyderabad,0
+195WP,Unknown,hyderabad,0
+198,Unknown,hyderabad,0
+198/171K,Unknown,hyderabad,0
+198/224,Unknown,hyderabad,0
+19AK,Unknown,hyderabad,0
+19BM,Unknown,hyderabad,0
+19F,Unknown,hyderabad,0
+19KA,Unknown,hyderabad,0
+19K/J,Unknown,hyderabad,0
+19M,Unknown,hyderabad,0
+19M/218,Unknown,hyderabad,0
+19MB,Unknown,hyderabad,0
+19M/P,Unknown,hyderabad,0
+19MP/272,Unknown,hyderabad,0
+19M/V,Unknown,hyderabad,0
+19MV,Unknown,hyderabad,0
+19PM/272,Unknown,hyderabad,0
+19S,Unknown,hyderabad,0
+19S/505,Unknown,hyderabad,0
+19V/M,Unknown,hyderabad,0
+19VM,Unknown,hyderabad,0
+19Y/F,Unknown,hyderabad,0
+1B/D,Unknown,hyderabad,0
+1D/299,Unknown,hyderabad,0
+1D/V,Unknown,hyderabad,0
+1H,Unknown,hyderabad,0
+1H/205F,Unknown,hyderabad,0
+1J,Unknown,hyderabad,0
+1JK,Unknown,hyderabad,0
+1J/L,Unknown,hyderabad,0
+1L,Unknown,hyderabad,0
+1M/D,Unknown,hyderabad,0
+1V,Unknown,hyderabad,0
+1VM,Unknown,hyderabad,0
+1VS,Unknown,hyderabad,0
+1X,Unknown,hyderabad,0
+1Z,Unknown,hyderabad,0
+1Z/251,Unknown,hyderabad,0
+1Z/539,Unknown,hyderabad,0
+1Z/95K,Unknown,hyderabad,0
+2,Unknown,hyderabad,0
+201,Unknown,hyderabad,0
+201B/M,Unknown,hyderabad,0
+201G,Unknown,hyderabad,0
+201G/D,Unknown,hyderabad,0
+201G/H,Unknown,hyderabad,0
+201G/N,Unknown,hyderabad,0
+201H/G,Unknown,hyderabad,0
+201K,Unknown,hyderabad,0
+201K/J,Unknown,hyderabad,0
+201M,Unknown,hyderabad,0
+201M/C,Unknown,hyderabad,0
+201M/D,Unknown,hyderabad,0
+201P,Unknown,hyderabad,0
+201Q,Unknown,hyderabad,0
+201Q/W,Unknown,hyderabad,0
+201T,Unknown,hyderabad,0
+202B,Unknown,hyderabad,0
+202U,Unknown,hyderabad,0
+203,Unknown,hyderabad,0
+203A,Unknown,hyderabad,0
+203A/3K,Unknown,hyderabad,0
+203A/479,Unknown,hyderabad,0
+203AK,Unknown,hyderabad,0
+203AK/102B,Unknown,hyderabad,0
+203A/R,Unknown,hyderabad,0
+203K,Unknown,hyderabad,0
+203LWX,Unknown,hyderabad,0
+203N,Unknown,hyderabad,0
+203N/102B,Unknown,hyderabad,0
+203W,Unknown,hyderabad,0
+204,Unknown,hyderabad,0
+204D,Unknown,hyderabad,0
+204GD,Unknown,hyderabad,0
+204K,Unknown,hyderabad,0
+204U,Unknown,hyderabad,0
+204U/A,Unknown,hyderabad,0
+204U/D,Unknown,hyderabad,0
+205,Unknown,hyderabad,0
+205A,Unknown,hyderabad,0
+205B,Unknown,hyderabad,0
+205F,Unknown,hyderabad,0
+205J,Unknown,hyderabad,0
+205L,Unknown,hyderabad,0
+205M,Unknown,hyderabad,0
+205T,Unknown,hyderabad,0
+206,Unknown,hyderabad,0
+208D,Unknown,hyderabad,0
+20P,Unknown,hyderabad,0
+211,Unknown,hyderabad,0
+211A,Unknown,hyderabad,0
+211B,Unknown,hyderabad,0
+211C/D,Unknown,hyderabad,0
+211D,Unknown,hyderabad,0
+211DMC,Unknown,hyderabad,0
+211DY,Unknown,hyderabad,0
+211DY/M,Unknown,hyderabad,0
+211J,Unknown,hyderabad,0
+211K,Unknown,hyderabad,0
+211M,Unknown,hyderabad,0
+211M/G,Unknown,hyderabad,0
+211S,Unknown,hyderabad,0
+211T,Unknown,hyderabad,0
+211U,Unknown,hyderabad,0
+212,Unknown,hyderabad,0
+212/568,Unknown,hyderabad,0
+212/702,Unknown,hyderabad,0
+212C/E,Unknown,hyderabad,0
+212T,Unknown,hyderabad,0
+216,Unknown,hyderabad,0
+216/118,Unknown,hyderabad,0
+216/118W,Unknown,hyderabad,0
+216/220,Unknown,hyderabad,0
+216/220K,Unknown,hyderabad,0
+216K/L,Unknown,hyderabad,0
+216M,Unknown,hyderabad,0
+216M/P,Unknown,hyderabad,0
+216N/L,Unknown,hyderabad,0
+217,Unknown,hyderabad,0
+217/300,Unknown,hyderabad,0
+217A,Unknown,hyderabad,0
+217C,Unknown,hyderabad,0
+217G/189M,Unknown,hyderabad,0
+218,Unknown,hyderabad,0
+218/19M,Unknown,hyderabad,0
+218C,Unknown,hyderabad,0
+218D,Unknown,hyderabad,0
+218DA,Unknown,hyderabad,0
+218H,Unknown,hyderabad,0
+218 I,Unknown,hyderabad,0
+218I,Unknown,hyderabad,0
+218K,Unknown,hyderabad,0
+218L,Unknown,hyderabad,0
+218V,Unknown,hyderabad,0
+219,Unknown,hyderabad,-1
+219/171,Unknown,hyderabad,0
+219/18C,Unknown,hyderabad,0
+219/220K,Unknown,hyderabad,0
+219/229,Unknown,hyderabad,0
+219/272G,Unknown,hyderabad,0
+219/27G,Unknown,hyderabad,0
+219G,Unknown,hyderabad,0
+219L,Unknown,hyderabad,0
+219P,Unknown,hyderabad,0
+219S/502,Unknown,hyderabad,0
+219W,Unknown,hyderabad,0
+21W,Unknown,hyderabad,0
+21W/22,Unknown,hyderabad,0
+22,Unknown,hyderabad,0
+220,Unknown,hyderabad,0
+220G,Unknown,hyderabad,0
+220G/505T,Unknown,hyderabad,0
+220J,Unknown,hyderabad,0
+220K,Unknown,hyderabad,0
+22/10W,Unknown,hyderabad,0
+22/16D,Unknown,hyderabad,0
+222,Unknown,hyderabad,0
+22/21W,Unknown,hyderabad,0
+22/22R,Unknown,hyderabad,0
+22/24,Unknown,hyderabad,0
+22/24B,Unknown,hyderabad,0
+22/24S,Unknown,hyderabad,0
+22/25A,Unknown,hyderabad,0
+22/25M,Unknown,hyderabad,0
+22/25S,Unknown,hyderabad,0
+22/281,Unknown,hyderabad,0
+22/290U,Unknown,hyderabad,0
+222A,Unknown,hyderabad,0
+222M,Unknown,hyderabad,0
+222P,Unknown,hyderabad,0
+223S,Unknown,hyderabad,0
+224/198,Unknown,hyderabad,0
+224/219,Unknown,hyderabad,0
+224/47D,Unknown,hyderabad,0
+22/49,Unknown,hyderabad,0
+224G,Unknown,hyderabad,0
+224L,Unknown,hyderabad,0
+224M/N,Unknown,hyderabad,0
+224X,Unknown,hyderabad,0
+224Z/M,Unknown,hyderabad,0
+224Z/N,Unknown,hyderabad,0
+227,Unknown,hyderabad,0
+227D,Unknown,hyderabad,0
+227G,Unknown,hyderabad,0
+22D,Unknown,hyderabad,0
+22H/25AJ,Unknown,hyderabad,0
+22K,Unknown,hyderabad,0
+22R,Unknown,hyderabad,0
+22R/25AJ,Unknown,hyderabad,0
+22T,Unknown,hyderabad,0
+230A,Unknown,hyderabad,0
+230AB,Unknown,hyderabad,0
+230B,Unknown,hyderabad,0
+230D,Unknown,hyderabad,0
+230N,Unknown,hyderabad,0
+230P,Unknown,hyderabad,0
+230T,Unknown,hyderabad,0
+230TN,Unknown,hyderabad,0
+23B,Unknown,hyderabad,0
+23BK,Unknown,hyderabad,0
+23GF,Unknown,hyderabad,0
+23K,Unknown,hyderabad,0
+23T,Unknown,hyderabad,0
+241C,Unknown,hyderabad,0
+241T,Unknown,hyderabad,0
+242,Unknown,hyderabad,0
+242A,Unknown,hyderabad,0
+242B,Unknown,hyderabad,0
+242DM,Unknown,hyderabad,0
+242G,Unknown,hyderabad,0
+242GA,Unknown,hyderabad,0
+242G/B,Unknown,hyderabad,0
+242RG,Unknown,hyderabad,0
+242YA,Unknown,hyderabad,0
+245A,Unknown,hyderabad,0
+24B,Unknown,hyderabad,0
+24B/16D,Unknown,hyderabad,0
+24B/211,Unknown,hyderabad,0
+24B/22,Unknown,hyderabad,0
+24B/281,Unknown,hyderabad,0
+24BJ,Unknown,hyderabad,0
+24E,Unknown,hyderabad,0
+24N/219,Unknown,hyderabad,0
+24S,Unknown,hyderabad,0
+24S/273,Unknown,hyderabad,0
+24SS,Unknown,hyderabad,0
+24Y,Unknown,hyderabad,0
+250,Unknown,hyderabad,0
+250/219,Unknown,hyderabad,0
+250/281,Unknown,hyderabad,0
+250/300,Unknown,hyderabad,0
+250/49M,Unknown,hyderabad,0
+250C,Unknown,hyderabad,0
+250C/20S,Unknown,hyderabad,0
+250C/219,Unknown,hyderabad,0
+250C/30,Unknown,hyderabad,0
+250C/49M,Unknown,hyderabad,0
+250C/J,Unknown,hyderabad,0
+250C/R,Unknown,hyderabad,0
+250C/RV,Unknown,hyderabad,0
+250E,Unknown,hyderabad,0
+250S,Unknown,hyderabad,0
+250SS,Unknown,hyderabad,0
+250SS/49M,Unknown,hyderabad,0
+250X,Unknown,hyderabad,0
+251,Unknown,hyderabad,0
+251/5K,Unknown,hyderabad,0
+251/92A,Unknown,hyderabad,0
+251AK,Unknown,hyderabad,0
+251K/5K,Unknown,hyderabad,0
+251M,Unknown,hyderabad,0
+251M/A,Unknown,hyderabad,0
+251P,Unknown,hyderabad,0
+251S,Unknown,hyderabad,0
+251V,Unknown,hyderabad,0
+251V/300L,Unknown,hyderabad,0
+252,Unknown,hyderabad,0
+252NP,Unknown,hyderabad,0
+252S,Unknown,hyderabad,0
+253,Unknown,hyderabad,0
+253G,Unknown,hyderabad,0
+253H,Unknown,hyderabad,0
+253I,Unknown,hyderabad,0
+253L,Unknown,hyderabad,0
+253M,Unknown,hyderabad,0
+253M/8,Unknown,hyderabad,0
+253T,Unknown,hyderabad,0
+253W,Unknown,hyderabad,0
+254,Unknown,hyderabad,0
+254K,Unknown,hyderabad,0
+255,Unknown,hyderabad,0
+25A,Unknown,hyderabad,0
+25A/22,Unknown,hyderabad,0
+25A/J,Unknown,hyderabad,0
+25AJ/K,Unknown,hyderabad,0
+25AJ/M,Unknown,hyderabad,0
+25M,Unknown,hyderabad,0
+25M/22,Unknown,hyderabad,0
+25M/22H,Unknown,hyderabad,0
+25M/AJ,Unknown,hyderabad,0
+25M/S,Unknown,hyderabad,0
+25P,Unknown,hyderabad,0
+25S,Unknown,hyderabad,0
+25S/229,Unknown,hyderabad,0
+25S/281,Unknown,hyderabad,0
+25S/290U,Unknown,hyderabad,0
+26/20,Unknown,hyderabad,0
+26M,Unknown,hyderabad,0
+26N,Unknown,hyderabad,0
+26S,Unknown,hyderabad,0
+272,Unknown,hyderabad,0
+272B,Unknown,hyderabad,0
+272BJ,Unknown,hyderabad,0
+272D,Unknown,hyderabad,0
+272DB,Unknown,hyderabad,0
+272G,Unknown,hyderabad,0
+272G/250C,Unknown,hyderabad,0
+272GB,Unknown,hyderabad,0
+272GG,Unknown,hyderabad,0
+272GP,Unknown,hyderabad,0
+272GS,Unknown,hyderabad,0
+272GY,Unknown,hyderabad,0
+272I,Unknown,hyderabad,0
+272J,Unknown,hyderabad,0
+272S,Unknown,hyderabad,0
+277,Unknown,hyderabad,0
+277/412,Unknown,hyderabad,0
+277/422,Unknown,hyderabad,0
+277/427,Unknown,hyderabad,0
+277/431,Unknown,hyderabad,0
+277/439,Unknown,hyderabad,0
+277/459,Unknown,hyderabad,0
+277B,Unknown,hyderabad,0
+277BH,Unknown,hyderabad,0
+277D,Unknown,hyderabad,0
+277D/S,Unknown,hyderabad,0
+277H,Unknown,hyderabad,0
+277K,Unknown,hyderabad,0
+277L,Unknown,hyderabad,0
+277M,Unknown,hyderabad,0
+277MP,Unknown,hyderabad,0
+277N,Unknown,hyderabad,0
+277P,Unknown,hyderabad,0
+277S,Unknown,hyderabad,0
+277Y,Unknown,hyderabad,0
+279,Unknown,hyderabad,0
+279L,Unknown,hyderabad,0
+279U,Unknown,hyderabad,0
+279WK,Unknown,hyderabad,0
+280,Unknown,hyderabad,0
+280/20M,Unknown,hyderabad,0
+280/488,Unknown,hyderabad,0
+280/544,Unknown,hyderabad,0
+280/564,Unknown,hyderabad,0
+280/5K,Unknown,hyderabad,0
+280B,Unknown,hyderabad,0
+280E,Unknown,hyderabad,0
+280I,Unknown,hyderabad,0
+280J,Unknown,hyderabad,0
+280M,Unknown,hyderabad,0
+280N,Unknown,hyderabad,0
+280R,Unknown,hyderabad,0
+280X,Unknown,hyderabad,0
+281,Unknown,hyderabad,0
+281/25S,Unknown,hyderabad,0
+282K,Unknown,hyderabad,0
+283C,Unknown,hyderabad,0
+283K,Unknown,hyderabad,0
+283KX,Unknown,hyderabad,0
+283RG,Unknown,hyderabad,0
+283RX,Unknown,hyderabad,0
+283S,Unknown,hyderabad,0
+283T,Unknown,hyderabad,0
+283V,Unknown,hyderabad,0
+284P,Unknown,hyderabad,0
+288,Unknown,hyderabad,0
+288A,Unknown,hyderabad,0
+288B,Unknown,hyderabad,0
+288C,Unknown,hyderabad,0
+288D,Unknown,hyderabad,0
+288D/49M,Unknown,hyderabad,0
+288K,Unknown,hyderabad,0
+288M,Unknown,hyderabad,0
+288N,Unknown,hyderabad,0
+288N/B,Unknown,hyderabad,0
+288P,Unknown,hyderabad,0
+288R,Unknown,hyderabad,0
+288S,Unknown,hyderabad,0
+288XR,Unknown,hyderabad,0
+288Y,Unknown,hyderabad,0
+290,Unknown,hyderabad,0
+290/186,Unknown,hyderabad,0
+290A/U,Unknown,hyderabad,0
+290K,Unknown,hyderabad,0
+290K/J,Unknown,hyderabad,0
+290K/P,Unknown,hyderabad,0
+290S,Unknown,hyderabad,0
+290T/S,Unknown,hyderabad,0
+290U,Unknown,hyderabad,0
+290U/201,Unknown,hyderabad,0
+290U/201T,Unknown,hyderabad,0
+290U/202T,Unknown,hyderabad,0
+290U/204,Unknown,hyderabad,0
+290U/205B,Unknown,hyderabad,0
+290U/205M,Unknown,hyderabad,0
+290U/205T,Unknown,hyderabad,0
+290U/206,Unknown,hyderabad,0
+290U/20T,Unknown,hyderabad,0
+290U/229,Unknown,hyderabad,0
+290U/229S,Unknown,hyderabad,0
+290U/250,Unknown,hyderabad,0
+290U/463,Unknown,hyderabad,0
+290U/555,Unknown,hyderabad,0
+290U/F,Unknown,hyderabad,0
+290U/J,Unknown,hyderabad,0
+290U/S,Unknown,hyderabad,0
+291,Unknown,hyderabad,0
+299,Unknown,hyderabad,0
+299D,Unknown,hyderabad,0
+299X,Unknown,hyderabad,0
+29B,Unknown,hyderabad,0
+29B/250C,Unknown,hyderabad,0
+29B/272G,Unknown,hyderabad,0
+29B/272J,Unknown,hyderabad,0
+29CD,Unknown,hyderabad,0
+29J,Unknown,hyderabad,0
+29Q,Unknown,hyderabad,0
+29R,Unknown,hyderabad,0
+29S,Unknown,hyderabad,0
+2C,Unknown,hyderabad,0
+2J,Unknown,hyderabad,0
+2K,Unknown,hyderabad,0
+2U,Unknown,hyderabad,0
+2V,Unknown,hyderabad,0
+3,Unknown,hyderabad,0
+30,Unknown,hyderabad,0
+300,Unknown,hyderabad,-1
+300/118W,Unknown,hyderabad,0
+300/217,Unknown,hyderabad,0
+300/242,Unknown,hyderabad,0
+300/251,Unknown,hyderabad,0
+300/251A,Unknown,hyderabad,0
+300/251M,Unknown,hyderabad,0
+300/253,Unknown,hyderabad,0
+300/277D,Unknown,hyderabad,0
+300/532,Unknown,hyderabad,0
+300A,Unknown,hyderabad,0
+300A/216,Unknown,hyderabad,0
+300A/217,Unknown,hyderabad,0
+300C/216,Unknown,hyderabad,0
+300C/217,Unknown,hyderabad,0
+300D,Unknown,hyderabad,0
+300L,Unknown,hyderabad,0
+300L/279K,Unknown,hyderabad,0
+301,Unknown,hyderabad,0
+30S,Unknown,hyderabad,0
+315,Unknown,hyderabad,0
+316,Unknown,hyderabad,0
+316-L,Unknown,hyderabad,0
+37,Unknown,hyderabad,0
+37/8A,Unknown,hyderabad,0
+38EX,Unknown,hyderabad,0
+38EX/8N,Unknown,hyderabad,0
+38M,Unknown,hyderabad,0
+38S,Unknown,hyderabad,0
+38T,Unknown,hyderabad,0
+38T/16CR,Unknown,hyderabad,0
+38T/47L,Unknown,hyderabad,0
+38X,Unknown,hyderabad,0
+38X/8N,Unknown,hyderabad,0
+3D,Unknown,hyderabad,0
+3DN,Unknown,hyderabad,0
+3K,Unknown,hyderabad,0
+3K/102,Unknown,hyderabad,0
+3K/242,Unknown,hyderabad,0
+3K/251,Unknown,hyderabad,0
+3K/281,Unknown,hyderabad,0
+3K/90L,Unknown,hyderabad,0
+3KBDL,Unknown,hyderabad,0
+3KN,Unknown,hyderabad,0
+3KN/95,Unknown,hyderabad,0
+3N,Unknown,hyderabad,0
+3V,Unknown,hyderabad,0
+3X,Unknown,hyderabad,0
+40,Unknown,hyderabad,0
+401,Unknown,hyderabad,0
+404,Unknown,hyderabad,0
+405,Unknown,hyderabad,0
+406,Unknown,hyderabad,0
+407,Unknown,hyderabad,0
+407/277,Unknown,hyderabad,0
+409,Unknown,hyderabad,0
+40V,Unknown,hyderabad,0
+410,Unknown,hyderabad,0
+412,Unknown,hyderabad,0
+412/277,Unknown,hyderabad,0
+413,Unknown,hyderabad,0
+415,Unknown,hyderabad,0
+415/277,Unknown,hyderabad,0
+416,Unknown,hyderabad,0
+421,Unknown,hyderabad,0
+422,Unknown,hyderabad,0
+427,Unknown,hyderabad,0
+427/277,Unknown,hyderabad,0
+431,Unknown,hyderabad,0
+434,Unknown,hyderabad,0
+436,Unknown,hyderabad,0
+439,Unknown,hyderabad,0
+440,Unknown,hyderabad,0
+443,Unknown,hyderabad,0
+444/288X,Unknown,hyderabad,0
+444E,Unknown,hyderabad,0
+444T,Unknown,hyderabad,0
+445,Unknown,hyderabad,0
+446,Unknown,hyderabad,0
+447,Unknown,hyderabad,0
+44X,Unknown,hyderabad,0
+450,Unknown,hyderabad,0
+450/300,Unknown,hyderabad,0
+450/92A,Unknown,hyderabad,0
+451,Unknown,hyderabad,0
+452,Unknown,hyderabad,0
+452M/A,Unknown,hyderabad,0
+452S,Unknown,hyderabad,0
+453,Unknown,hyderabad,0
+453B,Unknown,hyderabad,0
+455,Unknown,hyderabad,0
+455C,Unknown,hyderabad,0
+455G/95,Unknown,hyderabad,0
+455N,Unknown,hyderabad,0
+455Y,Unknown,hyderabad,0
+455Y/92A,Unknown,hyderabad,0
+458,Unknown,hyderabad,0
+459,Unknown,hyderabad,0
+459/277,Unknown,hyderabad,0
+46,Unknown,hyderabad,0
+460,Unknown,hyderabad,0
+461,Unknown,hyderabad,0
+462,Unknown,hyderabad,0
+463,Unknown,hyderabad,0
+463F,Unknown,hyderabad,0
+464,Unknown,hyderabad,0
+465,Unknown,hyderabad,0
+469,Unknown,hyderabad,0
+470,Unknown,hyderabad,0
+471,Unknown,hyderabad,0
+471/92C,Unknown,hyderabad,0
+472,Unknown,hyderabad,0
+473D,Unknown,hyderabad,0
+477,Unknown,hyderabad,0
+478,Unknown,hyderabad,0
+478D,Unknown,hyderabad,0
+47L,Unknown,hyderabad,0
+47L/16A,Unknown,hyderabad,0
+47YM,Unknown,hyderabad,0
+47YN,Unknown,hyderabad,0
+482,Unknown,hyderabad,0
+482/277,Unknown,hyderabad,0
+486,Unknown,hyderabad,0
+488,Unknown,hyderabad,0
+49,Unknown,hyderabad,0
+490S,Unknown,hyderabad,0
+492,Unknown,hyderabad,0
+493,Unknown,hyderabad,0
+494,Unknown,hyderabad,0
+496,Unknown,hyderabad,0
+497,Unknown,hyderabad,0
+498,Unknown,hyderabad,0
+498K,Unknown,hyderabad,0
+498KB,Unknown,hyderabad,0
+498V,Unknown,hyderabad,0
+498VS,Unknown,hyderabad,0
+49AG,Unknown,hyderabad,0
+49E,Unknown,hyderabad,0
+49E/22,Unknown,hyderabad,0
+49M,Unknown,hyderabad,0
+49M/188B,Unknown,hyderabad,0
+49M/250,Unknown,hyderabad,0
+49M/250C,Unknown,hyderabad,0
+49M/251,Unknown,hyderabad,0
+49M/251S,Unknown,hyderabad,0
+49M/92A,Unknown,hyderabad,0
+49M/G,Unknown,hyderabad,0
+49MG,Unknown,hyderabad,0
+49M/K/250,Unknown,hyderabad,0
+49M/T,Unknown,hyderabad,0
+49M/T/250,Unknown,hyderabad,0
+49R,Unknown,hyderabad,0
+500,Unknown,hyderabad,0
+503,Unknown,hyderabad,0
+505,Unknown,hyderabad,0
+50B,Unknown,hyderabad,0
+511,Unknown,hyderabad,0
+515,Unknown,hyderabad,0
+518,Unknown,hyderabad,0
+524,Unknown,hyderabad,0
+525,Unknown,hyderabad,0
+527,Unknown,hyderabad,0
+528,Unknown,hyderabad,0
+530,Unknown,hyderabad,0
+532,Unknown,hyderabad,0
+532MZ,Unknown,hyderabad,0
+535,Unknown,hyderabad,0
+535S,Unknown,hyderabad,0
+536,Unknown,hyderabad,0
+537,Unknown,hyderabad,0
+538,Unknown,hyderabad,0
+539,Unknown,hyderabad,0
+539/300,Unknown,hyderabad,0
+539/452,Unknown,hyderabad,0
+540,Unknown,hyderabad,0
+540/251L,Unknown,hyderabad,0
+540/400,Unknown,hyderabad,0
+540M,Unknown,hyderabad,0
+540MA,Unknown,hyderabad,0
+543,Unknown,hyderabad,0
+545,Unknown,hyderabad,0
+546,Unknown,hyderabad,-1
+549,Unknown,hyderabad,0
+555,Unknown,hyderabad,0
+564,Unknown,hyderabad,0
+567,Unknown,hyderabad,0
+567G,Unknown,hyderabad,0
+568,Unknown,hyderabad,0
+571T,Unknown,hyderabad,0
+573,Unknown,hyderabad,0
+577,Unknown,hyderabad,0
+578,Unknown,hyderabad,0
+579,Unknown,hyderabad,0
+580,Unknown,hyderabad,0
+580J,Unknown,hyderabad,0
+589,Unknown,hyderabad,0
+592,Unknown,hyderabad,0
+593,Unknown,hyderabad,0
+593D,Unknown,hyderabad,0
+593U,Unknown,hyderabad,0
+594,Unknown,hyderabad,0
+5E,Unknown,hyderabad,0
+5G,Unknown,hyderabad,0
+5K,Unknown,hyderabad,0
+5K/120K,Unknown,hyderabad,0
+5K/125,Unknown,hyderabad,0
+5K/188,Unknown,hyderabad,0
+5K/188K,Unknown,hyderabad,0
+5K/188P,Unknown,hyderabad,0
+5K/188R,Unknown,hyderabad,0
+5K/251K,Unknown,hyderabad,0
+5K/25S,Unknown,hyderabad,0
+5K/92A,Unknown,hyderabad,0
+5KD,Unknown,hyderabad,0
+5KG,Unknown,hyderabad,0
+5K/S,Unknown,hyderabad,0
+5K/T,Unknown,hyderabad,0
+5M,Unknown,hyderabad,0
+5MD,Unknown,hyderabad,0
+5P,Unknown,hyderabad,0
+5R,Unknown,hyderabad,0
+65K/123,Unknown,hyderabad,0
+65M,Unknown,hyderabad,0
+65M/123,Unknown,hyderabad,0
+666,Unknown,hyderabad,0
+6L,Unknown,hyderabad,0
+6N/47W,Unknown,hyderabad,0
+6R,Unknown,hyderabad,0
+6RK,Unknown,hyderabad,0
+6X,Unknown,hyderabad,0
+70,Unknown,hyderabad,0
+70A,Unknown,hyderabad,0
+71,Unknown,hyderabad,0
+71A,Unknown,hyderabad,0
+71A/B,Unknown,hyderabad,0
+71A/D,Unknown,hyderabad,0
+71K,Unknown,hyderabad,0
+71K/L,Unknown,hyderabad,0
+72,Unknown,hyderabad,0
+72/100GL,Unknown,hyderabad,0
+72/204P,Unknown,hyderabad,0
+72/208,Unknown,hyderabad,0
+72/208C,Unknown,hyderabad,0
+72/277D,Unknown,hyderabad,0
+72B/J,Unknown,hyderabad,0
+72D,Unknown,hyderabad,0
+72H,Unknown,hyderabad,0
+72H/201,Unknown,hyderabad,0
+72H/201K,Unknown,hyderabad,0
+72H/204,Unknown,hyderabad,0
+72H/204K,Unknown,hyderabad,0
+72H/204P,Unknown,hyderabad,0
+72H/205,Unknown,hyderabad,0
+72H/205F,Unknown,hyderabad,0
+72H/205J,Unknown,hyderabad,0
+72H/208C,Unknown,hyderabad,0
+72H/463,Unknown,hyderabad,0
+72J,Unknown,hyderabad,0
+72KH,Unknown,hyderabad,0
+72KH/205J,Unknown,hyderabad,0
+72L,Unknown,hyderabad,0
+72S,Unknown,hyderabad,0
+72V,Unknown,hyderabad,0
+72V/I,Unknown,hyderabad,0
+72V/S,Unknown,hyderabad,0
+7Z,Unknown,hyderabad,0
+7Z/251,Unknown,hyderabad,0
+7Z/251A,Unknown,hyderabad,0
+7Z/449,Unknown,hyderabad,0
+7Z/452,Unknown,hyderabad,0
+7Z/539,Unknown,hyderabad,0
+8,Unknown,hyderabad,0
+8/24B,Unknown,hyderabad,0
+8/26S,Unknown,hyderabad,0
+83/272,Unknown,hyderabad,0
+83J/272,Unknown,hyderabad,0
+83J/272G,Unknown,hyderabad,0
+83J/A,Unknown,hyderabad,0
+83V,Unknown,hyderabad,0
+85,Unknown,hyderabad,0
+85/253L,Unknown,hyderabad,0
+85/8C,Unknown,hyderabad,0
+85C,Unknown,hyderabad,0
+85M,Unknown,hyderabad,0
+85T,Unknown,hyderabad,0
+85V,Unknown,hyderabad,0
+86A,Unknown,hyderabad,0
+86J,Unknown,hyderabad,0
+86K,Unknown,hyderabad,0
+86V,Unknown,hyderabad,0
+8A,Unknown,hyderabad,0
+8A/178G,Unknown,hyderabad,0
+8A/253M,Unknown,hyderabad,0
+8A/253S,Unknown,hyderabad,0
+8A/532,Unknown,hyderabad,0
+8A/539,Unknown,hyderabad,0
+8A/67L,Unknown,hyderabad,0
+8A/75A,Unknown,hyderabad,0
+8A/85,Unknown,hyderabad,0
+8A/R,Unknown,hyderabad,0
+8A/U,Unknown,hyderabad,0
+8C,Unknown,hyderabad,0
+8C/252,Unknown,hyderabad,0
+8M,Unknown,hyderabad,0
+8N,Unknown,hyderabad,0
+8R,Unknown,hyderabad,0
+8R/251M,Unknown,hyderabad,0
+8R/251M/A,Unknown,hyderabad,0
+90/250,Unknown,hyderabad,0
+90B/K,Unknown,hyderabad,0
+90D,Unknown,hyderabad,0
+90L,Unknown,hyderabad,0
+90L/22,Unknown,hyderabad,0
+90L/229,Unknown,hyderabad,0
+90L/229S,Unknown,hyderabad,0
+90L/300A,Unknown,hyderabad,0
+90L/555,Unknown,hyderabad,0
+90L/V,Unknown,hyderabad,0
+90N/U,Unknown,hyderabad,0
+90U,Unknown,hyderabad,0
+90U/B,Unknown,hyderabad,0
+92A,Unknown,hyderabad,0
+92A/251,Unknown,hyderabad,0
+92A/251S,Unknown,hyderabad,0
+92A/251V,Unknown,hyderabad,0
+92A/450,Unknown,hyderabad,0
+92A/49M,Unknown,hyderabad,0
+92A/49M/250,Unknown,hyderabad,0
+92C/254K,Unknown,hyderabad,0
+92R,Unknown,hyderabad,0
+92R/5K,Unknown,hyderabad,0
+92U/5K,Unknown,hyderabad,0
+93L,Unknown,hyderabad,0
+93V,Unknown,hyderabad,0
+94,Unknown,hyderabad,0
+94/220K,Unknown,hyderabad,0
+94R,Unknown,hyderabad,0
+94R/M,Unknown,hyderabad,0
+94U,Unknown,hyderabad,0
+95,Unknown,hyderabad,0
+95K,Unknown,hyderabad,0
+95K/1Z,Unknown,hyderabad,0
+95M,Unknown,hyderabad,0
+95M/1Z,Unknown,hyderabad,0
+95P,Unknown,hyderabad,0
+96,Unknown,hyderabad,0
+96B,Unknown,hyderabad,0
+96N,Unknown,hyderabad,0
+9EM,Unknown,hyderabad,0
+9F,Unknown,hyderabad,0
+9K,Unknown,hyderabad,0
+9K/102,Unknown,hyderabad,0
+9K/230P,Unknown,hyderabad,0
+9K/272G,Unknown,hyderabad,0
+9M,Unknown,hyderabad,0
+9M/X,Unknown,hyderabad,0
+9Q,Unknown,hyderabad,0
+9X,Unknown,hyderabad,0
+9X/171,Unknown,hyderabad,0
+9X/171R,Unknown,hyderabad,0
+9X/230,Unknown,hyderabad,0
+9X/272,Unknown,hyderabad,0
+9X/272G,Unknown,hyderabad,0
+9X/283C,Unknown,hyderabad,0
+9X/41C,Unknown,hyderabad,0
+9X/72V,Unknown,hyderabad,0
+9XC/230P,Unknown,hyderabad,0
+9Y/F,Unknown,hyderabad,0
+AA,Unknown,hyderabad,0
+AC,Unknown,hyderabad,0
+AJ,Unknown,hyderabad,0
+AK,Unknown,hyderabad,0
+AL,Unknown,hyderabad,0
+AM,Unknown,hyderabad,0
+2-1,2,mumbai,0
+4-7,4,mumbai,0
+7-1,7,mumbai,0
+7-2,7,mumbai,0
+20-1,20,mumbai,0
+20-2,20,mumbai,0
+34-1,34,mumbai,0
+34-2,34,mumbai,0
+45-1,45,mumbai,0
+45-2,45,mumbai,0
+45-3,45,mumbai,0
+45-4,45,mumbai,0
+51-1,51,mumbai,0
+51-2,51,mumbai,0
+55-1,55,mumbai,0
+55-2,55,mumbai,0
+2A,2A,mumbai,0
+4A-2,4A,mumbai,0
+1-2,1,mumbai,0
+2-2,2,mumbai,0
+3-18,3,mumbai,0
+6,6,mumbai,0
+7-3,7,mumbai,0
+8,8,mumbai,0
+9-1,9,mumbai,0
+10,10,mumbai,0
+11-1,11,mumbai,0
+12,12,mumbai,0
+14-1,14,mumbai,0
+16-5,16,mumbai,0
+20-3,20,mumbai,0
+22-1,22,mumbai,0
+23,23,mumbai,0
+27-1,27,mumbai,0
+34-5,34,mumbai,0
+37,37,mumbai,0
+38-5,38,mumbai,0
+39-1,39,mumbai,0
+40-2,40,mumbai,0
+41,41,mumbai,0
+43,43,mumbai,0
+45-5,45,mumbai,0
+46-1,46,mumbai,0
+48,48,mumbai,0
+50-1,50,mumbai,0
+51-5,51,mumbai,0
+53,53,mumbai,0
+54-3,54,mumbai,0
+56,56,mumbai,0
+57-3,57,mumbai,0
+58-5,58,mumbai,0
+59,59,mumbai,0
+60-1,60,mumbai,0
+61,61,mumbai,0
+62-3,62,mumbai,0
+63-6,63,mumbai,0
+65-7,65,mumbai,0
+69-1,69,mumbai,0
+70,70,mumbai,0
+74-5,74,mumbai,0
+75-1,75,mumbai,0
+76-3,76,mumbai,0
+78,78,mumbai,0
+79-1,79,mumbai,0
+82-3,82,mumbai,0
+83-1,83,mumbai,0
+84,84,mumbai,0
+85-5,85,mumbai,0
+87,87,mumbai,0
+88-1,88,mumbai,0
+89,89,mumbai,0
+91,91,mumbai,0
+92,92,mumbai,0
+93,93,mumbai,0
+94,94,mumbai,0
+95,95,mumbai,0
+97,97,mumbai,0
+96,96,mumbai,0
+98,98,mumbai,0
+99,99,mumbai,0
+102-1,102,mumbai,0
+104-1,104,mumbai,0
+106-1,106,mumbai,0
+108,108,mumbai,0
+110-1,110,mumbai,0
+111,111,mumbai,0
+112-1,112,mumbai,0
+113-1,113,mumbai,0
+115-1,115,mumbai,0
+118,118,mumbai,0
+120-1,120,mumbai,0
+121,121,mumbai,0
+122-1,122,mumbai,0
+126-1,126,mumbai,0
+140,140,mumbai,0
+141,141,mumbai,0
+142,142,mumbai,0
+146,146,mumbai,0
+148,148,mumbai,0
+153-1,153,mumbai,0
+154,154,mumbai,0
+156,156,mumbai,0
+162,162,mumbai,0
+206,206,mumbai,0
+212-1,212,mumbai,0
+240,240,mumbai,0
+303-1,303,mumbai,0
+306-1,306,mumbai,0
+45AS,45AS,mumbai,0
+49AS,49AS,mumbai,0
+56AS,56AS,mumbai,0
+62AS,62AS,mumbai,0
+76AS,76AS,mumbai,0
+77AS,77AS,mumbai,0
+86AS,86AS,mumbai,0
+1AS,1AS,mumbai,0
+10AS,10AS,mumbai,0
+11LTD,11LTD,mumbai,0
+11-2,11,mumbai,0
+12C,12C,mumbai,0
+13-4,13,mumbai,0
+14-2,14,mumbai,0
+15-3,15,mumbai,0
+19AS,19AS,mumbai,0
+100RING,100RING,mumbai,0
+101AS,101AS,mumbai,0
+102AS,102AS,mumbai,0
+103AS,103AS,mumbai,0
+104AS-1,104AS,mumbai,0
+104AS-2,104AS,mumbai,0
+105AS-1,105AS,mumbai,0
+106AS,106AS,mumbai,0
+108AS,108AS,mumbai,0
+110-2,110,mumbai,0
+111AS,111AS,mumbai,0
+112AS,112AS,mumbai,0
+113AS,113AS,mumbai,0
+116AS,116AS,mumbai,0
+117RING,117RING,mumbai,0
+118AS,118AS,mumbai,0
+119AS,119AS,mumbai,0
+120AS,120AS,mumbai,0
+121AS,121AS,mumbai,0
+122AS,122AS,mumbai,0
+123AS,123AS,mumbai,0
+124AS,124AS,mumbai,0
+125AS,125AS,mumbai,0
+126AS,126AS,mumbai,0
+132AS,132AS,mumbai,0
+134AS,134AS,mumbai,0
+135AS,135AS,mumbai,0
+136AS,136AS,mumbai,0
+137AS,137AS,mumbai,0
+138AS,138AS,mumbai,0
+139,139,mumbai,0
+151-2,151,mumbai,0
+153-2,153,mumbai,0
+154AS,154AS,mumbai,0
+155AS,155AS,mumbai,0
+162AS-1,162AS,mumbai,0
+162AS-2,162AS,mumbai,0
+164AS,164AS,mumbai,0
+165,165,mumbai,0
+167AS,167AS,mumbai,0
+168-1,168,mumbai,0
+168-2,168,mumbai,0
+169,169,mumbai,0
+171AS,171AS,mumbai,0
+172,172,mumbai,0
+174RING,174RING,mumbai,0
+174AS,174AS,mumbai,0
+175AS,175AS,mumbai,0
+176AS,176AS,mumbai,0
+177,177,mumbai,0
+180AS,180AS,mumbai,0
+181,181,mumbai,0
+182RING,182RING,mumbai,0
+183AS,183AS,mumbai,0
+185AS,185AS,mumbai,0
+186,186,mumbai,0
+187RING,187RING,mumbai,0
+2LTD,2LTD,mumbai,0
+21AS-1,21AS,mumbai,0
+21AS-2,21AS,mumbai,0
+22AS-1,22AS,mumbai,0
+22AS-2,22AS,mumbai,0
+23AS,23AS,mumbai,0
+25AS,25AS,mumbai,0
+26AS,26AS,mumbai,0
+27-2,27,mumbai,0
+28-6,28,mumbai,0
+29LTD,29LTD,mumbai,0
+200AS,200AS,mumbai,0
+201,201,mumbai,0
+202AS,202AS,mumbai,0
+203AS,203AS,mumbai,0
+204AS,204AS,mumbai,0
+205AS,205AS,mumbai,0
+206AS-1,206AS,mumbai,0
+206AS-2,206AS,mumbai,0
+207AS,207AS,mumbai,0
+208AS,208AS,mumbai,0
+209AS-1,209AS,mumbai,0
+209AS-2,209AS,mumbai,0
+210LTD,210LTD,mumbai,0
+211AS,211AS,mumbai,0
+212-2,212,mumbai,0
+214AS,214AS,mumbai,0
+215AS,215AS,mumbai,0
+216,216,mumbai,0
+217-1,217,mumbai,0
+217-2,217,mumbai,0
+218-1,218,mumbai,0
+218-2,218,mumbai,0
+219AS,219AS,mumbai,0
+220AS,220AS,mumbai,0
+221AS,221AS,mumbai,0
+222RING,222RING,mumbai,0
+223LTD-1,223LTD,mumbai,0
+223LTD-2,223LTD,mumbai,0
+224AS,224AS,mumbai,0
+225,225,mumbai,0
+226AS,226AS,mumbai,0
+231,231,mumbai,0
+234AS,234AS,mumbai,0
+235AS-1,235AS,mumbai,0
+235AS-2,235AS,mumbai,0
+239-2,239,mumbai,0
+240AS-1,240AS,mumbai,0
+240AS-2,240AS,mumbai,0
+241AS,241AS,mumbai,0
+242RING,242RING,mumbai,0
+243AS,243AS,mumbai,0
+244AS,244AS,mumbai,0
+245AS,245AS,mumbai,0
+246AS,246AS,mumbai,0
+247AS,247AS,mumbai,0
+248AS,248AS,mumbai,0
+249RING,249RING,mumbai,0
+251AS,251AS,mumbai,0
+252-1,252,mumbai,0
+254AS,254AS,mumbai,0
+255LTD,255LTD,mumbai,0
+256AS,256AS,mumbai,0
+257RING,257RING,mumbai,0
+259AS,259AS,mumbai,0
+261AS,261AS,mumbai,0
+262RING,262RING,mumbai,0
+263AS,263AS,mumbai,0
+264,264,mumbai,0
+266,266,mumbai,0
+268RING,268RING,mumbai,0
+269AS,269AS,mumbai,0
+270,270,mumbai,0
+271,271,mumbai,0
+272AS,272AS,mumbai,0
+273AS-1,273AS,mumbai,0
+273AS-2,273AS,mumbai,0
+274AS,274AS,mumbai,0
+276AS,276AS,mumbai,0
+277AS-1,277AS,mumbai,0
+277AS-2,277AS,mumbai,0
+278AS-1,278AS,mumbai,0
+278AS-2,278AS,mumbai,0
+279-1,279,mumbai,0
+279-2,279,mumbai,0
+280AS,280AS,mumbai,0
+281AS,281AS,mumbai,0
+282AS,282AS,mumbai,0
+286AS,286AS,mumbai,0
+287AS,287AS,mumbai,0
+288AS,288AS,mumbai,0
+289AS,289AS,mumbai,0
+293AS,293AS,mumbai,0
+294AS,294AS,mumbai,0
+296AS,296AS,mumbai,0
+297AS,297AS,mumbai,0
+298AS,298AS,mumbai,0
+3AS,3AS,mumbai,0
+30AS,30AS,mumbai,0
+32AS,32AS,mumbai,0
+33AS,33AS,mumbai,0
+35AS,35AS,mumbai,0
+37AS,37AS,mumbai,0
+39-2,39,mumbai,0
+39AS,39AS,mumbai,0
+300AS,300AS,mumbai,0
+301AS,301AS,mumbai,0
+302C,302C,mumbai,0
+303-2,303,mumbai,0
+305C,305C,mumbai,0
+307,307,mumbai,0
+308-1,308,mumbai,0
+310-1,310,mumbai,0
+310AS,310AS,mumbai,0
+311AS,311AS,mumbai,0
+312-1,312,mumbai,0
+312-2,312,mumbai,0
+313AS,313AS,mumbai,0
+316,316,mumbai,0
+317,317,mumbai,0
+318AS,318AS,mumbai,0
+320-1,320,mumbai,0
+321LTD,321LTD,mumbai,0
+322AS,322AS,mumbai,0
+323AS,323AS,mumbai,0
+324-1,324,mumbai,0
+325AS,325AS,mumbai,0
+326AS,326AS,mumbai,0
+327-1,327,mumbai,0
+327-2,327,mumbai,0
+329AS,329AS,mumbai,0
+330AS,330AS,mumbai,0
+331AS,331AS,mumbai,0
+332AS,332AS,mumbai,0
+333,333,mumbai,0
+334AS,334AS,mumbai,0
+335-1,335,mumbai,0
+335-2,335,mumbai,0
+336AS,336AS,mumbai,0
+337-1,337,mumbai,0
+337-2,337,mumbai,0
+338-1,338,mumbai,0
+338-2,338,mumbai,0
+339,339,mumbai,0
+340AS,340AS,mumbai,0
+341AS,341AS,mumbai,0
+342,342,mumbai,0
+343AS,343AS,mumbai,0
+344RING-1,344RING,mumbai,0
+344RING-2,344RING,mumbai,0
+345AS,345AS,mumbai,0
+346-1,346,mumbai,0
+346-2,346,mumbai,0
+347AS,347AS,mumbai,0
+348LTD,348LTD,mumbai,0
+349,349,mumbai,0
+350AS,350AS,mumbai,0
+351AS,351AS,mumbai,0
+352,352,mumbai,0
+354AS,354AS,mumbai,0
+355LTD,355LTD,mumbai,0
+356AS,356AS,mumbai,0
+357AS,357AS,mumbai,0
+359AS,359AS,mumbai,0
+360AS,360AS,mumbai,0
+361AS,361AS,mumbai,0
+362AS-1,362AS,mumbai,0
+362AS-2,362AS,mumbai,0
+363AS,363AS,mumbai,0
+364AS,364AS,mumbai,0
+365AS,365AS,mumbai,0
+367AS,367AS,mumbai,0
+368LTD,368LTD,mumbai,0
+369AS,369AS,mumbai,0
+370AS,370AS,mumbai,0
+371AS,371AS,mumbai,0
+372AS-1,372AS,mumbai,0
+372AS-2,372AS,mumbai,0
+373AS,373AS,mumbai,0
+374,374,mumbai,0
+375AS,375AS,mumbai,0
+376AS,376AS,mumbai,0
+377AS,377AS,mumbai,0
+378AS,378AS,mumbai,0
+379AS,379AS,mumbai,0
+380AS,380AS,mumbai,0
+381AS,381AS,mumbai,0
+382LTD,382LTD,mumbai,0
+383AS,383AS,mumbai,0
+385AS,385AS,mumbai,0
+386AS,386AS,mumbai,0
+387AS,387AS,mumbai,0
+389AS,389AS,mumbai,0
+391AS,391AS,mumbai,0
+392,392,mumbai,0
+392AS,392AS,mumbai,0
+394AS,394AS,mumbai,0
+396AS,396AS,mumbai,0
+397AS,397AS,mumbai,0
+398LTD,398LTD,mumbai,0
+399AS,399AS,mumbai,0
+4AS,4AS,mumbai,0
+40C,40C,mumbai,0
+42AS,42AS,mumbai,0
+44AS,44AS,mumbai,0
+46-2,46,mumbai,0
+401AS,401AS,mumbai,0
+402AS,402AS,mumbai,0
+403AS,403AS,mumbai,0
+404AS,404AS,mumbai,0
+405AS,405AS,mumbai,0
+406,406,mumbai,0
+409AS,409AS,mumbai,0
+410AS-1,410AS,mumbai,0
+411,411,mumbai,0
+412AS,412AS,mumbai,0
+413,413,mumbai,0
+414AS,414AS,mumbai,0
+415AS,415AS,mumbai,0
+416AS,416AS,mumbai,0
+418,418,mumbai,0
+419AS,419AS,mumbai,0
+421AS,421AS,mumbai,0
+422AS,422AS,mumbai,0
+423,423,mumbai,0
+424AS,424AS,mumbai,0
+425AS,425AS,mumbai,0
+427AS,427AS,mumbai,0
+428,428,mumbai,0
+430AS,430AS,mumbai,0
+431AS,431AS,mumbai,0
+432AS,432AS,mumbai,0
+433AS,433AS,mumbai,0
+434-1,434,mumbai,0
+434-2,434,mumbai,0
+440C,440C,mumbai,0
+441,441,mumbai,0
+442,442,mumbai,0
+443-1,443,mumbai,0
+443-2,443,mumbai,0
+446,446,mumbai,0
+447,447,mumbai,0
+451AS,451AS,mumbai,0
+452AS,452AS,mumbai,0
+453AS,453AS,mumbai,0
+454AS,454AS,mumbai,0
+456RING,456RING,mumbai,0
+458AS,458AS,mumbai,0
+459AS,459AS,mumbai,0
+460LTD,460LTD,mumbai,0
+461AS,461AS,mumbai,0
+462AS,462AS,mumbai,0
+463AS,463AS,mumbai,0
+464AS,464AS,mumbai,0
+465AS,465AS,mumbai,0
+469AS,469AS,mumbai,0
+470AS,470AS,mumbai,0
+471AS,471AS,mumbai,0
+473AS,473AS,mumbai,0
+477AS,477AS,mumbai,0
+478AS,478AS,mumbai,0
+479AS,479AS,mumbai,0
+481AS,481AS,mumbai,0
+484AS,484AS,mumbai,0
+488AS,488AS,mumbai,0
+489LTD,489LTD,mumbai,0
+490AS-1,490AS,mumbai,0
+490AS-2,490AS,mumbai,0
+491AS,491AS,mumbai,0
+492AS,492AS,mumbai,0
+493AS,493AS,mumbai,0
+494AS,494AS,mumbai,0
+496LTD,496LTD,mumbai,0
+498AS,498AS,mumbai,0
+499AS,499AS,mumbai,0
+5AS,5AS,mumbai,0
+50-2,50,mumbai,0
+51-6,51,mumbai,0
+52RING,52RING,mumbai,0
+53AS,53AS,mumbai,0
+54C,54C,mumbai,0
+55C,55C,mumbai,0
+57-4,57,mumbai,0
+58AS,58AS,mumbai,0
+59AS,59AS,mumbai,0
+501LTD,501LTD,mumbai,0
+502AS,502AS,mumbai,0
+504AS,504AS,mumbai,0
+505C,505C,mumbai,0
+507AS,507AS,mumbai,0
+512LTD,512LTD,mumbai,0
+513C,513C,mumbai,0
+517AS,517AS,mumbai,0
+521C,521C,mumbai,0
+522LTD,522LTD,mumbai,0
+523LTD-1,523LTD,mumbai,0
+523LTD-2,523LTD,mumbai,0
+525LTD,525LTD,mumbai,0
+526LTD,526LTD,mumbai,0
+526AS,526AS,mumbai,0
+533AS,533AS,mumbai,0
+545LTD,545LTD,mumbai,0
+6LTD-1,6LTD,mumbai,0
+6LTD-2,6LTD,mumbai,0
+60-2,60,mumbai,0
+61C,61C,mumbai,0
+63AS-1,63AS,mumbai,0
+63AS-2,63AS,mumbai,0
+64-4,64,mumbai,0
+66-2,66,mumbai,0
+67-4,67,mumbai,0
+67-5,67,mumbai,0
+69-2,69,mumbai,0
+601-1,601,mumbai,0
+601-2,601,mumbai,0
+602AS,602AS,mumbai,0
+603RING,603RING,mumbai,0
+604AS,604AS,mumbai,0
+605,605,mumbai,0
+606AS,606AS,mumbai,0
+607AS,607AS,mumbai,0
+608,608,mumbai,0
+612,612,mumbai,0
+613,613,mumbai,0
+618RING,618RING,mumbai,0
+620AS,620AS,mumbai,0
+621AS,621AS,mumbai,0
+622AS,622AS,mumbai,0
+624AS-1,624AS,mumbai,0
+624AS-2,624AS,mumbai,0
+626AS,626AS,mumbai,0
+627,627,mumbai,0
+629AS,629AS,mumbai,0
+646RING-1,646RING,mumbai,0
+646RING-2,646RING,mumbai,0
+663AS,663AS,mumbai,0
+696AS,696AS,mumbai,0
+698AS,698AS,mumbai,0
+7AS-1,7AS,mumbai,0
+7AS-2,7AS,mumbai,0
+71C,71C,mumbai,0
+72AS,72AS,mumbai,0
+75-2,75,mumbai,0
+78AS,78AS,mumbai,0
+79-2,79,mumbai,0
+700AS,700AS,mumbai,0
+701AS-1,701AS,mumbai,0
+701AS-2,701AS,mumbai,0
+702AS,702AS,mumbai,0
+706LTD,706LTD,mumbai,0
+707LTD,707LTD,mumbai,0
+709AS,709AS,mumbai,0
+710LTD,710LTD,mumbai,0
+718C-1,718C,mumbai,0
+718C-2,718C,mumbai,0
+8AS,8AS,mumbai,0
+82AS,82AS,mumbai,0
+83-2,83,mumbai,0
+84AS,84AS,mumbai,0
+85AS,85AS,mumbai,0
+86C,86C,mumbai,0
+87LTD-2,87LTD,mumbai,0
+88-2,88,mumbai,0
+89AS,89AS,mumbai,0
+809AS,809AS,mumbai,0
+814AS,814AS,mumbai,0
+887null,887null,mumbai,0
+9-2,9,mumbai,0
+9-3,9,mumbai,0
+92AS,92AS,mumbai,0
+901LTD,901LTD,mumbai,0
+902LTD,902LTD,mumbai,0
+909LTD,909LTD,mumbai,0
+910LTD,910LTD,mumbai,0
+910AS,910AS,mumbai,0
+913LTD,913LTD,mumbai,0
+916LTD,916LTD,mumbai,0
+920LTD,920LTD,mumbai,0
+921LTD-1,921LTD,mumbai,0
+921,921,mumbai,0
+921LTD-2,921LTD,mumbai,0
+922,922,mumbai,0
+922LTD-1,922LTD,mumbai,0
+922LTD-2,922LTD,mumbai,0
+922RING-1,922RING,mumbai,0
+922AS,922AS,mumbai,0
+923,923,mumbai,0
+924LTD,924LTD,mumbai,0
+924RING-2,924RING,mumbai,0
+924C,924C,mumbai,0
+924AS,924AS,mumbai,0
+924null,924null,mumbai,0
+926LTD-1,926LTD,mumbai,0
+926LTD-2,926LTD,mumbai,0
+926LTD-3,926LTD,mumbai,0
+926RING-1,926RING,mumbai,0
+926RING-2,926RING,mumbai,0
+927,927,mumbai,0
+928AS,928AS,mumbai,0
+931RING,931RING,mumbai,0
+101,101,mumbai,0
+102-2,102,mumbai,0
+120-2,120,mumbai,0
+130,130,mumbai,0
+202,202,mumbai,0
+205,205,mumbai,0
+250,250,mumbai,0
+302,302,mumbai,0
+310-2,310,mumbai,0
+305,305,mumbai,0
+306-2,306,mumbai,0
+308-2,308,mumbai,0
+105,105,mumbai,0
+112-2,112,mumbai,0
+113-2,113,mumbai,0
+114,114,mumbai,0
+115-2,115,mumbai,0
+117,117,mumbai,0
+119,119,mumbai,0
+128,128,mumbai,0
+251,251,mumbai,0
+321,321,mumbai,0
+136,136,mumbai,0
+213,213,mumbai,0
+252-2,252,mumbai,0
+253,253,mumbai,0
+256,256,mumbai,0
+323,323,mumbai,0
+324-2,324,mumbai,0
+326,326,mumbai,0
+328,328,mumbai,0
+100,100,pune,0
+103,103,pune,0
+104,104,pune,0
+107,107,pune,0
+108,108,pune,0
+111M,111M,pune,0
+113,113,pune,0
+114,114,pune,0
+115,115,pune,0
+117,117,pune,0
+118A,118A,pune,0
+118,118,pune,0
+119A,119A,pune,0
+119,119,pune,0
+11A,11A,pune,0
+11C,11C,pune,0
+11,11,pune,0
+120,120,pune,0
+121,121,pune,0
+122,122,pune,0
+123,123,pune,0
+124,124,pune,0
+126,126,pune,0
+12,12,pune,0
+130,130,pune,0
+131,131,pune,0
+132,132,pune,0
+133A,133A,pune,0
+133,133,pune,0
+135,135,pune,0
+136,136,pune,0
+137,137,pune,0
+139A,139A,pune,0
+139,139,pune,0
+13,13,pune,0
+140A,140A,pune,0
+140,140,pune,0
+141,141,pune,0
+142,142,pune,0
+143,143,pune,0
+144A,144A,pune,0
+144,144,pune,0
+145,145,pune,0
+146,146,pune,0
+147,147,pune,0
+148A,148A,pune,0
+148,148,pune,0
+149,149,pune,0
+151,151,pune,0
+152,152,pune,0
+153,153,pune,0
+154,154,pune,0
+155,155,pune,0
+157,157,pune,0
+158A,158A,pune,0
+158,158,pune,0
+159B,159B,pune,0
+159,159,pune,0
+15,15,pune,0
+160,160,pune,0
+161,161,pune,0
+162,162,pune,0
+163,163,pune,0
+164,164,pune,0
+165,165,pune,0
+166,166,pune,0
+167,167,pune,0
+168,168,pune,0
+169,169,pune,0
+172,172,pune,0
+174,174,pune,0
+175,175,pune,0
+176,176,pune,0
+177,177,pune,0
+179,179,pune,0
+17,17,pune,0
+180,180,pune,0
+183,183,pune,0
+184,184,pune,0
+185,185,pune,0
+186,186,pune,0
+188,188,pune,0
+189,189,pune,0
+192,192,pune,0
+193,193,pune,0
+195,195,pune,0
+199,199,pune,0
+19A,19A,pune,0
+19,19,pune,0
+200,200,pune,0
+201,201,pune,0
+202,202,pune,0
+203,203,pune,0
+204,204,pune,0
+205,205,pune,0
+207A,207A,pune,0
+207,207,pune,0
+208,208,pune,0
+209A,209A,pune,0
+209,209,pune,0
+210,210,pune,0
+211,211,pune,0
+212,212,pune,0
+213,213,pune,0
+214,214,pune,0
+215,215,pune,0
+216,216,pune,0
+219,219,pune,0
+21,21,pune,0
+221,221,pune,0
+225,225,pune,0
+227A,227A,pune,0
+227,227,pune,0
+228,228,pune,0
+231,231,pune,0
+232,232,pune,0
+233A,233A,pune,0
+233B,233B,pune,0
+233,233,pune,0
+234,234,pune,0
+235,235,pune,0
+236,236,pune,0
+24A,24A,pune,0
+24,24,pune,0
+256,256,pune,0
+257A,257A,pune,0
+257,257,pune,0
+258,258,pune,0
+262,262,pune,0
+264,264,pune,0
+26,26,pune,0
+276,276,pune,0
+277,277,pune,0
+279,279,pune,0
+281,281,pune,0
+282,282,pune,0
+283,283,pune,0
+290,290,pune,0
+291,291,pune,0
+292,292,pune,0
+293,293,pune,0
+296A,296A,pune,0
+296,296,pune,0
+297,297,pune,0
+298,298,pune,0
+299,299,pune,0
+29,29,pune,0
+2A,2A,pune,0
+2,2,pune,0
+301A,301A,pune,0
+301,301,pune,0
+302A,302A,pune,0
+302,302,pune,0
+303A,303A,pune,0
+303,303,pune,0
+304,304,pune,0
+305A,305A,pune,0
+305B,305B,pune,0
+305,305,pune,0
+306A,306A,pune,0
+306,306,pune,0
+307,307,pune,0
+308,308,pune,0
+309,309,pune,0
+30,30,pune,0
+312,312,pune,0
+313,313,pune,0
+314,314,pune,0
+315,315,pune,0
+316,316,pune,0
+317,317,pune,0
+320,320,pune,0
+321,321,pune,0
+322A,322A,pune,0
+322,322,pune,0
+323A,323A,pune,0
+323,323,pune,0
+324,324,pune,0
+326,326,pune,0
+327,327,pune,0
+329,329,pune,0
+330,330,pune,0
+331A,331A,pune,0
+331B,331B,pune,0
+331,331,pune,0
+332,332,pune,0
+333,333,pune,0
+334,334,pune,0
+336,336,pune,0
+337,337,pune,0
+339,339,pune,0
+340,340,pune,0
+341,341,pune,0
+342,342,pune,0
+343,343,pune,0
+344,344,pune,0
+345,345,pune,0
+346,346,pune,0
+348,348,pune,0
+34,34,pune,0
+350,350,pune,0
+351,351,pune,0
+352,352,pune,0
+353,353,pune,0
+354,354,pune,0
+355A,355A,pune,0
+355,355,pune,0
+355M,355M,pune,0
+356,356,pune,0
+357,357,pune,0
+358A,358A,pune,0
+358,358,pune,0
+359A,359A,pune,0
+35,35,pune,0
+360A,360A,pune,0
+360,360,pune,0
+361,361,pune,0
+362,362,pune,0
+363,363,pune,0
+364,364,pune,0
+366,366,pune,0
+367,367,pune,0
+367M,367M,pune,0
+368,368,pune,0
+369,369,pune,0
+370,370,pune,0
+371,371,pune,0
+372,372,pune,0
+372M,372M,pune,0
+373,373,pune,0
+374A,374A,pune,0
+374,374,pune,0
+375,375,pune,0
+376,376,pune,0
+37,37,pune,0
+380,380,pune,0
+381,381,pune,0
+38,38,pune,0
+39,39,pune,0
+41,41,pune,0
+42,42,pune,0
+43A,43A,pune,0
+43,43,pune,0
+44,44,pune,0
+47,47,pune,0
+4,4,pune,0
+50,50,pune,0
+51,51,pune,0
+52A,52A,pune,0
+52,52,pune,0
+55,55,pune,0
+57,57,pune,0
+58,58,pune,0
+59,59,pune,0
+5,5,pune,0
+60,60,pune,0
+61,61,pune,0
+64,64,pune,0
+64M,64M,pune,0
+65A,65A,pune,0
+66,66,pune,0
+67A,67A,pune,0
+67,67,pune,0
+68,68,pune,0
+69,69,pune,0
+6,6,pune,0
+70,70,pune,0
+72,72,pune,0
+73,73,pune,0
+74,74,pune,0
+77,77,pune,0
+78,78,pune,0
+81,81,pune,0
+83,83,pune,0
+84A,84A,pune,0
+84,84,pune,0
+85,85,pune,0
+86,86,pune,0
+87A,87A,pune,0
+87,87,pune,0
+90,90,pune,0
+91,91,pune,0
+92,92,pune,0
+94,94,pune,0
+95,95,pune,0
+97,97,pune,0
+98,98,pune,0
+99,99,pune,0
+AP2,AP2,pune,0
+B2,B2,pune,0
+H11,H11,pune,0
+H3,H3,pune,0
+H8,H8,pune,0
+H9,H9,pune,0
+K11,K11,pune,0
+K12A,K12A,pune,0
+K12,K12,pune,0
+K14,K14,pune,0
+K16,K16,pune,0
+K18,K18,pune,0
+K7,K7,pune,0
+METRO SHUTTLE 13,METRO SHUTTLE 13,pune,0
+METRO SHUTTLE 17,METRO SHUTTLE 17,pune,0
+METRO SHUTTLE 20,METRO SHUTTLE 20,pune,0
+METRO SHUTTLE 2,METRO SHUTTLE 2,pune,0
+METRO SHUTTLE 31,METRO SHUTTLE 31,pune,0
+METRO SHUTTLE 32,METRO SHUTTLE 32,pune,0
+N15,N15,pune,0
+N16,N16,pune,0
+P13,P13,pune,0
+RATRANI 1,RATRANI 1,pune,0
+RATRANI 2,RATRANI 2,pune,0
+RATRANI 3,RATRANI 3,pune,0
+RATRANI 4,RATRANI 4,pune,0
+RATRANI 7,RATRANI 7,pune,0
