@@ -1,0 +1,6 @@
+city,route_count,original_trips,simulated_trips,additional_trips,percentage_increase
+Bangalore,4416,57836,58879,1043,1.8
+Delhi,2964,78507,78931,424,0.54
+Hyderabad,1031,44892,45028,136,0.3
+Mumbai,612,99080,99164,84,0.08
+Pune,315,10128,10172,44,0.43

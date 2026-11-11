@@ -1,0 +1,7 @@
+metric,original,simulated
+Unique city-route combinations,9338,9338
+Hourly records,73039,73039
+Routes receiving simulated increase,0,1711
+Original scheduled trips,290443,290443
+Simulated scheduled trips,290443,292174
+Additional simulated trips,0,1731

@@ -1,0 +1,3 @@
+trip_count,distinct_stop_count,average_stops_per_trip,city_Bangalore,city_Delhi,city_Hyderabad,city_Mumbai,city_Pune,kmeans_inference_cluster,dbscan_neighborhood_assignment,dbscan_assignment_ambiguous,kmeans_original_cluster,dbscan_original_cluster,city
+4.766101372570427,-0.8026645963232221,-1.1514063954439109,0,0,0,1,0,2,0,True,2,0,Mumbai
+5.08029277796228,-0.3587715530233416,-0.8162439063596179,0,0,0,1,0,2,0,True,2,0,Mumbai

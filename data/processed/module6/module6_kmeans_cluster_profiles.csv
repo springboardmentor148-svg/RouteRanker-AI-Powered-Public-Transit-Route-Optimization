@@ -1,0 +1,4 @@
+kmeans_inference_cluster,trip_count,distinct_stop_count,average_stops_per_trip
+0,-0.101,0.635,0.815
+1,-0.154,-0.649,-0.749
+2,4.458,0.828,-0.433
