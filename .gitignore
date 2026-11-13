@@ -24,3 +24,7 @@ data/raw/
 
 data/processed/
 data/cleaned/
+
+# Jupyter temporary files and notebook-local data
+.ipynb_checkpoints/
+notebook/data/
