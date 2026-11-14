@@ -11,9 +11,21 @@ sys.path.insert(0, str(ROOT / "Module6_Submission" / "src"))
 from route_ranker.module6_workflow import discover_project_root, run_module6
 
 
+def default_project_root() -> Path:
+    # ROUT may itself contain older Module 5 models and preprocessing files.
+    # Prefer the complete nested Module 6 submission when launched from ROUT.
+    nested = ROOT / "Module6_Submission"
+    if (
+        (nested / "models" / "model_index.json").is_file()
+        and (nested / "data" / "processed" / "module4_preprocessing_manifest.json").is_file()
+    ):
+        return nested
+    return discover_project_root(ROOT)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Run Module 6 inference on saved Module 5 models.")
-    parser.add_argument("--project-root", type=Path, default=discover_project_root(ROOT), help="Module 6 project folder.")
+    parser.add_argument("--project-root", type=Path, default=default_project_root(), help="Module 6 project folder.")
     parser.add_argument("--unseen-data", type=Path, default=None, help="Optional raw or Module 4 prepared route CSV.")
     args = parser.parse_args()
     project_root = args.project_root.expanduser().resolve()

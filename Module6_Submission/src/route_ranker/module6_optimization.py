@@ -35,9 +35,33 @@ def _safe_quantile(values: pd.Series, q: float, fallback: float) -> float:
 
 
 def load_raw_network(project_root: Path) -> pd.DataFrame:
-    paths = sorted((project_root / "data" / "raw").glob("route_features*.csv"))
+    # Prefer the selected project folder. Also support the common ROUT layout,
+    # where the Module 6 submission is nested under ROUT or the source CSVs sit
+    # beside it rather than under data/raw/.
+    search_dirs = [
+        project_root / "data" / "raw",
+        project_root / "Module6_Submission" / "data" / "raw",
+        project_root.parent / "data" / "raw",
+        project_root.parent,
+    ]
+    paths: list[Path] = []
+    searched: list[str] = []
+    seen: set[Path] = set()
+    for directory in search_dirs:
+        resolved = directory.resolve()
+        if resolved in seen:
+            continue
+        seen.add(resolved)
+        searched.append(str(directory))
+        matches = sorted(directory.glob("route_features*.csv")) if directory.is_dir() else []
+        if matches:
+            paths = matches
+            break
     if not paths:
-        raise FileNotFoundError("No data/raw/route_features*.csv inputs were found for network analysis.")
+        raise FileNotFoundError(
+            "No route_features*.csv files were found for Module 6 network analysis. "
+            "Searched: " + "; ".join(searched)
+        )
     frames = [pd.read_csv(path, dtype={"city": "string", "route_id": "string", "overlap_partner": "string"}) for path in paths]
     network = pd.concat(frames, ignore_index=True, sort=False)
     required = {"city", "route_id", "n_trips", "length_km", "median_headway_min", "service_span_h", "n_active_hours"}

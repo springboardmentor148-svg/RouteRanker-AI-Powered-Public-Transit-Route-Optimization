@@ -1,3 +1,3 @@
-model,status,accuracy,precision_macro,recall_macro,f1_macro,test_rows,confusion_matrix_file,route_rows_available,label_rows_available,label_class_count,required_label_columns,labels_file,note
-Random Forest,NOT_EVALUATED_NO_GROUND_TRUTH_LABELS,,,,,,,12660,0,0,"city,route_id,label",data\labels\route_labels.csv,Ground-truth labels are required to calculate classifier scores. The supplied route data has schedules only; no classification results were fabricated.
-XGBoost,NOT_EVALUATED_NO_GROUND_TRUTH_LABELS,,,,,,,12660,0,0,"city,route_id,label",data\labels\route_labels.csv,Ground-truth labels are required to calculate classifier scores. The supplied route data has schedules only; no classification results were fabricated.
+model,status,accuracy,precision_macro,recall_macro,f1_macro,test_rows,confusion_matrix_file,note
+Random Forest,NOT_EVALUATED_NO_GROUND_TRUTH_LABELS,,,,,,,The project contains no route category or passenger-demand labels. Add valid labels to data/labels/route_labels.csv.
+XGBoost,NOT_EVALUATED_NO_GROUND_TRUTH_LABELS,,,,,,,The project contains no route category or passenger-demand labels. Add valid labels to data/labels/route_labels.csv.

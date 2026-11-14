@@ -6,10 +6,23 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-sys.path.insert(0, str(ROOT / "src"))
-
-from route_ranker.module5_clustering import run as run_clustering
-from route_ranker.module5_supervised import run as run_supervised
+PACKAGE_DIR = ROOT / "src" / "route_ranker"
+if (PACKAGE_DIR / "module5_clustering.py").is_file() and (PACKAGE_DIR / "module5_supervised.py").is_file():
+    # Packaged project layout.
+    sys.path.insert(0, str(ROOT / "src"))
+    from route_ranker.module5_clustering import run as run_clustering
+    from route_ranker.module5_supervised import run as run_supervised
+elif (ROOT / "module5_clustering.py").is_file() and (ROOT / "module5_supervised.py").is_file():
+    # Flat layout used by ROUT: both Module 5 implementations sit beside this launcher.
+    sys.path.insert(0, str(ROOT))
+    from module5_clustering import run as run_clustering
+    from module5_supervised import run as run_supervised
+else:
+    raise FileNotFoundError(
+        "Module 5 implementation files were not found. Expected either "
+        "src/route_ranker/module5_clustering.py and module5_supervised.py, or "
+        "module5_clustering.py and module5_supervised.py beside run_module5.py."
+    )
 
 
 def main() -> int:
