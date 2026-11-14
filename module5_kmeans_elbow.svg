@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="520" viewBox="0 0 860 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="92" y="42" font-family="Segoe UI,Arial" font-size="23" font-weight="700" fill="#18212b">K-Means elbow method</text>
+<line x1="92" y1="442.00" x2="820" y2="442.00" stroke="#e1e5e9"/>
+<text x="80" y="446.00" text-anchor="end" font-family="Segoe UI,Arial" font-size="11" fill="#53606b">-1.4e+04</text>
+<line x1="92" y1="369.20" x2="820" y2="369.20" stroke="#e1e5e9"/>
+<text x="80" y="373.20" text-anchor="end" font-family="Segoe UI,Arial" font-size="11" fill="#53606b">2.6e+04</text>
+<line x1="92" y1="296.40" x2="820" y2="296.40" stroke="#e1e5e9"/>
+<text x="80" y="300.40" text-anchor="end" font-family="Segoe UI,Arial" font-size="11" fill="#53606b">6.6e+04</text>
+<line x1="92" y1="223.60" x2="820" y2="223.60" stroke="#e1e5e9"/>
+<text x="80" y="227.60" text-anchor="end" font-family="Segoe UI,Arial" font-size="11" fill="#53606b">1.1e+05</text>
+<line x1="92" y1="150.80" x2="820" y2="150.80" stroke="#e1e5e9"/>
+<text x="80" y="154.80" text-anchor="end" font-family="Segoe UI,Arial" font-size="11" fill="#53606b">1.5e+05</text>
+<line x1="92" y1="78.00" x2="820" y2="78.00" stroke="#e1e5e9"/>
+<text x="80" y="82.00" text-anchor="end" font-family="Segoe UI,Arial" font-size="11" fill="#53606b">1.9e+05</text>
+<line x1="92" y1="442" x2="820" y2="442" stroke="#68727d"/>
+<line x1="92" y1="78" x2="92" y2="442" stroke="#68727d"/>
+<polyline points="134.82,103.10 348.94,143.29 563.06,174.41 777.18,196.61" fill="none" stroke="#176B87" stroke-width="3"/>
+<circle cx="134.82" cy="103.10" r="5" fill="#DB6B35"/>
+<circle cx="348.94" cy="143.29" r="5" fill="#DB6B35"/>
+<circle cx="563.06" cy="174.41" r="5" fill="#DB6B35"/>
+<circle cx="777.18" cy="196.61" r="5" fill="#DB6B35"/>
+<text x="456.0" y="496" text-anchor="middle" font-family="Segoe UI,Arial" font-size="13" fill="#36414c">Number of clusters (K)</text>
+<text transform="translate(22 260.0) rotate(-90)" text-anchor="middle" font-family="Segoe UI,Arial" font-size="13" fill="#36414c">Within-cluster sum of squares</text>
+</svg>

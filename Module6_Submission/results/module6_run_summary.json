@@ -1,0 +1,64 @@
+{
+  "unseen_inference": {
+    "input_file": "data\\inference\\unseen_routes.csv",
+    "output_file": "results\\inference_assignments.csv",
+    "input_rows": 2532,
+    "feature_count": 29,
+    "preprocessing_mode": "raw_transformed_with_module4_manifest",
+    "selected_kmeans_k": 3,
+    "kmeans_cluster_counts": {
+      "0": 216,
+      "1": 1781,
+      "2": 535
+    },
+    "dbscan_eps": 3.073366499266204,
+    "dbscan_min_samples": 20,
+    "dbscan_cluster_counts_including_noise": {
+      "-1": 36,
+      "0": 2496
+    },
+    "dbscan_noise_rows": 36,
+    "dbscan_noise_share": 0.014218009478672985,
+    "dbscan_assignment_method": "Nearest saved DBSCAN core sample within eps; approximate because DBSCAN has no native predict method.",
+    "classification_status": {
+      "Random Forest": "NOT_AVAILABLE_NO_TRAINED_LABELLED_MODEL",
+      "XGBoost": "NOT_AVAILABLE_NO_TRAINED_LABELLED_MODEL"
+    }
+  },
+  "full_network_inference": {
+    "input_file": "data\\inference\\network_routes_with_split.csv",
+    "output_file": "results\\network_model_assignments.csv",
+    "input_rows": 12660,
+    "feature_count": 29,
+    "preprocessing_mode": "raw_transformed_with_module4_manifest",
+    "selected_kmeans_k": 3,
+    "kmeans_cluster_counts": {
+      "0": 1053,
+      "1": 8875,
+      "2": 2732
+    },
+    "dbscan_eps": 3.073366499266204,
+    "dbscan_min_samples": 20,
+    "dbscan_cluster_counts_including_noise": {
+      "-1": 198,
+      "0": 12462
+    },
+    "dbscan_noise_rows": 198,
+    "dbscan_noise_share": 0.015639810426540283,
+    "dbscan_assignment_method": "Nearest saved DBSCAN core sample within eps; approximate because DBSCAN has no native predict method.",
+    "classification_status": {
+      "Random Forest": "NOT_AVAILABLE_NO_TRAINED_LABELLED_MODEL",
+      "XGBoost": "NOT_AVAILABLE_NO_TRAINED_LABELLED_MODEL"
+    }
+  },
+  "network_analysis": {
+    "network_route_count": 12660,
+    "review_candidate_count": 4800,
+    "routes_with_multiple_review_signals": 788,
+    "merge_review_pair_count": 1703,
+    "split_review_route_count": 825,
+    "frequency_review_route_count": 1725,
+    "frequency_sensitivity_trip_additions": 1725,
+    "merge_split_scenarios": "Not simulated; available aggregate overlap/length fields are insufficient to preserve passenger coverage and connectivity."
+  }
+}

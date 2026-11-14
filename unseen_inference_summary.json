@@ -1,0 +1,26 @@
+{
+  "input_file": "data\\inference\\unseen_routes.csv",
+  "output_file": "results\\inference_assignments.csv",
+  "input_rows": 2532,
+  "feature_count": 29,
+  "preprocessing_mode": "raw_transformed_with_module4_manifest",
+  "selected_kmeans_k": 3,
+  "kmeans_cluster_counts": {
+    "0": 216,
+    "1": 1781,
+    "2": 535
+  },
+  "dbscan_eps": 3.073366499266204,
+  "dbscan_min_samples": 20,
+  "dbscan_cluster_counts_including_noise": {
+    "-1": 36,
+    "0": 2496
+  },
+  "dbscan_noise_rows": 36,
+  "dbscan_noise_share": 0.014218009478672985,
+  "dbscan_assignment_method": "Nearest saved DBSCAN core sample within eps; approximate because DBSCAN has no native predict method.",
+  "classification_status": {
+    "Random Forest": "NOT_AVAILABLE_NO_TRAINED_LABELLED_MODEL",
+    "XGBoost": "NOT_AVAILABLE_NO_TRAINED_LABELLED_MODEL"
+  }
+}

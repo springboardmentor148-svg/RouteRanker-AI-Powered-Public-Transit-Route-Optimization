@@ -1,0 +1,6 @@
+algorithm,cluster,cluster_type,route_count,cities,median_n_trips,median_length_km,median_median_headway_min,median_median_stops_per_trip,median_service_span_h,median_stops_per_km
+DBSCAN,-1,noise,198,bengaluru; chennai; delhi; hyderabad,4.0,15.811060752743895,30.0,8.0,9.608333333333334,1.324608547743576
+DBSCAN,0,cluster,12462,bengaluru; chennai; delhi; hyderabad; pune,6.0,19.64472912766508,50.0,29.0,10.216666666666665,1.8655367196203034
+KMeans,0,cluster,1053,bengaluru; chennai; delhi; hyderabad; pune,3.0,12.333972193956626,40.0,19.0,2.916666666666666,1.7593954007050912
+KMeans,1,cluster,8875,bengaluru; chennai; delhi; hyderabad; pune,9.0,21.554348081575707,45.0,33.0,12.75,1.978148187469748
+KMeans,2,cluster,2732,bengaluru; chennai; delhi; hyderabad; pune,2.0,14.549804973660947,90.0,18.0,1.5,1.564825939438124

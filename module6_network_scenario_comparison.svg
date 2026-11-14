@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="300" viewBox="0 0 850 300">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" font-family="Arial" font-size="21" font-weight="700" fill="#16324f">Current network vs frequency sensitivity</text>
+<text x="24" y="58" font-family="Arial" font-size="12" fill="#475569">Bars are normalized to each metric current value = 100; exact values are in current_vs_simulated_network_metrics.csv.</text>
+<text x="24" y="104" font-family="Arial" font-size="14" fill="#334155">Routes</text>
+<rect x="260" y="82" width="320" height="18" rx="4" fill="#176b87"/>
+<rect x="260" y="105" width="320" height="18" rx="4" fill="#db6b35"/>
+<text x="594" y="96" font-family="Arial" font-size="12" fill="#334155">Current: 12,660.00</text>
+<text x="594" y="119" font-family="Arial" font-size="12" fill="#334155">Scenario: 12,660.00</text>
+<text x="24" y="169" font-family="Arial" font-size="14" fill="#334155">Scheduled trips</text>
+<rect x="260" y="147" width="320" height="18" rx="4" fill="#176b87"/>
+<rect x="260" y="170" width="322" height="18" rx="4" fill="#db6b35"/>
+<text x="594" y="161" font-family="Arial" font-size="12" fill="#334155">Current: 238,410.00</text>
+<text x="594" y="184" font-family="Arial" font-size="12" fill="#334155">Scenario: 240,135.00</text>
+<text x="24" y="234" font-family="Arial" font-size="14" fill="#334155">Sum route length</text>
+<rect x="260" y="212" width="320" height="18" rx="4" fill="#176b87"/>
+<rect x="260" y="235" width="320" height="18" rx="4" fill="#db6b35"/>
+<text x="594" y="226" font-family="Arial" font-size="12" fill="#334155">Current: 282,298.46</text>
+<text x="594" y="249" font-family="Arial" font-size="12" fill="#334155">Scenario: 282,298.46</text>
+<rect x="24" y="276" width="14" height="14" fill="#176b87"/><text x="44" y="288" font-family="Arial" font-size="12" fill="#334155">Current</text>
+<rect x="112" y="276" width="14" height="14" fill="#db6b35"/><text x="132" y="288" font-family="Arial" font-size="12" fill="#334155">Simulated sensitivity</text>
+</svg>

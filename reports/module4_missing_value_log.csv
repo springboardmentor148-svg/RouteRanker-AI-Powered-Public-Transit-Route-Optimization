@@ -1,0 +1,50 @@
+field,missing_before,percent_missing_before,missing_after_in_feature_matrix,handling_decision
+city,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+route_id,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+route_name,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+route_type,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+n_trips,0,0.0,0,No missing values found in the selected route-level input.
+median_stops_per_trip,0,0.0,0,No missing values found in the selected route-level input.
+avg_trip_duration_min,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+median_trip_duration_min,0,0.0,0,No missing values found in the selected route-level input.
+n_service_ids,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+trips_from_frequency,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+has_time_backwards_trip,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+first_departure_h,0,0.0,0,No missing values found in the selected route-level input.
+last_departure_h,0,0.0,0,No missing values found in the selected route-level input.
+n_directions,2964,23.41,not applicable - field not used directly in X,Not imputed; excluded from model features because the entire Delhi source file lacks this field.
+service_span_h,0,0.0,0,No missing values found in the selected route-level input.
+n_active_hours,0,0.0,0,No missing values found in the selected route-level input.
+peak_hour,0,0.0,0,No missing values found in the selected route-level input.
+peak_hour_trips,0,0.0,0,No missing values found in the selected route-level input.
+trips_per_active_hour,0,0.0,0,No missing values found in the selected route-level input.
+trips_morning,0,0.0,0,No missing values found in the selected route-level input.
+trips_afternoon,0,0.0,0,No missing values found in the selected route-level input.
+trips_evening,0,0.0,0,No missing values found in the selected route-level input.
+trips_night,0,0.0,0,No missing values found in the selected route-level input.
+median_headway_min,2153,17.01,0,Imputed with the median from training rows in the same city; used the overall training median only if a city had no training value.
+trips_monday,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+trips_tuesday,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+trips_wednesday,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+trips_thursday,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+trips_friday,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+trips_saturday,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+trips_sunday,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+avg_trips_per_weekday,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+avg_trips_per_weekend_day,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+weekend_to_weekday_ratio,0,0.0,0,No missing values found in the selected route-level input.
+length_km_stops,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+length_km_shape,7929,62.63,not applicable - field not used directly in X,Not imputed; excluded from model features because 62.6% of records are missing.
+length_km,0,0.0,0,No missing values found in the selected route-level input.
+length_method,0,0.0,0,No missing values found in the selected route-level input.
+n_unique_stops,0,0.0,0,No missing values found in the selected route-level input.
+stops_per_km,0,0.0,0,No missing values found in the selected route-level input.
+avg_speed_kmh,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+speed_implausible,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.
+overlap_partner,15,0.12,not applicable - field not used directly in X,Not imputed; identifier/reference fields are excluded from model features.
+max_stop_overlap,0,0.0,0,No missing values found in the selected route-level input.
+overlap_share_of_route,0,0.0,0,No missing values found in the selected route-level input.
+overlap_partner_name,15,0.12,not applicable - field not used directly in X,Not imputed; identifier/reference fields are excluded from model features.
+mean_routes_per_stop,0,0.0,0,No missing values found in the selected route-level input.
+sparse_schedule,0,0.0,0,No missing values found in the selected route-level input.
+source_file,0,0.0,not applicable - field not used directly in X,No missing values found in the selected route-level input.

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "RouteRanker Module 5",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_module5.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

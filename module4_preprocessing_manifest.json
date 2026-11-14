@@ -1,0 +1,229 @@
+{
+  "project": "RouteRanker Module 4 Data Preprocessing",
+  "input_files": [
+    "route_features_bengaluru.csv",
+    "route_features_chennai.csv",
+    "route_features_delhi.csv",
+    "route_features_hyderabad.csv",
+    "route_features_pune.csv"
+  ],
+  "rows": {
+    "input": 12660,
+    "features": 29,
+    "train": 10128,
+    "validation": 2532
+  },
+  "city_counts": {
+    "bengaluru": 4416,
+    "chennai": 3934,
+    "delhi": 2964,
+    "hyderabad": 1031,
+    "pune": 315
+  },
+  "split": {
+    "seed": 42,
+    "validation_fraction": 0.2,
+    "train_rows": 10128,
+    "validation_rows": 2532,
+    "by_city": {
+      "bengaluru": {
+        "rows": 4416,
+        "train": 3533,
+        "validation": 883
+      },
+      "chennai": {
+        "rows": 3934,
+        "train": 3147,
+        "validation": 787
+      },
+      "delhi": {
+        "rows": 2964,
+        "train": 2371,
+        "validation": 593
+      },
+      "hyderabad": {
+        "rows": 1031,
+        "train": 825,
+        "validation": 206
+      },
+      "pune": {
+        "rows": 315,
+        "train": 252,
+        "validation": 63
+      }
+    }
+  },
+  "quality": {
+    "duplicate_city_route_keys": 0,
+    "speed_implausible_rows": 873,
+    "hour_values_over_24": {
+      "first_departure_h": 15,
+      "last_departure_h": 254,
+      "peak_hour": 0
+    },
+    "length_km_shape_missing": 7929,
+    "n_directions_missing": 2964
+  },
+  "encoding": {
+    "seed": 42,
+    "numeric_features_robust_scaled": [
+      "n_trips",
+      "median_stops_per_trip",
+      "median_trip_duration_min",
+      "service_span_h",
+      "n_active_hours",
+      "peak_hour_trips",
+      "trips_per_active_hour",
+      "median_headway_min",
+      "weekend_to_weekday_ratio",
+      "length_km",
+      "n_unique_stops",
+      "stops_per_km",
+      "max_stop_overlap",
+      "overlap_share_of_route",
+      "mean_routes_per_stop",
+      "share_morning",
+      "share_afternoon",
+      "share_evening",
+      "share_night",
+      "sparse_schedule"
+    ],
+    "cyclic_features": [
+      "first_departure_sin",
+      "first_departure_cos",
+      "last_departure_sin",
+      "last_departure_cos",
+      "peak_hour_sin",
+      "peak_hour_cos"
+    ],
+    "one_hot_features": [
+      "length_method__shapes_txt",
+      "length_method__stop_coordinates_shape_failed_sanity_check",
+      "length_method__stop_coordinates_straight_line_approximate"
+    ],
+    "length_method_categories_fit_on_training": [
+      "shapes.txt",
+      "stop coordinates (shape failed sanity check)",
+      "stop coordinates (straight-line, approximate)"
+    ],
+    "robust_scaler_medians_fit_on_training": {
+      "n_trips": 1.9459101490553132,
+      "median_stops_per_trip": 3.4011973816621555,
+      "median_trip_duration_min": 4.204692619390966,
+      "service_span_h": 2.4203681286504293,
+      "n_active_hours": 1.6094379124341003,
+      "peak_hour_trips": 0.6931471805599453,
+      "trips_per_active_hour": 0.6931471805599453,
+      "median_headway_min": 4.189654742026425,
+      "weekend_to_weekday_ratio": 1.0,
+      "length_km": 3.030746579670972,
+      "n_unique_stops": 3.58351893845611,
+      "stops_per_km": 1.051198643045658,
+      "max_stop_overlap": 0.6666666666666666,
+      "overlap_share_of_route": 0.8235294117647058,
+      "mean_routes_per_stop": 4.074978960545538,
+      "share_morning": 0.4375,
+      "share_afternoon": 0.2707550125313283,
+      "share_evening": 0.18564064801178204,
+      "share_night": 0.0,
+      "sparse_schedule": 0.0
+    },
+    "robust_scaler_iqrs_fit_on_training": {
+      "n_trips": 1.8458266904983305,
+      "median_stops_per_trip": 0.8167611365271221,
+      "median_trip_duration_min": 0.8946766985418009,
+      "service_span_h": 1.541159071680806,
+      "n_active_hours": 1.3862943611198906,
+      "peak_hour_trips": 0.6931471805599453,
+      "trips_per_active_hour": 0.4054651081081645,
+      "median_headway_min": 1.4053425560905848,
+      "weekend_to_weekday_ratio": 1.0,
+      "length_km": 0.8366831010261557,
+      "n_unique_stops": 0.9444616088408515,
+      "stops_per_km": 0.3623358376881354,
+      "max_stop_overlap": 0.3687525936300447,
+      "overlap_share_of_route": 0.2888513513513513,
+      "mean_routes_per_stop": 0.8155030082106203,
+      "share_morning": 0.2103418593212002,
+      "share_afternoon": 0.39251808318264014,
+      "share_evening": 0.28125,
+      "share_night": 0.06666666666666667,
+      "sparse_schedule": 1.0
+    },
+    "numeric_training_medians": {
+      "n_trips": 6.0,
+      "median_stops_per_trip": 29.0,
+      "median_trip_duration_min": 66.0,
+      "service_span_h": 10.25,
+      "n_active_hours": 4.0,
+      "peak_hour_trips": 1.0,
+      "trips_per_active_hour": 1.0,
+      "median_headway_min": 65.0,
+      "weekend_to_weekday_ratio": 1.0,
+      "length_km": 19.712690492046388,
+      "n_unique_stops": 35.0,
+      "stops_per_km": 1.8610784771938802,
+      "max_stop_overlap": 0.6666666666666666,
+      "overlap_share_of_route": 0.8235294117647058,
+      "mean_routes_per_stop": 57.849242424242426,
+      "share_morning": 0.4375,
+      "share_afternoon": 0.2707550125313283,
+      "share_evening": 0.18564064801178204,
+      "share_night": 0.0,
+      "sparse_schedule": 0.0,
+      "first_departure_sin": 0.9320078692827984,
+      "first_departure_cos": -0.09584575252022395,
+      "last_departure_sin": -0.6851829903263593,
+      "last_departure_cos": 0.23768589232617307,
+      "peak_hour_sin": 0.8660254037844387,
+      "peak_hour_cos": -0.25881904510252063
+    },
+    "median_headway_city_training_medians": {
+      "bengaluru": 88.75,
+      "chennai": 65.0,
+      "delhi": 26.0,
+      "hyderabad": 45.0,
+      "pune": 30.0
+    },
+    "median_headway_global_training_fallback": 50.0,
+    "categorical_length_method_fill": "stop coordinates (straight-line, approximate)"
+  },
+  "feature_columns": [
+    "n_trips",
+    "median_stops_per_trip",
+    "median_trip_duration_min",
+    "service_span_h",
+    "n_active_hours",
+    "peak_hour_trips",
+    "trips_per_active_hour",
+    "median_headway_min",
+    "weekend_to_weekday_ratio",
+    "length_km",
+    "n_unique_stops",
+    "stops_per_km",
+    "max_stop_overlap",
+    "overlap_share_of_route",
+    "mean_routes_per_stop",
+    "share_morning",
+    "share_afternoon",
+    "share_evening",
+    "share_night",
+    "sparse_schedule",
+    "first_departure_sin",
+    "first_departure_cos",
+    "last_departure_sin",
+    "last_departure_cos",
+    "peak_hour_sin",
+    "peak_hour_cos",
+    "length_method__shapes_txt",
+    "length_method__stop_coordinates_shape_failed_sanity_check",
+    "length_method__stop_coordinates_straight_line_approximate"
+  ],
+  "identifiers_excluded_from_X": [
+    "city",
+    "route_id",
+    "route_name",
+    "source_file"
+  ],
+  "no_target_label": true
+}

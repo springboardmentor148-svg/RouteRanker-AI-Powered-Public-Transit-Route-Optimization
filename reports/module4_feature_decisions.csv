@@ -1,0 +1,63 @@
+field,decision,model_feature
+city,Kept as metadata and used to stratify the holdout; excluded from X so clusters are not driven by city membership.,False
+route_id,Kept as an identifier for traceability; never treated as a numeric model feature.,False
+route_name,Kept as descriptive metadata; high-cardinality names are not model features.,False
+route_type,"Excluded because every supplied route has the same value (3), so it carries no variation.",False
+n_trips,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+median_stops_per_trip,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+avg_trip_duration_min,"Excluded in favor of median_trip_duration_min, which is less sensitive to extreme schedule durations.",False
+median_trip_duration_min,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+n_service_ids,Excluded because it is nearly constant (1 for all but seven routes).,False
+trips_from_frequency,Excluded because every supplied route has value 0.,False
+has_time_backwards_trip,Excluded because every supplied route has value False.,False
+first_departure_h,Converted to sine and cosine time-of-day features using hour modulo 24; raw source column retained in the raw CSV.,True
+last_departure_h,Converted to sine and cosine time-of-day features using hour modulo 24; raw source column retained in the raw CSV.,True
+n_directions,Excluded from X because the entire Delhi file lacks this field; cross-city imputation would add a city-specific bias.,False
+service_span_h,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+n_active_hours,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+peak_hour,Converted to sine and cosine time-of-day features using hour modulo 24; raw source column retained in the raw CSV.,True
+peak_hour_trips,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+trips_per_active_hour,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+trips_morning,Converted to a share of n_trips; avoids using absolute period counts as a second copy of route volume.,True
+trips_afternoon,Converted to a share of n_trips; avoids using absolute period counts as a second copy of route volume.,True
+trips_evening,Converted to a share of n_trips; avoids using absolute period counts as a second copy of route volume.,True
+trips_night,Converted to a share of n_trips; avoids using absolute period counts as a second copy of route volume.,True
+median_headway_min,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+trips_monday,Exact duplicate of n_trips in the supplied data; excluded to avoid double-counting service volume.,False
+trips_tuesday,Exact duplicate of n_trips in the supplied data; excluded to avoid double-counting service volume.,False
+trips_wednesday,Exact duplicate of n_trips in the supplied data; excluded to avoid double-counting service volume.,False
+trips_thursday,Exact duplicate of n_trips in the supplied data; excluded to avoid double-counting service volume.,False
+trips_friday,Exact duplicate of n_trips in the supplied data; excluded to avoid double-counting service volume.,False
+trips_saturday,Exact duplicate of n_trips in the supplied data; excluded to avoid double-counting service volume.,False
+trips_sunday,Daily schedule count omitted in favor of the weekend_to_weekday_ratio summary feature.,False
+avg_trips_per_weekday,Omitted as a second service-volume summary alongside n_trips.,False
+avg_trips_per_weekend_day,Omitted as a second service-volume summary alongside n_trips.,False
+weekend_to_weekday_ratio,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+length_km_stops,Excluded in favor of the chosen length_km field to avoid feeding two alternative length estimates.,False
+length_km_shape,Excluded from X because 62.6% of rows lack a value; kept in the source CSV and missing-value log.,False
+length_km,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+length_method,One-hot encoded using categories observed in the training split; kept as descriptive source metadata in the prepared file.,True
+n_unique_stops,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+stops_per_km,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+avg_speed_kmh,Excluded because the source flags 873 rows as having implausible speeds; the original flag remains metadata.,False
+speed_implausible,Retained as data-quality metadata; not used as a route-behavior feature.,False
+overlap_partner,"Route reference/identifier, not a numeric or categorical signal for the model.",False
+max_stop_overlap,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+overlap_share_of_route,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+overlap_partner_name,"Route reference/identifier, not a numeric or categorical signal for the model.",False
+mean_routes_per_stop,"Selected as a route-level numeric feature; missing values are fitted on training rows, log1p is applied where non-negative and skewed, then robust-scaled using training median and IQR.",True
+sparse_schedule,Selected as a binary route-schedule feature and robust-scaled with the other numeric features.,True
+source_file,Retained for provenance; not a model feature.,False
+first_departure_sin,"Engineered from the corresponding hour field; stored in the final feature matrix in [-1, 1] before downstream modeling.",True
+first_departure_cos,"Engineered from the corresponding hour field; stored in the final feature matrix in [-1, 1] before downstream modeling.",True
+last_departure_sin,"Engineered from the corresponding hour field; stored in the final feature matrix in [-1, 1] before downstream modeling.",True
+last_departure_cos,"Engineered from the corresponding hour field; stored in the final feature matrix in [-1, 1] before downstream modeling.",True
+peak_hour_sin,"Engineered from the corresponding hour field; stored in the final feature matrix in [-1, 1] before downstream modeling.",True
+peak_hour_cos,"Engineered from the corresponding hour field; stored in the final feature matrix in [-1, 1] before downstream modeling.",True
+share_morning,Engineered as period trips divided by n_trips; robust-scaled using training rows.,True
+share_afternoon,Engineered as period trips divided by n_trips; robust-scaled using training rows.,True
+share_evening,Engineered as period trips divided by n_trips; robust-scaled using training rows.,True
+share_night,Engineered as period trips divided by n_trips; robust-scaled using training rows.,True
+length_method__shapes_txt,One-hot indicator for length_method category: shapes.txt.,True
+length_method__stop_coordinates_shape_failed_sanity_check,One-hot indicator for length_method category: stop coordinates (shape failed sanity check).,True
+length_method__stop_coordinates_straight_line_approximate,"One-hot indicator for length_method category: stop coordinates (straight-line, approximate).",True

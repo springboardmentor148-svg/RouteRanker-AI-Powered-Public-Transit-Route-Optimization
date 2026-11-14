@@ -1,0 +1,11 @@
+{
+  "rows": 12660,
+  "train_rows": 10128,
+  "validation_rows": 2532,
+  "feature_count": 29,
+  "selected_kmeans_k": 3,
+  "dbscan_eps": 3.073366499266204,
+  "dbscan_min_samples": 20,
+  "dbscan_clusters": 1,
+  "dbscan_noise_share": 0.015995260663507108
+}

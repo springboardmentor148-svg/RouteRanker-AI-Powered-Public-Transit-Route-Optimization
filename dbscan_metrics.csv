@@ -1,0 +1,2 @@
+eps,min_samples,n_clusters,noise_count,noise_share,silhouette,davies_bouldin,smallest_cluster,largest_cluster
+3.0428317456781255,20,2,171,0.01688388625592417,0.3185083804381175,0.8453709267782188,51,9906

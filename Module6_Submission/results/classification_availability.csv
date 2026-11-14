@@ -1,0 +1,3 @@
+model,status,note
+Random Forest,NOT_AVAILABLE_NO_TRAINED_LABELLED_MODEL,No trained labelled classifier was supplied; valid route or passenger-demand labels are required before classification predictions can be produced.
+XGBoost,NOT_AVAILABLE_NO_TRAINED_LABELLED_MODEL,No trained labelled classifier was supplied; valid route or passenger-demand labels are required before classification predictions can be produced.
