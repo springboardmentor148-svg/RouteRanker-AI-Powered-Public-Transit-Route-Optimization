@@ -1,0 +1,14 @@
+[
+  "trip_count_log1p_scaled",
+  "stop_count_scaled",
+  "route_length_km_log1p_scaled",
+  "service_span_hours_scaled",
+  "first_departure_hour_scaled",
+  "morning_trip_share_scaled",
+  "evening_trip_share_scaled",
+  "night_trip_share_scaled",
+  "period_afternoon",
+  "period_evening",
+  "period_morning",
+  "period_night"
+]

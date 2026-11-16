@@ -1,0 +1,5 @@
+column,method,count_affected,reason
+route_short_name,Filled from route_long_name (Metadata lookup only; excluded from model matrix),1270,Delhi DTC GTFS feed leaves route_short_name empty but embeds route codes in route_long_name
+"trip_count, stop_count, route_length_km, time_period_trips, service_span_hours (12 columns)",Isolated unserved catalog routes to processed/unserved_routes_catalog.csv; modeled active routes,682,Official agency catalog routes with 0 scheduled trips in trips.txt; operational metrics non-existent by definition
+median_headway_min,Option A: Excluded from primary distance matrix; intensity represented via trip_count + diurnal shares; added is_headway_missing indicator flag,2333,"Cannot calculate headway by definition for single-trip (1,447) and directional single-trip (886) routes without second departure"
+route_length_km,Capped at training 99th percentile (fitted strictly on train_df: 82.60 km),27,"Corrupted GIS shape trajectory spikes in BMTC feed (jumping up to 10,466 km); preserved routes while eliminating distance distortion"
