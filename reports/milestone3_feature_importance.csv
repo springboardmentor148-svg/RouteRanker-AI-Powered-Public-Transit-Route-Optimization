@@ -1,0 +1,17 @@
+Feature,Importance
+scheduled_trip_count,0.30050713
+headway_observation_count,0.23831485
+average_trip_duration_minutes,0.10398803
+average_stops_per_trip,0.08437333
+average_headway_minutes,0.05911992
+maximum_shape_distance_km,0.04235803
+trips_flagged_for_review,0.033982325
+unflagged_trip_count,0.028726028
+median_headway_minutes,0.027878504
+average_unflagged_trip_duration_minutes,0.025216902
+median_shape_distance_km,0.024823835
+minimum_shape_distance_km,0.014882663
+extreme_schedule_trip_count,0.011489078
+shape_count,0.004339353
+midnight_corrected_trip_count,0.0
+shapes_with_large_gaps,0.0

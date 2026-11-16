@@ -1,0 +1,9 @@
+Metric,Value
+Total Routes,10514
+Total Cities,8
+Feature Count,16
+KMeans Silhouette,0.6725045026649213
+DBSCAN Clusters,9
+DBSCAN Noise Routes,167
+DBSCAN Silhouette,0.7196059945145187
+Best Model,XGBoost
