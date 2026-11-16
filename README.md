@@ -284,6 +284,101 @@ Module 2 transforms raw GTFS transit schedules across all 8 Indian cities into a
 
 ---
 
+## 11. Module 5: Machine Learning Model Development & Evaluation
+
+Module 5 develops, evaluates, and compares unsupervised clustering (K-Means, DBSCAN) and supervised classification models (Random Forest, XGBoost) across 9,233 public transit routes in 8 Indian metropolitan systems. All modeling adheres strictly to scheduled supply-side GTFS features, completely avoiding unverified passenger demand assumptions or subjective efficiency labels.
+
+### What Was Done
+1. **Unsupervised K-Means Experiments**:
+   - Evaluated cluster configurations from $K=2$ to $10$ (`n_init=10, random_state=42`) on the training split (7,386 routes).
+   - Tracked within-cluster inertia, silhouette scores, Davies-Bouldin indices, and cluster balance.
+   - Selected $K=5$ based on the elbow curve, silhouette score ($0.3066$), Davies-Bouldin ($1.0384$), and balanced service archetypes.
+   - Profiled 5 distinct scheduled service archetypes on unscaled physical features (Midday/PM Feeders, AM Peak Shuttles, Late-Evening/Night Feeders, 24/7 Trunk Spines, Standard Regular Lines).
+   - Demonstrated that Cluster 4 (Standard Regular Lines) forms a universal transit backbone comprising $\approx 55\%$ of routes across every city.
+2. **Unsupervised DBSCAN Experiments & Noise Analysis**:
+   - Conducted a 27-configuration grid search ($\epsilon \in [0.4, 2.0]$, $\text{MinPts} \in \{5, 10, 20\}$) on all 9,233 routes.
+   - Selected $\epsilon=1.0, \text{MinPts}=10$ (16 clusters, 478 noise points / 5.18%).
+   - Conducted rigorous root-cause noise analysis: $98.3\%$ of noise routes represent valid specialized operating schedules (e.g., midnight airport shuttles, 24/7 industrial trunks, short depot runs) rather than GTFS data errors.
+3. **Cross-Algorithm Comparison**:
+   - Compared K-Means and DBSCAN using 2D PCA projections (76.49% cumulative variance explained).
+   - Proved that DBSCAN noise points sit at nearly double the Euclidean distance to their K-Means centroids ($3.51$ vs $1.86$) compared to core routes, confirming structural consistency across geometric and density-based paradigms.
+4. **Supervised Service Level Classification (Random Forest & XGBoost)**:
+   - Defined target label: Within-city planned operational service level (Low, Medium, High) derived strictly from within-agency trip count percentiles.
+   - Eliminated target leakage by permanently removing `trip_count_log1p_scaled`.
+   - Trained Random Forest (76.45% test accuracy, 0.7454 macro F1) and XGBoost (77.10% test accuracy, 0.7507 macro F1) using 5-fold stratified cross-validation.
+   - Feature importance confirmed `service_span_hours_scaled` as the single most predictive feature ($>35\%$ relative importance).
+
+### How to Set Up and Run the Notebook
+
+#### Requirements
+- Python 3.10+ (tested on Python 3.14.3)
+- Required packages:
+  ```bash
+  pip install pandas numpy scikit-learn xgboost joblib matplotlib seaborn nbclient nbformat
+  ```
+
+#### Execution
+1. Open [`module5_models.ipynb`](module5_models.ipynb) in VS Code or Jupyter Lab.
+2. Select your Python virtual environment kernel.
+3. Execute all cells from top to bottom (**Kernel -> Restart and Run All**).
+4. Alternatively, execute the independent verification script directly from the terminal:
+   ```bash
+   python verify_module5_phase10.py
+   ```
+
+### Output File Inventory
+
+| Category | File Path | Description |
+|---|---|---|
+| **Notebooks** | [`module5_models.ipynb`](module5_models.ipynb) | Master executable notebook covering Phases 1–8 |
+| | [`RAW DATASET/module5_models.ipynb`](RAW%20DATASET/module5_models.ipynb) | Synced mirror copy in raw dataset directory |
+| **Models** | [`models/kmeans_model.joblib`](models/kmeans_model.joblib) | Serialized final K-Means model ($K=5$) |
+| | [`models/dbscan_model.joblib`](models/dbscan_model.joblib) | Serialized final DBSCAN model ($\epsilon=1.0, \text{MinPts}=10$) |
+| | [`models/random_forest_model.joblib`](models/random_forest_model.joblib) | Serialized Random Forest classifier |
+| | [`models/xgboost_model.joblib`](models/xgboost_model.joblib) | Serialized XGBoost classifier |
+| **Results** | [`results/kmeans_k_comparison.csv`](results/kmeans_k_comparison.csv) | Evaluation metrics across $K=2 \dots 10$ |
+| | [`results/kmeans_cluster_assignments.csv`](results/kmeans_cluster_assignments.csv) | Final K-Means cluster assignments for all 9,233 routes |
+| | [`results/dbscan_parameter_grid.csv`](results/dbscan_parameter_grid.csv) | 27-run parameter grid metrics for DBSCAN |
+| | [`results/dbscan_cluster_assignments.csv`](results/dbscan_cluster_assignments.csv) | Final DBSCAN cluster and noise assignments |
+| | [`results/algorithm_comparison.csv`](results/algorithm_comparison.csv) | Comprehensive architectural & operational comparison matrix |
+| | [`results/classification_model_comparison.csv`](results/classification_model_comparison.csv) | Test set performance metrics (RF vs XGBoost) |
+| **Visualizations** | [`visualizations/models/kmeans_k_evaluation_metrics.png`](visualizations/models/kmeans_k_evaluation_metrics.png) | Elbow, Silhouette, and Davies-Bouldin curves |
+| | [`visualizations/models/kmeans_pca_scatter.png`](visualizations/models/kmeans_pca_scatter.png) | 2D PCA projection of K-Means clusters |
+| | [`visualizations/models/kmeans_cluster_profiles_bar.png`](visualizations/models/kmeans_cluster_profiles_bar.png) | Centroid standardized feature profiles |
+| | [`visualizations/models/kmeans_cluster_key_features_boxplot.png`](visualizations/models/kmeans_cluster_key_features_boxplot.png) | Key feature distributions across clusters |
+| | [`visualizations/models/kmeans_routes_length_vs_trips_scatter.png`](visualizations/models/kmeans_routes_length_vs_trips_scatter.png) | Route length vs trip count scatter colored by cluster |
+| | [`visualizations/models/kmeans_cluster_by_city_composition.png`](visualizations/models/kmeans_cluster_by_city_composition.png) | City-wise cluster distribution stacked bar |
+| | [`visualizations/models/dbscan_k_distance_plot.png`](visualizations/models/dbscan_k_distance_plot.png) | 10-NN k-distance knee identification curve |
+| | [`visualizations/models/dbscan_parameter_grid_curves.png`](visualizations/models/dbscan_parameter_grid_curves.png) | Parameter sensitivity curves (clusters and noise % vs $\epsilon$) |
+| | [`visualizations/models/dbscan_noise_vs_core_boxplots.png`](visualizations/models/dbscan_noise_vs_core_boxplots.png) | Noise vs core unscaled feature distributions |
+| | [`visualizations/models/dbscan_pca_scatter.png`](visualizations/models/dbscan_pca_scatter.png) | 2D PCA projection of DBSCAN clusters and noise |
+| | [`visualizations/models/kmeans_vs_dbscan_comparison.png`](visualizations/models/kmeans_vs_dbscan_comparison.png) | Centroid distance distribution & noise breakdown |
+| | [`visualizations/models/classification_confusion_and_importance.png`](visualizations/models/classification_confusion_and_importance.png) | Confusion matrices and feature importance rankings |
+| **Reports** | [`reports/module5_model_report.md`](reports/module5_model_report.md) | Comprehensive 26 KB technical model report |
+
+### Core Limitations and Operational Assumptions
+1. **Supply-Side Scheduled Data Only**: All models reflect planned transit supply as captured in static GTFS feeds. Feeds contain zero passenger boardings, alightings, passenger loads, or revenue metrics.
+2. **Descriptive Archetypes, Not Policy Mandates**: Clusters group routes sharing operational characteristics (headways, service spans, route lengths). They do not represent subjective judgements (such as *overcrowded*, *underutilised*, or *inefficient*).
+3. **Noise Points Represent Specialized Schedules**: Routes classified as noise in DBSCAN are atypical or low-density operational patterns (e.g. night owls, long inter-suburb connectors), not bad or corrupt routes.
+4. **Data Quality Heterogeneity**: Route lengths rely on Haversine distance calculations along shape geometries where available and stop sequence estimations where shapes are absent.
+
+---
+
+## 12. Module 5 status
+
+- [x] Phase 1: Environment verification, preprocessed feature matrix loading, and train/val verification
+- [x] Phase 2: K-Means evaluation ($K=2 \dots 10$), metric curves (inertia, silhouette, DB), and $K=5$ selection
+- [x] Phase 3: Final K-Means model training, out-of-sample stability validation, and unscaled cluster profiling
+- [x] Phase 4: K-Means visualization (PCA 2D projection, feature distributions, city cross-tabulation)
+- [x] Phase 5: DBSCAN parameter grid search (27 runs, knee plot, parameter sensitivity analysis)
+- [x] Phase 6: Final DBSCAN execution ($\epsilon=1.0, \text{MinPts}=10$), root-cause noise analysis, and PCA mapping
+- [x] Phase 7: Quantitative & qualitative algorithm comparison (crosstabs, ARI, centroid distances)
+- [x] Phase 8: Leakage-free service-level classification using Random Forest and XGBoost with feature importances
+- [x] Phase 9: Comprehensive technical reporting (`reports/module5_model_report.md`)
+- [x] Phase 10: Verification suite (`verify_module5_phase10.py`), zero-leakage confirmation, and README documentation
+
+---
+
 ## Team
 
 AYUSH SINGH

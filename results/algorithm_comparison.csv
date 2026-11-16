@@ -1,0 +1,12 @@
+Dimension,K-Means (Approved K=5),"DBSCAN (eps=1.0, min_samples=10)",Directly Comparable?
+Clustering Paradigm,Centroid-based geometric partitioning (minimizes WCSS),Density-based spatial connectivity (density reachability),Conceptual distinction (spherical vs arbitrary density manifolds)
+Optimal Hyperparameters,"K = 5, n_init = 10, random_state = 42","eps = 1.0, min_samples = 10",No (K is cluster count; eps is spatial radius threshold)
+Number of Clusters,5 macro-tier operational clusters,16 dense sub-clusters + 1 noise class (-1),Yes (K-Means is coarse; DBSCAN is fine-grained)
+Noise & Outlier Handling,"None (forces all 9,233 routes into a cluster)",Explicitly isolates 478 routes (5.18%) as noise (-1),Fundamental algorithmic difference
+Silhouette Score,"0.3076 (evaluated across all 9,233 routes)","0.1579 (evaluated strictly on 8,755 non-noise routes)",Limited: DBSCAN excludes 5.2% outliers; K-Means penalizes them
+Davies-Bouldin Index,"1.0241 (evaluated across all 9,233 routes)","0.7843 (evaluated strictly on 8,755 non-noise routes)",Limited: DBSCAN measures only dense cores; K-Means includes dispersion
+Cluster Size Balance,"Well-balanced (Min: 315 / 3.4%, Max: 5,082 / 55.0%)","Highly lopsided (Largest: 6,480 / 70.2%, Smallest: 12 / 0.13%)",Yes (K-Means balances volume; DBSCAN follows natural density)
+Operational Interpretability,High: Clean 5-tier functional transit hierarchy,"Moderate: Excellent outlier filter, but 16 sub-clusters fragment planning",Yes (K-Means is executive-ready; DBSCAN is diagnostic)
+Computational Speed,Very Fast: O(K * N * d * iterations) ~ 0.15s,Fast with BallTree: O(N log N * d) ~ 0.35s,Yes (both scale cleanly on 10k routes)
+Sensitivity to Outliers,High: Extreme routes pull centroids and inflate inertia,Very Low: Outliers are isolated as noise without distorting clusters,Yes (DBSCAN is inherently robust to anomalies)
+Hyperparameter Sensitivity,Moderate: Stable plateau across K=4 to 7,High: Small eps shifts cause mega-clusters (eps>=1.6) or high noise (eps<=0.4),Yes (K-Means is far more forgiving to tune)
