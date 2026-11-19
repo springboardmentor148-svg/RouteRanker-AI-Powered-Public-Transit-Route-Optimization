@@ -39,7 +39,7 @@ Outliers are statistical (Tukey fences) and are classified as: *valid but unusua
 ## Bengaluru
 
 * Dataset: 4,416 routes x 48 features; duplicate rows 0; duplicate route_id 0.
-* Missing values: `median_headway_min` 1043 (23.6%), `overlap_partner` 14 (0.3%), `overlap_partner_name` 14 (0.3%) (undefined values, not zeros).
+* Missing values: `median_headway_min` 1043 (23.6%), `overlap_partner` 16 (0.4%), `overlap_partner_name` 16 (0.4%) (undefined values, not zeros).
 
 **Outlier screening (Tukey 1.5 x IQR, log scale for skewed features):**
 
@@ -57,7 +57,7 @@ Outliers are statistical (Tukey fences) and are classified as: *valid but unusua
 
 | check | routes | pct | reading |
 |---|---|---|---|
-| scheduled speed < 3 or > 80 km/h | 93 | 2.10 | suspect: length, duration or both look wrong for these routes (check publisher / shape); flagged, not deleted |
+| scheduled speed < 3 or > 80 km/h | 92 | 2.10 | suspect: length, duration or both look wrong for these routes (check publisher / shape); flagged, not deleted |
 | very long routes (> Q3 + 3 IQR) | 50 | 1.10 | 12 of them have a plausible scheduled speed -> valid but unusual (long-distance routes); 38 do not -> suspect |
 | very many scheduled trips (> Q3 + 3 IQR) | 460 | 10.40 | 0 combine several service patterns (counts add up alternative timetables); the rest are valid high-frequency routes or a feed property |
 | routes with fewer than 3 scheduled trips | 2082 | 47.10 | valid but sparse; headway undefined for many; NOT evidence of inefficiency |
@@ -148,7 +148,7 @@ Outliers are statistical (Tukey fences) and are classified as: *valid but unusua
 |---|---|---|---|---|---|---|
 | n_trips | 1.00 | 8.00 | 2,087.00 | 0 | 2 | 0.20 |
 | n_unique_stops | 2.00 | 55.00 | 795.00 | 19 | 6 | 2.40 |
-| length_km | 0.59 | 26.45 | 1,390.70 | 20 | 7 | 2.60 |
+| length_km | 0.59 | 26.51 | 1,390.70 | 20 | 7 | 2.60 |
 | service_span_h | 0.00 | 12.70 | 80.25 | 0 | 9 | 0.90 |
 | median_headway_min | 2.00 | 50.00 | 1,500.00 | 0 | 6 | 0.70 |
 | avg_speed_kmh | 0.56 | 1.83 | 245.14 | 0 | 111 | 10.80 |
@@ -158,8 +158,8 @@ Outliers are statistical (Tukey fences) and are classified as: *valid but unusua
 
 | check | routes | pct | reading |
 |---|---|---|---|
-| scheduled speed < 3 or > 80 km/h | 778 | 75.50 | suspect: length, duration or both look wrong for these routes (check publisher / shape); flagged, not deleted |
-| very long routes (> Q3 + 3 IQR) | 13 | 1.30 | 10 of them have a plausible scheduled speed -> valid but unusual (long-distance routes); 3 do not -> suspect |
+| scheduled speed < 3 or > 80 km/h | 779 | 75.60 | suspect: length, duration or both look wrong for these routes (check publisher / shape); flagged, not deleted |
+| very long routes (> Q3 + 3 IQR) | 13 | 1.30 | 9 of them have a plausible scheduled speed -> valid but unusual (long-distance routes); 4 do not -> suspect |
 | very many scheduled trips (> Q3 + 3 IQR) | 97 | 9.40 | 0 combine several service patterns (counts add up alternative timetables); the rest are valid high-frequency routes or a feed property |
 | routes with fewer than 3 scheduled trips | 269 | 26.10 | valid but sparse; headway undefined for many; NOT evidence of inefficiency |
 | missing median headway (single departure time) | 145 | 14.10 | undefined, not zero; kept missing |
@@ -220,7 +220,7 @@ Outliers are statistical (Tukey fences) and are classified as: *valid but unusua
 | length_km | 3.11 | 19.99 | 70.70 | 0 | 0 | 0.00 |
 | service_span_h | 3.08 | 9.42 | 23.50 | 0 | 6 | 1.90 |
 | median_headway_min | 3.00 | 30.00 | 200.00 | 0 | 0 | 0.00 |
-| avg_speed_kmh | 2.52 | 19.36 | 37.82 | 9 | 18 | 8.60 |
+| avg_speed_kmh | 2.51 | 19.36 | 37.82 | 9 | 18 | 8.60 |
 
 
 **Investigation of unusual values (kept in the data; classified, not deleted):**

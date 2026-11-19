@@ -1,6 +1,6 @@
 # Module 4 - Categorical encoding and feature scaling
 
-_Generated 2026-10-30._ Planned next models: KMeans and DBSCAN, both **distance based**.
+_Generated 2026-10-29._ Planned next models: KMeans and DBSCAN, both **distance based**.
 
 ## Categorical features and encoding
 
@@ -50,14 +50,14 @@ _Generated 2026-10-30._ Planned next models: KMeans and DBSCAN, both **distance 
 | n_trips | -0.00 | 1.00 |
 | n_unique_stops | -0.00 | 1.00 |
 | median_stops_per_trip | -0.00 | 1.00 |
-| length_km | -0.00 | 1.00 |
+| length_km | 0.00 | 1.00 |
 | service_span_h | 0.00 | 1.00 |
 | n_active_hours | 0.00 | 1.00 |
 | trips_per_active_hour | -0.00 | 1.00 |
 | median_headway_min | -0.00 | 1.00 |
 | avg_trip_duration_min | -0.00 | 1.00 |
-| stops_per_km | -0.00 | 1.00 |
-| avg_speed_kmh | -0.00 | 1.00 |
+| stops_per_km | 0.00 | 1.00 |
+| avg_speed_kmh | 0.00 | 1.00 |
 | max_stop_overlap | -0.00 | 1.00 |
 | mean_routes_per_stop | -0.00 | 1.00 |
 | share_morning | -0.00 | 1.00 |

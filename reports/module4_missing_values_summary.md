@@ -1,13 +1,13 @@
 # Module 4 - Missing values summary
 
-_Generated 2026-10-30._ Input: `data/processed/all_cities_route_features.csv` (Module 2), 14,097 routes; 1,031 routes of hyderabad excluded (see decisions report) -> 13,066 routes modelled.
+_Generated 2026-10-29._ Input: `data/processed/all_cities_route_features.csv` (Module 2), 14,097 routes; 1,031 routes of hyderabad excluded (see decisions report) -> 13,066 routes modelled.
 
 ## Columns with missing or invalid values (candidate features only)
 
 | column | missing | pct | worst_city | worst_city_pct |
 |---|---|---|---|---|
 | median_headway_min | 2102 | 16.09 | bengaluru | 23.60 |
-| avg_speed_kmh | 122 | 0.93 | ahmedabad | 2.80 |
+| avg_speed_kmh | 121 | 0.93 | ahmedabad | 2.80 |
 
 
 ## Why the values are missing - investigation
@@ -22,12 +22,12 @@ _Generated 2026-10-30._ Input: `data/processed/all_cities_route_features.csv` (M
 
 Every missing value belongs to a route with exactly one scheduled trip, and no route with two or more trips is affected. With a single departure there is no gap between two departures, so the value is **undefined in the source**: it cannot be recovered from the GTFS files, and it is not zero.
 
-**`avg_speed_kmh`.** Scheduled speed = estimated route length / scheduled duration. 52 routes have a speed below 3 km/h and 70 above 80 km/h, which no bus schedule can mean; the length (a straight-line estimate for many feeds) or the timetable is unreliable. Both inputs come from the source, so the speed cannot be recovered. By city:
+**`avg_speed_kmh`.** Scheduled speed = estimated route length / scheduled duration. 51 routes have a speed below 3 km/h and 70 above 80 km/h, which no bus schedule can mean; the length (a straight-line estimate for many feeds) or the timetable is unreliable. Both inputs come from the source, so the speed cannot be recovered. By city:
 
 | city | invalid_speed_routes | share |
 |---|---|---|
 | ahmedabad | 27 | 0.03 |
-| bengaluru | 93 | 0.02 |
+| bengaluru | 92 | 0.02 |
 | chennai | 0 | 0.00 |
 | delhi | 0 | 0.00 |
 | kochi | 0 | 0.00 |

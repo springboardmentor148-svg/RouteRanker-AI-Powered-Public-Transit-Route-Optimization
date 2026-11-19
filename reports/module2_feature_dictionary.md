@@ -1,6 +1,6 @@
 # Module 2 - Feature dictionary
 
-_Generated 2026-10-25._ `direct` = a field copied from the GTFS files; `derived` = calculated by us. IDs (route_id, trip_id, stop_id) are identifiers, never numeric measurements.
+_Generated 2026-10-24._ `direct` = a field copied from the GTFS files; `derived` = calculated by us. IDs (route_id, trip_id, stop_id) are identifiers, never numeric measurements.
 
 **Time periods (clearly defined rules):** morning 05:00-11:59; afternoon 12:00-16:59; evening 17:00-20:59; night 21:00-04:59. GTFS times can exceed 24:00:00 (trip runs past midnight); they are converted to seconds first and the clock hour is `(seconds // 3600) % 24`.
 

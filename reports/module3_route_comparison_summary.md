@@ -178,7 +178,7 @@ Full table: `tables/delhi_route_comparison.csv`. *Caveat: Scheduled speed is alm
 |---|---|---|---|---|---|---|---|---|
 | low (<= Q1) | 269 | 1.00 | 30.00 | 23.09 | 0.00 | 426.00 | 1.59 | 0.50 |
 | middle | 503 | 8.00 | 58.00 | 28.37 | 12.67 | 65.00 | 1.82 | 0.62 |
-| high (>= Q3) | 259 | 86.00 | 86.00 | 27.76 | 18.58 | 10.00 | 2.14 | 0.56 |
+| high (>= Q3) | 259 | 86.00 | 86.00 | 27.82 | 18.58 | 10.00 | 2.14 | 0.56 |
 
 **10 routes with the most scheduled trips:**
 
@@ -249,7 +249,7 @@ Full table: `tables/hyderabad_route_comparison.csv`. *Caveat: 71% of routes have
 | Vyttila Mobility Hub ↔ Vyttila Mobility Hub (clockwise, via Kadavanthra and Palarivattam bypass) | 17 | 39 | 18.71 | 16.00 |
 | Kundannoor ↔ Kundannoor | 17 | 54 | 23.63 | 16.00 |
 | Thrippoonithura ↔ Thrippoonithura | 17 | 67 | 27.82 | 16.00 |
-| Thrippoonithura ↔ Thrippoonithura | 17 | 69 | 29.34 | 16.00 |
+| Eroor ↔ Eroor | 17 | 69 | 29.34 | 16.00 |
 | Kozhivettumveli ↔ Kozhivettumveli | 17 | 69 | 29.34 | 16.00 |
 
 Full table: `tables/kochi_route_comparison.csv`. *Caveat: Scheduled speed is almost identical on all routes (10th-90th percentile 20.8-22.4 km/h), suggesting generated rather than operational stop times; durations and headways should be read as a model schedule. Trip counts come from expanding frequency templates (a bus every N minutes), so routes look uniform because the publisher used a uniform pattern; this is not measured service.*

@@ -26,7 +26,7 @@ ahmedabad,stop_times.txt,time goes backwards within a trip,0,646854,0.0,
 ahmedabad,stop_times.txt,identical arrival time at consecutive stops,35178,646854,5.44,High values suggest times were interpolated/estimated by the publisher
 ahmedabad,calendar.txt,invalid start/end date,0,1,0.0,
 ahmedabad,calendar.txt,start_date after end_date,0,1,0.0,
-ahmedabad,calendar.txt,service already expired (end_date < 2026-10-18),0,1,0.0,calendar covers 2026-09-30 to 2027-03-29
+ahmedabad,calendar.txt,service already expired (end_date < 2026-10-13),0,1,0.0,calendar covers 2026-09-30 to 2027-03-29
 ahmedabad,calendar.txt,service runs on no day of the week,0,1,0.0,
 ahmedabad,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
 bengaluru,routes.txt,duplicate key ['route_id'],0,4434,0.0,
@@ -56,7 +56,7 @@ bengaluru,stop_times.txt,time goes backwards within a trip,0,1540686,0.0,
 bengaluru,stop_times.txt,identical arrival time at consecutive stops,25,1540686,0.0,High values suggest times were interpolated/estimated by the publisher
 bengaluru,calendar.txt,invalid start/end date,0,1,0.0,
 bengaluru,calendar.txt,start_date after end_date,0,1,0.0,
-bengaluru,calendar.txt,service already expired (end_date < 2026-10-18),0,1,0.0,calendar covers 2026-09-07 to 2027-09-07
+bengaluru,calendar.txt,service already expired (end_date < 2026-10-13),0,1,0.0,calendar covers 2026-09-07 to 2027-09-07
 bengaluru,calendar.txt,service runs on no day of the week,0,1,0.0,
 bengaluru,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
 chennai,routes.txt,duplicate key ['route_id'],0,5402,0.0,
@@ -86,7 +86,7 @@ chennai,stop_times.txt,time goes backwards within a trip,19,1389081,0.0,
 chennai,stop_times.txt,identical arrival time at consecutive stops,0,1389081,0.0,High values suggest times were interpolated/estimated by the publisher
 chennai,calendar.txt,invalid start/end date,0,12,0.0,
 chennai,calendar.txt,start_date after end_date,0,12,0.0,
-chennai,calendar.txt,service already expired (end_date < 2026-10-18),1,12,8.33,calendar covers 2021-04-20 to 2170-08-20
+chennai,calendar.txt,service already expired (end_date < 2026-10-13),1,12,8.33,calendar covers 2021-04-20 to 2170-08-20
 chennai,calendar.txt,service runs on no day of the week,0,12,0.0,
 chennai,calendar.txt,service runs all 7 days (no weekday/weekend distinction),2,12,16.67,12 service_id(s) in calendar.txt
 delhi,routes.txt,duplicate key ['route_id'],0,2964,0.0,
@@ -116,7 +116,7 @@ delhi,stop_times.txt,time goes backwards within a trip,0,3276092,0.0,
 delhi,stop_times.txt,identical arrival time at consecutive stops,30025,3276092,0.92,High values suggest times were interpolated/estimated by the publisher
 delhi,calendar.txt,invalid start/end date,0,1,0.0,
 delhi,calendar.txt,start_date after end_date,0,1,0.0,
-delhi,calendar.txt,service already expired (end_date < 2026-10-18),1,1,100.0,calendar covers 2022-01-01 to 2024-01-01
+delhi,calendar.txt,service already expired (end_date < 2026-10-13),1,1,100.0,calendar covers 2022-01-01 to 2024-01-01
 delhi,calendar.txt,service runs on no day of the week,0,1,0.0,
 delhi,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
 hyderabad,routes.txt,duplicate key ['route_id'],0,1031,0.0,
@@ -145,7 +145,7 @@ hyderabad,stop_times.txt,time goes backwards within a trip,0,1132807,0.0,
 hyderabad,stop_times.txt,identical arrival time at consecutive stops,0,1132807,0.0,High values suggest times were interpolated/estimated by the publisher
 hyderabad,calendar.txt,invalid start/end date,0,1,0.0,
 hyderabad,calendar.txt,start_date after end_date,0,1,0.0,
-hyderabad,calendar.txt,service already expired (end_date < 2026-10-18),0,1,0.0,calendar covers 2026-02-01 to 2031-02-01
+hyderabad,calendar.txt,service already expired (end_date < 2026-10-13),0,1,0.0,calendar covers 2026-02-01 to 2031-02-01
 hyderabad,calendar.txt,service runs on no day of the week,0,1,0.0,
 hyderabad,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
 kochi,routes.txt,duplicate key ['route_id'],0,473,0.0,
@@ -175,7 +175,7 @@ kochi,stop_times.txt,time goes backwards within a trip,0,46648,0.0,
 kochi,stop_times.txt,identical arrival time at consecutive stops,0,46648,0.0,High values suggest times were interpolated/estimated by the publisher
 kochi,calendar.txt,invalid start/end date,0,1,0.0,
 kochi,calendar.txt,start_date after end_date,0,1,0.0,
-kochi,calendar.txt,service already expired (end_date < 2026-10-18),1,1,100.0,calendar covers 2022-09-26 to 2023-03-25
+kochi,calendar.txt,service already expired (end_date < 2026-10-13),1,1,100.0,calendar covers 2022-09-26 to 2023-03-25
 kochi,calendar.txt,service runs on no day of the week,0,1,0.0,
 kochi,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt
 pune,routes.txt,duplicate key ['route_id'],0,315,0.0,
@@ -205,6 +205,6 @@ pune,stop_times.txt,time goes backwards within a trip,0,429302,0.0,
 pune,stop_times.txt,identical arrival time at consecutive stops,0,429302,0.0,High values suggest times were interpolated/estimated by the publisher
 pune,calendar.txt,invalid start/end date,0,1,0.0,
 pune,calendar.txt,start_date after end_date,0,1,0.0,
-pune,calendar.txt,service already expired (end_date < 2026-10-18),0,1,0.0,calendar covers 2026-10-07 to 2027-04-05
+pune,calendar.txt,service already expired (end_date < 2026-10-13),0,1,0.0,calendar covers 2026-10-07 to 2027-04-05
 pune,calendar.txt,service runs on no day of the week,0,1,0.0,
 pune,calendar.txt,service runs all 7 days (no weekday/weekend distinction),1,1,100.0,1 service_id(s) in calendar.txt

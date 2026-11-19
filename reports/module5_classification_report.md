@@ -19,8 +19,8 @@ Classification needs labels. GTFS contains no passenger data, so any label like 
 | variant | model | best_params | cv_macro_f1 | accuracy | precision_macro | recall_macro | f1_macro |
 |---|---|---|---|---|---|---|---|
 | all features | Random Forest | {'n_estimators': 200, 'max_depth': 16, 'min_samples_leaf': 2} | 0.95 | 0.96 | 0.97 | 0.93 | 0.95 |
-| all features | XGBoost | {'n_estimators': 400, 'max_depth': 6, 'learning_rate': 0.05} | 0.96 | 0.97 | 0.97 | 0.95 | 0.96 |
-| without length_method flags | Random Forest | {'n_estimators': 200, 'max_depth': None, 'min_samples_leaf': 2} | 0.92 | 0.91 | 0.94 | 0.90 | 0.91 |
+| all features | XGBoost | {'n_estimators': 200, 'max_depth': 4, 'learning_rate': 0.1} | 0.96 | 0.97 | 0.97 | 0.95 | 0.96 |
+| without length_method flags | Random Forest | {'n_estimators': 200, 'max_depth': None, 'min_samples_leaf': 2} | 0.92 | 0.91 | 0.94 | 0.89 | 0.91 |
 | without length_method flags | XGBoost | {'n_estimators': 200, 'max_depth': 6, 'learning_rate': 0.1} | 0.94 | 0.93 | 0.94 | 0.93 | 0.93 |
 
 
@@ -30,9 +30,9 @@ Best parameters were chosen by cross-validated macro F1 (see `tables/module5_cla
 
 | class | precision | recall | f1 | support |
 |---|---|---|---|---|
-| ahmedabad | 0.92 | 0.80 | 0.86 | 224 |
+| ahmedabad | 0.89 | 0.83 | 0.85 | 224 |
 | bengaluru | 1.00 | 1.00 | 1.00 | 882 |
-| chennai | 0.94 | 0.98 | 0.96 | 726 |
+| chennai | 0.95 | 0.96 | 0.95 | 726 |
 | delhi | 0.99 | 1.00 | 0.99 | 612 |
 | kochi | 1.00 | 0.99 | 0.99 | 86 |
 | pune | 0.98 | 0.96 | 0.97 | 70 |

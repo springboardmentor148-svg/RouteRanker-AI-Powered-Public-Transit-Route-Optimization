@@ -1,6 +1,6 @@
 # Module 1 – Dataset inventory and data-quality observations
 
-_Generated 2026-10-18. Counts only – **no record was deleted, imputed or modified**._
+_Generated 2026-10-13. Counts only – **no record was deleted, imputed or modified**._
 
 ## Summary: required files and record counts per city
 
@@ -145,7 +145,7 @@ Download size: 9.82 MB
 | stop_times.txt | time >= 24:00:00 (valid GTFS: trip runs past midnight) | 1904 | 0.14 | Valid in GTFS; must be handled when extracting hour-of-day |
 | stop_times.txt | arrival later than departure at same stop | 4 | 0.0 |  |
 | stop_times.txt | time goes backwards within a trip | 19 | 0.0 |  |
-| calendar.txt | service already expired (end_date < 2026-10-18) | 1 | 8.33 | calendar covers 2021-04-20 to 2170-08-20 |
+| calendar.txt | service already expired (end_date < 2026-10-13) | 1 | 8.33 | calendar covers 2021-04-20 to 2170-08-20 |
 | calendar.txt | service runs all 7 days (no weekday/weekend distinction) | 2 | 16.67 | 12 service_id(s) in calendar.txt |
 
 
@@ -179,7 +179,7 @@ Download size: 19.78 MB
 | stops.txt | stop never used in stop_times | 75 | 1.18 |  |
 | stop_times.txt | time >= 24:00:00 (valid GTFS: trip runs past midnight) | 20505 | 0.63 | Valid in GTFS; must be handled when extracting hour-of-day |
 | stop_times.txt | identical arrival time at consecutive stops | 30025 | 0.92 | High values suggest times were interpolated/estimated by the publisher |
-| calendar.txt | service already expired (end_date < 2026-10-18) | 1 | 100.0 | calendar covers 2022-01-01 to 2024-01-01 |
+| calendar.txt | service already expired (end_date < 2026-10-13) | 1 | 100.0 | calendar covers 2022-01-01 to 2024-01-01 |
 | calendar.txt | service runs all 7 days (no weekday/weekend distinction) | 1 | 100.0 | 1 service_id(s) in calendar.txt |
 
 
@@ -240,7 +240,7 @@ Download size: 5.48 MB
 | file | check | count | pct | note |
 |---|---|---|---|---|
 | routes.txt | route_type is not a bus code (3 / 700-799 / 200-299 / 11) | 8 | 1.69 | Metro/rail/ferry rows mixed in with buses |
-| calendar.txt | service already expired (end_date < 2026-10-18) | 1 | 100.0 | calendar covers 2022-09-26 to 2023-03-25 |
+| calendar.txt | service already expired (end_date < 2026-10-13) | 1 | 100.0 | calendar covers 2022-09-26 to 2023-03-25 |
 | calendar.txt | service runs all 7 days (no weekday/weekend distinction) | 1 | 100.0 | 1 service_id(s) in calendar.txt |
 
 

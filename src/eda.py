@@ -278,9 +278,7 @@ def shape_overlap(rf, shapes, trip_shape, cell=0.002):
                           shape=(len(rep), len(cell_idx)))
     size = np.asarray(X.sum(axis=1)).ravel()
     inter = (X @ X.T).toarray()
-    with np.errstate(invalid="ignore", divide="ignore"):
-        J = inter / (size[:, None] + size[None, :] - inter)
-    J = np.nan_to_num(J, nan=-1.0)          # a route with an empty cell set has no overlap partner
+    J = inter / (size[:, None] + size[None, :] - inter)
     names = rf.set_index("route_id").route_name.reindex(rep.index).astype(str).to_numpy(dtype=object)
     codes = pd.factorize(names)[0]
     J[codes[:, None] == codes[None, :]] = -1                       # same line name

@@ -1,6 +1,6 @@
 # Module 2 - Data quality report
 
-_Generated 2026-10-25._ Raw files are untouched (`data/raw/`); cleaned tables are rebuilt in memory and the features saved to `data/processed/`. Each action below lists how many rows it affected and why. Missing values are **not** replaced by zero.
+_Generated 2026-10-24._ Raw files are untouched (`data/raw/`); cleaned tables are rebuilt in memory and the features saved to `data/processed/`. Each action below lists how many rows it affected and why. Missing values are **not** replaced by zero.
 
 ## Cleaning actions (only steps that affected at least one row; full log incl. before/after counts: `reports/module2_cleaning_log.csv`)
 
@@ -29,8 +29,8 @@ _Generated 2026-10-25._ Raw files are untouched (`data/raw/`); cleaned tables ar
 | ahmedabad | median_headway_min | 94 | 9.70 |
 | ahmedabad | length_km_shape | 972 | 100.00 |
 | bengaluru | median_headway_min | 1043 | 23.60 |
-| bengaluru | overlap_partner | 14 | 0.30 |
-| bengaluru | overlap_partner_name | 14 | 0.30 |
+| bengaluru | overlap_partner | 16 | 0.40 |
+| bengaluru | overlap_partner_name | 16 | 0.40 |
 | chennai | median_headway_min | 869 | 22.10 |
 | chennai | length_km_shape | 3934 | 100.00 |
 | chennai | overlap_partner | 1 | 0.00 |
@@ -48,10 +48,10 @@ _Generated 2026-10-25._ Raw files are untouched (`data/raw/`); cleaned tables ar
 | city | duplicate_route_ids | speed_flagged | backwards_trip_routes |
 |---|---|---|---|
 | ahmedabad | 0 | 27 | 0 |
-| bengaluru | 0 | 93 | 0 |
+| bengaluru | 0 | 92 | 0 |
 | chennai | 0 | 0 | 0 |
 | delhi | 0 | 0 | 0 |
-| hyderabad | 0 | 778 | 0 |
+| hyderabad | 0 | 779 | 0 |
 | kochi | 0 | 0 | 0 |
 | pune | 0 | 2 | 0 |
 

@@ -1,6 +1,6 @@
 # RouteRanker – AI-Powered Public Transit Route Optimization
 
-Branch `Satyam` – **Modules 1–5: data collection, feature engineering, EDA, preprocessing, ML models (clustering + classification diagnostic)**.
+Branch `Satyam` – **Modules 1–6: data collection, feature engineering, EDA, preprocessing, ML models, inference and route-optimisation suggestions**.
 
 ## Status and honest limitations
 * The dataset named in the project document (Lepton Software on Datarade) is a **paid listing** (no download link, price on request, masked sample) and could **not** be obtained.
@@ -15,10 +15,12 @@ python download_data.py          # raw feeds -> data/raw/<city>/<city>_gtfs.zip 
 python run_module1.py            # Module 1: extract + inspect + reports/module1_*
 python run_module2.py            # Module 2: clean + features -> data/processed/<city>/ + reports/module2_*
 python run_module3.py            # Module 3: EDA -> reports/figures, maps, tables, module3_*
-python run_module5.py            # Module 5: KMeans, DBSCAN, Random Forest, XGBoost -> models/, reports/figures/module5, tables, module5_*
 python run_module4.py            # Module 4: preprocessing -> data/processed/module4/, reports/module4_*  (--include-all keeps every feed)
+python run_module5.py            # Module 5: KMeans, DBSCAN, Random Forest, XGBoost -> models/, reports/figures/module5, tables, module5_*
+python run_module6.py            # Module 6: inference on unseen routes, investigation candidates, merge/split/frequency suggestions, simulated network
 ```
-Notebooks (one per module, executed with outputs): `notebooks/module1_data_collection.ipynb`, `module2_feature_engineering.ipynb`, `module3_eda.ipynb`, `module4_data_preprocessing.ipynb`, `module5_model_development.ipynb` – set `CITY` in the second cell.
+Modules 4-6 only need `data/processed/` (included in the repo), so they run without downloading the raw feeds.
+Notebooks (one per module, executed with outputs): `notebooks/module1_data_collection.ipynb`, `module2_feature_engineering.ipynb`, `module3_eda.ipynb`, `module4_data_preprocessing.ipynb`, `module5_model_development.ipynb`, `module6_inference_and_optimization.ipynb` – set `CITY` in the second cell.
 
 ## Deliverables
 | Module | Deliverable | File |
@@ -28,6 +30,8 @@ Notebooks (one per module, executed with outputs): `notebooks/module1_data_colle
 | 2 | Feature dictionary / data-quality report / assumptions and limitations / route profile summary | `reports/module2_feature_dictionary.md`, `module2_data_quality_report.md`, `module2_assumptions_limitations.md`, `module2_route_profile_summary.md`, `module2_cleaning_log.csv` |
 | 3 | Exploratory analysis report, route comparison summary, data quality summary, findings & limitations | `reports/module3_exploratory_analysis_report.md`, `module3_route_comparison_summary.md`, `module3_data_quality_summary.md`, `module3_findings_and_limitations.md`, `module3_cross_city_summary.csv` |
 | 3 | Visualisations, maps, tables | `reports/figures/<city>/`, `reports/maps/*.html`, `reports/tables/` |
+| 6 | Unseen routes, model predictions, simulated network, suggestion tables, charts | `data/inference/`, `data/simulated/simulated_network.csv`, `reports/tables/module6_*.csv`, `reports/figures/module6/` |
+| 6 | Inference report, investigation + suggestions report, current-vs-simulated comparison | `reports/module6_inference_report.md`, `module6_route_investigation_and_suggestions.md`, `module6_current_vs_simulated_comparison.md` |
 | 5 | Trained models (KMeans, DBSCAN, Random Forest, XGBoost), cluster / noise / classification tables and charts | `models/`, `reports/tables/module5_*.csv`, `reports/figures/module5/` |
 | 5 | Clustering report, classification report, algorithm comparison + observations + limitations + planning use | `reports/module5_clustering_report.md`, `module5_classification_report.md`, `module5_comparison_and_suggestions.md` |
 | 4 | Processed (model-ready) dataset: train / validation CSV, fitted preprocessor, feature list, excluded routes | `data/processed/module4/` |
@@ -41,6 +45,8 @@ src/module2_features.py   Module 2  time, aggregation, headway, route length (sh
 src/feature_dictionary.py Module 2  single source of the feature dictionary
 src/gtfs_utils.py         shared GTFS helpers (time parsing, frequency expansion, distances, overlap)
 src/eda.py                Module 3  tables, charts, maps, data-driven observations
+src/inference.py          Module 6  inference with the saved models + saved preprocessor (DBSCAN via nearest core point)
+src/optimization.py       Module 6  evidence flags, merge / split / frequency candidates, simulation on a copy, metrics
 src/modeling.py           Module 5  KMeans / DBSCAN helpers, DBSCAN assignment of new routes, classification metrics
 src/preprocessing.py      Module 4  imputation, encoding, scaling, grouped train/validation split (fit on training only)
 data/raw/<city>/          original ZIP + extracted .txt  (git-ignored)
@@ -57,3 +63,6 @@ The Module-2 route features are prepared for the planned **unsupervised** models
 
 ## Module 5 in one paragraph
 **KMeans** (K=7, chosen with elbow, silhouette and Davies-Bouldin) and **DBSCAN** (eps and min_samples grid, noise analysis) group routes with similar *scheduled* service; the clusters are weakly separated and are **not** performance classes. Because GTFS has no passenger data, **no performance/demand label was created**: **Random Forest and XGBoost** predict the *city* of a route (a real label) as a diagnostic of how comparable the feeds are (about 97% accuracy: the feeds carry their own fingerprint). Clusters and noise routes are candidates to investigate, not recommendations.
+
+## Module 6 in one paragraph
+The saved Module-5 models and the Module-4 preprocessor are applied to **unseen routes** (held-out validation routes and the Hyderabad feed) without re-fitting anything; the saved preprocessor reproduces the Module-4 validation table exactly. Validation routes behave like training routes, while 82% of Hyderabad's routes are DBSCAN noise - more evidence that this feed is not comparable. Routes are listed for investigation only when **at least two independent pieces of evidence** agree. **Merge** (stop sets >= 80% similar, lighter route), **split** (>= 40 km and >= 30 stops) and an assumption-based **frequency standard** (30-minute headway in the busiest hour; no reductions) are suggested as *candidates to verify*, and a **simulated copy** of the network is compared with the current one. No passenger demand or crowding value is invented; fewer routes or less distance is not claimed to be an improvement.

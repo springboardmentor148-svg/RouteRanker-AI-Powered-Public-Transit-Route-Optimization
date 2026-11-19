@@ -9,12 +9,12 @@ _Generated 2026-10-25._ Data: the feature-engineered dataset from Module 2 (`dat
 | city | routes | scheduled_trips | stops | median_trips_per_route | p90_trips | max_over_median | share_routes_le5_trips | median_stops | median_length_km | busiest_hour | quietest_hour | busiest_period_per_hour | rho_length_trips | rho_stops_trips | overlap_pairs_ge80 | routes_speed_flagged |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | ahmedabad | 972 | 14323 | 3235 | 8.00 | 37.90 | 16.80 | 40% | 40.00 | 17.80 | 07:00 | 00:00 | afternoon | 0.14 | 0.16 | 117 | 27 |
-| bengaluru | 4416 | 57836 | 9948 | 3.00 | 28.50 | 132.70 | 66% | 44.00 | 19.80 | 08:00 | 02:00 | afternoon | 0.04 | 0.33 | 1048 | 93 |
+| bengaluru | 4416 | 57836 | 9948 | 3.00 | 28.50 | 132.70 | 66% | 44.00 | 19.80 | 08:00 | 02:00 | afternoon | 0.04 | 0.33 | 1043 | 92 |
 | chennai | 3934 | 47047 | 5477 | 4.00 | 30.00 | 52.50 | 61% | 23.00 | 15.40 | 14:00 | 02:00 | afternoon | 0.12 | 0.20 | 1118 | 0 |
 | delhi | 2964 | 78507 | 6267 | 18.00 | 62.00 | 9.40 | 17% | 40.00 | 21.80 | 07:00 | 02:00 | afternoon | 0.03 | 0.10 | 222 | 0 |
-| hyderabad | 1031 | 44892 | 5028 | 8.00 | 117.00 | 260.90 | 44% | 55.00 | 26.40 | 07:00 | 01:00 | afternoon | 0.10 | 0.58 | 99 | 778 |
+| hyderabad | 1031 | 44892 | 5028 | 8.00 | 117.00 | 260.90 | 44% | 55.00 | 26.50 | 07:00 | 01:00 | afternoon | 0.10 | 0.58 | 99 | 779 |
 | kochi | 465 | 15581 | 3228 | 34.00 | 34.00 | 1.50 | 0% | 100.00 | 23.20 | 06:00 | 00:00 | morning | -0.01 | 0.18 | 114 | 0 |
-| pune | 315 | 10128 | 6745 | 22.00 | 77.00 | 8.00 | 14% | 79.00 | 20.00 | 08:00 | 23:00 | morning | -0.13 | -0.17 | 8 | 2 |
+| pune | 315 | 10128 | 6745 | 22.00 | 77.00 | 8.00 | 14% | 79.00 | 20.00 | 08:00 | 23:00 | morning | -0.13 | -0.17 | 9 | 2 |
 
 
 ## Answers to the guiding questions
@@ -23,7 +23,7 @@ _Generated 2026-10-25._ Data: the feature-engineered dataset from Module 2 (`dat
 2. **How service varies across routes** - scheduled trips per route are very unevenly spread: ahmedabad median 8, max 17x median, 40% of routes <= 5 trips, bengaluru median 3, max 133x median, 66% of routes <= 5 trips, chennai median 4, max 52x median, 61% of routes <= 5 trips, delhi median 18, max 9x median, 17% of routes <= 5 trips, hyderabad median 8, max 261x median, 44% of routes <= 5 trips, kochi median 34, max 2x median, 0% of routes <= 5 trips, pune median 22, max 8x median, 14% of routes <= 5 trips.
 3. **Routes with the most distinct stops** - listed per city in section 4 below.
 4. **Route length vs scheduled trips** - Spearman rho: ahmedabad 0.14, bengaluru 0.04, chennai 0.12, delhi 0.03, hyderabad 0.10, kochi -0.01, pune -0.13. Values near 0 mean the two vary almost independently; this is an association, not a cause.
-5. **Shared stops / geographical segments** - route pairs with >= 80% shared stops: ahmedabad 117, bengaluru 1048, chennai 1118, delhi 222, hyderabad 99, kochi 114, pune 8. Path-based overlap (shapes.txt) was computed only where bus shapes exist: bengaluru 1628 routes, kochi 219 routes, pune 18 routes.
+5. **Shared stops / geographical segments** - route pairs with >= 80% shared stops: ahmedabad 117, bengaluru 1043, chennai 1118, delhi 222, hyderabad 99, kochi 114, pune 9. Path-based overlap (shapes.txt) was computed only where bus shapes exist: bengaluru 1628 routes, kochi 219 routes, pune 18 routes.
 6. **Unusual values and quality issues** - see `module3_data_quality_summary.md`: very uneven trip counts, implausible scheduled speeds in some routes, undefined headways for single-departure routes, and feed-level caveats (Hyderabad duty-level trips, Delhi/Kochi/Pune near-constant speeds, expired Delhi/Kochi calendars).
 7. **What the data supports and what it does not** - supported: how many trips and stops each route has, when scheduled service is concentrated, which routes share stops or corridors. Not supported: any statement about crowding, passenger demand, profitability, or whether a route should be merged or cut. That needs ridership/boarding counts by route and time, vehicle capacity and fleet data, run-time or delay data, and the operator's service objectives (see `module3_findings_and_limitations.md`).
 
@@ -167,7 +167,7 @@ Correlation shows association only; it does not show that longer routes cause mo
 ### 1. Dataset inspection
 
 * 4,416 rows x 48 columns (one row per route); duplicate rows: 0; duplicate route_id: 0.
-* Columns with missing values: `median_headway_min` (1043), `overlap_partner` (14), `overlap_partner_name` (14) (missing = undefined/unknown, never replaced by zero).
+* Columns with missing values: `median_headway_min` (1043), `overlap_partner` (16), `overlap_partner_name` (16) (missing = undefined/unknown, never replaced by zero).
 
 Summary statistics of the main numeric features:
 
@@ -257,21 +257,21 @@ Summary statistics of the main numeric features:
 
 * Stop map: `maps/bengaluru_stops_heatmap.html` (heat map of the 9,948 stops weighted by the number of routes calling there; the 15 stops with most routes are marked).
 * Route shapes available for 99% of routes: `maps/bengaluru_top_route_shapes.html`, `maps/bengaluru_shape_overlap_pair.html`.
-* Stop-based overlap (Jaccard similarity of the stop sets of two routes): 1639 routes have a partner with >= 80% similar stops, 3247 with >= 50% (1048 distinct pairs at >= 80%). Same-name routes and opposite-direction twins are excluded. Sharing stops does not prove that two routes are redundant.
+* Stop-based overlap (Jaccard similarity of the stop sets of two routes): 1631 routes have a partner with >= 80% similar stops, 3239 with >= 50% (1043 distinct pairs at >= 80%). Same-name routes and opposite-direction twins are excluded. Sharing stops does not prove that two routes are redundant.
 * Path-based overlap from shapes.txt (~200 m grid cells): 1628 routes share >= 80% of their corridor with another route, 3712 share >= 50%.
 
 Most similar route pairs by shared stops (candidates for further investigation, not conclusions):
 
 | route_name | overlap_partner_name | max_stop_overlap | n_trips | partner_trips | length_km |
 |---|---|---|---|---|---|
-| 300-MV | V-300MV | 1.00 | 227 | 167 | 11.95 |
+| KBS-1K | 333-E | 1.00 | 147 | 8 | 27.10 |
+| 335-E | KBS-1I | 1.00 | 4 | 129 | 30.19 |
+| 342-F | V-342F | 1.00 | 107 | 55 | 31.56 |
 | STJHS-4 | STJHS-1 | 1.00 | 2 | 2 | 5.12 |
-| KSRTC-MYSORE H EXPRESS-1 | V-KSRTC MYSORE EXP-1 | 1.00 | 8 | 14 | 137.00 |
-| KSRTC-DAVANAGERE-1 | V-KSRTC DAVANAGERE-1 | 1.00 | 8 | 14 | 263.18 |
-| BEML-33B | BEML-33C | 1.00 | 2 | 2 | 7.35 |
-| SCS-6 | SCS-1 | 1.00 | 2 | 2 | 4.86 |
-| DSC-4 | DSIT-2A | 1.00 | 3 | 2 | 11.84 |
-| CHLS-5 | CRST-5A | 1.00 | 2 | 2 | 13.04 |
+| 300-MV | V-300MV | 1.00 | 227 | 167 | 11.95 |
+| D10-D10GATE | D10-D10GT | 1.00 | 72 | 105 | 0.11 |
+| 304-H | 304-X | 1.00 | 4 | 3 | 38.56 |
+| NLS-3 | NLS-2 | 1.00 | 2 | 1 | 8.15 |
 
 
 ### 6. Association between features
@@ -590,14 +590,14 @@ Summary statistics of the main numeric features:
 |---|---|---|---|---|---|---|---|
 | n_trips | 1,031.00 | 1.00 | 8.00 | 43.54 | 119.07 | 2,087.00 | 117.00 |
 | n_unique_stops | 1,031.00 | 2.00 | 55.00 | 63.86 | 54.33 | 795.00 | 111.00 |
-| length_km | 1,031.00 | 0.59 | 26.45 | 31.10 | 50.35 | 1,390.70 | 49.90 |
+| length_km | 1,031.00 | 0.59 | 26.51 | 30.53 | 45.94 | 1,390.70 | 49.90 |
 | service_span_h | 1,031.00 | 0.00 | 12.70 | 12.83 | 9.58 | 80.25 | 28.25 |
 | median_headway_min | 886.00 | 2.00 | 50.00 | 123.41 | 206.07 | 1,500.00 | 386.25 |
 | avg_trip_duration_min | 1,031.00 | 5.00 | 835.70 | 1,043.05 | 827.14 | 5,699.17 | 2,133.46 |
 | trips_per_active_hour | 1,031.00 | 1.00 | 1.36 | 3.12 | 5.77 | 99.38 | 6.89 |
-| stops_per_km | 1,031.00 | 0.03 | 2.14 | 2.34 | 1.43 | 13.95 | 3.86 |
-| avg_speed_kmh | 1,031.00 | 0.56 | 1.83 | 3.40 | 9.05 | 245.14 | 5.80 |
-| max_stop_overlap | 1,031.00 | 0.06 | 0.56 | 0.57 | 0.20 | 1.00 | 0.84 |
+| stops_per_km | 1,031.00 | 0.03 | 2.14 | 2.34 | 1.42 | 13.95 | 3.86 |
+| avg_speed_kmh | 1,031.00 | 0.56 | 1.83 | 3.39 | 9.04 | 245.14 | 5.78 |
+| max_stop_overlap | 1,031.00 | 0.06 | 0.56 | 0.57 | 0.21 | 1.00 | 0.84 |
 | mean_routes_per_stop | 1,031.00 | 4.76 | 49.72 | 51.11 | 18.98 | 117.17 | 77.39 |
 
 
@@ -605,7 +605,7 @@ Summary statistics of the main numeric features:
 
 * 1,031 routes in the dataset. Scheduled trips per route: median 8, mean 43.5, maximum 2,087 (261 times the median). 44% of routes have 5 or fewer scheduled trips and 19% have 50 or more, so service levels differ widely between routes.
 * Distinct stops per route: median 55 (range 2-795).
-* Estimated route length: median 26.4 km (middle half of routes 17.5-36.4 km). 0% of lengths come from shapes.txt; the rest are straight-line stop-to-stop distances, which understate road length.
+* Estimated route length: median 26.5 km (middle half of routes 17.5-36.3 km). 0% of lengths come from shapes.txt; the rest are straight-line stop-to-stop distances, which understate road length.
 * Scheduled service span (first to last departure): median 12.7 h; 53% of routes span 12 hours or more.
 * Operating days: 100% of routes have the same number of scheduled trips on weekend days as on weekdays according to calendar.txt.
 
@@ -657,7 +657,7 @@ Summary statistics of the main numeric features:
 |---|---|---|---|---|---|---|---|---|
 | low (<= Q1) | 269 | 1.00 | 30.00 | 23.09 | 0.00 | 426.00 | 1.59 | 0.50 |
 | middle | 503 | 8.00 | 58.00 | 28.37 | 12.67 | 65.00 | 1.82 | 0.62 |
-| high (>= Q3) | 259 | 86.00 | 86.00 | 27.76 | 18.58 | 10.00 | 2.14 | 0.56 |
+| high (>= Q3) | 259 | 86.00 | 86.00 | 27.82 | 18.58 | 10.00 | 2.14 | 0.56 |
 
 
 ![f08_top_routes](figures/hyderabad/f08_top_routes.png)
@@ -672,20 +672,20 @@ Summary statistics of the main numeric features:
 
 * Stop map: `maps/hyderabad_stops_heatmap.html` (heat map of the 5,028 stops weighted by the number of routes calling there; the 15 stops with most routes are marked).
 * **No usable route-shape data for buses in this feed**, so route paths are not drawn and path-based overlap is not computed (stop-based overlap only).
-* Stop-based overlap (Jaccard similarity of the stop sets of two routes): 171 routes have a partner with >= 80% similar stops, 649 with >= 50% (99 distinct pairs at >= 80%). Same-name routes and opposite-direction twins are excluded. Sharing stops does not prove that two routes are redundant.
+* Stop-based overlap (Jaccard similarity of the stop sets of two routes): 172 routes have a partner with >= 80% similar stops, 648 with >= 50% (99 distinct pairs at >= 80%). Same-name routes and opposite-direction twins are excluded. Sharing stops does not prove that two routes are redundant.
 
 Most similar route pairs by shared stops (candidates for further investigation, not conclusions):
 
 | route_name | overlap_partner_name | max_stop_overlap | n_trips | partner_trips | length_km |
 |---|---|---|---|---|---|
-| 70 | 85 | 1.00 | 1 | 1 | 13.93 |
 | AA | AM | 1.00 | 55 | 9 | 32.07 |
+| 70 | 85 | 1.00 | 1 | 1 | 13.93 |
 | 25M/22 | 25M/22H | 1.00 | 4 | 3 | 10.04 |
-| 2V | 83V | 1.00 | 40 | 10 | 2.29 |
 | 205B | 205T | 0.99 | 2 | 2 | 28.50 |
 | 116G | 116G/220K | 0.97 | 54 | 17 | 57.27 |
 | 300D | 92A/251V | 0.97 | 19 | 1 | 30.78 |
 | 203A/R | 203W | 0.96 | 8 | 6 | 33.22 |
+| 290K/P | 290U/205T | 0.95 | 6 | 2 | 33.76 |
 
 
 ### 6. Association between features
@@ -874,8 +874,8 @@ Summary statistics of the main numeric features:
 | avg_trip_duration_min | 315.00 | 10.38 | 61.91 | 70.38 | 42.58 | 237.23 | 126.45 |
 | trips_per_active_hour | 315.00 | 1.00 | 2.00 | 3.00 | 2.26 | 15.91 | 6.23 |
 | stops_per_km | 315.00 | 1.82 | 3.87 | 3.93 | 0.83 | 7.07 | 4.95 |
-| avg_speed_kmh | 315.00 | 2.52 | 19.36 | 19.35 | 2.08 | 37.82 | 20.63 |
-| max_stop_overlap | 315.00 | 0.02 | 0.49 | 0.48 | 0.18 | 0.92 | 0.73 |
+| avg_speed_kmh | 315.00 | 2.51 | 19.36 | 19.35 | 2.08 | 37.82 | 20.63 |
+| max_stop_overlap | 315.00 | 0.02 | 0.49 | 0.49 | 0.19 | 0.94 | 0.73 |
 | mean_routes_per_stop | 315.00 | 1.67 | 11.57 | 12.13 | 6.11 | 27.32 | 21.10 |
 
 
@@ -950,13 +950,14 @@ Summary statistics of the main numeric features:
 
 * Stop map: `maps/pune_stops_heatmap.html` (heat map of the 6,745 stops weighted by the number of routes calling there; the 15 stops with most routes are marked).
 * Route shapes available for 99% of routes: `maps/pune_top_route_shapes.html`, `maps/pune_shape_overlap_pair.html`.
-* Stop-based overlap (Jaccard similarity of the stop sets of two routes): 16 routes have a partner with >= 80% similar stops, 154 with >= 50% (8 distinct pairs at >= 80%). Same-name routes and opposite-direction twins are excluded. Sharing stops does not prove that two routes are redundant.
+* Stop-based overlap (Jaccard similarity of the stop sets of two routes): 18 routes have a partner with >= 80% similar stops, 154 with >= 50% (9 distinct pairs at >= 80%). Same-name routes and opposite-direction twins are excluded. Sharing stops does not prove that two routes are redundant.
 * Path-based overlap from shapes.txt (~200 m grid cells): 18 routes share >= 80% of their corridor with another route, 169 share >= 50%.
 
 Most similar route pairs by shared stops (candidates for further investigation, not conclusions):
 
 | route_name | overlap_partner_name | max_stop_overlap | n_trips | partner_trips | length_km |
 |---|---|---|---|---|---|
+| 372 | 372M | 0.94 | 106 | 5 | 20.49 |
 | 367 | 367M | 0.92 | 25 | 7 | 18.99 |
 | 324 | 345 | 0.87 | 102 | 16 | 26.25 |
 | 305A | 305B | 0.86 | 13 | 4 | 32.54 |
@@ -964,7 +965,6 @@ Most similar route pairs by shared stops (candidates for further investigation, 
 | 11 | 11A | 0.83 | 40 | 4 | 17.82 |
 | 231 | 233A | 0.83 | 4 | 12 | 56.45 |
 | 174 | RATRANI 7 | 0.82 | 49 | 6 | 19.75 |
-| 358 | 359A | 0.81 | 82 | 6 | 29.18 |
 
 
 ### 6. Association between features

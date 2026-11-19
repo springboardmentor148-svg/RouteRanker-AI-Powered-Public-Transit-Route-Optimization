@@ -1,0 +1,4 @@
+data_role,routes,dbscan_noise_pct,mean_distance_to_centroid,mean_closest_feed_probability
+train (seen by the models),10466,1.0,2.96,0.97
+unseen feed (not in Module-4 training set),1031,81.7,5.08,0.87
+validation (unseen routes),2600,1.0,2.94,0.96

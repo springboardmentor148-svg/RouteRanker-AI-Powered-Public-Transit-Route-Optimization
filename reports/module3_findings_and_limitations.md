@@ -13,9 +13,9 @@ A candidate is a route or pair that looks different in the **scheduled** data. N
 
 ### Bengaluru
 
-* 1048 route pairs share >= 80% of their stops (see `tables/bengaluru_overlap_candidates.csv`). 1628 routes also share >= 80% of their path (shapes.txt).
+* 1043 route pairs share >= 80% of their stops (see `tables/bengaluru_overlap_candidates.csv`). 1628 routes also share >= 80% of their path (shapes.txt).
 * 1043 routes have very few scheduled trips (lowest 10%, <= 1); 2082 have fewer than 3 (`tables/bengaluru_low_service_candidates.csv`).
-* 93 routes have a scheduled speed outside 3-80 km/h (possible data problem).
+* 92 routes have a scheduled speed outside 3-80 km/h (possible data problem).
 
 ### Chennai
 
@@ -34,7 +34,7 @@ A candidate is a route or pair that looks different in the **scheduled** data. N
 
 * 99 route pairs share >= 80% of their stops (see `tables/hyderabad_overlap_candidates.csv`).
 * 136 routes have very few scheduled trips (lowest 10%, <= 1); 269 have fewer than 3 (`tables/hyderabad_low_service_candidates.csv`).
-* 778 routes have a scheduled speed outside 3-80 km/h (possible data problem).
+* 779 routes have a scheduled speed outside 3-80 km/h (possible data problem).
 * Caveat: 71% of routes have a median scheduled trip longer than 8 hours: the feed's 'trips' appear to be whole vehicle duties, so trip counts and headways are NOT comparable with cities whose trips are single runs.
 
 ### Kochi
@@ -47,7 +47,7 @@ A candidate is a route or pair that looks different in the **scheduled** data. N
 
 ### Pune
 
-* 8 route pairs share >= 80% of their stops (see `tables/pune_overlap_candidates.csv`). 18 routes also share >= 80% of their path (shapes.txt).
+* 9 route pairs share >= 80% of their stops (see `tables/pune_overlap_candidates.csv`). 18 routes also share >= 80% of their path (shapes.txt).
 * 44 routes have very few scheduled trips (lowest 10%, <= 5); 0 have fewer than 3 (`tables/pune_low_service_candidates.csv`).
 * 2 routes have a scheduled speed outside 3-80 km/h (possible data problem).
 * Caveat: Scheduled speed is almost identical on all routes (10th-90th percentile 18.2-20.6 km/h), suggesting generated rather than operational stop times; durations and headways should be read as a model schedule.

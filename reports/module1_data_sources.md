@@ -1,6 +1,6 @@
 # Module 1 – Dataset source documentation
 
-_Generated 2026-10-18 by `run_module1.py`._
+_Generated 2026-10-13 by `run_module1.py`._
 
 ## Official source named in the project document: Lepton Software (Datarade)
 
