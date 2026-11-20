@@ -1,6 +1,6 @@
 # RouteRanker – AI-Powered Public Transit Route Optimization
 
-Branch `Satyam` – **Modules 1–6: data collection, feature engineering, EDA, preprocessing, ML models, inference and route-optimisation suggestions**.
+Branch `Satyam` – **Modules 1–7: data collection, feature engineering, EDA, preprocessing, ML models, inference, route-optimisation suggestions and the Streamlit dashboard**.
 
 ## Status and honest limitations
 * The dataset named in the project document (Lepton Software on Datarade) is a **paid listing** (no download link, price on request, masked sample) and could **not** be obtained.
@@ -18,6 +18,8 @@ python run_module3.py            # Module 3: EDA -> reports/figures, maps, table
 python run_module4.py            # Module 4: preprocessing -> data/processed/module4/, reports/module4_*  (--include-all keeps every feed)
 python run_module5.py            # Module 5: KMeans, DBSCAN, Random Forest, XGBoost -> models/, reports/figures/module5, tables, module5_*
 python run_module6.py            # Module 6: inference on unseen routes, investigation candidates, merge/split/frequency suggestions, simulated network
+streamlit run app.py             # Module 7: interactive dashboard (needs the outputs of Modules 2, 4, 5 and 6)
+python tests/test_dashboard.py   # Module 7: dashboard tests (or: pytest tests/)
 ```
 Modules 4-6 only need `data/processed/` (included in the repo), so they run without downloading the raw feeds.
 Notebooks (one per module, executed with outputs): `notebooks/module1_data_collection.ipynb`, `module2_feature_engineering.ipynb`, `module3_eda.ipynb`, `module4_data_preprocessing.ipynb`, `module5_model_development.ipynb`, `module6_inference_and_optimization.ipynb` – set `CITY` in the second cell.
@@ -49,6 +51,11 @@ src/inference.py          Module 6  inference with the saved models + saved prep
 src/optimization.py       Module 6  evidence flags, merge / split / frequency candidates, simulation on a copy, metrics
 src/modeling.py           Module 5  KMeans / DBSCAN helpers, DBSCAN assignment of new routes, classification metrics
 src/preprocessing.py      Module 4  imputation, encoding, scaling, grouped train/validation split (fit on training only)
+app.py                    Module 7  Streamlit dashboard: navigation and the nine sections
+modules/                  Module 7  data_loader, data_validation, route_analysis, clustering, predictions, optimization, visualizations
+tests/test_dashboard.py   Module 7  AppTest smoke / behaviour tests
+docs/technical_documentation.md   Module 7  architecture and implementation notes
+app_legacy.py             earlier prototype dashboard (synthetic demand index) - kept for reference only, not part of Module 7
 data/raw/<city>/          original ZIP + extracted .txt  (git-ignored)
 data/processed/<city>/    engineered CSVs
 ```
@@ -57,6 +64,9 @@ data/processed/<city>/    engineered CSVs
 * Weekday and weekend schedules are identical in most feeds (every service runs every day).
 * Delhi and Kochi calendars are expired (2022-24). Delhi, Kochi and Pune show near-constant scheduled speeds (possibly generated timetables); Hyderabad's "trips" look like whole vehicle duties; Chennai's `shapes.txt` only covers the metro. These feeds are **not directly comparable** with each other.
 * Scheduled service per route is very uneven (e.g. Bengaluru: median 3 trips, maximum 398). Route pairs that share stops or corridors are listed as *candidates for investigation*, not as confirmed redundancy.
+
+## Module 7 in one paragraph
+The **Streamlit dashboard** (`streamlit run app.py`) brings Modules 1-6 into one application with nine sections: Home, Dataset Overview (quality report, filters, upload of your own route table validated and run through the saved models), EDA, Route Analysis, Clustering Results (KMeans, DBSCAN, PCA view), Model Predictions (live Random Forest / XGBoost), Route Optimization (merge / split / frequency candidates with **what-if thresholds**) and Metrics Comparison (current vs simulated network, with a check that the default numbers equal the saved Module 6 table). Every number is read from the project's own outputs or computed with the saved models; nothing is hard-coded or invented. Results are labelled **ACTUAL / MODEL PREDICTION / ESTIMATE / SIMULATED**, and no route is called overcrowded because GTFS has no passenger data. See `docs/technical_documentation.md`.
 
 ## Module 4 in one paragraph
 The Module-2 route features are prepared for the planned **unsupervised** models (KMeans, DBSCAN): missing headways (routes with a single trip, undefined in GTFS) are median-imputed with an indicator column, impossible speeds are treated as invalid, skewed counts get `log1p`, features are standardised, categories one-hot encoded, and the data is split 80:20 grouped by bus line (fit on training only). **No supervised target or demand value was created** because GTFS has no passenger data. Hyderabad (trips look like whole vehicle duties) is excluded from the pooled set but not deleted - to be confirmed with the mentor.

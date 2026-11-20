@@ -13,12 +13,12 @@ FREQ_NEED = int(np.ceil(60 / FREQ_HEADWAY_STANDARD))
 
 
 # ------------------------------------------------------------------ multi-evidence screening
-def evidence_flags(df, sparse_clusters):
+def evidence_flags(df, sparse_clusters, overlap_min=MERGE_JACCARD):
     """Independent evidence flags from the models and the schedule. One flag alone is never enough."""
     d = df.copy()
     d["ev_dbscan_noise"] = d.dbscan_label == -1
     d["ev_sparse_cluster"] = d.kmeans_cluster.isin(sparse_clusters)
-    d["ev_high_stop_overlap"] = d.max_stop_overlap >= MERGE_JACCARD
+    d["ev_high_stop_overlap"] = d.max_stop_overlap >= overlap_min
     # low service compared with routes of similar length in the same city (length quintiles)
     q = d.groupby("city").length_km.transform(lambda s: pd.qcut(s, 5, labels=False, duplicates="drop"))
     grp = d.assign(q=q).groupby(["city", "q"]).n_trips
@@ -33,18 +33,20 @@ def evidence_flags(df, sparse_clusters):
 
 
 # ------------------------------------------------------------------ suggestions
-def merge_candidates(rf):
+def merge_candidates(rf, jac_min=MERGE_JACCARD, low_q=MERGE_LOW_Q, len_ratio=MERGE_LEN_RATIO):
     """Route r (the lighter one) is a candidate to be merged into its best stop-sharing partner p: different line names, >= 80% similar stop sets
     (geographical connectivity), r is lightly scheduled (<= 25th percentile of its city), and similar length (ratio <= 1.5)."""
     out = []
     for city, g in rf.groupby("city"):
         idx = g.set_index("route_id")
-        q = g.n_trips.quantile(MERGE_LOW_Q)
+        q = g.n_trips.quantile(low_q)
         if q >= g.n_trips.median():        # uniform trip counts (e.g. frequency-template feed): no route is lightly scheduled relative to its peers
             continue
-        c = g[(g.max_stop_overlap >= MERGE_JACCARD) & g.overlap_partner.isin(idx.index)].copy()
+        c = g[(g.max_stop_overlap >= jac_min) & g.overlap_partner.isin(idx.index)].copy()
+        if c.empty:                        # strict thresholds can leave no candidate in a city (an empty string column cannot be compared with numbers)
+            continue
         c["p_trips"] = c.overlap_partner.map(idx.n_trips); c["p_len"] = c.overlap_partner.map(idx.length_km)
-        c = c[(c.n_trips <= c.p_trips) & (c.n_trips <= q) & (c.length_km / c.p_len).between(1 / MERGE_LEN_RATIO, MERGE_LEN_RATIO)]
+        c = c[(c.n_trips <= c.p_trips) & (c.n_trips <= q) & (c.length_km / c.p_len).between(1 / len_ratio, len_ratio)]
         absorbed, targets = set(), set()
         for r in c.sort_values(["max_stop_overlap", "n_trips"], ascending=[False, True]).itertuples():
             if r.route_id in targets or r.overlap_partner in absorbed:
@@ -58,23 +60,24 @@ def merge_candidates(rf):
     return pd.DataFrame(out)
 
 
-def split_candidates(rf, exclude_ids=()):
+def split_candidates(rf, exclude_ids=(), min_km=SPLIT_MIN_KM, len_q=SPLIT_LEN_Q, min_stops=SPLIT_MIN_STOPS):
     out = []
     for city, g in rf.groupby("city"):
-        thr = max(SPLIT_MIN_KM, g.length_km.quantile(SPLIT_LEN_Q))
-        s = g[(g.length_km >= thr) & (g.n_unique_stops >= SPLIT_MIN_STOPS) & (~g.speed_invalid.astype(bool)) & (~g.route_id.isin(exclude_ids))]
+        thr = max(min_km, g.length_km.quantile(len_q))
+        s = g[(g.length_km >= thr) & (g.n_unique_stops >= min_stops) & (~g.speed_invalid.astype(bool)) & (~g.route_id.isin(exclude_ids))]
         for r in s.itertuples():
             out.append(dict(city=city, route_id=r.route_id, route=r.route_name, length_km=round(r.length_km, 1), length_method=r.length_method,
                             stops=int(r.n_unique_stops), trips=int(r.n_trips), service_span_h=round(r.service_span_h, 1)))
     return pd.DataFrame(out)
 
 
-def frequency_candidates(rf, exclude_ids=()):
+def frequency_candidates(rf, exclude_ids=(), min_trips=FREQ_MIN_TRIPS, standard=FREQ_HEADWAY_STANDARD):
     """Assumption-based service-standard check (NOT demand-based): routes with >= 6 scheduled trips that have fewer than 2 departures in their
     busiest hour, i.e. a headway above 30 minutes even at their own peak."""
-    s = rf[(rf.n_trips >= FREQ_MIN_TRIPS) & (rf.peak_hour_trips < FREQ_NEED) & (~rf.route_id.isin(exclude_ids))]
+    need = int(np.ceil(60 / standard))
+    s = rf[(rf.n_trips >= min_trips) & (rf.peak_hour_trips < need) & (~rf.route_id.isin(exclude_ids))]
     return pd.DataFrame(dict(city=s.city, route_id=s.route_id, route=s.route_name, trips=s.n_trips, peak_hour=s.peak_hour,
-                             departures_in_peak_hour=s.peak_hour_trips, trips_to_add=FREQ_NEED - s.peak_hour_trips)).reset_index(drop=True)
+                             departures_in_peak_hour=s.peak_hour_trips, trips_to_add=need - s.peak_hour_trips)).reset_index(drop=True)
 
 
 # ------------------------------------------------------------------ simulation (on a COPY)
@@ -130,9 +133,10 @@ def simulate(rf, merges, splits, freqs, scenario="combined"):
     return out
 
 
-def metrics(df):
-    sparse_peak = ((df.n_trips >= FREQ_MIN_TRIPS) & (df.peak_hour_trips < FREQ_NEED)).sum()
+def metrics(df, min_trips=FREQ_MIN_TRIPS, standard=FREQ_HEADWAY_STANDARD, long_km=SPLIT_MIN_KM):
+    need = int(np.ceil(60 / standard))
+    sparse_peak = ((df.n_trips >= min_trips) & (df.peak_hour_trips < need)).sum()
     return dict(routes=len(df), scheduled_trips=int(df.n_trips.sum()), est_route_distance_km=round(df.length_km.sum(), 1),
                 avg_route_length_km=round(df.length_km.mean(), 2), scheduled_trip_km=round((df.n_trips * df.length_km).sum(), 1),
-                avg_trips_per_route=round(df.n_trips.mean(), 2), routes_over_40km=int((df.length_km >= SPLIT_MIN_KM).sum()),
+                avg_trips_per_route=round(df.n_trips.mean(), 2), routes_over_40km=int((df.length_km >= long_km).sum()),
                 routes_with_under_2_departures_in_peak_hour=int(sparse_peak))
