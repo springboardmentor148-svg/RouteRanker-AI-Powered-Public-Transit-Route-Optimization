@@ -1,0 +1,557 @@
+total_scheduled_trips,peak_hour_ratio,Predicted_Performance,Advanced_Recommendation
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+73.0,0.1643835616438356,0,Maintain Current Schedule
+21.0,0.19047619047619047,2,Increase Frequency / Add Extra Trips
+164.0,0.07926829268292683,0,Maintain Current Schedule
+10.0,0.6,2,Increase Frequency / Add Extra Trips
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+262.0,0.10305343511450382,0,Maintain Current Schedule
+41.0,0.0975609756097561,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+9.0,0.1111111111111111,2,Increase Frequency / Add Extra Trips
+52.0,0.07692307692307693,0,Maintain Current Schedule
+27.0,0.14814814814814814,0,Maintain Current Schedule
+26.0,0.07692307692307693,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+337.0,0.06231454005934718,0,Maintain Current Schedule
+70.5,0.11347517730496454,0,Maintain Current Schedule
+34.0,0.11764705882352941,2,Increase Frequency / Add Extra Trips
+18.0,0.16666666666666666,2,Increase Frequency / Add Extra Trips
+38.0,0.10526315789473684,2,Increase Frequency / Add Extra Trips
+8.0,0.75,2,Increase Frequency / Add Extra Trips
+44.0,0.18181818181818182,0,Maintain Current Schedule
+11.0,0.09090909090909091,2,Increase Frequency / Add Extra Trips
+10.0,0.2,2,Increase Frequency / Add Extra Trips
+195.0,0.06153846153846154,0,Maintain Current Schedule
+78.0,0.08974358974358974,0,Maintain Current Schedule
+18.0,0.16666666666666666,2,Increase Frequency / Add Extra Trips
+17.0,0.11764705882352941,2,Increase Frequency / Add Extra Trips
+124.0,0.0967741935483871,0,Maintain Current Schedule
+48.0,0.08333333333333333,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+170.0,0.08823529411764706,0,Maintain Current Schedule
+196.0,0.09183673469387756,0,Maintain Current Schedule
+2.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+100.0,0.1,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+341.0,0.07038123167155426,0,Maintain Current Schedule
+297.0,0.08754208754208755,0,Maintain Current Schedule
+194.0,0.07731958762886598,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+57.0,0.07017543859649122,0,Maintain Current Schedule
+23.0,0.13043478260869565,2,Increase Frequency / Add Extra Trips
+159.0,0.08176100628930817,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+15.0,0.2,2,Increase Frequency / Add Extra Trips
+532.0,0.08270676691729323,0,Maintain Current Schedule
+154.0,0.06493506493506493,0,Maintain Current Schedule
+20.0,0.1,2,Increase Frequency / Add Extra Trips
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+29.0,0.10344827586206896,0,Maintain Current Schedule
+20.0,0.15,2,Increase Frequency / Add Extra Trips
+3.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+177.0,0.07909604519774012,0,Maintain Current Schedule
+4.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+4.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+131.0,0.0916030534351145,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+27.0,0.1111111111111111,0,Maintain Current Schedule
+28.0,0.10714285714285714,0,Maintain Current Schedule
+7.0,0.14285714285714285,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+12.0,0.16666666666666666,2,Increase Frequency / Add Extra Trips
+8.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+8.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+17.0,0.17647058823529413,2,Increase Frequency / Add Extra Trips
+40.0,0.075,0,Maintain Current Schedule
+10.0,0.3,2,Increase Frequency / Add Extra Trips
+6.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+3.0,0.6666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+144.0,0.09722222222222222,0,Maintain Current Schedule
+154.0,0.12337662337662338,0,Maintain Current Schedule
+22.0,0.13636363636363635,2,Increase Frequency / Add Extra Trips
+456.0,0.08114035087719298,0,Maintain Current Schedule
+659.0,0.07738998482549317,0,Maintain Current Schedule
+159.0,0.07547169811320754,0,Maintain Current Schedule
+70.5,0.11347517730496454,0,Maintain Current Schedule
+64.0,0.09375,0,Maintain Current Schedule
+24.0,0.125,2,Increase Frequency / Add Extra Trips
+44.0,0.1590909090909091,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+70.0,0.1,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+834.0,0.06594724220623502,0,Maintain Current Schedule
+23.0,0.17391304347826086,2,Increase Frequency / Add Extra Trips
+164.0,0.07317073170731707,0,Maintain Current Schedule
+139.0,0.07913669064748201,0,Maintain Current Schedule
+239.0,0.100418410041841,0,Maintain Current Schedule
+68.0,0.11764705882352941,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+322.0,0.07763975155279502,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+90.0,0.07777777777777778,0,Maintain Current Schedule
+6.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+377.0,0.07427055702917772,0,Maintain Current Schedule
+3.0,0.6666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+166.0,0.07228915662650602,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+25.0,0.08,2,Increase Frequency / Add Extra Trips
+177.0,0.07344632768361582,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+10.0,0.2,2,Increase Frequency / Add Extra Trips
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+105.0,0.06666666666666667,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+68.0,0.08823529411764706,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+70.5,0.11347517730496454,0,Maintain Current Schedule
+21.0,0.19047619047619047,2,Increase Frequency / Add Extra Trips
+47.0,0.23404255319148937,0,Maintain Current Schedule
+95.0,0.08421052631578947,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+13.0,0.7692307692307693,2,Increase Frequency / Add Extra Trips
+34.0,0.11764705882352941,2,Increase Frequency / Add Extra Trips
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+8.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+84.0,0.07142857142857142,0,Maintain Current Schedule
+42.0,0.07142857142857142,0,Maintain Current Schedule
+10.0,0.2,2,Increase Frequency / Add Extra Trips
+84.0,0.07142857142857142,0,Maintain Current Schedule
+232.0,0.07327586206896551,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+217.0,0.07373271889400922,0,Maintain Current Schedule
+21.0,0.09523809523809523,2,Increase Frequency / Add Extra Trips
+9.0,0.1111111111111111,2,Increase Frequency / Add Extra Trips
+13.0,0.15384615384615385,2,Increase Frequency / Add Extra Trips
+70.5,0.11347517730496454,0,Maintain Current Schedule
+171.0,0.07602339181286549,0,Maintain Current Schedule
+275.0,0.06545454545454546,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+310.0,0.07741935483870968,0,Maintain Current Schedule
+8.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+112.0,0.10714285714285714,0,Maintain Current Schedule
+38.0,0.10526315789473684,2,Increase Frequency / Add Extra Trips
+58.0,0.10344827586206896,0,Maintain Current Schedule
+8.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+122.0,0.11475409836065574,0,Maintain Current Schedule
+4.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+13.0,0.3076923076923077,2,Increase Frequency / Add Extra Trips
+8.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+21.0,0.19047619047619047,2,Increase Frequency / Add Extra Trips
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+11.0,0.45454545454545453,2,Increase Frequency / Add Extra Trips
+15.0,0.13333333333333333,2,Increase Frequency / Add Extra Trips
+20.0,0.1,2,Increase Frequency / Add Extra Trips
+50.0,0.1,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+183.0,0.09289617486338798,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+3.0,0.6666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+50.0,0.08,0,Maintain Current Schedule
+118.0,0.07627118644067797,0,Maintain Current Schedule
+8.0,0.375,2,Increase Frequency / Add Extra Trips
+404.0,0.07425742574257425,0,Maintain Current Schedule
+26.0,0.11538461538461539,2,Increase Frequency / Add Extra Trips
+283.0,0.0812720848056537,0,Maintain Current Schedule
+14.0,0.2857142857142857,2,Increase Frequency / Add Extra Trips
+33.0,0.09090909090909091,0,Maintain Current Schedule
+14.0,0.14285714285714285,2,Increase Frequency / Add Extra Trips
+239.0,0.09205020920502092,0,Maintain Current Schedule
+112.0,0.09821428571428571,0,Maintain Current Schedule
+70.5,0.11347517730496454,0,Maintain Current Schedule
+5.0,0.2,1,Monitor Closely / Minor Schedule Adjustment
+106.0,0.09433962264150944,0,Maintain Current Schedule
+24.0,0.125,2,Increase Frequency / Add Extra Trips
+159.0,0.08176100628930817,0,Maintain Current Schedule
+34.0,0.14705882352941177,0,Maintain Current Schedule
+4.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+151.0,0.08609271523178808,0,Maintain Current Schedule
+10.0,0.1,2,Increase Frequency / Add Extra Trips
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+11.0,0.18181818181818182,2,Increase Frequency / Add Extra Trips
+197.0,0.116751269035533,0,Maintain Current Schedule
+74.0,0.0945945945945946,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+467.0,0.0728051391862955,0,Maintain Current Schedule
+112.0,0.07142857142857142,0,Maintain Current Schedule
+179.0,0.0893854748603352,0,Maintain Current Schedule
+27.0,0.2962962962962963,0,Maintain Current Schedule
+189.0,0.08465608465608465,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+275.0,0.07272727272727272,0,Maintain Current Schedule
+11.0,0.2727272727272727,2,Increase Frequency / Add Extra Trips
+24.0,0.08333333333333333,2,Increase Frequency / Add Extra Trips
+271.0,0.07749077490774908,0,Maintain Current Schedule
+96.0,0.07291666666666667,0,Maintain Current Schedule
+10.0,0.1,2,Increase Frequency / Add Extra Trips
+159.0,0.08176100628930817,0,Maintain Current Schedule
+154.0,0.09090909090909091,0,Maintain Current Schedule
+115.0,0.08695652173913043,0,Maintain Current Schedule
+31.0,0.0967741935483871,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+504.0,0.06944444444444445,0,Maintain Current Schedule
+50.0,0.1,0,Maintain Current Schedule
+8.0,0.5,2,Increase Frequency / Add Extra Trips
+139.0,0.08633093525179857,0,Maintain Current Schedule
+32.0,0.125,0,Maintain Current Schedule
+148.0,0.08108108108108109,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+71.0,0.09859154929577464,0,Maintain Current Schedule
+17.0,0.11764705882352941,2,Increase Frequency / Add Extra Trips
+163.0,0.09202453987730061,0,Maintain Current Schedule
+14.0,0.2857142857142857,2,Increase Frequency / Add Extra Trips
+84.0,0.10714285714285714,0,Maintain Current Schedule
+61.0,0.11475409836065574,0,Maintain Current Schedule
+218.0,0.06880733944954129,0,Maintain Current Schedule
+36.0,0.1111111111111111,0,Maintain Current Schedule
+40.0,0.1,0,Maintain Current Schedule
+111.0,0.07207207207207207,0,Maintain Current Schedule
+27.0,0.1111111111111111,0,Maintain Current Schedule
+7.0,0.5714285714285714,2,Increase Frequency / Add Extra Trips
+8.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+250.0,0.096,0,Maintain Current Schedule
+5.0,0.4,1,Monitor Closely / Minor Schedule Adjustment
+30.0,0.13333333333333333,2,Increase Frequency / Add Extra Trips
+105.0,0.09523809523809523,0,Maintain Current Schedule
+75.0,0.09333333333333334,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+605.0,0.07272727272727272,0,Maintain Current Schedule
+118.0,0.11864406779661017,0,Maintain Current Schedule
+16.0,0.125,2,Increase Frequency / Add Extra Trips
+70.5,0.11347517730496454,0,Maintain Current Schedule
+3.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+70.5,0.11347517730496454,0,Maintain Current Schedule
+3.0,0.6666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+61.0,0.08196721311475409,0,Maintain Current Schedule
+43.0,0.09302325581395349,0,Maintain Current Schedule
+79.0,0.08860759493670886,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+397.0,0.07052896725440806,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+60.0,0.1,0,Maintain Current Schedule
+61.0,0.08196721311475409,0,Maintain Current Schedule
+25.0,0.24,2,Increase Frequency / Add Extra Trips
+32.0,0.0625,2,Increase Frequency / Add Extra Trips
+101.0,0.07920792079207921,0,Maintain Current Schedule
+146.0,0.0821917808219178,0,Maintain Current Schedule
+96.0,0.0625,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+13.0,0.15384615384615385,2,Increase Frequency / Add Extra Trips
+159.0,0.08176100628930817,0,Maintain Current Schedule
+4.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+70.5,0.11347517730496454,0,Maintain Current Schedule
+6.0,0.16666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+286.0,0.06293706293706294,0,Maintain Current Schedule
+78.0,0.07692307692307693,0,Maintain Current Schedule
+23.0,0.13043478260869565,2,Increase Frequency / Add Extra Trips
+170.0,0.07647058823529412,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+11.0,0.18181818181818182,2,Increase Frequency / Add Extra Trips
+22.0,0.09090909090909091,2,Increase Frequency / Add Extra Trips
+42.0,0.11904761904761904,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+6.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+78.0,0.11538461538461539,0,Maintain Current Schedule
+340.0,0.06470588235294118,0,Maintain Current Schedule
+4.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+88.0,0.07954545454545454,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+31.0,0.0967741935483871,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+11.0,0.09090909090909091,2,Increase Frequency / Add Extra Trips
+159.0,0.08176100628930817,0,Maintain Current Schedule
+3.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+55.0,0.12727272727272726,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+14.0,0.14285714285714285,2,Increase Frequency / Add Extra Trips
+28.0,0.10714285714285714,0,Maintain Current Schedule
+131.0,0.07633587786259542,0,Maintain Current Schedule
+2.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+198.0,0.07575757575757576,0,Maintain Current Schedule
+26.0,0.07692307692307693,0,Maintain Current Schedule
+70.5,0.11347517730496454,0,Maintain Current Schedule
+250.0,0.064,0,Maintain Current Schedule
+83.0,0.08433734939759036,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+90.0,0.08888888888888889,0,Maintain Current Schedule
+11.0,0.18181818181818182,2,Increase Frequency / Add Extra Trips
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+23.0,0.13043478260869565,2,Increase Frequency / Add Extra Trips
+66.0,0.09090909090909091,0,Maintain Current Schedule
+25.0,0.24,2,Increase Frequency / Add Extra Trips
+232.0,0.07758620689655173,0,Maintain Current Schedule
+215.0,0.07441860465116279,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+26.0,0.07692307692307693,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+82.0,0.07317073170731707,0,Maintain Current Schedule
+14.0,0.07142857142857142,2,Increase Frequency / Add Extra Trips
+78.0,0.1282051282051282,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+105.0,0.0761904761904762,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+155.0,0.08387096774193549,0,Maintain Current Schedule
+139.0,0.09352517985611511,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+3.0,0.6666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+8.0,0.5,2,Increase Frequency / Add Extra Trips
+46.0,0.10869565217391304,0,Maintain Current Schedule
+6.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+10.0,0.2,2,Increase Frequency / Add Extra Trips
+110.0,0.07272727272727272,0,Maintain Current Schedule
+39.0,0.10256410256410256,0,Maintain Current Schedule
+39.0,0.1282051282051282,0,Maintain Current Schedule
+57.0,0.10526315789473684,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+97.0,0.07216494845360824,0,Maintain Current Schedule
+71.0,0.08450704225352113,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+27.0,0.14814814814814814,0,Maintain Current Schedule
+38.0,0.10526315789473684,2,Increase Frequency / Add Extra Trips
+175.0,0.06285714285714286,0,Maintain Current Schedule
+3.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+335.0,0.06865671641791045,0,Maintain Current Schedule
+17.0,0.11764705882352941,2,Increase Frequency / Add Extra Trips
+11.0,0.2727272727272727,2,Increase Frequency / Add Extra Trips
+172.0,0.06976744186046512,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+2.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+6.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+7.0,0.5714285714285714,2,Increase Frequency / Add Extra Trips
+153.0,0.08496732026143791,0,Maintain Current Schedule
+240.0,0.09166666666666666,0,Maintain Current Schedule
+8.0,0.375,2,Increase Frequency / Add Extra Trips
+34.0,0.08823529411764706,2,Increase Frequency / Add Extra Trips
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+30.0,0.16666666666666666,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+19.0,0.15789473684210525,2,Increase Frequency / Add Extra Trips
+40.0,0.075,0,Maintain Current Schedule
+3.0,0.6666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+18.0,0.2777777777777778,2,Increase Frequency / Add Extra Trips
+20.0,0.1,2,Increase Frequency / Add Extra Trips
+159.0,0.08176100628930817,0,Maintain Current Schedule
+22.0,0.18181818181818182,0,Maintain Current Schedule
+35.0,0.11428571428571428,0,Maintain Current Schedule
+466.0,0.06652360515021459,0,Maintain Current Schedule
+8.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+49.0,0.08163265306122448,0,Maintain Current Schedule
+297.0,0.06397306397306397,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+81.0,0.09876543209876543,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+16.0,0.1875,2,Increase Frequency / Add Extra Trips
+277.0,0.06859205776173286,0,Maintain Current Schedule
+70.5,0.11347517730496454,0,Maintain Current Schedule
+21.0,0.19047619047619047,2,Increase Frequency / Add Extra Trips
+301.0,0.07973421926910298,0,Maintain Current Schedule
+7.0,0.2857142857142857,1,Monitor Closely / Minor Schedule Adjustment
+12.0,0.3333333333333333,2,Increase Frequency / Add Extra Trips
+159.0,0.08176100628930817,0,Maintain Current Schedule
+445.0,0.07191011235955057,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+87.0,0.09195402298850575,0,Maintain Current Schedule
+124.0,0.06451612903225806,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+280.0,0.08214285714285714,0,Maintain Current Schedule
+118.0,0.0847457627118644,0,Maintain Current Schedule
+144.0,0.0763888888888889,0,Maintain Current Schedule
+240.0,0.06666666666666667,0,Maintain Current Schedule
+18.0,0.16666666666666666,2,Increase Frequency / Add Extra Trips
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+33.0,0.24242424242424243,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+25.0,0.2,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+15.0,0.13333333333333333,2,Increase Frequency / Add Extra Trips
+176.0,0.08522727272727272,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+67.0,0.08955223880597014,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+28.0,0.10714285714285714,0,Maintain Current Schedule
+47.0,0.0851063829787234,0,Maintain Current Schedule
+78.0,0.08974358974358974,0,Maintain Current Schedule
+75.0,0.08,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+127.0,0.07086614173228346,0,Maintain Current Schedule
+282.0,0.0851063829787234,0,Maintain Current Schedule
+45.0,0.08888888888888889,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+535.0,0.08411214953271028,0,Maintain Current Schedule
+94.0,0.11702127659574468,0,Maintain Current Schedule
+65.0,0.07692307692307693,0,Maintain Current Schedule
+140.0,0.1,0,Maintain Current Schedule
+190.0,0.07368421052631578,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+15.0,0.13333333333333333,2,Increase Frequency / Add Extra Trips
+343.0,0.08163265306122448,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+280.0,0.11071428571428571,0,Maintain Current Schedule
+103.0,0.06796116504854369,0,Maintain Current Schedule
+5.0,0.4,1,Monitor Closely / Minor Schedule Adjustment
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+17.0,0.17647058823529413,2,Increase Frequency / Add Extra Trips
+159.0,0.08176100628930817,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+3.0,0.6666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+26.0,0.11538461538461539,2,Increase Frequency / Add Extra Trips
+137.0,0.08029197080291971,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+155.0,0.08387096774193549,0,Maintain Current Schedule
+174.0,0.09770114942528736,0,Maintain Current Schedule
+8.0,0.25,1,Monitor Closely / Minor Schedule Adjustment
+5.0,0.6,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+28.0,0.14285714285714285,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+11.0,0.09090909090909091,2,Increase Frequency / Add Extra Trips
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+183.0,0.07103825136612021,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+258.0,0.06589147286821706,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+668.0,0.0748502994011976,0,Maintain Current Schedule
+413.0,0.0774818401937046,0,Maintain Current Schedule
+63.0,0.07936507936507936,0,Maintain Current Schedule
+266.0,0.10902255639097744,0,Maintain Current Schedule
+8.0,0.125,1,Monitor Closely / Minor Schedule Adjustment
+26.0,0.11538461538461539,2,Increase Frequency / Add Extra Trips
+65.0,0.13846153846153847,0,Maintain Current Schedule
+17.0,0.11764705882352941,2,Increase Frequency / Add Extra Trips
+74.0,0.06756756756756757,0,Maintain Current Schedule
+151.0,0.07947019867549669,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+144.0,0.06944444444444445,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+70.5,0.11347517730496454,0,Maintain Current Schedule
+39.0,0.10256410256410256,0,Maintain Current Schedule
+20.0,0.1,2,Increase Frequency / Add Extra Trips
+531.0,0.07532956685499058,0,Maintain Current Schedule
+352.0,0.0625,0,Maintain Current Schedule
+209.0,0.10526315789473684,0,Maintain Current Schedule
+17.0,0.23529411764705882,2,Increase Frequency / Add Extra Trips
+100.0,0.08,0,Maintain Current Schedule
+230.0,0.06956521739130435,0,Maintain Current Schedule
+55.0,0.10909090909090909,0,Maintain Current Schedule
+124.0,0.12903225806451613,0,Maintain Current Schedule
+9.0,0.1111111111111111,2,Increase Frequency / Add Extra Trips
+12.0,0.3333333333333333,2,Increase Frequency / Add Extra Trips
+3.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+26.0,0.07692307692307693,0,Maintain Current Schedule
+33.0,0.09090909090909091,0,Maintain Current Schedule
+24.0,0.125,2,Increase Frequency / Add Extra Trips
+66.0,0.09090909090909091,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+165.0,0.07878787878787878,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+10.0,0.2,2,Increase Frequency / Add Extra Trips
+6.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+532.0,0.06203007518796992,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+28.0,0.07142857142857142,2,Increase Frequency / Add Extra Trips
+102.0,0.11764705882352941,0,Maintain Current Schedule
+6.0,0.6666666666666666,2,Increase Frequency / Add Extra Trips
+159.0,0.08176100628930817,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+33.0,0.12121212121212122,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+3.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+190.0,0.08947368421052632,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+5.0,0.2,1,Monitor Closely / Minor Schedule Adjustment
+18.0,0.1111111111111111,2,Increase Frequency / Add Extra Trips
+13.0,0.3076923076923077,2,Increase Frequency / Add Extra Trips
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+19.0,0.15789473684210525,2,Increase Frequency / Add Extra Trips
+37.0,0.13513513513513514,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+6.0,0.16666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+16.0,0.125,2,Increase Frequency / Add Extra Trips
+134.0,0.06716417910447761,0,Maintain Current Schedule
+50.0,0.1,0,Maintain Current Schedule
+35.0,0.11428571428571428,0,Maintain Current Schedule
+70.5,0.11347517730496454,0,Maintain Current Schedule
+59.0,0.15254237288135594,0,Maintain Current Schedule
+112.0,0.08035714285714286,0,Maintain Current Schedule
+48.0,0.125,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+3.0,0.6666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+10.0,0.2,2,Increase Frequency / Add Extra Trips
+11.0,0.18181818181818182,2,Increase Frequency / Add Extra Trips
+30.0,0.13333333333333333,2,Increase Frequency / Add Extra Trips
+9.0,0.5555555555555556,2,Increase Frequency / Add Extra Trips
+142.0,0.07042253521126761,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+41.0,0.0975609756097561,0,Maintain Current Schedule
+138.0,0.10144927536231885,0,Maintain Current Schedule
+30.0,0.1,0,Maintain Current Schedule
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+46.0,0.10869565217391304,0,Maintain Current Schedule
+1.0,1.0,1,Monitor Closely / Minor Schedule Adjustment
+3.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+8.0,0.375,2,Increase Frequency / Add Extra Trips
+17.0,0.11764705882352941,2,Increase Frequency / Add Extra Trips
+6.0,0.3333333333333333,1,Monitor Closely / Minor Schedule Adjustment
+159.0,0.08176100628930817,0,Maintain Current Schedule
+64.0,0.140625,0,Maintain Current Schedule
+48.0,0.125,0,Maintain Current Schedule
+26.0,0.11538461538461539,2,Increase Frequency / Add Extra Trips
+254.0,0.07874015748031496,0,Maintain Current Schedule
+6.0,0.16666666666666666,1,Monitor Closely / Minor Schedule Adjustment
+606.0,0.07755775577557755,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+5.0,0.4,1,Monitor Closely / Minor Schedule Adjustment
+70.5,0.11347517730496454,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+23.0,0.08695652173913043,2,Increase Frequency / Add Extra Trips
+159.0,0.07547169811320754,0,Maintain Current Schedule
+86.0,0.11627906976744186,0,Maintain Current Schedule
+12.0,0.16666666666666666,2,Increase Frequency / Add Extra Trips
+325.0,0.06769230769230769,0,Maintain Current Schedule
+10.0,0.3,2,Increase Frequency / Add Extra Trips
+487.0,0.08624229979466119,0,Maintain Current Schedule
+159.0,0.08176100628930817,0,Maintain Current Schedule
+24.0,0.08333333333333333,2,Increase Frequency / Add Extra Trips
+229.0,0.08296943231441048,0,Maintain Current Schedule
+18.0,0.1111111111111111,2,Increase Frequency / Add Extra Trips
+290.0,0.06896551724137931,0,Maintain Current Schedule
+195.0,0.09230769230769231,0,Maintain Current Schedule
+40.0,0.1,0,Maintain Current Schedule
+346.0,0.06936416184971098,0,Maintain Current Schedule
+118.0,0.09322033898305085,0,Maintain Current Schedule
+21.0,0.09523809523809523,2,Increase Frequency / Add Extra Trips
+2.0,0.5,1,Monitor Closely / Minor Schedule Adjustment
+19.0,0.10526315789473684,2,Increase Frequency / Add Extra Trips
+42.0,0.11904761904761904,0,Maintain Current Schedule

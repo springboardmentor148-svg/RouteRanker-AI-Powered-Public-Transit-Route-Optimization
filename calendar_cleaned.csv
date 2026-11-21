@@ -1,0 +1,9 @@
+city,service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,weekday_service,weekend_service
+amhedabad,"1,2,3,4,5,6,7",1,1,1,1,1,1,1,2026-09-30,2027-03-29,1,1
+dharwad,"1,2,3,4,5,6,7",1,1,1,1,1,1,1,2026-08-24,2027-02-20,1,1
+dharwad,"1,2,3,4,5,6,0",1,1,1,1,1,1,0,2026-08-24,2027-02-20,1,1
+karnataka,WEEKDAY,1,1,1,1,1,1,1,2026-06-02,2026-11-29,1,1
+mumbai,"1,2,3,4,5,6,7",1,1,1,1,1,1,1,2026-08-19,2027-02-15,1,1
+pune,WEEKDAY,1,1,1,1,1,1,1,2026-09-06,2027-03-05,1,1
+rajkot,WEEKDAY,1,1,1,1,1,1,1,2026-09-16,2027-03-15,1,1
+vapi,daily,1,1,1,1,1,1,1,2026-01-01,2027-12-31,1,1
