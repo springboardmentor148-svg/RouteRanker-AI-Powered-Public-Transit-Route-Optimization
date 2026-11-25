@@ -1,0 +1,9 @@
+KPI,Value
+Total Routes,7312.0
+Total Cities,5.0
+Total Scheduled Trips,216854.0
+Average Trips per Route,29.66
+K-Means Clusters,4.0
+DBSCAN Clusters (excluding noise),4.0
+Actual Routes with Trip Reduction,2.0
+Total Trips Reduced,340.0

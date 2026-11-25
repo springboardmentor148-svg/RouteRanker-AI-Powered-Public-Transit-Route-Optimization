@@ -28,3 +28,9 @@ data/cleaned/
 # Jupyter temporary files and notebook-local data
 .ipynb_checkpoints/
 notebook/data/
+# Streamlit temporary files
+.streamlit/secrets.toml
+
+# Dashboard generated cache files
+dashboard/__pycache__/
+dashboard/modules/__pycache__/
