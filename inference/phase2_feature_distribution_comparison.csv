@@ -1,0 +1,13 @@
+feature,train_min,train_max,train_mean,train_std,new_min,new_max,new_mean,new_std,out_minmax_pct,beyond_3sd_pct,flag
+trip_count_log1p_scaled,-0.61,1.79,0.11,0.6,-0.61,1.44,-0.11,0.47,0.0,0.0,In Range
+stop_count_scaled,-0.95,3.97,0.11,0.75,-0.95,1.16,-0.34,0.37,0.0,0.0,In Range
+route_length_km_log1p_scaled,-2.9,1.52,-0.11,0.77,-2.57,1.52,-0.24,0.75,0.0,0.36,In Range
+service_span_hours_scaled,-0.83,1.11,-0.06,0.54,-0.83,1.11,-0.18,0.53,0.0,0.0,In Range
+first_departure_hour_scaled,-3.0,8.5,0.81,2.08,-3.0,8.5,1.29,2.67,0.0,4.86,TAIL SHIFT (>3% beyond 3 SD)
+morning_trip_share_scaled,-1.84,2.36,0.1,1.26,-1.84,2.36,-0.18,1.35,0.0,0.0,In Range
+evening_trip_share_scaled,-0.64,2.96,0.07,0.83,-0.64,2.96,0.07,0.9,0.0,5.08,TAIL SHIFT (>3% beyond 3 SD)
+night_trip_share_scaled,0.0,15.02,1.01,2.4,0.0,15.02,2.26,4.3,0.0,9.63,TAIL SHIFT (>3% beyond 3 SD)
+period_afternoon,0.0,1.0,0.17,0.38,0.0,1.0,0.18,0.38,0.0,0.0,In Range
+period_evening,0.0,1.0,0.08,0.27,0.0,1.0,0.09,0.29,0.0,9.38,PREVALENCE SHIFT (rare dummy)
+period_morning,0.0,1.0,0.72,0.45,0.0,1.0,0.63,0.48,0.0,0.0,In Range
+period_night,0.0,1.0,0.03,0.17,0.0,1.0,0.1,0.31,0.0,10.4,PREVALENCE SHIFT (rare dummy)

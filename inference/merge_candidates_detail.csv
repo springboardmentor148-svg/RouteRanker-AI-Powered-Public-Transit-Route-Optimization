@@ -1,0 +1,170 @@
+route_id_1,route_id_2,short_name_1,short_name_2,long_name_1,long_name_2,kmeans_cluster_PRED,stops_1,stops_2,shared_stops,contig_fwd_stops,same_terminal,jaccard_similarity,cov_smaller,len_km_1_ESTIMATE,len_km_2_ESTIMATE,trips_1_ACTUAL,trips_2_ACTUAL,headway_1_ACTUAL,headway_2_ACTUAL
+chennai_21067,chennai_21357,159  R3,159 R5,Thiruverkadu TO Thiruvotriyur B.T,Thiruverkadu Bus Terminus TO  Thiruvottriyur,4,55,55,55,55,True,1.0,1.0,29.07,29.07,27,7,20.0,80.0
+chennai_19462,chennai_19463,2B,C33,Kannadasan Nagar TO Kaviarasu Kannadasan Nagar Bus Stand,Kannadasan Nagar TO Kaviarasu Kannadasan Nagar Bus Stand,4,51,51,51,51,True,1.0,1.0,23.84,23.84,39,16,20.0,25.0
+chennai_17652,chennai_19462,C64,2B,Kannadasan Nagar TO Kaviarasu Kannadasan Nagar Bus Stand,Kannadasan Nagar TO Kaviarasu Kannadasan Nagar Bus Stand,4,51,51,51,51,True,1.0,1.0,23.84,23.84,16,39,25.0,20.0
+chennai_17652,chennai_19463,C64,C33,Kannadasan Nagar TO Kaviarasu Kannadasan Nagar Bus Stand,Kannadasan Nagar TO Kaviarasu Kannadasan Nagar Bus Stand,4,51,51,51,51,True,1.0,1.0,23.84,23.84,16,16,25.0,25.0
+chennai_22525,chennai_22527,188C R,188Et R,Royapuram terminus TO Kundrathur Bus Terminus,Royapuram terminus TO Kundrathur Bus Terminus,4,50,50,50,50,True,1.0,1.0,30.31,30.31,4,4,240.0,255.0
+chennai_21150,chennai_21288,53E R,88K R1,Kundrathur TO  Royapuram,Kundrathur TO  Royapuram,4,48,48,48,48,True,1.0,1.0,29.54,29.54,10,49,95.0,14.5
+chennai_23613,chennai_6533,583 R2,583K,Sriperumbudur TO Tambaram Sanatorium,Sriperumbudur Bus Terminal TO Tambaram Sanatorium Bus Stand,4,40,40,40,40,True,1.0,1.0,34.99,34.99,129,16,5.0,30.0
+chennai_12540,chennai_17140,65B,62,Poonamallee B.T TO Ambattur I.E,Poonamallee B.T TO Ambattur I.E,4,40,40,40,40,True,1.0,1.0,22.4,22.4,47,5,20.0,106.0
+chennai_13144,chennai_17713,M88T,M88 ct1,Amarambedu East TO Vadapalani,Amarambedu East TO Vadapalani,4,40,40,40,40,True,1.0,1.0,31.29,31.29,4,2,200.0,630.0
+chennai_23132,chennai_23180,19 CT4,102X CT3,Thiruporur TO Kannagi Nagar S.C.B,Thiruporur B.S TO Kannagi Nagar B.S,2,39,39,39,39,True,1.0,1.0,27.25,27.25,5,5,27.5,20.0
+chennai_12538,chennai_17151,65B,62,Ambattur I.E TO Poonamallee B.T,Ambattur I.E TO Poonamallee B.T,4,38,38,38,38,True,1.0,1.0,22.97,22.97,47,6,20.0,110.0
+chennai_16353,chennai_20654,188A,88K CT5,Thyagaraya Nagar TO Kundrathur,Thyagaraya Nagar TO Kundrathur B.S,4,36,36,36,36,True,1.0,1.0,19.98,19.98,4,3,165.0,322.5
+chennai_11479,chennai_11483,48AEt,48A,Ambattur I.E TO Madhavaram B.T,Ambattur I.E TO Madhavaram B.T,4,36,36,36,36,True,1.0,1.0,16.17,16.17,2,5,500.0,167.5
+chennai_12436,chennai_12526,61R,65H,Redhills TO Avadi B.T,Redhills TO Avadi B.T,4,31,31,31,31,True,1.0,1.0,20.54,20.54,54,4,20.0,240.0
+chennai_17488,chennai_23458,95,95 R2,Thiruvanmiyur Bs TO Tambaram East,Thiruvanmiyur TO Tambaram East,4,31,31,31,31,True,1.0,1.0,22.99,22.99,37,20,25.0,30.0
+chennai_21120,chennai_21194,102K R1,102K CT5,Kannagi TO  Island ground,Ezilnagar TO  Island ground,4,30,30,30,30,True,1.0,1.0,21.8,21.8,101,8,7.0,120.0
+chennai_10783,chennai_4465,202A,202,Tambaram West TO Avadi B.T,Tambaram West Bus Stand TO Avadi Bus Terminus,4,30,30,30,30,True,1.0,1.0,32.94,32.94,35,20,30.0,30.0
+chennai_10781,chennai_10783,202,202A,Tambaram West TO Avadi B.T,Tambaram West TO Avadi B.T,4,30,30,30,30,True,1.0,1.0,32.94,32.94,15,35,55.0,30.0
+chennai_10780,chennai_10782,202,202A,Avadi B.T TO Tambaram West,Avadi B.T TO Tambaram West,4,30,30,30,30,True,1.0,1.0,32.69,32.69,15,35,55.0,30.0
+chennai_16371,chennai_20486,578PC,578PCt,Poonamallee TO Sunguvarchatram,Poonamallee B.T TO Sunguvarchathiram,4,30,30,30,30,True,1.0,1.0,28.4,28.4,2,2,165.0,165.0
+chennai_11464,chennai_20334,48C,14A,M.G.R.Koyambedu TO Vallalar Nagar,M.G.R.Koyambedu Bus Terminus TO Vallalar Nagar BT,4,28,28,28,28,True,1.0,1.0,14.74,14.74,101,7,10.0,130.0
+chennai_12508,chennai_12527,62Ct,65H,Avadi B.T TO Redhills,Avadi B.T TO Redhills,4,28,28,28,28,True,1.0,1.0,17.5,17.5,18,4,60.0,240.0
+chennai_12873,chennai_17051,89A,89,Somangalam TO Porur,Somangalam TO Porur,4,28,28,28,28,True,1.0,1.0,27.38,27.38,15,4,50.0,155.0
+chennai_22142,chennai_22158,7E R,7MEt CT,Ambattur I.E TO Broadway,Ambattur I.E TO  Island ground,4,28,28,28,28,True,1.0,1.0,32.14,32.14,4,2,160.0,500.0
+chennai_11094,chennai_11643,31M,51T,Tambaram West TO Madurapakkam,Tambaram West TO Madurapakkam,4,27,27,27,27,True,1.0,1.0,13.04,13.04,8,2,125.0,600.0
+chennai_21182,chennai_21183,18R CT2,18RX CT,Ngo Colony TO Royapuram,Ngo Colony TO Royapuram terminus,4,27,27,27,27,True,1.0,1.0,16.0,16.0,3,4,272.5,40.0
+chennai_21174,chennai_21175,18P CT3,18E CT1,Royapuram TO  Ngo Colony,Royapuram TO Ngo Colony,2,27,27,27,27,True,1.0,1.0,16.35,16.35,2,2,565.0,88.0
+chennai_21174,chennai_21177,18P CT3,18RX CT,Royapuram TO  Ngo Colony,Royapuram TO Ngo Colony,2,27,27,27,27,True,1.0,1.0,16.35,16.35,2,4,565.0,40.0
+chennai_21175,chennai_21177,18E CT1,18RX CT,Royapuram TO Ngo Colony,Royapuram TO Ngo Colony,2,27,27,27,27,True,1.0,1.0,16.35,16.35,2,4,88.0,40.0
+chennai_21181,chennai_21182,18P CT,18R CT2,Ngo Colony TO  Royapuram,Ngo Colony TO Royapuram,4,27,27,27,27,True,1.0,1.0,16.0,16.0,2,3,550.0,272.5
+chennai_21181,chennai_21183,18P CT,18RX CT,Ngo Colony TO  Royapuram,Ngo Colony TO Royapuram terminus,4,27,27,27,27,True,1.0,1.0,16.0,16.0,2,4,550.0,40.0
+chennai_11466,chennai_20333,48C,14A,Vallalar Nagar TO M.G.R.Koyambedu,Vallalar Nagar BT TO M.G.R.Koyambedu Bus Terminus,4,26,26,26,26,True,1.0,1.0,13.37,13.37,101,7,9.0,125.0
+chennai_12591,chennai_12599,70K,70M,M.G.R.Koyambedu TO Kilambakkam B.T,M.G.R.Koyambedu TO Kilambakkam B.T,3,26,26,26,26,True,1.0,1.0,27.95,27.95,8,8,35.0,102.0
+chennai_12591,chennai_12608,70K,70T,M.G.R.Koyambedu TO Kilambakkam B.T,M.G.R.Koyambedu TO Kilambakkam B.T,3,26,26,26,26,True,1.0,1.0,27.95,27.95,8,6,35.0,178.0
+chennai_12599,chennai_12608,70M,70T,M.G.R.Koyambedu TO Kilambakkam B.T,M.G.R.Koyambedu TO Kilambakkam B.T,3,26,26,26,26,True,1.0,1.0,27.95,27.95,8,6,102.0,178.0
+chennai_21401,chennai_21456,102K CT28,102CT CT10,Thiruvanmiyur TO  Island ground,Thiruvanmiyur TO Island ground Terminus,0,26,26,26,26,True,1.0,1.0,16.43,16.43,5,2,18.5,80.0
+chennai_12729,chennai_12734,70E,70F,M.G.R.Koyambedu TO Kilambakkam B.T,M.G.R.Koyambedu TO Kilambakkam B.T,2,26,26,26,26,True,1.0,1.0,27.95,27.95,4,2,130.0,1260.0
+chennai_12786,chennai_9455,77K,77E,Avadi B.T TO M.G.R.Koyambedu,Avadi Bus Terminus TO M.G.R.Koyambedu,0,26,26,26,26,True,1.0,1.0,16.42,16.42,2,6,145.0,35.0
+chennai_12590,chennai_12606,70K,70T,Kilambakkam B.T TO M.G.R.Koyambedu,Kilambakkam B.T TO M.G.R.Koyambedu,3,25,25,25,25,True,1.0,1.0,27.8,27.8,8,6,35.0,180.0
+chennai_12300,chennai_19383,5G,19 CT2,Thyagaraya Nagar TO Kannagi Nagar S.C.B,Thyagaraya Nagar TO Kannagi Nagar S.C.B,4,25,25,25,25,True,1.0,1.0,17.19,17.19,6,3,170.0,287.5
+chennai_12791,chennai_9456,77K,77E,M.G.R.Koyambedu TO Avadi B.T,M.G.R.Koyambedu TO Avadi Bus Terminus,4,24,24,24,24,True,1.0,1.0,16.39,16.39,3,6,277.5,40.0
+chennai_13131,chennai_23304,M18G,60D R1,Guduvanchery TO Hasthinapuram,Guduvanchery TO Hasthinapuram,4,22,22,22,22,True,1.0,1.0,15.54,15.54,16,2,60.0,540.0
+chennai_24050,chennai_24075,102E CT1,91 CT5,Thiruvanmiyur  TO  Perumbakkam Bus Terminus,Thiruvanmiyur TO  Perumbakkam Scb,0,22,22,22,22,True,1.0,1.0,16.18,16.18,5,5,27.5,51.5
+chennai_21403,chennai_21460,102K CT30,102CT CT11,Thiruvanmiyur TO Perumpakkam S.C.B,Thiruvanmiyur TO Perumpakkam S.C.B,1,22,22,22,22,True,1.0,1.0,15.35,15.35,3,5,27.5,27.5
+chennai_20837,chennai_20871,M1 CT1,M1A R,Keelkattalai TO Thiruvanmiyur,Keelkattalai TO Thiruvanmiyur,4,21,21,21,21,True,1.0,1.0,10.68,10.68,70,5,10.0,105.0
+chennai_20837,chennai_22966,M1 CT1,M1 R,Keelkattalai TO Thiruvanmiyur,Keelkattalai TO Thiruvamiyur Bus Stand,4,21,21,21,21,True,1.0,1.0,10.68,10.68,70,51,10.0,16.0
+chennai_13171,chennai_19608,M27,49A CT,M.G.R.Koyambedu TO Thyagaraya Nagar,M.G.R.Koyambedu Bus Terminus to Thiyagarayanagar Terminus,4,21,21,21,21,True,1.0,1.0,10.17,10.17,37,2,21.0,500.0
+chennai_20871,chennai_22966,M1A R,M1 R,Keelkattalai TO Thiruvanmiyur,Keelkattalai TO Thiruvamiyur Bus Stand,4,21,21,21,21,True,1.0,1.0,10.68,10.68,5,51,105.0,16.0
+chennai_22004,chennai_23302,52B,52 CT2,Pozhichalur TO Hasthinapuram,Pozhichalur TO Hasthinapuram,0,21,21,21,21,True,1.0,1.0,9.28,9.28,4,2,85.0,510.0
+chennai_21094,chennai_21386,15BEt CT3,101X CT10,M.G.R.Koyambedu TO  Island ground,M.G.R.Koyambedu  TO  Island ground,4,20,20,20,20,True,1.0,1.0,11.78,11.78,2,2,495.0,465.0
+chennai_19789,chennai_20389,578 CT1,597 CT6,M.G.R.Koyambedu TO  Poonamallee Depot,M.G.R.Koyambedu  TO  Poonamallee,3,19,19,19,19,True,1.0,1.0,13.49,13.49,18,3,20.0,77.5
+chennai_19628,chennai_19634,597A CT,62 CT3,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,Poonamallee TO  M.G.R.Koyambedu,0,19,19,19,19,True,1.0,1.0,13.38,13.38,13,11,15.0,21.5
+chennai_19628,chennai_19950,597A CT,25K,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,0,19,19,19,19,True,1.0,1.0,13.38,13.38,13,11,15.0,10.0
+chennai_19630,chennai_19631,101 CT6,54,Poonamallee TO  M.G.R.Koyambedu,Poonamallee TO  M.G.R.Koyambedu,2,19,19,19,19,True,1.0,1.0,13.48,13.48,11,4,17.5,30.0
+chennai_19634,chennai_19950,62 CT3,25K,Poonamallee TO  M.G.R.Koyambedu,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,0,19,19,19,19,True,1.0,1.0,13.38,13.38,11,11,21.5,10.0
+chennai_19593,chennai_19949,66P CT3,25K,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,19,19,True,1.0,1.0,13.39,13.39,7,12,45.0,10.0
+chennai_19589,chennai_19593,583A CT,66P CT3,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,19,19,True,1.0,1.0,13.39,13.39,4,7,25.0,45.0
+chennai_19589,chennai_19949,583A CT,25K,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,19,19,True,1.0,1.0,13.39,13.39,4,12,25.0,10.0
+chennai_19627,chennai_19628,583A CT,597A CT,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,0,19,19,19,19,True,1.0,1.0,13.38,13.38,4,13,35.0,15.0
+chennai_19627,chennai_19634,583A CT,62 CT3,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,Poonamallee TO  M.G.R.Koyambedu,0,19,19,19,19,True,1.0,1.0,13.38,13.38,4,11,35.0,21.5
+chennai_19631,chennai_19786,54,54C,Poonamallee TO  M.G.R.Koyambedu,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,2,19,19,19,19,True,1.0,1.0,13.48,13.48,4,3,30.0,32.5
+chennai_19585,chennai_19614,49F CT,54K CT,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu TO  Poonamallee,3,19,19,19,19,True,1.0,1.0,13.49,13.49,3,2,245.0,60.0
+chennai_19585,chennai_19789,49F CT,578 CT1,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu TO  Poonamallee Depot,3,19,19,19,19,True,1.0,1.0,13.49,13.49,3,18,245.0,20.0
+chennai_19585,chennai_20389,49F CT,597 CT6,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu  TO  Poonamallee,3,19,19,19,19,True,1.0,1.0,13.49,13.49,3,3,245.0,77.5
+chennai_19614,chennai_19789,54K CT,578 CT1,M.G.R.Koyambedu TO  Poonamallee,M.G.R.Koyambedu TO  Poonamallee Depot,3,19,19,19,19,True,1.0,1.0,13.49,13.49,2,18,60.0,20.0
+chennai_19614,chennai_20389,54K CT,597 CT6,M.G.R.Koyambedu TO  Poonamallee,M.G.R.Koyambedu  TO  Poonamallee,3,19,19,19,19,True,1.0,1.0,13.49,13.49,2,3,60.0,77.5
+chennai_19633,chennai_19784,54K CT6,49F CT,Poonamallee TO  M.G.R.Koyambedu,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,0,19,19,19,19,True,1.0,1.0,13.48,13.48,2,3,85.0,292.5
+chennai_10600,chennai_16573,27B,25,Anna Square TO Vadapalani,Anna Square TO Vadapalani,2,18,18,18,18,True,1.0,1.0,10.81,10.81,2,2,223.0,80.0
+chennai_11053,chennai_16664,118N,118,Neelamangalam TO Tambaram West,Neelamangalam TO Tambaram West Bus Stand,4,17,17,17,17,True,1.0,1.0,15.46,15.46,8,2,125.0,615.0
+chennai_17097,chennai_19369,59,29E CT,Thiruverkadu Terminus TO M.G.R.Koyambedu,Thiruverkadu TO M.G.R.Koyambedu,4,16,16,16,16,True,1.0,1.0,9.89,9.89,11,2,40.0,470.0
+chennai_19646,chennai_19647,54S CT,49A CT,Thiyagarayanagar Terminus to M.G.R.Koyambedu Bus Terminus,Thiyagarayanagar Terminus to M.G.R.Koyambedu Bus Terminus,2,15,15,15,15,True,1.0,1.0,8.49,8.49,2,2,645.0,500.0
+chennai_23019,chennai_23028,120 CT1,5C CT2,Central Depot TO  Royapuram terminus,Central Depot TO  Royapuram,3,10,10,10,10,True,1.0,1.0,4.03,4.03,10,10,40.0,20.0
+chennai_23019,chennai_23030,120 CT1,71E CT1,Central Depot TO  Royapuram terminus,Central Depot to  Royapuram,3,10,10,10,10,True,1.0,1.0,4.03,4.03,10,16,40.0,30.0
+chennai_23022,chennai_23035,18A CT11,A51 CT4,Central Depot TO  Royapuram,Central Depot TO  Royapuram,4,10,10,10,10,True,1.0,1.0,4.03,4.03,10,6,40.0,40.0
+chennai_23028,chennai_23030,5C CT2,71E CT1,Central Depot TO  Royapuram,Central Depot to  Royapuram,3,10,10,10,10,True,1.0,1.0,4.03,4.03,10,16,20.0,30.0
+chennai_11414,chennai_16759,47A,47,Ayanavaram B.T TO Villivakkam,Ayanavaram B.T TO Villivakkam,3,10,10,10,10,True,1.0,1.0,3.85,3.85,8,6,20.0,30.0
+chennai_21257,chennai_21261,18R CT1,70N CT,Nanganallur TO Ngo Colony,Nanganallur TO Ngo Colony,2,10,10,10,10,True,1.0,1.0,4.4,4.4,3,2,277.5,500.0
+chennai_24009,chennai_24021,570 CT2,P570S R1,Siruseri I.T Park TO M.G.R.Koyambedu,Siruseri It Park TO  M.G.R.Koyambedu,4,47,48,47,38,True,0.9792,1.0,34.23,34.23,81,9,5.0,110.0
+chennai_20126,chennai_22910,23C,23C R3,Ayanavaram B.T TO Besant Nagar,Ayanavaram B.T TO Besant Nagar,4,39,40,39,35,True,0.975,1.0,20.39,20.4,54,4,20.0,300.0
+chennai_22798,chennai_23216,101CT,101 CT2,Royapuram TO  Poonamallee Depot,Royapuram terminus TO Poonamallee,4,35,36,35,31,True,0.9722,1.0,24.33,24.33,100,30,10.0,20.0
+chennai_11610,chennai_11946,515A,566B,Kovalam TO Tambaram West,Kovalam TO Tambaram West,4,30,31,30,29,True,0.9677,1.0,29.24,29.24,73,6,10.0,165.0
+chennai_10782,chennai_21025,202A,202A R,Avadi B.T TO Tambaram West,Avadi TO  Tambaram Sanatorium B.T,4,30,31,30,30,True,0.9677,1.0,32.69,34.11,35,20,30.0,15.0
+chennai_10780,chennai_21025,202,202A R,Avadi B.T TO Tambaram West,Avadi TO  Tambaram Sanatorium B.T,4,30,31,30,30,True,0.9677,1.0,32.69,34.11,15,20,55.0,15.0
+chennai_13127,chennai_15816,M18C,45ACt,Thyagaraya Nagar TO Keelkattalai,Thyagaraya Nagar TO Keelkattalai,4,28,29,28,27,True,0.9655,1.0,13.4,32.18,14,16,120.0,60.0
+chennai_24018,chennai_24029,99A CT3,99 CT,Tambaram West TO Perumpakkam S.C.B,Tambaram West Bus Stand to Perumbakkam Bus Terminus,0,27,28,27,26,True,0.9643,1.0,18.43,18.75,7,3,17.5,20.0
+chennai_16078,chennai_21077,4,28B R1,Ennore TO Egmore,Ennore TO Egmore North R.S,4,48,50,48,47,True,0.96,1.0,20.78,20.92,2,44,600.0,20.0
+chennai_10842,chennai_12725,111Et,70E,Kilambakkam B.T TO M.G.R.Koyambedu,Kilambakkam B.T TO M.G.R.Koyambedu,2,25,24,24,20,True,0.96,1.0,27.79,27.79,6,4,50.0,50.0
+chennai_12324,chennai_22779,583A,583A R1,Thiruvallur TO Sriperumbudur,Thiruvallur TO  Sriperumbudur,4,23,24,23,20,True,0.9583,1.0,20.26,20.26,20,6,35.0,130.0
+chennai_21447,chennai_23156,102CT CT6,102C R2,Perumpakkam S.C.B TO Island ground Terminus,Semmancheri TO  Island ground,4,41,41,40,33,True,0.9524,0.9756,29.93,29.35,7,20,52.5,40.0
+chennai_21395,chennai_21447,102K CT26,102CT CT6,Perumpakkam S.C.B TO  Island ground,Perumpakkam S.C.B TO Island ground Terminus,4,41,41,40,40,True,0.9524,0.9756,29.94,29.93,6,7,35.0,52.5
+chennai_21395,chennai_23156,102K CT26,102C R2,Perumpakkam S.C.B TO  Island ground,Semmancheri TO  Island ground,4,41,41,40,33,True,0.9524,0.9756,29.94,29.35,6,20,35.0,40.0
+chennai_21266,chennai_22596,A1 CT4,5E CT,M.G.R.Koyambedu TO  Island ground,M.G.R.Koyambedu TO Island ground,2,20,21,20,18,True,0.9524,1.0,10.68,11.01,10,5,35.0,85.0
+chennai_12413,chennai_22230,61E,120E CT1,Avadi B.T TO Kilkondaiyur,Avadi B.T TO Kilkondaiyur,4,20,19,19,18,True,0.95,1.0,14.5,14.5,22,4,40.0,130.0
+chennai_19951,chennai_20167,25K,25 R1,Poonamallee Bus Terminus to Anna Square Bus Terminus one,Poonamalle TO Anna Square,4,37,37,36,36,True,0.9474,0.973,22.39,22.5,59,208,10.0,5.0
+chennai_19886,chennai_22786,S75 CT2,S75,Padi Lucas T.V.S TO Ambattur O.T,Padi Lucas Tvs TO Ambattur Ot Bus Stand,4,18,19,18,16,True,0.9474,1.0,7.08,7.08,36,23,24.0,42.0
+chennai_10996,chennai_22236,120A,120K CT1,Arakkambakkam TO Avadi B.T,Kadhavoor TO Avadi B.T,0,18,19,18,18,True,0.9474,1.0,12.29,12.98,10,4,80.0,110.0
+chennai_22549,chennai_22567,33B R,64KEt CT1,Kaviarasu Kannadasan Nagar Bus Stand TO Island ground Terminus,Kaviarasu Kannadasan Nagar Bus Stand TO Island ground Terminus,4,19,18,18,17,True,0.9474,1.0,9.61,9.61,8,4,112.0,138.0
+chennai_23185,chennai_24055,19AX,19 CT1,Perumbakkam Scb to Thiyagarayanagar Terminus,Perumpakkam S.C.B TO Thyagaraya Nagar,4,35,35,34,34,True,0.9444,0.9714,22.34,23.09,25,10,40.0,30.0
+chennai_11893,chennai_11899,55D,55DEt,Keerapakkam TO Tambaram West,Kandigai TO Tambaram West,4,18,17,17,17,True,0.9444,1.0,18.33,15.52,10,6,80.0,65.0
+chennai_22225,chennai_22755,120Ct CT,120 R,Avadi B.T TO Royapuram,Avadi TO Royapuram,4,48,51,48,47,True,0.9412,1.0,26.25,26.37,2,44,515.0,20.0
+chennai_19952,chennai_20163,25K,25 R,Anna Square Bus Terminus one to Poonamallee Bus Terminus,Anna Square TO Poonamalle,4,33,33,32,32,True,0.9412,0.9697,23.21,23.31,58,210,10.0,5.0
+chennai_23137,chennai_23138,95,95 R,Tambaram East TO Thiruvanmiyur Bs,Tambaram East TO Thiruvanmiyur,4,33,33,32,32,True,0.9412,0.9697,23.11,23.13,37,21,27.5,30.0
+chennai_16212,chennai_18965,V51,51AX R1,Tambaram West TO Thiyagaraya Nagar,Tambaram West TO Thyagaraya Nagar,4,33,33,32,32,True,0.9412,0.9697,24.31,24.35,20,3,48.0,212.5
+chennai_11468,chennai_18418,48BX,48B,Pudur TO Vallalar Nagar,Pudur TO Vallalar Nagar,4,31,31,30,26,True,0.9375,0.9677,19.01,19.02,4,62,315.0,15.0
+chennai_12884,chennai_17056,89TCt,89,Kundrathur Depot TO Somangalam,Kundrathur TO Somangalam,4,15,16,15,14,True,0.9375,1.0,10.64,18.7,12,3,80.0,295.0
+chennai_11613,chennai_11951,515A,566B,Tambaram West TO Kovalam,Tambaram West TO Kovalam,4,29,29,28,27,True,0.9333,0.9655,28.74,28.74,72,6,10.0,170.0
+chennai_12418,chennai_19667,597C,54C,Thirunindravoor TO Poonamallee B.T,Thiruninravur Bus Stand to Poonamallee Bus Terminus,4,29,29,28,28,True,0.9333,0.9655,16.75,17.07,41,2,20.0,610.0
+chennai_21231,chennai_22982,18R R,18R R1,Nanganallur TO Royapuram,Nanganallur TO Royapuram,4,29,29,28,28,True,0.9333,0.9655,19.97,19.97,4,10,170.0,105.0
+chennai_12148,chennai_16370,578PCt,578PC,Sunguvarchathiram TO Poonamallee B.T,Sunguvarchatram TO Poonamallee,4,29,29,28,28,True,0.9333,0.9655,28.22,28.32,2,2,170.0,170.0
+chennai_12885,chennai_17053,89TCt,89,Somangalam TO Kundrathur Depot,Somangalam TO Kundrathur,4,14,15,14,13,True,0.9333,1.0,10.67,10.69,12,3,75.0,292.5
+chennai_11482,chennai_11486,48AEt,48A,Madhavaram B.T TO J.J.Nagar West,Madhavaram B.T TO Ambattur I.E,4,44,41,41,41,True,0.9318,1.0,19.67,17.7,4,5,170.0,170.0
+chennai_11663,chennai_22892,51D,A51 CT2,Saidapet TO Tambaram West,Saidapet TO Tambaram West B.S,4,28,28,27,27,True,0.931,0.9643,22.96,21.73,2,7,480.0,62.5
+chennai_18626,chennai_8728,M88 CT2,M88,Kundrathur Murugan Temple TO Vadapalani,Kundrathur TO Vadapalani,4,27,27,26,26,True,0.9286,0.963,15.25,15.26,32,36,25.0,20.0
+chennai_11664,chennai_19987,51D,51 CT7,Tambaram West TO Saidapet,Tambaram West TO Saidapet,3,27,27,26,26,True,0.9286,0.963,20.35,21.02,2,9,480.0,15.0
+chennai_18640,chennai_18641,40H CT,40H,Anna Square TO Avadi B.T,Anna Square TO Pattabiram,4,38,41,38,38,True,0.9268,1.0,26.05,30.51,26,25,20.0,17.5
+chennai_20452,chennai_22885,4 CT6,28B R,Egmore TO Ennore,Egmore North R.S TO Ennore,4,51,49,48,43,True,0.9231,0.9796,21.7,21.0,2,44,600.0,20.0
+chennai_20638,chennai_23073,A51,J51,Tambaram West TO Velachery B.T,Tambaram West TO Velachery B.T,4,24,26,24,22,True,0.9231,1.0,15.83,15.87,2,5,75.0,135.5
+chennai_15058,chennai_19373,M19B,19 CT7,Thyagaraya Nagar TO Adyar B.T,Thiyagaraya Nagar TO Adyar,2,12,13,12,12,True,0.9231,1.0,7.56,8.62,2,4,525.0,60.0
+chennai_15058,chennai_19374,M19B,19A CT,Thyagaraya Nagar TO Adyar B.T,Thiyagarayanagar TO Adyar B.S,2,12,13,12,12,True,0.9231,1.0,7.56,8.49,2,2,525.0,40.0
+chennai_22522,chennai_22526,188C R,188Et R,Kundrathur Bus Terminus TO  Royapuram terminus,Kundrathur Bus Terminus TO Royapuram terminus,3,48,50,47,46,True,0.9216,0.9792,29.54,29.67,4,4,240.0,230.0
+chennai_11006,chennai_11019,114Et,114P,M.G.R.Koyambedu TO Redhills,M.G.R.Koyambedu TO Padiyanallur,4,23,25,23,23,True,0.92,1.0,16.59,19.36,4,11,346.0,80.0
+chennai_11469,chennai_19889,48BX,48B,Vallalar Nagar TO Oragadam,Vallalar Nagar TO Pudur,4,35,36,34,28,True,0.9189,0.9714,17.46,18.24,2,60,495.0,15.0
+chennai_20580,chennai_21058,57 R2,157 CT5,Vallalar Nagar TO Redhills,V.Nagar TO Redhills Bus Terminus,4,23,23,22,22,True,0.9167,0.9565,15.26,15.29,162,10,5.0,45.0
+chennai_17074,chennai_20580,57,57 R2,Vallalar Nagar TO Redhills Bus Terminus,Vallalar Nagar TO Redhills,4,23,23,22,22,True,0.9167,0.9565,15.23,15.26,32,162,29.0,5.0
+chennai_17074,chennai_21058,57,157 CT5,Vallalar Nagar TO Redhills Bus Terminus,V.Nagar TO Redhills Bus Terminus,4,23,23,22,22,True,0.9167,0.9565,15.23,15.29,32,10,29.0,45.0
+chennai_20943,chennai_21605,56D CT5,44 CT1,Manali TO Tondiarpet,Manali TO Tondiarpet,2,23,23,22,22,True,0.9167,0.9565,12.33,11.76,7,4,32.5,40.0
+chennai_22590,chennai_22876,5E CT,A1 CT2,Island ground TO  M.G.R.Koyambedu,Island TO  M.G.R.Koyambedu,2,23,23,22,20,True,0.9167,0.9565,10.39,9.95,5,11,80.0,55.0
+chennai_23169,chennai_24045,102P CT30,95X CT3,Perumpakkam Scb TO Thiruvanmiyur,Perumbakkam Scb TO  Thiruvanmiyur Depot,3,23,23,22,22,True,0.9167,0.9565,15.36,16.13,5,14,280.0,20.0
+chennai_12924,chennai_20335,88CEt,154 CT4,Iyyappanthangal TO Thyagaraya Nagar,Iyyapanthangal TO  Thiyagarayanagar,4,20,22,20,17,True,0.9091,1.0,12.83,13.28,2,6,540.0,95.0
+chennai_11422,chennai_16166,47A,20,Villivakkam TO Ayanavaram B.T,Villivakkam TO Ayanavaram,2,10,11,10,10,True,0.9091,1.0,3.83,4.11,8,9,20.0,15.0
+chennai_11911,chennai_22356,55G,18X CT,Tambaram West TO Oonamancheri,Tambaram West TO Oonamancheri,4,11,10,10,9,True,0.9091,1.0,9.47,9.47,4,2,300.0,515.0
+chennai_21544,chennai_23357,4 R,4 CT5,Island ground TO Ennore,Secretariat TO  Ennore Bus Terminus,4,41,41,39,39,True,0.907,0.9512,20.02,19.38,90,2,10.0,510.0
+chennai_18682,chennai_18683,40H CT,40H,Avadi B.T TO Anna Square,Pattabiram TO Anna Square,4,39,43,39,39,True,0.907,1.0,26.35,30.58,24,26,20.0,20.0
+chennai_10898,chennai_19262,121M,114 CT1,M.G.R.Koyambedu TO Moolakadai,M.G.R Koyambedu TO Moolakadai,2,20,20,19,19,True,0.9048,0.95,12.9,13.0,5,2,125.0,65.0
+chennai_22357,chennai_22717,18X,515B,Tambaram West TO Thiruporur,Tambaram West TO Thiruporur,4,37,39,36,30,True,0.9,0.973,32.5,34.12,2,40,500.0,20.0
+chennai_19789,chennai_19949,578 CT1,25K,M.G.R.Koyambedu TO  Poonamallee Depot,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.49,13.39,18,12,20.0,10.0
+chennai_17312,chennai_19592,153,65A CT2,M.G.R.Koyambedu TO Poonamallee B.T,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,4,19,19,18,18,True,0.9,0.9474,13.54,13.39,16,2,60.0,505.0
+chennai_19590,chennai_20166,597A CT,25 CT5,M.G.R.Koyambedu Bus Terminus TO Poonamallee Bus Terminus,M.G.R.Koyambedu TO  Poonamallee Bus Terminus,1,19,19,18,18,True,0.9,0.9474,13.39,13.49,13,2,17.5,90.0
+chennai_19590,chennai_22064,597A CT,53 CT,M.G.R.Koyambedu Bus Terminus TO Poonamallee Bus Terminus,M.G.R.Koyambedu TO Poonamallee B.T,1,19,19,18,18,True,0.9,0.9474,13.39,13.49,13,2,17.5,60.0
+chennai_19628,chennai_19633,597A CT,54K CT6,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,Poonamallee TO  M.G.R.Koyambedu,0,19,19,18,18,True,0.9,0.9474,13.38,13.48,13,2,15.0,85.0
+chennai_19628,chennai_19784,597A CT,49F CT,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,0,19,19,18,18,True,0.9,0.9474,13.38,13.48,13,3,15.0,292.5
+chennai_19949,chennai_20389,25K,597 CT6,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu  TO  Poonamallee,3,19,19,18,18,True,0.9,0.9474,13.39,13.49,12,3,10.0,77.5
+chennai_19630,chennai_19635,101 CT6,597C,Poonamallee TO  M.G.R.Koyambedu,Poonamallee to M.G.R.Koyambedu Bus Terminus,2,19,19,18,18,True,0.9,0.9474,13.48,13.54,11,7,17.5,77.5
+chennai_19634,chennai_19784,62 CT3,49F CT,Poonamallee TO  M.G.R.Koyambedu,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,0,19,19,18,18,True,0.9,0.9474,13.38,13.48,11,3,21.5,292.5
+chennai_19583,chennai_19585,597C,49F CT,M.G.R.Koyambedu Bus Terminus to Poonamallee,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.54,13.49,7,3,57.5,245.0
+chennai_19583,chennai_19589,597C,583A CT,M.G.R.Koyambedu Bus Terminus to Poonamallee,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.54,13.39,7,4,57.5,25.0
+chennai_19583,chennai_19593,597C,66P CT3,M.G.R.Koyambedu Bus Terminus to Poonamallee,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.54,13.39,7,7,57.5,45.0
+chennai_19583,chennai_19614,597C,54K CT,M.G.R.Koyambedu Bus Terminus to Poonamallee,M.G.R.Koyambedu TO  Poonamallee,3,19,19,18,18,True,0.9,0.9474,13.54,13.49,7,2,57.5,60.0
+chennai_19583,chennai_19789,597C,578 CT1,M.G.R.Koyambedu Bus Terminus to Poonamallee,M.G.R.Koyambedu TO  Poonamallee Depot,3,19,19,18,18,True,0.9,0.9474,13.54,13.49,7,18,57.5,20.0
+chennai_19583,chennai_19949,597C,25K,M.G.R.Koyambedu Bus Terminus to Poonamallee,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.54,13.39,7,12,57.5,10.0
+chennai_19583,chennai_20389,597C,597 CT6,M.G.R.Koyambedu Bus Terminus to Poonamallee,M.G.R.Koyambedu  TO  Poonamallee,3,19,19,18,18,True,0.9,0.9474,13.54,13.49,7,3,57.5,77.5
+chennai_19593,chennai_19614,66P CT3,54K CT,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu TO  Poonamallee,3,19,19,18,18,True,0.9,0.9474,13.39,13.49,7,2,45.0,60.0
+chennai_19593,chennai_19789,66P CT3,578 CT1,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu TO  Poonamallee Depot,3,19,19,18,18,True,0.9,0.9474,13.39,13.49,7,18,45.0,20.0
+chennai_19593,chennai_20389,66P CT3,597 CT6,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu  TO  Poonamallee,3,19,19,18,18,True,0.9,0.9474,13.39,13.49,7,3,45.0,77.5
+chennai_19635,chennai_19786,597C,54C,Poonamallee to M.G.R.Koyambedu Bus Terminus,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,2,19,19,18,18,True,0.9,0.9474,13.54,13.48,7,3,77.5,32.5
+chennai_19658,chennai_19791,66P CT3,578 CT3,Poonamallee Bus Terminus  to M.G.R.Koyambedu Bus Terminus,Poonamallee Depot TO  M.G.R.Koyambedu Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.38,13.48,6,20,50.0,20.0
+chennai_21586,chennai_21733,54,101X CT14,Island ground TO  M.G.R.Koyambedu,Royapuram TO M.G.R.Koyambedu,0,19,19,18,18,True,0.9,0.9474,10.75,11.86,5,6,35.0,60.0
+chennai_19589,chennai_19614,583A CT,54K CT,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu TO  Poonamallee,3,19,19,18,18,True,0.9,0.9474,13.39,13.49,4,2,25.0,60.0
+chennai_19589,chennai_19789,583A CT,578 CT1,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu TO  Poonamallee Depot,3,19,19,18,18,True,0.9,0.9474,13.39,13.49,4,18,25.0,20.0
+chennai_19589,chennai_20389,583A CT,597 CT6,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu  TO  Poonamallee,3,19,19,18,18,True,0.9,0.9474,13.39,13.49,4,3,25.0,77.5
+chennai_19627,chennai_19633,583A CT,54K CT6,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,Poonamallee TO  M.G.R.Koyambedu,0,19,19,18,18,True,0.9,0.9474,13.38,13.48,4,2,35.0,85.0
+chennai_19627,chennai_19784,583A CT,49F CT,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,0,19,19,18,18,True,0.9,0.9474,13.38,13.48,4,3,35.0,292.5
+chennai_19631,chennai_19635,54,597C,Poonamallee TO  M.G.R.Koyambedu,Poonamallee to M.G.R.Koyambedu Bus Terminus,2,19,19,18,18,True,0.9,0.9474,13.48,13.54,4,7,30.0,77.5
+chennai_19585,chennai_19589,49F CT,583A CT,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.49,13.39,3,4,245.0,25.0
+chennai_19585,chennai_19593,49F CT,66P CT3,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.49,13.39,3,7,245.0,45.0
+chennai_19585,chennai_19949,49F CT,25K,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.49,13.39,3,12,245.0,10.0
+chennai_19784,chennai_19950,49F CT,25K,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,Poonamallee Bus Terminus to M.G.R.Koyambedu Bus Terminus,0,19,19,18,18,True,0.9,0.9474,13.48,13.38,3,11,292.5,10.0
+chennai_19614,chennai_19949,54K CT,25K,M.G.R.Koyambedu TO  Poonamallee,M.G.R.Koyambedu Bus Terminus to Poonamallee Bus Terminus,3,19,19,18,18,True,0.9,0.9474,13.49,13.39,2,12,60.0,10.0
+chennai_19633,chennai_19634,54K CT6,62 CT3,Poonamallee TO  M.G.R.Koyambedu,Poonamallee TO  M.G.R.Koyambedu,0,19,19,18,18,True,0.9,0.9474,13.48,13.38,2,11,85.0,21.5

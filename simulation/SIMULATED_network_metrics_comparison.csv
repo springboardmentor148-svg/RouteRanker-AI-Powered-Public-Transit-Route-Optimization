@@ -1,0 +1,6 @@
+scenario,active_routes,total_daily_trips,trips_median,headway_median_min,headway_mean_min,len_km_median [EST],span_hours_median
+Baseline [ACTUAL],3934,47047,4.0,65.0,143.8,15.43,8.83
+Merge Only [SIMULATED],3824,46712,4.0,60.0,140.5,15.36,8.83
+Split Only [SIMULATED],3959,47172,4.0,65.0,144.4,15.4,8.83
+Frequency Only [SIMULATED],3934,53779,5.0,45.0,101.0,15.43,9.67
+Combined [SIMULATED],3849,53121,5.0,45.0,100.3,15.36,9.58

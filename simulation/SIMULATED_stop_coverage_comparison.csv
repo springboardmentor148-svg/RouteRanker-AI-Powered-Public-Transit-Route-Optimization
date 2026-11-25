@@ -1,0 +1,6 @@
+scenario,served_stops,total_catalog_stops,stops_lost_all_service,stops_lost_AM,stops_lost_PM,stops_lost_EVE,stops_lost_NIGHT,total_stop_visits,geo_lat_range,geo_lon_range
+Baseline [ACTUAL],5477,5580,0,0,0,0,0,1360443,12.6148..13.4904,79.8019..80.3358
+Merge Only [SIMULATED],5477,5580,0,0,0,0,0,1349899,12.6148..13.4904,79.8019..80.3358
+Split Only [SIMULATED],5477,5580,0,0,0,0,0,1360568,12.6148..13.4904,79.8019..80.3358
+Frequency Only [SIMULATED],5477,5580,0,0,0,0,0,1584522,12.6148..13.4904,79.8019..80.3358
+Combined [SIMULATED],5477,5580,0,0,0,0,0,1558972,12.6148..13.4904,79.8019..80.3358

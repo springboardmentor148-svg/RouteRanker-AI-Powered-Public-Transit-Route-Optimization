@@ -1,0 +1,26 @@
+route_id,short_name,long_name,kmeans_cluster_PRED,route_length_km_ESTIMATE,stop_count_ACTUAL,trip_count_ACTUAL,service_span_hours_ACTUAL,split_hub_stop_id,split_hub_stop_name,split_hub_seq_pos,split_hub_intersecting_routes
+chennai_11530,500W,Chengalpet TO Saidapet West,4,51.59,59,3,9.0,chennai_6693,Tambaram West Bus Stand,33/59,367
+chennai_20473,500W,Saidapet West TO Chengalpet,1,51.72,63,3,9.0,chennai_5785,Chinnamalai Or Saidapet Court,14/63,246
+chennai_16406,578PC,Kelambakkam TO Poonamallee,4,48.57,65,3,12.58,chennai_5785,Chinnamalai Or Saidapet Court,43/65,246
+chennai_16423,578PC,Poonamallee TO Kelambakkam,4,48.57,65,3,12.58,chennai_5785,Chinnamalai Or Saidapet Court,23/65,246
+chennai_11597,514Et,M.G.R.Koyambedu TO Enambakkam,4,47.44,49,4,9.83,chennai_5578,Redhills Bus Terminus,19/49,222
+chennai_12829,77VEt,Koyambakkam TO M.G.R.Koyambedu,4,50.33,46,2,8.83,chennai_10430,Avadi Bus Terminus,21/46,209
+chennai_12425,61E,Kilkondaiyur TO Koyambedu Market,1,48.79,46,1,0.0,chennai_10430,Avadi Bus Terminus,21/46,209
+chennai_12825,77V,Veppampattu E.Waran Nagar TO M.G.R.Koyambedu,4,48.59,45,9,12.92,chennai_10430,Avadi Bus Terminus,22/45,209
+chennai_22940,153P,Perambakkam TO M.G.R.Koyambedu,4,48.39,59,8,13.5,chennai_5821,Poonamallee Bus Terminus,41/59,173
+chennai_22748,153T,Thiruvallur TO M.G.R.Koyambedu,4,47.74,53,4,12.08,chennai_5821,Poonamallee Bus Terminus,34/53,173
+chennai_12397,597,Mandaveli TO Thiruvallur,1,49.25,60,1,0.0,chennai_1465,Guindy Railway Station,13/60,165
+chennai_22985,109T,Kovalam TO Thiruvotriyur B.T,4,47.97,68,6,9.08,chennai_9805,Parrys Corner,52/68,156
+chennai_22984,109T,Thiruvotriyur B.T TO Kovalam,4,49.47,72,8,11.5,chennai_5547,Beach Station,17/72,139
+chennai_23917,570Et,M.G.R.Koyambedu TO Thiruporur,3,47.97,65,21,20.5,chennai_8481,Perungudi,29/65,139
+chennai_9378,570P,M.G.R.Koyambedu TO Thiruporur,1,47.95,64,1,0.0,chennai_8481,Perungudi,28/64,139
+chennai_21949,E51 CT3,Saidapet TO Acharavakkam,2,47.34,54,1,0.0,chennai_8481,Perungudi,13/54,139
+chennai_17929,512,Kavarapettai TO Madurapakkam,4,60.88,80,2,1.25,chennai_9835,Anna Nagar West Depot,35/80,128
+chennai_22806,40A,Pattabiram TO Anna Square,4,47.39,49,22,14.0,chennai_5818,Ambattur O.T Bus Stand,14/49,122
+chennai_11741,523A,Thiruvanmiyur TO Devi Karumariamman Temple,1,51.46,63,1,0.0,chennai_6420,Kumaran Nagar,22/63,120
+chennai_21141,109X R,Thiruporur TO Island ground,4,49.86,66,4,12.5,chennai_5909,Jayanthi Theatre,48/66,104
+chennai_21143,109X R,Island ground TO Thiruporur,4,49.86,66,3,8.42,chennai_5909,Jayanthi Theatre,19/66,104
+chennai_23194,523A,Devi Karumariamman Temple TO Thiruvanmiyur,4,51.44,62,2,11.83,chennai_10023,Shozhinganallur,45/62,103
+chennai_23195,523A CT,Karumbakkam TO Thiruvanmiyur,0,49.11,57,1,0.0,chennai_10023,Shozhinganallur,40/57,103
+chennai_22747,153T,M.G.R.Koyambedu TO Thiruvallur,4,47.73,54,4,11.92,chennai_5642,Poonamallee Municipality Or Kumananchavadi,16/54,103
+chennai_10272,153P,M.G.R.Koyambedu TO Perambakkam,4,47.38,60,8,13.5,chennai_5642,Poonamallee Municipality Or Kumananchavadi,15/60,103

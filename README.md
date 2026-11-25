@@ -379,6 +379,42 @@ Module 5 develops, evaluates, and compares unsupervised clustering (K-Means, DBS
 
 ---
 
+## 13. Module 6: Out-of-Sample Model Inference & Route Optimization Simulation (Unseen City — Chennai MTC)
+
+Module 6 applies the frozen training preprocessing pipeline (`processed/pipeline/`) and saved clustering models (`models/kmeans_model.joblib`, `models/dbscan_model.joblib`) to an **unseen city's GTFS feed** (`NEW CITY/GTFS/` — Chennai MTC, 21/11/2026) without refitting or modifying training/raw data, identifies multi-indicator candidates for review, screens data-supported optimization scenarios, and compares the current network against isolated what-if simulations.
+
+### Inputs & Pipeline Reuse
+- **Unseen Raw GTFS Feed (`.gitignore`-excluded, place inside `NEW CITY/GTFS/`):** Source: [ChennaiGTFS (`mtc-gtfs.zip`)](https://github.com/ungalsoththu/ChennaiGTFS/blob/main/data/mtc-gtfs.zip) (`4,611` catalog routes, `47,047` trips, `1,360,443` stop_times, `5,580` stops, `6` calendar entries; `shapes.txt` and `frequencies.txt` absent).
+- **Reusable Feature Pipeline:** [`src/feature_pipeline.py`](src/feature_pipeline.py) extracted verbatim from Module 2 and verified with `0` cell differences against `processed/route_features.csv` on both Rajkot and Pune.
+- **Frozen Training Pipeline & Models (Transform/Predict Only):** [`processed/pipeline/feature_scaler.joblib`](processed/pipeline/feature_scaler.joblib), [`processed/pipeline/one_hot_encoder.joblib`](processed/pipeline/one_hot_encoder.joblib), [`processed/pipeline/length_cap.json`](processed/pipeline/length_cap.json), [`processed/pipeline/feature_list.json`](processed/pipeline/feature_list.json), [`models/kmeans_model.joblib`](models/kmeans_model.joblib), and [`models/dbscan_model.joblib`](models/dbscan_model.joblib).
+
+### Key Results Summary
+- **Active vs. Unscheduled Routes:** `3,934` active scheduled routes modeled (`677` zero-trip catalog routes isolated into `inference/new_city_unserved_routes_catalog.csv`). `0.00%` of Chennai routes fall outside training `[min, max]`, though `night_trip_share_scaled` (`9.63% > 3 SD`) and `period_night` (`10.40%` vs `3.0%` training) show an elevated nocturnal schedule tail.
+- **K-Means Inference (`K = 5`, `MODEL PREDICTION`):** Backbone remains Cluster 4 (`46.75%`), while Cluster 2 nocturnal feeders rise to `12.96%` (vs `3.41%` training); `758` routes (`19.27%`) are flagged `"assignment less certain"` (`dist_to_centroid > 3.9254` or `d1/d2 >= 0.90`).
+- **DBSCAN Core-Sample Inference (`eps = 1.0`, `NearestNeighbors` on `model.components_`):** Reproduces `99.90%` (`n=1,000`) / `99.97%` (`N=9,233`) training labels; `3,411` Chennai routes (`86.71%`) map into training clusters and `523` (`13.29%`) are marked `unassigned` (not inefficient—driven by hybrid night/pre-dawn `04:00` timetables).
+- **Multi-Indicator Screening & Optimization Suggestions (`candidate for investigation`):** `440` routes (`11.18%`) trigger `>= 2` of 5 independent indicators ([`inference/new_city_candidates.csv`](inference/new_city_candidates.csv)). Screening produces `481` investigation candidates (`169` same-direction stop-overlap merges, `25` hub-connected long-route splits, `287` peer-matched frequency reviews) in [`inference/optimization_suggestions.csv`](inference/optimization_suggestions.csv).
+- **What-If Simulations (`simulation/` & [`results/current_vs_simulated.csv`](results/current_vs_simulated.csv)):** Executed on isolated copies (`Merge Only`: `-2.80%` routes, `-0.71%` trips; `Split Only`: `+0.64%` legs, conserved total km `67,966.50 [ESTIMATE]`; `Frequency Only`: `+14.31%` trips, `-29.81%` mean headway; `Combined`: `-2.16%` routes, `+12.91%` trips, `-30.28%` mean headway). **`0` stops** lost service or time-period coverage (`5,477 / 5,477` preserved).
+
+### How to Run & Verify Inference
+1. Place the unseen city GTFS `.txt` files inside `NEW CITY/GTFS/`.
+2. Open [`module6_inference.ipynb`](module6_inference.ipynb), select your Python environment (`py312` / Python 3.10+), and execute **Kernel -> Restart and Run All**.
+3. Run the independent verification audit (`3` raw route recomputations, AST non-fitting scan, file timestamps, and schema checks):
+   ```bash
+   python verify_module6_phase10.py
+   ```
+
+### Module 6 Output File Inventory
+- **Code & Notebook:** [`module6_inference.ipynb`](module6_inference.ipynb), [`src/feature_pipeline.py`](src/feature_pipeline.py), [`verify_module6_phase10.py`](verify_module6_phase10.py)
+- **Inference (`inference/`):** `new_city_route_features.csv`, `new_city_unserved_routes_catalog.csv`, `new_city_model_input.csv`, `new_city_route_lookup.csv`, `phase2_feature_distribution_comparison.csv`, `new_city_kmeans_assignments.csv`, `new_city_dbscan_assignments.csv`, `new_city_all_routes_evidence.csv`, `new_city_candidates.csv`, `merge_candidates_detail.csv`, `split_candidates_detail.csv`, `frequency_candidates_detail.csv`, `optimization_suggestions.csv`, `unsupported_optimization_categories.csv`
+- **Simulation (`simulation/`):** `baseline_route_features.csv`, `baseline_stop_coverage.csv`, `SIMULATED_routes_merge.csv`, `SIMULATED_routes_split.csv`, `SIMULATED_routes_frequency.csv`, `SIMULATED_routes_combined.csv`, `SIMULATED_change_log.csv`, `SIMULATED_stop_coverage_comparison.csv`, `SIMULATED_network_metrics_comparison.csv`
+- **Results, Report & Charts:** [`results/current_vs_simulated.csv`](results/current_vs_simulated.csv), [`reports/inference_and_optimization_report.md`](reports/inference_and_optimization_report.md), and 15 diagnostic charts in [`visualizations/inference/`](visualizations/inference/)
+
+### Inference Limitations
+- **Missing Road Geometry (`shapes.txt` absent):** All route lengths are `stop_straight_line_estimate` (`ESTIMATE`) chords; road-path similarity cannot be evaluated.
+- **No Demand, Capacity, or Running-Time Telemetry:** All metrics reflect static scheduled supply only; optimization candidates require passenger ridership, seating capacity, and O–D transfer checks before any operational decision.
+
+---
+
 ## Team
 
 AYUSH SINGH

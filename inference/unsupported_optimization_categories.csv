@@ -1,0 +1,5 @@
+optimization_category,support_status,missing_required_data
+Peak-Hour Overcrowding Relief / Fleet Capacity Reallocation,not supported by available data,"Passenger boarding/alighting counts (APC/AFC), load factors, vehicle seating capacity"
+Turning-Movement & Street-Geometry Road Path Consolidation,not supported by available data,shapes.txt polylines & shape_id links (absent in Chennai GTFS); road lane/intersection geometry
+Timed-Transfer Synchronization & Layover / Deadhead Optimization,not supported by available data,"GTFS block_id, depot pull-out/pull-in schedules, real-time AVL travel-time variability"
+Service Elimination or Cost/Revenue Optimization,not supported by available data,"O-D demand surveys, farebox revenue, operating cost/km, social-equity/essential service mandates"
